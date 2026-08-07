@@ -1,0 +1,1892 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message-version": "1.0.0",
+ "message": {
+  "facets": {},
+  "total-results": 1290148,
+  "items": [
+   {
+    "DOI": "10.1002/hrm.70073",
+    "title": [
+     "Balancing Efficiency and Safety: How and When Algorithmic Management Induces Gig Workers' Unsafe Behavior"
+    ],
+    "container-title": [
+     "Human Resource Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       3,
+       30
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0003-1606-6402",
+      "authenticated-orcid": false,
+      "given": "Yanghao",
+      "family": "Zhu",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "School of Management Huazhong University of Science and Technology  Wuhan Hubei China"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Lirong",
+      "family": "Long",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Management Huazhong University of Science and Technology  Wuhan Hubei China"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Shiyingzi",
+      "family": "Huang",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Management Huazhong University of Science and Technology  Wuhan Hubei China"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Yannan",
+      "family": "Zhang",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Business Administration Southwestern University of Finance and Economics  Chengdu Sichuan China"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Zejie",
+      "family": "Huang",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Management Huazhong University of Science and Technology  Wuhan Hubei China"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 2,
+    "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    As the gig economy expands, millions of food delivery riders rely on gig platforms for their livelihoods, yet this growth has also been accompanied by rising traffic violations and accidents, posing risks to both rider and public safety. It is therefore critical to understand not only the mechanisms driving gig workers' unsafe behavior but also the factors that may mitigate it. Drawing on goal conflict theory and the job demands–resources model, we examine the mediating role of performance–safety goal conflict in the relationship between algorithmic goal setting and unsafe behavior, and further test a dual‐stage moderated mediation model in which algorithmic monitoring and conscientiousness function as boundary conditions. To test our hypotheses, we conducted four interrelated studies using a multi‐method approach: Study 1 employed LLM‐based text analysis (\n                    <jats:italic>N</jats:italic>\n                     = 657), Study 2 adopted a video‐based scenario experiment (\n                    <jats:italic>N</jats:italic>\n                     = 140), Study 3 implemented a three‐wave survey (\n                    <jats:italic>N</jats:italic>\n                     = 242), and Study 4 incorporated objective behavioral data of unsafe behavior (\n                    <jats:italic>N</jats:italic>\n                     = 151). Across these studies, the findings consistently demonstrate that algorithmic goal setting intensifies gig workers' performance–safety goal conflict, which in turn increases unsafe behavior. Moreover, algorithmic monitoring amplifies the effect of algorithmic goal setting on performance–safety goal conflict, whereas conscientiousness serves as a critical personal resource that mitigates the impact of performance–safety goal conflict on unsafe behavior. This study advances existing research by revealing how algorithmic management contributes to gig workers' unsafe behavior and offers practical implications for reducing such risks through both the optimization of algorithmic systems and the cultivation of gig workers' conscientiousness.\n                  </jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1002/hrm.70009",
+    "title": [
+     "The Dual Effects of Algorithmic Management on Platform Workers: An Attribution Perspective"
+    ],
+    "container-title": [
+     "Human Resource Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       7,
+       24
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-8306-9075",
+      "authenticated-orcid": false,
+      "given": "Lian",
+      "family": "Zhou",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "School of Management Guangdong University of Technology  Guangzhou China"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Xue",
+      "family": "Lei",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Business East China University of Science and Technology  Shanghai China"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0003-0337-6591",
+      "authenticated-orcid": false,
+      "given": "Fang Lee",
+      "family": "Cooke",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Department of Management, Monash Business School Monash University  Melbourne Australia"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Xinran",
+      "family": "Huang",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Management Guangdong University of Technology  Guangzhou China"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0003-3581-4971",
+      "authenticated-orcid": false,
+      "given": "Junwei",
+      "family": "Zhang",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Management Guangdong University of Technology  Guangzhou China"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 17,
+    "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Existing research often highlights the negative consequences of algorithmic management (AM) for platform workers. By contrast, less is known about what, how, and when AM may produce both positive and negative outcomes. Drawing on attribution theory, this study examines the dual effects of core AM dimensions (i.e., algorithmic recommending, restricting, evaluating, and rewarding) on platform workers' perceptions of work overload and customer‐oriented service behavior. A two‐wave survey of 213 online platform workers in China reveals that algorithmic recommending and rewarding improve customer‐oriented service behavior and reduce work overload through AM commitment attributions. However, AM control attributions link algorithmic restricting, recommending, and evaluating (the latter two at low algorithmic transparency) to increased work overload. Algorithmic transparency moderates these effects, reducing the negative impacts of AM through AM control attributions. These findings contribute to a more nuanced understanding of the dual effects of core AM dimensions and provide practical insights for platforms seeking to enhance service quality while supporting worker well‐being.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1002/hrm.22294",
+    "title": [
+     "How the Interplay Between Algorithmic\n                    <scp>HRM</scp>\n                    Systems Promotes Gig Workers' Self‐Efficacy: The Role of Technostressors"
+    ],
+    "container-title": [
+     "Human Resource Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       2,
+       15
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Changyu",
+      "family": "Wang",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "School of Business Jiangnan University  Wuxi China"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Tinghui",
+      "family": "Cong",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Business Jiangnan University  Wuxi China"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0001-5893-2116",
+      "authenticated-orcid": false,
+      "given": "Jianyu",
+      "family": "Chen",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Economics and Management Tongji University  Shanghai China"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 23,
+    "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>The increasingly crucial algorithmic Human Resource Management (HRM) field is spawning two research streams: Algorithmic monitoring and algorithmic control. Yet, the conceptual differences and interplay between them have been largely confused and ignored in research and practice. This study clarifies their conceptual differences by exploring their interplay effect on gig workers' technostressors. Based on the stress and coping theory, a partial least squares structural equation modeling analysis by running data from 407 gig workers participating in a three‐wave time‐lagged survey was conducted. Results show that observational or interactional algorithmic monitoring hinders or promotes gig workers' self‐efficacy via both challenge and threat technostressors, respectively. While enhancing the positive effect of interactional algorithmic monitoring on self‐efficacy via threat technostressors, guiding algorithmic control attenuates the negative effect of observational algorithmic monitoring on self‐efficacy via challenge and threat technostressors, which contrasts with prior algorithmic HRM literature considering algorithmic control as a universally “bad thing” by workers. These findings deepen the understanding of the algorithmic HRM realm by revealing the differences and interplay between algorithmic monitoring and algorithmic control. Operators should differentiate and synergize control and monitoring functions by emphasizing outcomes that the interplay between algorithmic HRM systems has on the workforce.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.5465/amd.2022.0091",
+    "title": [
+     "The Future of HRM Incentivizing Strathern’s Paradox? Workers’ Responses to Algorithmic Human Resource Management"
+    ],
+    "container-title": [
+     "Academy of Management Discoveries"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       9
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Isabella",
+      "family": "Scheibmayr",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "University of Salzburg"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Astrid",
+      "family": "Reichel",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "University of Salzburg"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 9,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1080/09585192.2026.2632207",
+    "title": [
+     "Enhancing gig workers’ acceptance and mitigating algorithm aversion: impact of algorithmic transparency from the cognitive appraisal theory perspective"
+    ],
+    "container-title": [
+     "The International Journal of Human Resource Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       12,
+       16
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Yong",
+      "family": "Yang",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "School of Management, Northeastern University at Qinhuangdao",
+        "place": [
+         "Hebei, China"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Kejiang",
+      "family": "Chen",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Management, Northeastern University at Qinhuangdao",
+        "place": [
+         "Hebei, China"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Jie",
+      "family": "Dong",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Management, Northeastern University at Qinhuangdao",
+        "place": [
+         "Hebei, China"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1002/hrm.22268",
+    "title": [
+     "Strategic Human Resource Management in the Era of Algorithmic Technologies: Key Insights and Future Research Agenda"
+    ],
+    "container-title": [
+     "Human Resource Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       11,
+       27
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-4374-9332",
+      "authenticated-orcid": false,
+      "given": "Sunghoon",
+      "family": "Kim",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "The University of Sydney Business School, The University of Sydney  Sydney New South Wales Australia"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-1118-9983",
+      "authenticated-orcid": false,
+      "given": "Violetta",
+      "family": "Khoreva",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Management and Organisation Hanken School of Economics  Helsinki Finland"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0001-8104-3683",
+      "authenticated-orcid": false,
+      "given": "Vlad",
+      "family": "Vaiman",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Management California Lutheran University  Thousand Oaks California USA"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 62,
+    "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>This article presents a contemporary review of human resource management (HRM) research on algorithmic technologies, including artificial intelligence, machine learning, and natural language processing. By connecting these recent advancements to the long‐standing scholarly tradition of HRM‐technology relations, this review examines current knowledge on how algorithmic technologies are reshaping three key areas: (1) work structures and design, (2) HR delivery activities, and (3) the management of technology workers. Using a threefold conceptualization of technology—the tool view, proxy view, and ensemble view—this review explores how organizations employ algorithmic systems to enhance productivity, how the human agency interacts with and resists these technologies, and how broader social, cultural, and institutional contexts shape the use of algorithms in HRM. Additionally, this article offers suggestions for future research, highlighting the unique opportunities algorithmic technologies provide to HR scholars for making enduring contributions to the broader conversations on HRM and technology.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1016/j.hrmr.2026.101135",
+    "title": [
+     "A meta-analysis on reactions to algorithmic decision-making in human resource management"
+    ],
+    "container-title": [
+     "Human Resource Management Review"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       6
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Josephine Mago",
+      "family": "Moritz",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Larissa",
+      "family": "Pomrehn",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Holger",
+      "family": "Steinmetz",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Marius Claus",
+      "family": "Wehner",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 5,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1016/j.hrmr.2022.100925",
+    "title": [
+     "An artificial intelligence algorithmic approach to ethical decision-making in human resource management processes"
+    ],
+    "container-title": [
+     "Human Resource Management Review"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       3
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Waymond",
+      "family": "Rodgers",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "James M.",
+      "family": "Murray",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Abraham",
+      "family": "Stefanidis",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "William Y.",
+      "family": "Degbey",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Shlomo Y.",
+      "family": "Tarba",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 328,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1016/j.hrmr.2021.100876",
+    "title": [
+     "The duality of algorithmic management: Toward a research agenda on HRM algorithms, autonomy and value creation"
+    ],
+    "container-title": [
+     "Human Resource Management Review"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       3
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Jeroen",
+      "family": "Meijerink",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Tanya",
+      "family": "Bondarouk",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 214,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1002/hrm.70033",
+    "title": [
+     "Algorithmic Reliability at the Helm: Investigating the Relationship Between Experienced Algorithmic Reliability, Trust, and Work Engagement in the Gig Economy"
+    ],
+    "container-title": [
+     "Human Resource Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       11,
+       7
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-4092-1790",
+      "authenticated-orcid": false,
+      "given": "Ying",
+      "family": "Lu",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Department of Management &amp; Health at Work Research Centre Macquarie Business School, Macquarie University  Sydney Australia"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Miles M.",
+      "family": "Yang",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Department of Management Centre for Applied Artificial Intelligence, Innovation, Strategy and Entrepreneurship Research Centre and Health at Work Research Centre, Macquarie Business School, Macquarie University  Sydney Australia"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-2059-5449",
+      "authenticated-orcid": false,
+      "given": "Rebecca",
+      "family": "Mitchell",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Department of Management &amp; Health at Work Research Centre Macquarie Business School, Macquarie University  Sydney Australia"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Brendan",
+      "family": "Boyle",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Newcastle Business School, University of Newcastle  Newcastle Australia"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Jun",
+      "family": "Gu",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Department of Management &amp; Health at Work Research Centre Macquarie Business School, Macquarie University  Sydney Australia"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 6,
+    "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>In the gig economy, the role of artificial intelligence (AI) in managing human resource functions such as task allocation and performance management is increasingly significant. However, there is limited understanding of how the reliability of these functions, as experienced by workers, impacts their trust and engagement. Grounded in the transactional model of stress and coping, this study examines the influence of experienced algorithmic reliability on gig workers' trust in their platforms and their subsequent work engagement. We further explore how occupational stigma consciousness moderates this mediated relationship. Through a time‐lagged survey of 332 gig workers, our findings indicate that reliable algorithmic management experiences significantly enhance trust and subsequently work engagement. Moreover, this relationship is complicated by occupational stigma consciousness, which can diminish the positive effects of algorithmic reliability on trust and engagement. This study deepens our understanding of technology‐mediated work environments, emphasizing the critical role of workers' experiences with AI‐driven HRM functions in enhancing engagement and well‐being.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1002/hrm.70019",
+    "title": [
+     "Algorithmic Management in Limbo: Task‐Driven Interweaving of Hierarchy and Market Management"
+    ],
+    "container-title": [
+     "Human Resource Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       9,
+       4
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0009-0001-6315-6841",
+      "authenticated-orcid": false,
+      "given": "Andrew Phillip",
+      "family": "Robinson",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "University of North Carolina at Chapel Hill  Chapel Hill North Carolina USA"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-5685-7156",
+      "authenticated-orcid": false,
+      "given": "Mohammad Hossein",
+      "family": "Jarrahi",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "University of North Carolina at Chapel Hill  Chapel Hill North Carolina USA"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-3458-7984",
+      "authenticated-orcid": false,
+      "given": "Anne",
+      "family": "Keegan",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "University College Dublin  Dublin Ireland"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-0210-073X",
+      "authenticated-orcid": false,
+      "given": "Jeroen",
+      "family": "Meijerink",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "University of Twente  Enschede the Netherlands"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 2,
+    "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>The growing use of algorithmic management (AM) in human resource (HR) activities has attracted growing attention from HR scholars, as organizations increasingly rely on digital labor platforms to leverage external workers. This study examines how these platforms apply AM in human resource management (HRM) and how these algorithmic systems embed both market and hierarchy management principles for shaping worker control and autonomy. Specifically, we seek to examine how AM manifests in two distinct ways across these platforms: one involving hierarchy and control, and another involving matching and autonomy. Using an inductive qualitative design, we analyzed 33 semi‐structured interviews with platform workers and documentary data from 23 digital labor platforms. Whereas prior research often frames AM in binary terms—that is, market/autonomy versus hierarchy/control—we explore how task characteristics influence the joint application of both market and hierarchy principles in AM for HRM activities of digital labor platforms. Our findings show how platforms dynamically calibrate market and hierarchy approaches to AM in response to task demands, balancing flexibility, oversight, discretion, and incentives. For HR scholars, this study highlights the flexible and conditional nature of AM systems that blend autonomy and control in nuanced ways. By moving beyond the dominant autonomy‐versus‐control dichotomy, we show how AM is configured to align with diverse forms of work across platforms, enhancing efficiency while sustaining worker engagement amid evolving task demands.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1002/hrm.22204",
+    "title": [
+     "Blinded by “algo economicus”: Reflecting on the assumptions of algorithmic management research to move forward"
+    ],
+    "container-title": [
+     "Human Resource Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       1,
+       23
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Laura",
+      "family": "Lamers",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Department of Industrial Engineering and Business Information Systems, Human Resource Management Research Group University of Twente  Enschede The Netherlands"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-0210-073X",
+      "authenticated-orcid": false,
+      "given": "Jeroen",
+      "family": "Meijerink",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Department of Industrial Engineering and Business Information Systems, Human Resource Management Research Group University of Twente  Enschede The Netherlands"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Giorgio",
+      "family": "Rettagliata",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Department of Industrial Engineering and Business Information Systems, Human Resource Management Research Group University of Twente  Enschede The Netherlands"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 43,
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>This paper reflects on the paradigmatic assumptions and ideologies that have shaped algorithmic management research. We identify two sets of assumptions: one about the “ontology of algorithms” (which holds that human resource management [HRM] algorithms are non‐human entities with material agency) and one about the “ontology of management” that HRM algorithms afford (which understands algorithmic management as a form of control for maximizing economic/shareholder value). We explain how these core assumptions underpin existing research of HRM algorithms, causing blind spots that hinder new ways of understanding and studying algorithmic management. After identifying and unpacking the assumptions and blind spots, we offer avenues to overcome these blind spots, allowing for future research based on new ideological assumption grounds that will help move algorithmic management scholarship further in significant ways.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1002/hrm.22211",
+    "title": [
+     "Dark side of algorithmic management on platform worker behaviors: A mixed‐method study"
+    ],
+    "container-title": [
+     "Human Resource Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       2,
+       29
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-4092-1790",
+      "authenticated-orcid": false,
+      "given": "Ying",
+      "family": "Lu",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Centre for Applied Artificial Intelligence, &amp; Health &amp; Wellbeing Research Unit, Department of Management, Macquarie Business School Macquarie University  Sydney Australia"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-0911-6179",
+      "authenticated-orcid": false,
+      "given": "Miles M.",
+      "family": "Yang",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Centre for Applied Artificial Intelligence, &amp; Health &amp; Wellbeing Research Unit, Department of Management, Macquarie Business School Macquarie University  Sydney Australia"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0003-4297-1836",
+      "authenticated-orcid": false,
+      "given": "Jianhua",
+      "family": "Zhu",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Economics and Management Harbin Institute of Technology  Weihai China"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0003-1850-9393",
+      "authenticated-orcid": false,
+      "given": "Ying",
+      "family": "Wang",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Management Beijing Institute of Technology  Beijing China"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 66,
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>This research investigates the impact of algorithmic management on worker behaviors, focusing on workers' commitment to service quality and referral tendencies. Drawing upon the job demands‐resources model, we argue that high levels of algorithmic management could create hindrance demands that impede service quality and demotivate referral behaviors. We propose that high workload, as a challenge demand, buffers the negative effects of algorithmic management on worker outcomes. We find support for our proposed research model in an experiment with a sample of 1362 platform‐based food‐delivery riders. We also conduct a qualitative study with 21 riders, which provides a more nuanced understanding of how algorithmic management affects workers' attitudes, behaviors, and referral tendencies.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1002/hrm.22185",
+    "title": [
+     "Creation of the algorithmic management questionnaire: A six‐phase scale development process"
+    ],
+    "container-title": [
+     "Human Resource Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       7,
+       16
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0001-5015-3214",
+      "authenticated-orcid": false,
+      "given": "Xavier",
+      "family": "Parent‐Rocheleau",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "HEC Montreal  Montreal Quebec Canada"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-0978-1873",
+      "authenticated-orcid": false,
+      "given": "Sharon K.",
+      "family": "Parker",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Centre for Transformative Work Design Curtin University  Perth Western Australia Australia"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Antoine",
+      "family": "Bujold",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "HEC Montreal  Montreal Quebec Canada"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Marie‐Claude",
+      "family": "Gaudet",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "HEC Montreal  Montreal Quebec Canada"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 99,
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>There is an increasing body of research on algorithmic management (AM), but the field lacks measurement tools to capture workers' experiences of this phenomenon. Based on existing literature, we developed and validated the algorithmic management questionnaire (AMQ) to measure the perceptions of workers regarding their level of exposure to AM. Across three samples (overall <jats:italic>n</jats:italic> = 1332 gig workers), we show the content, factorial, discriminant, convergent, and predictive validity of the scale. The final 20‐item scale assesses workers' perceived level of exposure to algorithmic: monitoring, goal setting, scheduling, performance rating, and compensation. These dimensions formed a higher order construct assessing overall exposure to algorithmic management, which was found to be, as expected, negatively related to the work characteristics of job autonomy and job complexity and, indirectly, to work engagement. Supplementary analyses revealed that perceptions of exposure to AM reflect the objective presence of AM dimensions beyond individual variations in exposure. Overall, the results suggest the suitability of the AMQ to assess workers' perceived exposure to algorithmic management, which paves the way for further research on the impacts of these rapidly accelerating systems.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1057/s41599-026-06989-4",
+    "title": [
+     "Algorithmic human resource management as a mode of algorithmic governance: transparency, fairness, and human agency in the digital workplace"
+    ],
+    "container-title": [
+     "Humanities and Social Sciences Communications"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       3,
+       16
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Zhisheng",
+      "family": "Chen",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 2,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.47392/irjaem.2026.0077",
+    "title": [
+     "Human Resource Management in the Gig Economy: A study on sustainable HRM practices in Gig workers in the era of Algorithmic control."
+    ],
+    "container-title": [
+     "International Research Journal on Advanced Engineering and Management (IRJAEM)"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       3,
+       21
+      ]
+     ]
+    },
+    "author": [
+     {
+      "family": "Shilpa Sharma",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>The rapid expansion of gig economy has indeed been able to transform the traditional market. The businesses today are bound to function in an extremely dynamic environment, which we can call the VUCA world. Volatility, Uncertainty, Complexity and Ambiguity is no more a buzz world but many adaptive responses to it are growing. One such kind of economy is the gig economy where the workers are paid “per task” or “per gig”. This comes as a contrast to the traditional economy where the Human Resources’ jobs were relatively stable, compensation regulated and they were protected by some social security that saved them in various contingencies of life. Not just this, the shift from traditional approach to algorithm-based control from human control has also caused structural changes in this sector in the Human Resource Management practices. As Gig economy, both platform and non- platform continues to grow, the Human resource management practices have to be introspected minutely for its inclusivity and sustainable viability in both economic and social terms.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1002/hrm.22168",
+    "title": [
+     "Algorithmic <scp>HRM</scp> control in the gig economy: The app‐worker perspective"
+    ],
+    "container-title": [
+     "Human Resource Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       4,
+       20
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-1928-4723",
+      "authenticated-orcid": false,
+      "given": "James",
+      "family": "Duggan",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Cork University Business School, University College Cork  Cork Ireland"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0001-8836-2038",
+      "authenticated-orcid": false,
+      "given": "Ronan",
+      "family": "Carbery",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Cork University Business School, University College Cork  Cork Ireland"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-9127-2452",
+      "authenticated-orcid": false,
+      "given": "Anthony",
+      "family": "McDonnell",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Cork University Business School, University College Cork  Cork Ireland"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-2639-746X",
+      "authenticated-orcid": false,
+      "given": "Ultan",
+      "family": "Sherman",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Cork University Business School, University College Cork  Cork Ireland"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 123,
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>Work in the gig economy is championed by platform organizations as affording individuals the flexibility to decide when, where, and how much they wish to work. The reality is more complex. In app‐based gig work, we propose the concept of “algorithmic HRM control,” which acts as an omnipresent and distinctive control system that differs from traditional forms of control in two significant ways: first, the reliance upon, and pervasiveness of, algorithmic technologies in its enactment; and second, the substantial direct and indirect influence of non‐organizational parties in controlling workers. Through a qualitative research design, this article delineates the scope of algorithmic HRM control in allocating and coordinating tasks, managing performance and rewards, and aligning the actions of workers with organizational objectives. Our analysis also unpacks the rigidity and complexities of the control system, as experienced by workers, and the influential role of non‐organizational parties in exerting unique, distinct forms of control. In so doing, we build upon emerging research on the duality of algorithmic HRM by revealing the inherent flaws or challenges from the perspective of the most central party—the gig worker. While output‐oriented control is pervasive, process and normative control elements are also found to exist in some scenarios, creating significant concerns for workers.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1177/15344843251359149",
+    "title": [
+     "The Competence Paradox: Rethinking Goal-Setting in the Age of Algorithmic Management"
+    ],
+    "container-title": [
+     "Human Resource Development Review"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       7,
+       4
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0009-0007-5772-4527",
+      "authenticated-orcid": false,
+      "given": "Ofem Ekapong",
+      "family": "Ofem",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Saint Mary’s University of Minnesota"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 3,
+    "abstract": "<jats:p>\n                    Algorithmic dashboards promise sharper performance yet often erode autonomy and trust—a contradiction that Goal-Setting Theory (GST) cannot explain. Guided by paradox theory, this study constructs the first competence-paradox model for AI-mediated work. Method: A PRISMA-ScR review across Scopus, Web of Science, and PsycINFO (\n                    <jats:italic toggle=\"yes\">n</jats:italic>\n                    = 82) was followed by qualitative meta-synthesis. Specifically, results reveal four mutually reinforcing tensions: metric specificity versus discretion, cadence versus psychological safety, optimization versus learning depth, and transparency + voice versus trust. Thresholds surface when prompts refresh every 5 minutes, exceed 30 per hour, or push 20 optimization nudges per shift; at those points autonomy drops 0.40 SD, safety 0.50 SD, and exploration 15%. Consequently, a five-lever HRD sequence—goal-calibration, hybrid coaching, explainable dashboards, rotational upskilling, and moderated voice forums—converts losses into gains. Overall, the model equips scholars with falsifiable propositions and provides practitioners a unique roadmap for steering AI systems toward both productivity and human growth.\n                  </jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1080/09585192.2024.2444325",
+    "title": [
+     "Navigating algorithmic paradox management: the role of workplace game engagement and regulatory focus"
+    ],
+    "container-title": [
+     "The International Journal of Human Resource Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       1,
+       2
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0001-6462-3256",
+      "authenticated-orcid": false,
+      "given": "Zhipeng",
+      "family": "Zhang",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "School of Economics and Management, University of Science and Technology Beijing",
+        "place": [
+         "Beijing"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Kui",
+      "family": "Yin",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Economics and Management, University of Science and Technology Beijing",
+        "place": [
+         "Beijing"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-0391-4890",
+      "authenticated-orcid": false,
+      "given": "Zijun",
+      "family": "Cai",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Business School, Beijing Normal University",
+        "place": [
+         "Beijing"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-3337-5330",
+      "authenticated-orcid": false,
+      "given": "Guangjian",
+      "family": "Liu",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Management, Shandong University",
+        "place": [
+         "Shandong, Jinan, P. R. China"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 6,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1002/hrm.22263",
+    "title": [
+     "Exploring the Duality of Perceptions: Insights into Uncertainties, Aversion and Appreciation Towards Algorithmic <scp>HRM</scp>"
+    ],
+    "container-title": [
+     "Human Resource Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       12,
+       22
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Anushree",
+      "family": "Tandon",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Faculty of Social Sciences and Business Studies University of Eastern Finland &amp; European Forest Institute  Joensuu Finland"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-6006-6058",
+      "authenticated-orcid": false,
+      "given": "Amandeep",
+      "family": "Dhir",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Department of Management School of Business &amp; Law, University of Agder, Campus Kristiansand  Kristiansand Norway"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Ashish",
+      "family": "Malik",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Queen's University Belfast  Belfast UK"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Pawan",
+      "family": "Budhwar",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Aston Business School Aston University  Birmingham UK"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Puneet",
+      "family": "Kaur",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Department of Psychosocial Science University of Bergen  Bergen Norway"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 34,
+    "abstract": "<jats:title>ABSTRACT</jats:title><jats:p>The human resource management (HRM) function has witnessed the rapid integration of algorithms into incumbent processes; however, significant employee resistance and aversion to algorithmic decision‐making have also been reported. Research on algorithmic HRM practices indicates an underlying duality of perceptual responses by HRM professionals towards this technology. We seek to understand how HRM professionals experience algorithmic HRM use and determine if there are bright sides to its organizational integration. We undertake a qualitative, open‐ended study based on written responses to open‐ended questions from 58 respondents in the United Kingdom and the United States of America. The data were thematically analyzed using grounded theory, which revealed four themes representing HRM professionals' overarching perspectives on why algorithmic HRM precipitates aversion or appreciation. The first two themes highlight HRM professionals' perceived subjective uncertainty regarding algorithmic HRM and its perceived negative effects on the organization. The third theme acknowledges the positive effect of algorithmic HRM, and the final theme discusses three critical coping strategies (embrace, avoid, and collaborate) that HRM professionals adopt to counteract their experienced fears. Our findings suggest that HRM professionals adopt a cautiously fearful rather than a wholly adverse outlook towards algorithmic HRM, wherein aversion and appreciation appear to emerge simultaneously. We contend this existence of a duality of perceptual responses to algorithmic HRM may be a precursor to setting a harmonious collaboration between humans and algorithms in the HRM domain, contingent on appropriate levels of oversight and governance. Implications for theory and managerial practice are also discussed.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1080/09585192.2024.2392830",
+    "title": [
+     "A role perspective on flexible human resource practices and older workers’ early retirement intentions"
+    ],
+    "container-title": [
+     "The International Journal of Human Resource Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       8,
+       20
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Guodong",
+      "family": "Cui",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Shandong Institute of Talent Development Strategy, Shandong University, Jinan, China"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0001-7696-3231",
+      "authenticated-orcid": false,
+      "given": "Jianmin (James)",
+      "family": "Sun",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Department of Human Resource Management, Renmin University of China, Beijing, China"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Dorien T. A. M.",
+      "family": "Kooij",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Department of Human Resource Studies, Tilburg University, Tilburg, The Netherlands"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 6,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.5465/amproc.2024.19675abstract",
+    "title": [
+     "The Paradox of Algorithmic Human Resource Management: Based on Technology Affordance Theory"
+    ],
+    "container-title": [
+     "Academy of Management Proceedings"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       8
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Yunqing",
+      "family": "Zou",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "School of Business, Renmin U. of China"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Yu",
+      "family": "Zhou",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Business, Renmin U. of China"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1002/hrm.70062",
+    "title": [
+     "No One Is an Island: How Online Community Support Moderates the Dual Motivational Pathways From Perceived Algorithmic Management Practices to Service Performance"
+    ],
+    "container-title": [
+     "Human Resource Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       2,
+       23
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0001-6462-3256",
+      "authenticated-orcid": false,
+      "given": "Zhipeng",
+      "family": "Zhang",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "School of Economics and Management University of Science and Technology Beijing  Beijing China"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-6343-6472",
+      "authenticated-orcid": false,
+      "given": "Shuxia",
+      "family": "Zhang",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Mike Ilitch School of Business Wayne State University  Detroit Michigan USA"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Chao",
+      "family": "Liu",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Business School Beijing Technology and Business University  Beijing China"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0009-0005-3396-0723",
+      "authenticated-orcid": false,
+      "given": "Haoyu",
+      "family": "Zhang",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Management Beijing Sport University  Beijing China"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Jun",
+      "family": "Liu",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Management Wuhan University of Technology  Wuhan City Hubei Province China"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 1,
+    "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>Drawing on the self‐determination theory, this research examines the dual motivational mechanisms through which four dimensions of perceived algorithmic management practices (PAMP; i.e., matching, direction, evaluation, and discipline) influence service performance, as well as the moderating role of online community support (OCS). Two empirical studies were conducted: a scenario‐based experiment with ride‐hailing drivers (Study 1) and a hybrid‐sample field survey (Study 2). Results reveal that perceived algorithmic matching, direction, and evaluation enhance service performance via increased autonomous motivation, whereas perceived algorithmic discipline undermines service performance through reduced autonomous motivation. Meanwhile, controlled motivation links perceived algorithmic matching, evaluation, and discipline to reduced service performance, while perceived algorithmic direction positively contributes to service performance through diminished controlled motivation. Importantly, OCS amplifies the positive effects of perceived algorithmic matching and evaluation on service performance via autonomous motivation and attenuates their negative effects via controlled motivation. This study elucidates the complex motivational consequences of algorithmic management practices and identifies OCS as a critical social‐contextual moderator shaping app‐worker outcomes.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.25236/ajbm.2026.080412",
+    "title": [
+     "Unpacking the Trust Crisis in Human Resource Decision-Making under Algorithmic Management: Deep Causes and Optimization Paths"
+    ],
+    "container-title": [
+     "Academic Journal of Business &amp; Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026
+      ]
+     ]
+    },
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1177/23970022251387667",
+    "title": [
+     "Work from anywhere, but where? Understanding knowledge workers’ work location selection"
+    ],
+    "container-title": [
+     "German Journal of Human Resource Management: Zeitschrift für Personalforschung"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       1,
+       11
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0009-0007-7502-2318",
+      "authenticated-orcid": false,
+      "given": "Maximilian",
+      "family": "Kuchenbauer",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Johannes Kepler University Linz, Austria"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0003-4587-3609",
+      "authenticated-orcid": false,
+      "given": "Almina",
+      "family": "Bešić",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Johannes Kepler University Linz, Austria"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 1,
+    "abstract": "<jats:p>In the wake of the COVID-19 pandemic, knowledge workers have transitioned from passive occupants of corporate spaces to active agents navigating diverse workspaces. As organizations attempt to recall employees to central offices, they encounter widespread reluctance, as the company premises now compete with other locations. This study examines how knowledge workers navigate the growing array of work location choices and the resulting mobilities. Through 25 semi-structured interviews with knowledge workers in Germany, Austria, and Switzerland who have flexible working arrangements, we explore the factors influencing employees’ location choices. Specifically, we examine the underlying drivers of location selection, work preferences, and the associated geographic mobility within the context of the ongoing remote work transformation. Our results show that employees experience flexibility as a daily negotiation shaped by personal preferences, resource constraints, and evolving definitions of “workplace.” From this, we develop a decision-making framework that maps how resource allocation shapes mobility patterns along a continuum—from micromobility through mesomobility to macromobility. Furthermore, we have conceptualized effective and ineffective organizational responses to shaping employee mobility. By bridging the gap between organizational policies and employee agency, this research advances the geographic mobility literature, offering actionable insights for firms grappling with hybrid work models. It encourages practitioners to reconsider “flexibility” as a strategic resource rather than a perk, suggesting that aligning spatial policies with employee-driven needs can mitigate attrition and support sustainable productivity.</jats:p>",
+    "type": "journal-article"
+   }
+  ],
+  "items-per-page": 25,
+  "query": {
+   "start-index": 0,
+   "search-terms": null
+  }
+ }
+}

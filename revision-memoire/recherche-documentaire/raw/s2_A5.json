@@ -1,0 +1,901 @@
+{
+ "total": 290,
+ "offset": 0,
+ "next": 25,
+ "data": [
+  {
+   "paperId": "448cc1a5d45fd90be68fcdf3b81b68756416d648",
+   "externalIds": {
+    "DOI": "10.1007/s10869-024-09963-6",
+    "CorpusId": 270124944
+   },
+   "title": "The Buffering Role of Workplace Mindfulness: How Job Insecurity of Human-Artificial Intelligence Collaboration Impacts Employees’ Work–Life-Related Outcomes",
+   "venue": "Journal of business and psychology",
+   "year": 2024,
+   "citationCount": 113,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10869-024-09963-6?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10869-024-09963-6, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "authors": [
+    {
+     "authorId": "2280899850",
+     "name": "Tung-Ju Wu"
+    },
+    {
+     "authorId": "2278618349",
+     "name": "Yuan Liang"
+    },
+    {
+     "authorId": "2218630449",
+     "name": "Yushu Wang"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "f92bc25e86dfc931c8972c2c241829cfd1d6f5e8",
+   "externalIds": {
+    "DOI": "10.1002/sd.3376",
+    "CorpusId": 276155907
+   },
+   "title": "The Dark Sides of Artificial Intelligence Implementation: Examining How Corporate Social Responsibility Buffers the Impact of Artificial Intelligence‐Induced Job Insecurity on Pro‐Environmental Behavior Through Meaningfulness of Work",
+   "venue": "Sustainable Development",
+   "year": 2025,
+   "citationCount": 23,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1002/sd.3376?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/sd.3376, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2261450558",
+     "name": "Byung‐Jik Kim"
+    },
+    {
+     "authorId": "2270765602",
+     "name": "Julak Lee"
+    }
+   ],
+   "abstract": "This study investigates the complex relationships between artificial intelligence (AI)‐induced job insecurity, meaningfulness of work (MOW), pro‐environmental behavior at work (PEBW), and corporate social responsibility (CSR) in South Korean organizations. As AI technologies increasingly permeate the workplace, understanding their impact on employee attitudes and behaviors becomes crucial for organizational sustainability efforts. Drawing on several theories, we propose and test a moderated mediation model using a three‐wave time‐lagged design with 392 employees from various South Korean corporations. Our findings reveal that AI‐induced job insecurity negatively influences PEBW through the mediating role of MOW. Contrary to initial expectations, no direct relationship was found between AI‐induced job insecurity and PEBW. Instead, AI‐induced job insecurity decreases employees' MOW, which in turn reduces their engagement in PEBW. Furthermore, we found that CSR moderates the AI‐induced job insecurity‐MOW link, such that strong CSR buffers the negative influence of AI‐induced job insecurity. These results may contribute to the literature on organizational behavior, environmental sustainability, and technological change by elucidating the psychological mechanisms linking AI‐induced job insecurity to PEBW. Our study emphasizes the crucial role of MOW in this relationship. Also, it demonstrates how CSR can function as a strategic tool to weaken the potential negative impacts of AI implementation on employee attitudes and behaviors. The findings offer meaningful implications for managers and policymakers navigating the challenges of AI integration while promoting environmental sustainability at work. By maintaining employee MOW and leveraging CSR initiatives, organizations may be better equipped to foster PEBW in the face of technological changes."
+  },
+  {
+   "paperId": "2cac49994433de7a65021e089512e94bd025a0ad",
+   "externalIds": {
+    "DOI": "10.56893/pajes2025v06i01.07",
+    "CorpusId": 278540023
+   },
+   "title": "Utilization of Artificial Intelligence (AI) and Fear of Job Loss in the Banking Industry: Perspectives of Bank Employees",
+   "venue": "Pan-African Journal of Education and Social Sciences",
+   "year": 2025,
+   "citationCount": 2,
+   "openAccessPdf": {
+    "url": "https://journals.aua.ke/pajes/article/download/798/163",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.56893/pajes2025v06i01.07?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.56893/pajes2025v06i01.07, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "authors": [
+    {
+     "authorId": "81340711",
+     "name": "A. Nwaomah"
+    }
+   ],
+   "abstract": "This study investigated the utilization of AI and the fear of job loss, seeking employees’ perceptions in Kenya’s banking industry. This study adopted a descriptive survey design. Data was collected with a self-designed questionnaire. Fifty-two employees from five selected banks in Nairobi participated in the study. The findings revealed that banks utilize AI in various aspects of operational and customer services, but highly in cybersecurity, fraud detection, and anticipating customer needs. The findings also revealed that 82.7% of the respondents perceived that the high utilization of artificial intelligence (AI) in the banking industry raises the fear of job loss as they considered consolidation of tasks for a few workers and reduced staff workforce as the threats associated to Artificial Intelligence (AI) utilization in the banking industry. The employees believe that their jobs could be secured by embracing the AI technology and skill improvement. Thus, the study recommends that bank authorities facilitate the adjustments of the bank employees as jobs are redesigned to enable their transition to AI-related positions."
+  },
+  {
+   "paperId": "6a9da1d2db841ad24d731a6362604cc541eca49c",
+   "externalIds": {
+    "DOI": "10.33168/jliss.2024.0530",
+    "CorpusId": 270415811
+   },
+   "title": "Engaging Hotel Employees in the Era of Artificial Intelligence: The Interplay of Artificial Intelligence Awareness, Job Insecurity, and Technical Self-Efficacy",
+   "venue": "Journal of logistics, informatics and service science",
+   "year": 2024,
+   "citationCount": 11,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.33168/jliss.2024.0530",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.33168/jliss.2024.0530?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.33168/jliss.2024.0530, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2161997544",
+     "name": "A. Hamid"
+    },
+    {
+     "authorId": "2265160553",
+     "name": "I. Hassan"
+    },
+    {
+     "authorId": "123518898",
+     "name": "Asier Baquero"
+    },
+    {
+     "authorId": "1388596017",
+     "name": "Wagih Salama"
+    },
+    {
+     "authorId": "146902961",
+     "name": "H. Khairy"
+    }
+   ],
+   "abstract": ". This study investigates the impact of artificial intelligence awareness (AIA) on employees' job engagement (EJE) in the hotel industry, focusing on the mediating role of job insecurity (JI) and the moderating role of technical self-efficacy (TSE). Drawing on the Expectancy theory and Affective Events theory, the study proposes a mediated moderation model and tests it using PLS-SEM on a sample of 390 full-time employees from five-star hotels in Egypt. The results confirm that AIA negatively influences EJE and positively influences JI, while JI negatively influences EJE and mediates the AIA→EJE relationship. Furthermore, TSE negatively moderates the AIA→JI relationship, mitigating the negative impact of AIA on JI. The findings highlight the importance of addressing employees' AI-related concerns and leveraging their technical self-efficacy to maintain job engagement and security in the face of technological disruptions. The study contributes to the literature by extending the application of the Expectancy theory and Affective Events theory to the context of AI adoption in the hotel industry and offers practical implications for hotel managers and HR professionals"
+  },
+  {
+   "paperId": "c57133edbc5320282f545aabca678df5ef6f770a",
+   "externalIds": {
+    "DOI": "10.1097/JOM.0000000000003335",
+    "CorpusId": 276479896,
+    "PubMed": "39971946"
+   },
+   "title": "Artificial Intelligence Job Substitution Risks, Digital Self-efficacy, and Mental Health Among Employees",
+   "venue": "Journal of Occupational and Environmental Medicine",
+   "year": 2025,
+   "citationCount": 5,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1097/JOM.0000000000003335?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1097/JOM.0000000000003335, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2347169544",
+     "name": "Hairong Zhao"
+    },
+    {
+     "authorId": "2272710064",
+     "name": "Peiguan Wu"
+    }
+   ],
+   "abstract": "The findings of this research offer critical insights into how organizations can effectively and judiciously implement AI, thereby alleviating the career anxiety and psychological health issues that employees may encounter due to its introduction in the workplace, while also fostering their career development and promoting harmonious interactions with AI. Objective Artificial intelligence (AI) becomes increasingly integrated into the workplace, its associated job substitution risks for employees are more evident, resulting in significant repercussions for their well-being. This study tries to elucidate the effects of AI-driven job substitution risks on employees’ mental health. Methods Data was collected through questionnaires and structural equation modeling was used to analyze the relationships between variables. Results The job substitution risk of AI and digital self-efficacy can positively influence job insecurity, which in turn adversely affects mental health. In addition, job substitution risks of AI can amplify the negative impact of digital self-efficacy on job insecurity. Conclusions It provides an in-depth exploration of the specific processes and mechanisms through which AI-driven job substitution impacts employees’ mental health. Practically, it offers insights for the implementation of AI and strategies to safeguard employee mental health."
+  },
+  {
+   "paperId": "256bce2da733b03424f87b1b95b3f4b160cbe045",
+   "externalIds": {
+    "PubMedCentral": "13273903",
+    "DOI": "10.3389/fpsyg.2026.1786588",
+    "CorpusId": 288966698,
+    "PubMed": "42317691"
+   },
+   "title": "The impact of artificial intelligence application on employees' job insecurity: the moderating roles of self-efficacy and transformational leadership",
+   "venue": "Frontiers in Psychology",
+   "year": 2026,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1786588/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC13273903, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2291939271",
+     "name": "Wenxiu Fu"
+    },
+    {
+     "authorId": "2269237102",
+     "name": "Hui Zhang"
+    }
+   ],
+   "abstract": "Introduction Against the backdrop of the intelligent era, the widespread application of artificial intelligence (AI) has fundamentally reshaped the internal and external developmental ecosystems of organizations, exerting a profound impact on employees' work-related psychological states. Drawing on the Conservation of Resources Theory and the Cognitive Appraisal Theory of Stress, this study empirically explores the underlying mechanism through which AI application influences employees' job insecurity. Methods Data for this study were collected using a mixed online and offline distribution method, with all measures administered through employee self-reported questionnaires. A total of 453 questionnaires were distributed, including 242 online and 211 offline. We received 449 questionnaires, with 242 from the online channel and 207 offline. Following a stringent validity screening process conducted by the research team, 411 valid questionnaires were retained for analysis (219 online and 192 offline), resulting in an effective response rate of 90.73%. Results There is a significant U-shaped relationship between AI application and employees' job insecurity: moderate AI application reduces insecurity, whereas excessive application heightens it. Self-efficacy negatively moderates this relationship by strengthening the insecurity-reducing effect of moderate AI application and weakening the insecurity-enhancing effect of excessive application. Transformational leadership similarly exerts a negative moderating effect, suggesting that both individual psychological resources and supportive leadership can buffer employees' insecurity responses to varying levels of AI application in digitality transforming organizational contexts more effectively. Discussion This study advances research on AI-enabled workplace changes by revealing a U-shaped effect of AI application intensity on employees' job insecurity. It explains this relationship through the dual mechanisms of resource gain and resource threat. It further incorporates self-efficacy and transformational leadership as boundary conditions, thereby clarifying when AI application alleviates or intensifies employees' job insecurity. These findings enrich the theoretical understanding of employees' job insecurity within the context of AI application, and offer empirical insights for managing employee wellbeing and refining human resource strategies during organizational digital transformation."
+  },
+  {
+   "paperId": "7734e300a948fa32746b77111775ec7c97248f9a",
+   "externalIds": {
+    "PubMedCentral": "12481535",
+    "DOI": "10.1080/00049530.2025.2559910",
+    "CorpusId": 281700410,
+    "PubMed": "41036316"
+   },
+   "title": "Artificial intelligence awareness, career resilience, job insecurity and behavioural outcomes",
+   "venue": "Australian journal of psychology",
+   "year": 2025,
+   "citationCount": 11,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12481535, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "authors": [
+    {
+     "authorId": "2313766832",
+     "name": "Y. Chung"
+    },
+    {
+     "authorId": "2383117667",
+     "name": "Seunghee Im"
+    },
+    {
+     "authorId": "2318127834",
+     "name": "Jung Eun Kim"
+    },
+    {
+     "authorId": "2176531181",
+     "name": "J. Yun"
+    }
+   ],
+   "abstract": "ABSTRACT Objective As artificial intelligence has developed over the years, it has significantly influenced society as it has assisted people with their everyday lives. However, from the workplace perspective as artificial intelligence can help increase performance, it can also allow employees to perceive that their jobs can someday be replaced by it. Thus, the study explored the proximal and distal outcomes of artificial intelligence awareness on job insecurity, task performance and deviant behaviour as well as the moderating role of career resilience for the relationship between artificial intelligence awareness and job insecurity. Method Data were collected through a self-administered survey over three intervals. Participants were full-time office employees residing in South Korea. Results This study found that job insecurity mediated the relationships between artificial intelligence awareness and both task performance and deviant behaviour. Furthermore, career resilience moderated the relationship between artificial intelligence awareness and job insecurity. Conclusions Although technological advancements are intended to improve organisational outcomes, the study revealed that employees can develop negative perceptions of AI, leading to adverse workplace outcomes, such as increased job insecurity, deviant behaviour and decreased task performance. Furthermore, the study found career resilience to moderate the relationship between AI and job insecurity which then was found to mediate the model. These findings contribute to the existing literature and provide valuable insights for organisations aiming to mitigate the negative effects of AI. KEY POINTS What is already known about this topic: Despite the numerous benefits AI brings to business management, its adoption leads employees to worry that their jobs may someday be replaced by AI. Job insecurity results in numerous negative organisational outcomes such as reduced job satisfaction, organisational commitment, organisational citizenship behaviour and job performance. Career resilience has a positive impact on career outcomes, and individuals with higher career resilience perceive less risk in response to workplace changes. What this topic adds: AI awareness increases job insecurity, which in turn mediates the relationship between AI awareness and task performance and deviant behaviour. Career resilience moderates the relationship between AI awareness and job insecurity, which then resulted in a mediated moderation relationship within the study model. This study expands the existing theoretical understanding by identifying the mechanism and boundary conditions underlying the negative organisational outcomes of AI awareness."
+  },
+  {
+   "paperId": "2b93b76188dd8e2dbeb2ab661b68cf7904020f22",
+   "externalIds": {
+    "DOI": "10.1002/hfm.70000",
+    "CorpusId": 277699943
+   },
+   "title": "Understanding the Emergence and Trajectory of Job Insecurity Due to Smart Technology, Artificial Intelligence, Robotics, and Automation",
+   "venue": "Human Factors and Ergonomics in Manufacturing &amp; Service Industries",
+   "year": 2025,
+   "citationCount": 8,
+   "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/hfm.70000",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1002/hfm.70000?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/hfm.70000, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2128775653",
+     "name": "Marvin Walczok"
+    },
+    {
+     "authorId": "2354829771",
+     "name": "Tanja Bipp"
+    }
+   ],
+   "abstract": "Smart technologies, artificial intelligence, robotics, and automation (STARA) can revolutionize the labor market by substituting human labor. STARA Awareness has been introduced to capture employees' appraisal of the impact of STARA on their employment without a thorough validation and overarching theoretical framework. Therefore, we contributed a content validation of STARA Awareness and examined the internal structure of the suggested measurement instrument, the differentiation from cognitive and affective job insecurity (JI), potential antecedents, and its 1‐year trend. We conducted two cross‐sectional (N1 = 215, N2 = 224) and one longitudinal study (N3 = 233) with German employees from various branches. We adapted the questionnaire and redefined the construct as affective automation‐related job insecurity (AAJI) based on content criticism. Our results indicate that AAJI is weakly positively related to cognitive and affective JI but empirically different. We identified the substitution potential of occupation, the use of STARA as positive predictors, and core self‐evaluations as a negative predictor of AAJI. Latent growth curve models reveal no linear change of AAJI over 1 year but different trajectories as a function of the use of STARA. Thus, AAJI represents a digitalization‐specific form of job insecurity with its distinct nomological net and high temporal stability."
+  },
+  {
+   "paperId": "a9c024708b3f99286117aceda8be2935b3f39074",
+   "externalIds": {
+    "DOI": "10.1051/e3sconf/202338803021",
+    "CorpusId": 258774241
+   },
+   "title": "The Association Between Smart Technology, Artificial Intelligence, Robotics, and Algorithms (STARA) Awareness, Job Stress, Job Insecurity, and Job Satisfaction Among Hotel Employees During COVID-19 Pandemic",
+   "venue": "E3S Web of Conferences",
+   "year": 2023,
+   "citationCount": 18,
+   "openAccessPdf": {
+    "url": "https://www.e3s-conferences.org/articles/e3sconf/pdf/2023/25/e3sconf_icobar2023_03021.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1051/e3sconf/202338803021?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1051/e3sconf/202338803021, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Conference"
+   ],
+   "authors": [
+    {
+     "authorId": "6215126",
+     "name": "N. S. Lestari"
+    },
+    {
+     "authorId": "2126991408",
+     "name": "Dendy Rosman"
+    },
+    {
+     "authorId": "2217795789",
+     "name": "Evi Millenia"
+    }
+   ],
+   "abstract": "Despite the numerous advantages of implementing smart technology, expenses or negatives must be considered, with one of the most significant being the influence on personnel. A lot of studies have been undertaken to examine the influence of technological innovation on personnel. In the hospitality industry, research on service robots has grown, with a focus on customer-robot interactions. Despite this, studies on the influence of service robots on hotel employees are still at an early stage of development, especially in Indonesia. To fill the gap, the purpose of the study is to investigates the relationship between Smart Technology, Artificial Intelligence, Robotics, and Algorithms (STARA) awareness, job stress, job insecurity among hotel employees in Jakarta. Using quantitative approach, this study used convenient sample and involve 160 research participants. The research respondent was coming from various hotel employees located in Jakarta. Multiple regression analysis was used to analyze the data. The study found that there is a significant relationship between STARA awareness, job stress, job insecurity, and job satisfaction. The current study contributes to literature in the impact of technology adoption on service employees. This study is important because the findings provide an insight for hotel managers in developing technology implementation program in their businesses, especially the one that focuses on employees work behavior."
+  },
+  {
+   "paperId": "4833c05524ad022379465c8778fc17a5cd9c4d17",
+   "externalIds": {
+    "DOI": "10.13088/jiis.2026.32.2.035",
+    "CorpusId": 290055713
+   },
+   "title": "The Impact of Generative Artificial Intelligence Adoption on Job Insecurity and Job Engagement among White-Collar Employees",
+   "venue": "Journal of Intelligence and Information Systems",
+   "year": 2026,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.13088/jiis.2026.32.2.035",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.13088/jiis.2026.32.2.035?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.13088/jiis.2026.32.2.035, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2195568432",
+     "name": "Jinsoo Park"
+    },
+    {
+     "authorId": "2293555821",
+     "name": "Dohun Kim"
+    },
+    {
+     "authorId": "1905137",
+     "name": "Seungho Jeong"
+    },
+    {
+     "authorId": "26657218",
+     "name": "Jihae Suh"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "0d9fcc864c33b6037229bb91bc8dbc396544bdaf",
+   "externalIds": {
+    "DOI": "10.1057/s41599-026-08274-w",
+    "CorpusId": 290028133
+   },
+   "title": "Artificial intelligence and robotics awareness among frontline employees in tourist hotels and its impact on service sabotage: the roles of job insecurity, organization-based self-esteem, and competitive psychological climate",
+   "venue": "Humanities and Social Sciences Communications",
+   "year": 2026,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "https://www.nature.com/articles/s41599-026-08274-w_reference.pdf",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1057/s41599-026-08274-w?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1057/s41599-026-08274-w, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2294176938",
+     "name": "Rujie Chen"
+    },
+    {
+     "authorId": "2388842202",
+     "name": "Yiyun Ying"
+    },
+    {
+     "authorId": "2155586523",
+     "name": "Hua Yang"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "ff2449262fdeb948d7f50059c7fd61c321ee507e",
+   "externalIds": {
+    "DOI": "10.71364/ijiss.v1i5.12",
+    "CorpusId": 281212942
+   },
+   "title": "Artificial Intelligence Adoption, Job Insecurity, and Psychological Resilience: Challenges for Employee Adaptation in Future Work Environments",
+   "venue": "International Journal of Issue Science",
+   "year": 2025,
+   "citationCount": 2,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.71364/ijiss.v1i5.12?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.71364/ijiss.v1i5.12, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "authors": [
+    {
+     "authorId": "2379767868",
+     "name": "Komang Meydiana"
+    },
+    {
+     "authorId": "2379767694",
+     "name": "Hutama Putri"
+    }
+   ],
+   "abstract": "The rapid adoption of Artificial Intelligence (AI) in the workplace is reshaping industries, presenting both opportunities and challenges for employees. This literature review examines the interplay between AI adoption, job insecurity, and psychological resilience, and their implications for employee adaptation to future work environments. By synthesizing findings from 10 key articles, this study highlights how AI-induced job displacement, particularly in routine and low-skilled tasks, leads to heightened job insecurity, contributing to stress, anxiety, and reduced job satisfaction. However, the review also identifies psychological resilience as a critical factor that can mitigate the negative effects of job insecurity. Resilient employees are better equipped to cope with the uncertainties brought on by technological disruptions, enabling them to maintain motivation and adapt to new job roles. The review underscores the importance of fostering resilience through organizational support, such as upskilling initiatives and psychological well-being programs. Furthermore, the study discusses the need for a balanced approach that combines technological skills development with emotional support to ensure a sustainable and adaptable workforce. This research emphasizes the essential role of resilience in navigating the challenges of AI integration and highlights the need for future research to explore effective strategies for enhancing employee resilience in AI-driven environments."
+  },
+  {
+   "paperId": "eeeb794b4a3258f2dbde51535eaa26fd2add14a4",
+   "externalIds": {
+    "DOI": "10.59188/eduvest.v5i8.52070",
+    "CorpusId": 280958777
+   },
+   "title": "The Effect of Employee Adaptation to STARA (Smart Technology, Artificial Intelligence, Robotics and Algorithm) with Service Performance Mediated by Job Crafting, Job Insecurity, and Work Engagement",
+   "venue": "Eduvest - Journal Of Universal Studies",
+   "year": 2025,
+   "citationCount": 2,
+   "openAccessPdf": {
+    "url": "https://eduvest.greenvest.co.id/index.php/edv/article/download/52070/4473",
+    "status": "GOLD",
+    "license": "CCBYSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.59188/eduvest.v5i8.52070?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.59188/eduvest.v5i8.52070, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2377858991",
+     "name": "Afni Felina Adya"
+    },
+    {
+     "authorId": "101926657",
+     "name": "P. Desiana"
+    }
+   ],
+   "abstract": "This research investigates the impact of employee adaptation to STARA (Smart Technology, Artificial Intelligence, Robotics, and Algorithm) on service performance, considering the mediating roles of job crafting, job insecurity, and work engagement. Employing an explanatory quantitative approach with Structural Equation Modeling (SEM), data were collected from 249 frontline employees in Jabodetabek who interact with customers and utilize STARA in their work. The results reveal that STARA awareness as a challenge appraisal positively influences service performance, whereas hindrance appraisal has a negative effect. Work engagement and job crafting significantly mediate the positive relationship between challenge appraisal and service performance, while job insecurity exacerbates the negative impact of hindrance appraisal. The study offers theoretical contributions by clarifying adaptive mechanisms to STARA in the service sector. Practically, it suggests organizations enhance training and psychological support to boost work engagement, implement job crafting programs to reduce job insecurity, and adopt clear communication strategies to position STARA as an opportunity rather than a threat."
+  },
+  {
+   "paperId": "b7f1aa6d44450a839ceb87938c3b0c8566fcc5d9",
+   "externalIds": {
+    "DOI": "10.1016/j.actpsy.2025.104733",
+    "CorpusId": 275627039,
+    "PubMed": "39826322"
+   },
+   "title": "Artificial intelligence and employee outcomes: Investigating the role of job insecurity and technostress in the hospitality industry.",
+   "venue": "Acta Psychologica",
+   "year": 2025,
+   "citationCount": 79,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1016/j.actpsy.2025.104733",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.actpsy.2025.104733?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.actpsy.2025.104733, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "authors": [
+    {
+     "authorId": "2326022461",
+     "name": "Muhammad Naeem Sharif"
+    },
+    {
+     "authorId": "2331370285",
+     "name": "Li Zhang"
+    },
+    {
+     "authorId": "2325980733",
+     "name": "Muhammad Asif"
+    },
+    {
+     "authorId": "2276552003",
+     "name": "Sajead Mowafaq Alshdaifat"
+    },
+    {
+     "authorId": "75165119",
+     "name": "J. Hanaysha"
+    }
+   ],
+   "abstract": "Drawing on self-determination theory (SDT), this research examines how the utilization of artificial intelligence (AI) in hospitality organizations is influencing employee work and career outcomes (well-being and career success). We explore the underlying role of job insecurity in the associations of AI use with employee wellbeing and career success. We further explore the boundary condition effect of technostress in our proposed model. This study used a three-wave online survey approach to collect data from 277 workers of fast-food chain restaurants in the People's Republic of China. We used Smart PLS 4 to analyze our data. The results showed a positive relationship among AI use and employee well-being, but not with career success. Job insecurity mediates the relationship between AI use and employee outcomes. Additionally, technostress moderated the associations between AI use and employee well-being and career success. This study contributes to the theory and practice in the field of AI and hospitality industry and helps understand the nexus between increasing use of AI and employees' work and career outcomes."
+  },
+  {
+   "paperId": "f93a32090deda4bc4f6a1188dc31174b697a966e",
+   "externalIds": {
+    "DOI": "10.1108/ijchm-01-2024-0051",
+    "CorpusId": 275149044
+   },
+   "title": "The double-edged sword effect of artificial intelligence awareness among hotel employees",
+   "venue": "International Journal of Contemporary Hospitality Management",
+   "year": 2025,
+   "citationCount": 36,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1108/ijchm-01-2024-0051?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1108/ijchm-01-2024-0051, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2338213650",
+     "name": "Shengmin Liu"
+    },
+    {
+     "authorId": "2338690740",
+     "name": "Pengfan Cheng"
+    }
+   ],
+   "abstract": "Purpose\nWith its continuous development and application in the hotel industry, artificial intelligence (AI) is gradually replacing many jobs traditionally performed by humans. This research aims to understand how this threat and opportunity of substitution affects hotel employees’ behavioral decision-making.\n\nDesign/methodology/approach\nThis study uses a structural equation model, ordinary least squares and bootstrapping method to analyze the data collected with a field study and a scenario experiment from star-hotels in Shanghai, Paris and Seoul.\n\nFindings\nThe results discovered that employees’ AI awareness has a positive relationship with their work engagement and AI boycott through two paths. The promoting path involves recovery level, while the hindering path includes job insecurity. In addition, the estimates showed that AI awareness has a great indirect effect on work engagement or AI boycott when innovativeness as a job requirement is high.\n\nPractical implications\nThe findings offer insights to help hotels optimize the relationship between AI and hotel human workers while providing valuable implications for addressing behavioral dilemmas faced by hotel employees in the era of AI.\n\nOriginality/value\nBy integrating the behavioral decision-making literature with the conservation of resources theory, the study focuses on the dual mechanisms – challenging and hindering – through which AI awareness influences hotel employees’ coping strategies.\n"
+  },
+  {
+   "paperId": "f57f108c78d204c176a797df5ac908c369099fde",
+   "externalIds": {
+    "DOI": "10.32628/ijsrset25125418",
+    "CorpusId": 287263873
+   },
+   "title": "Job Automation and Artificial Intelligence: Ethical Responsibility, Legal Safeguards, and Psychological Impact on Workers",
+   "venue": "International Journal of Scientific Research in Science Engineering and Technology",
+   "year": 2025,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.32628/ijsrset25125418",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.32628/ijsrset25125418?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.32628/ijsrset25125418, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2428663670",
+     "name": "Paritosh Kumar"
+    }
+   ],
+   "abstract": "The rapid advancement of Artificial Intelligence (AI) and automation technologies is transforming workplaces around the world. Machines and intelligent systems are increasingly capable of performing tasks that were once carried out exclusively by human workers. While these developments offer significant advantages such as improved efficiency, reduced operational costs, and technological innovation, they also create complex social challenges. Job automation raises serious ethical questions about fairness and responsibility, legal concerns regarding worker protection, and psychological issues affecting employees who fear losing their livelihoods. This paper examines the ethical responsibilities of governments, employers, and technology developers in managing automation responsibly. It also analyzes the importance of legal safeguards to protect workers’ rights and explores the psychological effects of automation, including job insecurity, workplace stress, and loss of professional identity. Finally, the paper proposes practical solutions such as reskilling initiatives, ethical AI governance, and collaborative human-AI work models. The study argues that the future of work should not involve replacing humans with machines but creating a balanced system where technological progress supports human development and well-being."
+  },
+  {
+   "paperId": "0ebd4b122b35732e57eb796f52ae314ec7d26136",
+   "externalIds": {
+    "DOI": "10.1108/ebhrm-05-2024-0159",
+    "CorpusId": 274118655
+   },
+   "title": "Breeding distrust during artificial intelligence (AI) era: how technological advancements, job insecurity and job stress fuel organizational cynicism?",
+   "venue": "Evidence-based HRM: a Global Forum for Empirical Scholarship",
+   "year": 2024,
+   "citationCount": 7,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1108/ebhrm-05-2024-0159?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1108/ebhrm-05-2024-0159, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2301314355",
+     "name": "Kanika Sharma"
+    },
+    {
+     "authorId": "2287113007",
+     "name": "B. G. Davidson"
+    },
+    {
+     "authorId": "2240879583",
+     "name": "Jossy P. George"
+    },
+    {
+     "authorId": "2136022539",
+     "name": "P. V. Muttungal"
+    }
+   ],
+   "abstract": "PurposeThis study examines how technological advancements and psychological capital contribute to job stress. Furthermore, the paper examines how job insecurity, job stress and job involvement influence the cynicism of recently laid-off employees. Despite various research studies, there is a lack of understanding of employees’ views on their work future and its probable influence on their job behaviors in this era of technology.Design/methodology/approachA quantitative method was used to collect a sample of 403 recently laid-off employees. The research tool of this study was a questionnaire, and the sampling technique was stratified random sampling. IBM SPSS and AMOS software were utilized to ensure the trustworthiness and accuracy of constructs via factor analysis. The proposed hypotheses were tested using structural equation modeling.FindingsThe analysis showed that technological advancements, specifically in job-related stress, job involvement and job insecurity, significantly affect organizational cynicism. Job involvement is negatively associated with employee’s cynicism.Practical implicationsThe current study adds to the comprehension of shifts in the perceived behavior of employees toward their organizations due to factors like the adoption of new technology in the organization, job stress, job insecurity and job involvement. Accordingly, there will be a need to form a favorable working atmosphere so that employees can perform their jobs with positive psychology and without any insecurity or stress.Originality/valueThe study is thought to contribute to the literature in terms of measuring organizational cynicism while layoffs continue due to AI advancements."
+  },
+  {
+   "paperId": "f9fbce7da01230bde1d8385b2b69b921da8221b2",
+   "externalIds": {
+    "DOI": "10.32479/irmm.23807",
+    "CorpusId": 288143327
+   },
+   "title": "From Job Insecurity to Burnout in the Age of Artificial Intelligence: The Mediating Role of Work Engagement and the Moderating Role of Artificial Intelligence Self-Efficacy",
+   "venue": "International Review of Management and Marketing",
+   "year": 2026,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "https://econjournals.com/index.php/irmm/article/download/23807/10129",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.32479/irmm.23807?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.32479/irmm.23807, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "authors": [
+    {
+     "authorId": "2391553190",
+     "name": "Kamil Hussain"
+    },
+    {
+     "authorId": "2391654076",
+     "name": "Ikram Ahmed"
+    },
+    {
+     "authorId": "2324146314",
+     "name": "Mustafa Altıntaş"
+    },
+    {
+     "authorId": "2079834891",
+     "name": "Burcu Altintaş"
+    },
+    {
+     "authorId": "2357407676",
+     "name": "Lubna G Amin"
+    },
+    {
+     "authorId": "2433910444",
+     "name": "Sahrish Taj"
+    },
+    {
+     "authorId": "2166082987",
+     "name": "Khawaja Zeeshan Waheed"
+    },
+    {
+     "authorId": "2142217111",
+     "name": "Shehla Naureen"
+    },
+    {
+     "authorId": "2376638569",
+     "name": "Noura Metawa"
+    }
+   ],
+   "abstract": "The study investigates the impact of job insecurity on employee burnout by emphasizing the mediating role of job involvement and the moderating role of self-efficacy in the use of artificial intelligence. Based on the Job Demand-Resource model and the Conservation of Resources theory, this study has explored how both psychological and technological resources shape employees’ responses to the workplace. Through a structured survey, data were collected from 430 employees of Pakistan’s software and IT firms and analyzed using structural equation modeling (SEM-PLS). Results indicated that job insecurity significantly increases burnout while simultaneously reducing job involvement. Moreover, job involvement has negatively influenced burnout, confirming its mediating role between insecurity and burnout. Besides, employees with higher AI self-efficacy reported stronger engagement, as self-efficacy was negatively associated with job insecurity and job involvement. These findings highlight the complex interplay among stressors, engagement, and technological confidence in shaping employee well-being. In addition, the current study contributes to theory by integrating AI-related self-efficacy into established stress-strain frameworks and by offering practical implications for organizations to minimize burnout by increasing employee involvement, reducing insecurity, and strengthening digital competencies."
+  },
+  {
+   "paperId": "642c9014aa5fcc594d340010c52500686db174c4",
+   "externalIds": {
+    "DOI": "10.56497/esj260608",
+    "CorpusId": 289538272
+   },
+   "title": "The Role of Artificial Intelligence in Employee Motivation: Mediating Role of Work Efficiency, Skill Development, Job Autonomy, and Job Insecurity",
+   "venue": "Economic Studies",
+   "year": 2026,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.56497/esj260608?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.56497/esj260608, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "121340176",
+     "name": "G. Jusufi"
+    },
+    {
+     "authorId": "101202806",
+     "name": "Xhavit Islami"
+    },
+    {
+     "authorId": "122444351",
+     "name": "Enis Mulolli"
+    }
+   ],
+   "abstract": "The purpose of this paper is to examine how artificial intelligence (AI) adoption influences the motivation of employees, focusing on the mediating roles of perceived work efficiency, skill development, job autonomy, and job insecurity with work-related stress. Using data collected from 358 IT employees and analysed through structural equation modelling and mediation analysis, the study finds that AI adoption has a significant direct effect on employee motivation. The findings reveal the dual nature of AI adoption: it enhances employee motivation by improving work efficiency, learning opportunities, and job autonomy, while simultaneously undermining motivation by increasing job insecurity and work-related stress. Perceived work efficiency, skill development, and job autonomy positively mediate this relationship, whereas job insecurity and work-related stress exert a negative mediating effect. This study contributes to the literature by providing an integrated mediation framework that explains how AI affects employee motivation from a socio-technical perspective. Practically, the results suggest that organisations should adopt human-centred AI strategies that amplify positive job characteristics while proactively addressing AI-related insecurity and stress."
+  },
+  {
+   "paperId": "68f902143d5c253d2b5ad75c71cb5021c51a4b77",
+   "externalIds": {
+    "DOI": "10.59075/cmfvfb11",
+    "CorpusId": 289450226
+   },
+   "title": "Artificial Intelligence Anxiety and Employee Job Insecurity: The Mediating Role of Perceived Organizational Support",
+   "venue": "The Critical Review of Social Sciences Studies",
+   "year": 2026,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.59075/cmfvfb11",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.59075/cmfvfb11?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.59075/cmfvfb11, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2443723668",
+     "name": "Sara Shabbir"
+    },
+    {
+     "authorId": "2337212551",
+     "name": "Imran khan"
+    },
+    {
+     "authorId": "2443727168",
+     "name": "Idrees kamal"
+    },
+    {
+     "authorId": "2443723660",
+     "name": "Md Atiqur Rahman"
+    }
+   ],
+   "abstract": "The rapid spread of Artificial Intelligence (AI) technology throughout workplaces has made many employees anxious about losing their jobs due to automation. Using Conservation of Resources (COR) Theory and Organizational Support Theory (OST), this study, which follows a quantitative approach, analyzes the impact of AI Anxiety (AIA) on Employee Job Insecurity (EJI) and the mediation role of Perceived Organizational Support (POS). An online questionnaire was developed and shared with 300 employees of different sectors, and the used items were verified through psychometrics. The analysis was carried out through hierarchical multiple regression and mediation analysis with a sample of n = 5,000 (bootstrap). The results showed that AI Anxiety positively and significantly predicted Employee Job Insecurity (β = .541, p < .001). Perceived Organizational Support was a full mediator of the AIA–EJI relationship, and mediation analysis showed a significant and substantive mediation effect of POS (indirect β = .219; 95% CI [.148, .301]). The direct effect of AIA on EJI was significant and substantially decreased after controlling for POS (β = .302, p < .001; Partial mediation). Findings reflect that organizational support is important for reducing job insecurity and the effects of AI-induced anxiety. The study offers recommendations for organizational stakeholders and HR practitioners and suggests future areas of research."
+  },
+  {
+   "paperId": "43717b978116c91ab8b6fc87a8c418352fae011a",
+   "externalIds": {
+    "DOI": "10.1037/tra0001862",
+    "CorpusId": 276183061,
+    "PubMed": "39913448"
+   },
+   "title": "Anxiety induced by artificial intelligence (AI) painting: An investigation based on the fear acquisition theory.",
+   "venue": "Psychological Trauma",
+   "year": 2025,
+   "citationCount": 10,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1037/tra0001862?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1037/tra0001862, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "authors": [
+    {
+     "authorId": "2236666410",
+     "name": "Changsheng Wang"
+    },
+    {
+     "authorId": "2344222135",
+     "name": "Aqin Xiao"
+    }
+   ],
+   "abstract": "OBJECTIVE\nThis article aims to systematically investigate the impact of artificial intelligence (AI) painting tools on multidimensional social-psychological anxieties, specifically focusing on privacy violation, bias behavior, job replacement, and learning anxiety.\n\n\nMETHOD\nBased on the fear acquisition theory framework, this study investigates the dimensions of anxiety induced by AI painting. Through questionnaire surveys, first-order and second-order confirmatory factor analysis, and one-way analysis of variance, the study successfully measures the multidimensional impact of AI painting on psychological anxiety.\n\n\nRESULTS\nStudy results indicate significant differences in anxiety levels across dimensions. Privacy violation and bias behavior are found to elicit the highest levels of anxiety, with average scores of 3.77 and 3.85, respectively, on a 1-5 scale. Conversely, job replacement and learning anxiety demonstrate relatively lower scores of 3.49 and 3.30. A more in-depth variance analysis highlights substantial gender differences in privacy violation anxiety, with females registering a significantly higher average score of 3.90 compared to men's 3.58. Furthermore, educational level is shown to significantly impact the anxiety levels of job replacement and learning anxiety; individuals with no more than a high school education scored markedly higher than those with undergraduate or postgraduate degrees.\n\n\nCONCLUSIONS\nThis study reveals the significant impact of AI drawing tools on triggering multidimensional anxiety in individuals and underscores the important role of gender and education level in the different anxiety dimensions elicited by AI drawing tools. (PsycInfo Database Record (c) 2025 APA, all rights reserved)."
+  },
+  {
+   "paperId": "4db849efa0efc4e9394d09bcf0b33c126efe550a",
+   "externalIds": {
+    "PubMedCentral": "12024141",
+    "DOI": "10.3390/bs15040465",
+    "CorpusId": 277581102,
+    "PubMed": "40282086"
+   },
+   "title": "“Remaining Vigilant” While “Enjoying Prosperity”: How Artificial Intelligence Usage Impacts Employees’ Innovative Behavior and Proactive Skill Development",
+   "venue": "Behavioral Science",
+   "year": 2025,
+   "citationCount": 10,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.3390/bs15040465",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12024141, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "authors": [
+    {
+     "authorId": "144081246",
+     "name": "Jin Qian"
+    },
+    {
+     "authorId": "2222363543",
+     "name": "Jiaxi Chen"
+    },
+    {
+     "authorId": "2306093757",
+     "name": "Shuming Zhao"
+    }
+   ],
+   "abstract": "As Artificial Intelligence (AI) has become a crucial element in the competitive advantage of enterprises, it is important to understand how to stimulate employees’ creativity and initiative to cope with AI-driven changes. Drawing from the traditional Chinese wisdom of “remaining vigilant while enjoying prosperity” and based on the Conservation of Resources Theory, this study explored the impact of AI usage on employees’ innovative behavior and proactive skill development. The results of a three-stage survey of 350 questionnaires showed that (1) AI usage positively influences employees’ innovative behavior and proactive skill development; (2) job absorption partially mediates the relationship between AI usage and employees’ innovative behavior; (3) AI job replacement anxiety partially mediates the relationship between AI usage and proactive skill development; and (4) employees’ learning goal orientation positively moderates the impact of AI usage on innovative behavior through job absorption and on proactive skill development through AI job replacement anxiety. This study provides insights into how individuals respond to AI-driven changes and offers a novel perspective for developing research on AI usage at the individual level."
+  },
+  {
+   "paperId": "98cdf8c1f63892d3fa52706f039e264cc45f5445",
+   "externalIds": {
+    "DOI": "10.58970/ijsb.2481",
+    "CorpusId": 273224593
+   },
+   "title": "Artificial Intelligence (AI) and Fear of Job Displacement in Banks in Bangladesh",
+   "venue": "International journal of science and business",
+   "year": 2024,
+   "citationCount": 7,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.58970/ijsb.2481?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.58970/ijsb.2481, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "authors": [
+    {
+     "authorId": "2310377283",
+     "name": "Md. Mohshin Molla"
+    }
+   ],
+   "abstract": "The rapid integration of Artificial Intelligence (AI) in the banking sector is modernizing operations, with significant implications for employee roles. This study investigates the relationship between AI adoption and the fear of job displacement among bank employees in Bangladesh. Utilizing a mixed-methods approach, data were collected through surveys of 120 bank employees and interviews with 10 senior managers from leading banks. The survey focused on employees' perceptions of AI technologies, their readiness for change, and concerns regarding job security, while the interviews explored management perspectives on AI implementation and workforce implications. Quantitative analysis revealed that 80% of employees feared AI-driven job displacement, particularly those in clerical or routine roles. However, management expressed optimism, viewing AI as an opportunity to streamline operations and create new job opportunities, albeit with a need for reskilling. The study found a significant link between employee training and reduced fear of displacement, highlighting the importance of workforce development initiatives. Senior management underscored the necessity of reskilling and upskilling programs to facilitate a smoother transition to AI-driven environments. The findings suggest that while AI can enhance operational efficiency, it also creates anxiety about job loss, emphasizing the need for strategic planning and training programs to alleviate these fears. Further research is recommended to explore the long-term employment impacts of AI in the banking sector."
+  },
+  {
+   "paperId": "b341a82d33d945c51aa35b0583660a5d1960f8b0",
+   "externalIds": {
+    "DOI": "10.62019/abbdm.v3i1.35",
+    "CorpusId": 268716465
+   },
+   "title": "Data-driven Artificial Intelligence at the Crossroads: Investigating the Role of Affective Job Insecurity in the relationship between Artificial Intelligence Identity Threat and Employee Well-Being",
+   "venue": "The Asian Bulletin of Big Data Management",
+   "year": 2023,
+   "citationCount": 7,
+   "openAccessPdf": {
+    "url": "https://abbdm.com/index.php/Journal/article/download/35/34",
+    "status": "HYBRID",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.62019/abbdm.v3i1.35?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.62019/abbdm.v3i1.35, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2281664977",
+     "name": "Aqeel Gull"
+    },
+    {
+     "authorId": "2129635510",
+     "name": "Shumaila Dilawar"
+    },
+    {
+     "authorId": "2259631",
+     "name": "F. Sher"
+    }
+   ],
+   "abstract": "We developed a model based on Social Identity Theory, in which the identity threat posed by artificial intelligence (AI) has a negative impact on well-being of workers by increasing their feelings of job insecurity. This model is based on the observation that AI has the potential to displace jobs. The findings are supported by information obtained from a sample of 273 workers drawn from a variety of Pakistani businesses and industries and gathered over a period of time. We used a Confirmatory Factor Analysis to investigate the proposed model, and we used PROCESS MACRO to investigate direct and indirect effects of model's variables. It was ascertained that AI Identity Threat exerts an adverse impact on employees' well-being. Affective job insecurity was identified as a mediating factor in the relationship between AI Identity Threat and employee well-being. The empirical evidence derived from our study supports the assertion that an affective sense of job insecurity operates as a mediator, ameliorating the detrimental effects of AI identity threats on employee well-being. Our study's findings necessitate a discussion of both its conclusions and potential avenues for future research."
+  },
+  {
+   "paperId": "dc707fead94b38763d370f1cb2fc4b7a0c3b0572",
+   "externalIds": {
+    "DOI": "10.1177/00218863251360852",
+    "CorpusId": 280355837
+   },
+   "title": "Promoting or Preventing? The Influence of Artificial Intelligence Awareness on Employee Job Crafting",
+   "venue": "Journal of Applied Behavioral Science",
+   "year": 2025,
+   "citationCount": 9,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1177/00218863251360852?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1177/00218863251360852, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2284012397",
+     "name": "Feng Xu"
+    },
+    {
+     "authorId": "2114048224",
+     "name": "Jing Qin"
+    },
+    {
+     "authorId": "2156007523",
+     "name": "Dayong Zhang"
+    }
+   ],
+   "abstract": "Artificial intelligence (AI) enhances employees’ work efficiency and significantly impacts their cognitive and psychological states. However, there remains limited research on the complex relationship between AI-driven changes in the work setting and employees’ job crafting. Therefore, this study applies the job demand–resource (JD-R) theory to test how AI awareness influences employees’ promotion- and prevention-focused job crafting. It further investigates the mediating roles of job insecurity and creative process engagement and the moderating role of AI knowledge. Based on the sample of 324 participants, the empirical results show that challenge appraisal toward AI indirectly promote promotion-focused job crafting through creative process engagement and inhibit prevention-focused job crafting through job insecurity. Conversely, hindrance appraisal toward AI indirectly promotes prevention-focused job crafting through job insecurity. Additionally, the positive effect of challenge appraisal on creative process engagement is strengthened by AI knowledge. Discussions are provided on both the theoretical and practical implications."
+  }
+ ]
+}

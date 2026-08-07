@@ -1,0 +1,1557 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message-version": "1.0.0",
+ "message": {
+  "facets": {},
+  "total-results": 606786,
+  "items": [
+   {
+    "DOI": "10.1108/jadee-09-2025-0408",
+    "title": [
+     "The digital seedbed: a comparative analysis of GenAI adoption and its socio-cultural implications in the rice seed economies"
+    ],
+    "container-title": [
+     "Journal of Agribusiness in Developing and Emerging Economies"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       3,
+       6
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0009-0002-3070-2700",
+      "authenticated-orcid": true,
+      "given": "Ashish Jagdish",
+      "family": "Sharma",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "ISM, IIM Sambalpur , ,",
+        "place": [
+         "Sambalpur, India"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:sec>\n                    <jats:title>Purpose</jats:title>\n                    <jats:p>This study aims to analyze the digital transformation within the global seed industry, specifically focusing on the adoption and sociocultural implications of Generative AI (GenAI) in rice seed production. It investigates how contract rice growers perceive the value of GenAI, the skills needed to use it, and its potential impact on existing social structures and power dynamics.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Design/methodology/approach</jats:title>\n                    <jats:p>A mixed-methods approach based on grounded theory was used. The research primarily analyzed qualitative data to explore the tensions between traditional expertise in seed cultivation and data-driven knowledge from AI. The study examined different rice production systems, including those in the United States, Mercosur, and India, to provide a comparative analysis.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Findings</jats:title>\n                    <jats:p>The study's key findings reveal a series of complex social and technological dynamics within the rice seed industry. A significant digital divide exists among different grower networks, creating disparities in access to and proficiency with new technologies. The adoption of GenAI is also prompting a redefinition of the grower’s role, shifting their primary function from a traditional cultivator focused on embodied expertise to a data manager who must interact with and interpret AI-generated insights. Furthermore, the integration of GenAI has the potential to either exacerbate or alleviate existing inequalities between large-scale commercial seed producers and smallholder farmers, making it a critical factor in the future of equitable agricultural development.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Research limitations/implications</jats:title>\n                    <jats:p>This study's findings are intended to inform the development of more equitable and context-aware policies and technologies for the future of the global seed industry. By highlighting the complex social dynamics introduced by GenAI, the research provides a framework for addressing potential challenges and ensuring a more inclusive digital transition.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Originality/value</jats:title>\n                    <jats:p>This research provides a unique and valuable contribution by offering a comparative analysis of the sociocultural implications of GenAI adoption across diverse global rice seed production systems. It is one of the first studies to explore the tensions between traditional knowledge and AI-driven data in this context, offering a new perspective on the human element of digital agriculture.</jats:p>\n                  </jats:sec>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.36948/ijfmr.2023.v05i06.10804",
+    "title": [
+     "A Study of Digital Financial Inclusion in Developing Countries and Emerging Economies"
+    ],
+    "container-title": [
+     "International Journal For Multidisciplinary Research"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       12,
+       20
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Mrs.Shakti Nigam Vaidya",
+      "family": "-",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Dr.Kirti Vishwakarma",
+      "family": "-",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 1,
+    "abstract": "<jats:p>Around the world, high inflation, slow economic growth and food shortages are hurting the poor the most. To address this, the World Bank is committed to expanding financial inclusion through digitization. The rapidly expanding sector of digital finance has the potential to help poor nations in a variety of ways with long-term growth. Expanding people's access to financial services in developing nations is one of these methods, which can also increase economic development and tax income. In order for underprivileged individuals, particularly women, to participate in the contemporary economy, it is crucial that they have access to digital financial services. Global poverty has greatly grown as the unequal consequences of Covid phase have come to light and the present numerous crises have already drastically reversed growth. Positively, the Covid crisis has sparked unheard-of transformation, particularly in sectors with a significant digital component. Digital technology can be a game changer in tackling the multi-decadal challenge of achieving universal financial inclusion. The financial services that are available and used in developing economies have risen as a result of the digital revolution. The fast adoption of digital technology in the countries over the past 15 years has served as the basis for a number of success stories among the members. With great success, the emerging economies have taken important steps to promote financial inclusion online in their countries. Universal financial inclusion has been one of the major developmental priorities for the developing countries over the last few decades. Governments and central banks of the developing countries have undertaken several initiatives to ensure access and affordability of financial services to all sections of the society, especially the weaker sections and low-income groups.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1111/deve.12452",
+    "title": [
+     "Foreign Investments and Energy Transformation: Impacts on Energy Poverty, Renewable Adoption, and Emission Reduction in Developing Countries"
+    ],
+    "container-title": [
+     "The Developing Economies"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       11,
+       3
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "My",
+      "family": "Nguyen",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "International School, Vietnam National University  Hanoi Vietnam"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Hang",
+      "family": "Nguyen",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "International School, Vietnam National University  Hanoi Vietnam"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-2895-9366",
+      "authenticated-orcid": false,
+      "given": "Phuong M. H.",
+      "family": "Pham",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Faculty of Finance and Banking, Academy of Policy and Development  Hanoi Vietnam"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Tung D.",
+      "family": "Nguyen",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Faculty of Finance and Banking, Academy of Policy and Development  Hanoi Vietnam"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 1,
+    "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study investigates the impact of foreign financial investment in renewable energy on energy poverty, renewable energy adoption, and emissions in developing countries. Using a dynamic panel model to address endogeneity, it offers empirical insights into how international climate finance supports sustainable energy transitions. The results show that such investment improves clean energy access, electricity access, and consumption, strengthening both availability and reliability. It also increases renewable electricity output and the share of renewables in energy generation, though effects on renewable energy consumption are more limited. Emissions of carbon dioxide and greenhouse gases decline, while effects on per‐capita emissions and carbon intensity are smaller. Lagged models reveal that these benefits persist over time. Impacts vary across regions and country characteristics, particularly fossil fuel dependency, economic growth, and foreign capital intensity. The findings offer actionable insights for designing more effective international climate finance strategies aligned with global energy and climate goals.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1108/jadee-10-2025-0486",
+    "title": [
+     "Trust and risk for technology adoption: extending UTAUT for digital crowdfarming in rural India"
+    ],
+    "container-title": [
+     "Journal of Agribusiness in Developing and Emerging Economies"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       3,
+       13
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Chandra Kant",
+      "family": "Upadhyay",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "School of Maritime Management, Gujarat Maritime University , ,",
+        "place": [
+         "Gandhinagar, India"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0003-2444-6923",
+      "authenticated-orcid": true,
+      "given": "Sukhpreet",
+      "family": "Kaur",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Social Sciences, Humanities, and Creative Industries, University of Wolverhampton , ,",
+        "place": [
+         "Wolverhampton, UK"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:sec>\n                    <jats:title>Purpose</jats:title>\n                    <jats:p>This study examines farmers' adoption of digital crowdfarming platforms in rural India by extending the unified theory of acceptance and use of technology (UTAUT). Crowdfarming differs from crowdfunding and virtual crowdsourcing by outsourcing physical agricultural tasks, which raises issues of trust and perceived risk. The paper explains how cognitive and relational factors shape behavioural intention and adoption in this novel digital agriculture context.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Design/methodology/approach</jats:title>\n                    <jats:p>A quantitative, positivist design was employed. Survey data from 280 smallholder farmers across four Indian states were collected through Common Service Centres. The extended UTAUT model incorporated performance expectancy, effort expectancy, social influence, facilitating conditions trust and perceived risk. Structural equation modelling (AMOS 23) was used to test hypotheses, with bootstrapping for mediation analysis.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Findings</jats:title>\n                    <jats:p>All UTAUT constructs significantly predicted behavioural intention. Trust emerged as both a direct determinant of adoption and a mediator reducing the negative effect of perceived risk. Behavioural intention strongly predicted adoption. Younger and more educated farmers showed higher adoption intention, though crowdfarming appealed across farm sizes.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Research limitations/implications</jats:title>\n                    <jats:p>Use of convenience sampling and a cross-sectional design limits generalisability and observation of long-term behaviour. Future research should adopt longitudinal, comparative, and mixed-method approaches.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Originality/value</jats:title>\n                    <jats:p>This is one of the first empirical studies of digital crowdfarming. It extends UTAUT with trust and risk, contributing to technology adoption theory and digital agriculture practice in developing economies.</jats:p>\n                  </jats:sec>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1108/jadee-04-2025-0167",
+    "title": [
+     "Analyzing farming analytics adoption challenges in developing economies: a fuzzy Delphi–Neutrosophic DEMATEL approach"
+    ],
+    "container-title": [
+     "Journal of Agribusiness in Developing and Emerging Economies"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       3,
+       27
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-9433-7389",
+      "authenticated-orcid": true,
+      "given": "Isha",
+      "family": "Sharma",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Symbiosis Institute of Operations Management, Constituent of Symbiosis International (Deemed) University , ,",
+        "place": [
+         "Nashik, India"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Jose Arturo",
+      "family": "Garza-Reyes",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Centre for Supply Chain Improvement, University of Derby , ,",
+        "place": [
+         "Derby, UK"
+        ]
+       },
+       {
+        "name": "Graphic Era Deemed to be University Department of Management Studies, , ,",
+        "place": [
+         "Dehradun, India"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:sec>\n                    <jats:title>Purpose</jats:title>\n                    <jats:p>Exponential population growth coupled with dwindling resources has invariably led to the adoption of smart and sustainable agriculture methods. Data-driven predictive analytics are force multipliers in mitigating these challenges; however, critical challenges exist in their adoption in developing economies. This study provides insights into the challenges of adopting advanced analytics in the agricultural operations of developing economies.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Design/methodology/approach</jats:title>\n                    <jats:p>The preliminary challenges were systematically identified through an extensive literature review and refined with expert validation using the fuzzy-Delphi Method (FDM). The opinions of nine experts were then applied in the Neutrosophic DEMATEL method to justify and construct the contextual interrelationships among the challenges, ensuring both rigor and methodological novelty. This integrated methodology led to precision in selecting the challenges and novelty in the causal mapping of their interplay.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Findings</jats:title>\n                    <jats:p>The findings reveal that network outages and a lack of supporting infrastructure are significant challenges impeding the implementation of analytics solutions in farming operations. The considerable effect group challenges were data heterogeneity and lack of user expertise and skill, reflecting their dependency on other challenges.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Research limitations/implications</jats:title>\n                    <jats:p>The research limitation lies in the small sample of experts and methodological dependency; however, it contributes to the literature by providing frameworks for understanding adoption challenges.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Originality/value</jats:title>\n                    <jats:p>The originality of this work lies in its twofold contribution: first, systematically identifying and validating the critical challenges hindering the integration of analytics into farming operations in developing economies; second, offering actionable insights that support managers and policymakers in advancing data-driven and sustainable agricultural practices.</jats:p>\n                  </jats:sec>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1111/deve.12411",
+    "title": [
+     "Global Value Chain Participation and Firm Exit During COVID‐19: Evidence from Emerging Countries"
+    ],
+    "container-title": [
+     "The Developing Economies"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       7,
+       7
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0003-4395-9476",
+      "authenticated-orcid": false,
+      "given": "Ngoc Thang",
+      "family": "Doan",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Faculty of International Business Banking Academy of Vietnam  Hanoi Vietnam"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 5,
+    "abstract": "<jats:p>This paper uncovers the nexus between global value chain participation and firm exit during COVID‐19 using merged data from World Bank Enterprises Survey and the Enterprise Survey Follow‐Up on COVID‐19. Empirical results suggest that participation in global value chain could positively extend firm survival and is robust to several specifications, including alternative measures of firm exit and global value chain participation. Further analysis indicates that global value chain participation helps a firm to improve productivity, enhance bargaining power, and mitigate financial constraints, thereby lifting the firm survival. Our paper contributes to understanding how global value chain participation influences firm exit, suggesting several policy and managerial implications.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1108/jadee-07-2024-0221",
+    "title": [
+     "Understanding factors influencing adoption of digital tools among extension agents of Nepal"
+    ],
+    "container-title": [
+     "Journal of Agribusiness in Developing and Emerging Economies"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       3,
+       4
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0009-0000-8615-0488",
+      "authenticated-orcid": true,
+      "given": "Manita",
+      "family": "Thapa",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "The Ohio State University Department of Agricultural Communication, Education, and Leadership, , , ,",
+        "place": [
+         "Columbus, Ohio, USA"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-9334-523X",
+      "authenticated-orcid": true,
+      "given": "Guilherme",
+      "family": "Signorini",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "The Ohio State University Department of Horticulture and Crop Science, , , ,",
+        "place": [
+         "Columbus, Ohio, USA"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Annie R.",
+      "family": "Specht",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "The Ohio State University Department of Agricultural Communication, Education, and Leadership, , , ,",
+        "place": [
+         "Columbus, Ohio, USA"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 1,
+    "abstract": "<jats:sec>\n                    <jats:title>Purpose</jats:title>\n                    <jats:p>The extension system in Nepal suffers from high transaction costs, limited reach and inadequate funding. The solution lies in the integration of digital extension tools but their adoption by extension agents is very low. This study explored the factors influencing adoption of these tools among extension agents of Bagmati and Gandaki provinces of Nepal.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Design/methodology/approach</jats:title>\n                    <jats:p>This study employed a quantitative survey to collect data from 128 participants. Firstly, factor and cluster analysis were used to categorize participants into three segments. Secondly, Logit model was used to identify determinants of adoption decisions.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Findings</jats:title>\n                    <jats:p>Three identified segments were named “Enthusiasts”, Conservatives” and “Pragmatists”. The “Enthusiasts” segment (baseline) exhibited strong interest, the “Conservatives” expressed reservation, whereas the “Pragmatists” showed balanced perceptions towards digital extension tools. Logit regression analysis revealed that higher hierarchical rank, use of mobile apps and being male significantly increased the likelihood of adoption. Conversely, the “Conservatives” segment, experience, receiving office space with Internet and training support significantly decreased the likelihood of adoption.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Research limitations/implications</jats:title>\n                    <jats:p>From the striking result with training and office support being negative influencers of adoption decisions, we can imply that current resource allocation for training programs and office facilities are ineffective. Policymakers should revisit the resource allocation strategies and explore new approaches that facilitate integration of digital extension tools.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Originality/value</jats:title>\n                    <jats:p>The methodological approach of participant segmentation complements Rogers’s diffusion of innovation theory by categorizing adopters based on their attitudes, beliefs and preconceptions.</jats:p>\n                  </jats:sec>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1002/isd2.12325",
+    "title": [
+     "Information technology adoption and small and medium enterprise performance: Does <scp>information technology</scp> adoption reduce rural penalty in emerging and developing countries?"
+    ],
+    "container-title": [
+     "THE ELECTRONIC JOURNAL OF INFORMATION SYSTEMS IN DEVELOPING COUNTRIES"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       4,
+       2
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Chikadibia George",
+      "family": "Ekeoma",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Graduate School of Economics Ritsumeikan University, Biwako Kusatsu Campus  Kusatsu Shiga Japan"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 7,
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>This study examines information technology (IT) adoption effects on the performance of small and medium enterprise (SMEs) in emerging markets and developing economies and how the locational challenges faced by rural SMEs could be reduced by IT adoption. Using 8466 firm‐level data from the 2022/2023 World Bank enterprise survey from 13 countries, across Europe and Central Asia, Latin America, Southeast Asia, South Asia, and Sub‐Saharan Africa, we used the entropy balancing technique and tested the effects of IT adoption on the relationship between remoteness and firm performance. Our results show that IT adoption positively affects firm performance and moderates the remoteness‐performance relationship, indicating that IT adoption reduces the rural penalty faced by remote firms. These findings imply that modern firms with sophisticated production methods outperform traditional ones; therefore, adopting information technology would benefit traditional rural firms.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.2139/ssrn.4380762",
+    "title": [
+     "The Applicability of the Dutch Foreign Exchange in Developing Countries, Least Developed Countries and the Emerging Economies"
+    ],
+    "container-title": [
+     "SSRN Electronic Journal"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Anthony Tapiwa",
+      "family": "Mazikana",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1177/09749101231167447",
+    "title": [
+     "Can the Belt and Road Initiative Promote the Industrialization of Developing Countries?"
+    ],
+    "container-title": [
+     "Global Journal of Emerging Market Economies"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       5
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Kunling",
+      "family": "Zhang",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Belt and Road School (BRS), Beijing Normal University, Zhuhai, China"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 9,
+    "abstract": "<jats:p>While industrialization has profound implications for human well-being, the industrialization of developing countries faces multiple challenges today. Based on the theoretical framework of development economics, this article discusses how the Belt and Road Initiative (BRI) as a new model of international development cooperation can complement and improve the traditional model and analyzes how the new model can promote the industrialization of developing countries. The findings show that BRI has improved the traditional international development cooperation model in terms of emphasizing investment in developing countries, infrastructure construction, the principles of achieving shared growth through consultation and collaboration, the role of the government, and systematic and open development cooperation. At the same time, the BRI can facilitate the industrialization of developing countries by improving agricultural productivity, building infrastructure, capital formation, trade promotion, rural–urban transformation, and upgrading technology and knowledge. However, the facilitation effect depends on how developing countries formulate industrialization strategies keeping in perspective their national conditions and development needs and the international economic environment.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.47772/ijriss.2026.100300477",
+    "title": [
+     "Modeling Digital Intention in Emerging Economies: A Comparative Discussion of TAM vs. UTAUT for Assessing BIM and AEC IT Adoption in Developing Countries (2020–2025)"
+    ],
+    "container-title": [
+     "International Journal of Research and Innovation in Social Science"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Mohammed",
+      "family": "Sabri",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Faculty of Built Environment & Surveying, UTM, 81310 Johor, Malaysia"
+       },
+       {
+        "name": "Malaysia"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Kherun Nita Bte",
+      "family": "Ali",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Faculty of Built Environment & Surveying, UTM, 81310 Johor, Malaysia"
+       },
+       {
+        "name": "Malaysia"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Ahmad Faiz Azizi Bin Ahmad",
+      "family": "Fauzi",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Faculty of Built Environment & Surveying, UTM, 81310 Johor, Malaysia"
+       },
+       {
+        "name": "Malaysia"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>The global architectural, engineering, and construction (AEC) industry is undergoing a profound digital transformation driven by the adoption of Building Information Modelling (BIM). However, the actual uptake in emerging economies remains constrained by a confluence of unique socio-economic and infrastructural challenges. This paper critically evaluates technology acceptance theories from 2020–2025, addressing the methodological debate between the Technology Acceptance Model (TAM) and the Unified Theory of Acceptance and Use of Technology (UTAUT). Utilising a Systematic Comparative Review (SCR), the study identifies an \"explanatory ceiling\" in TAM when applied to organisational settings. Consequently, the research establishes a methodological imperative for UTAUT, which formalises Social Influence (SI) and Facilitating Conditions (FC) to better model the professional hierarchies and fragmented infrastructures of developing nations. By strategically focusing on Behavioural Intention (BI) and omitting 'Actual Use' (AU), the study provides a robust, context-sensitive roadmap for digital innovation in resource-scarce environments</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.2139/ssrn.4558978",
+    "title": [
+     "Adoption of Digital Payments in Emerging Economies: Challenges and Policy Responses"
+    ],
+    "container-title": [
+     "SSRN Electronic Journal"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Jayaprada",
+      "family": "Putrevu",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Charilaos",
+      "family": "Mertzanis",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 2,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1108/jadee-08-2025-0392",
+    "title": [
+     "A sustainability-oriented KPI framework for digital twin adoption in the sugar industry: ISM–MICMAC approach"
+    ],
+    "container-title": [
+     "Journal of Agribusiness in Developing and Emerging Economies"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       11,
+       25
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0009-0007-3241-0556",
+      "authenticated-orcid": true,
+      "given": "Satish Chandra",
+      "family": "Pandey",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Indian Institute of Management Sambalpur , ,",
+        "place": [
+         "Sambalpur, India"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-3912-0742",
+      "authenticated-orcid": true,
+      "given": "Naveen",
+      "family": "Virmani",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Institute of Management Studies (IMS) Ghaziabad - B School , ,",
+        "place": [
+         "Ghaziabad, India"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Dimple",
+      "family": "Bhandari",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Hero MotoCorp Limited , ,",
+        "place": [
+         "Gurugram, India"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0001-5271-0192",
+      "authenticated-orcid": true,
+      "given": "Sandeep",
+      "family": "Jagtap",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Division of Engineering Logistics, Lund University , ,",
+        "place": [
+         "Lund, Sweden"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 2,
+    "abstract": "<jats:sec>\n                    <jats:title>Purpose</jats:title>\n                    <jats:p>The sugar industry is always pressured to be suitable and enhance its operational effectiveness. Digital twin (DT) has the potential to transform this industry. However, the lack of industry-specific key performance indicator (KPI) frameworks makes it challenging to implement them. This study provides a hierarchical KPI model for DT adoption in the sugar sector, interconnecting the United Nations' sustainable development goals (SDGs).</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Design/methodology/approach</jats:title>\n                    <jats:p>It has two phases: the first is an intense literature review, which identifies 24 relevant KPIs for DT adoption and sets the procedure for expert validation. Second, hierarchical relationships were identified through interpretive structural modeling (ISM) and MICMAC was used to classify KPIs based on driving and reliant power. The developed framework has several dimensions: technology, environmental, strategic, operational, financial and security.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Findings</jats:title>\n                    <jats:p>Operational and environmental KPIs relate to important factors; however, environmental, social and governance (ESG) tracking, stakeholder satisfaction, governance, social and environmental factors, and reduction of defects were also critical outcomes. Key drivers came after technological studies, such as integrating old legacy systems, data integration and return on investment, or digital investment. The KPI hierarchy establishes the structural relationship that ensures DT investments align with sustainability goals, including cutting carbon emissions, maximizing resource usage and reducing water consumption.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Research limitations/implications</jats:title>\n                    <jats:p>Likewise, earlier studies, the existing paper is also not free from limitations. We consulted experts from emerging economies like India to develop ISM modeling and collect data. However, the experts' opinions may change from country to country, impacting results. Also, the proposed research is applicable in the sugar sector.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Originality/value</jats:title>\n                    <jats:p>Developing the DT adoption KPIs in the sugar sector using ISM and MICMAC is a unique contribution of this research. In addition, all KPI frameworks are also interconnected with the United Nations sustainability goals.</jats:p>\n                  </jats:sec>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1016/j.digbus.2023.100065",
+    "title": [
+     "M-banking adoption from the developing countries perspective: A mediated model"
+    ],
+    "container-title": [
+     "Digital Business"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       12
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Hela Ben",
+      "family": "Abdennebi",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 43,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1155/hbe2/7801242",
+    "title": [
+     "Technostress, Open Innovation, and Digital Ecosystems: A Data‐Driven Model of FinTech Adoption Among Gen Z in Developing Economies"
+    ],
+    "container-title": [
+     "Human Behavior and Emerging Technologies"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       1
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-7989-4806",
+      "authenticated-orcid": false,
+      "given": "Muhardi",
+      "family": "Saputra",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-0581-2521",
+      "authenticated-orcid": false,
+      "given": "Paulus Insap",
+      "family": "Santosa",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0009-0008-8525-9615",
+      "authenticated-orcid": false,
+      "given": "Sitthidej",
+      "family": "Bamrungsap",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-2663-4074",
+      "authenticated-orcid": false,
+      "given": "Adhistya Erna",
+      "family": "Permanasari",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>\n                    Existing theoretical studies typically frame technostress as a barrier that limits technology adoption. This study challenges this assumption by positioning technostress as an adaptive stimulus within the digital ecosystem. It empirically examines how technostress influences FinTech adoption among Generation Z in developing countries. Guided by open innovation principles, 100,000 online FinTech user reviews were mined using LDA and aspect‐based sentiment analysis to inductively derive three system stimuli related to technostress—ease of access, customer support, and security. These stimuli were then validated through PLS‐SEM with 545 Gen Z respondents in Indonesia. The model explains 62.7% of the variance in attitude, 62.4% in perceived usefulness, and 42.0% in behavioral intention. Ease of access emerges as a strong predictor of perceived ease of use (\n                    <jats:italic>β</jats:italic>\n                    = 0.489,\n                    <jats:italic>p</jats:italic>\n                    &lt; 0.001), which in turn exerts a dominant effect on perceived usefulness (\n                    <jats:italic>β</jats:italic>\n                    = 0.690,\n                    <jats:italic>p</jats:italic>\n                    &lt; 0.001;\n                    <jats:italic>f</jats:italic>\n                    <jats:sup>2</jats:sup>\n                    = 0.963). Notably, security significantly strengthens perceived behavioral control (\n                    <jats:italic>β</jats:italic>\n                    = 0.408,\n                    <jats:italic>p</jats:italic>\n                    &lt; 0.001) and subjective norm (\n                    <jats:italic>β</jats:italic>\n                    = 0.420,\n                    <jats:italic>p</jats:italic>\n                    &lt; 0.001). Still, it shows no direct effect on attitude (\n                    <jats:italic>β</jats:italic>\n                    = −0.020,\n                    <jats:italic>p</jats:italic>\n                    = 0.467), indicating that security functions as a legitimacy threshold rather than an affective driver. Subjective norm (\n                    <jats:italic>β</jats:italic>\n                    = 0.387) and perceived behavioral control (\n                    <jats:italic>β</jats:italic>\n                    = 0.267) shape behavioral intention more strongly than attitude (\n                    <jats:italic>β</jats:italic>\n                    = 0.117), suggesting that adoption in emerging digital ecosystems is structured by social validation and perceived control rather than emotional preference. PLSpredict results further confirm strong out‐of‐sample predictive performance at both indicator and construct levels. These findings challenge and extend the dominant hindrance‐based view of technostress by showing that in voluntary consumer‐driven ecosystems, stress‐inducing system attributes can catalyze trust formation and sustained engagement. The results, therefore, suggest the need for a respecification in consumer contexts, where technological demands function not solely as strain but as structured stimuli embedded within open innovation dynamics that reshape digital adoption behavior.\n                  </jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1080/17520843.2024.2432722",
+    "title": [
+     "Hand-to-mouth, habit formation, and intertemporal elasticity of substitution behaviours in Asian developing countries"
+    ],
+    "container-title": [
+     "Macroeconomics and Finance in Emerging Market Economies"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       11,
+       21
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-0596-4429",
+      "authenticated-orcid": false,
+      "given": "Huu Tuyen",
+      "family": "Tran",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "J.E. Cairnes School of Business &amp; Economics, University of Galway, Galway, Ireland"
+       },
+       {
+        "name": "Banking Faculty, Banking Academy of Vietnam, Hanoi, Vietnam"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 1,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.34306/abdi.v7i1.1500",
+    "title": [
+     "Digital Entrepreneurship as a Driver of Innovation Ecosystems in Developing Countries",
+     "Digital Entrepreneurship as a Driver of Innovation Ecosystems in Emerging Economies"
+    ],
+    "container-title": [
+     "ADI Bisnis Digital Interdisiplin Jurnal"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       6,
+       13
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Wenaldo Abdi",
+      "family": "Gunawan",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Nila",
+      "family": "Sari",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Andrian",
+      "family": "Syahputra",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Ismail",
+      "family": "Zikri",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Arthur",
+      "family": "Freeman",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>This abstract is developed with a background that rapid digital technological advancement has positioned digital entrepreneurship as a critical driving force in shaping and accelerating innovation ecosystems, particularly in developing countries that face structural limitations such as restricted access to resources, markets, and conventional infrastructure. Digitalization enables entrepreneurs to leverage digital platforms to create value, foster collaboration, and stimulate inclusive and sustainable innovation. Based on this background, the Object of this study is to analyze the role of digital entrepreneurship as a key catalyst in driving innovation ecosystems in developing countries, as well as to identify the mechanisms of interaction among ecosystem actors mediated by digital technologies. The Method employed in this research adopts a qualitative approach through a systematic literature review of reputable international journal articles published within the last five years, complemented by conceptual analysis to construct an integrated analytical framework. The Result of the study indicates that digital entrepreneurship significantly strengthens innovation ecosystems by enhancing cross-sector collaboration, accelerating knowledge diffusion, improving business process efficiency, and expanding access to markets and financing opportunities. Furthermore, digital platforms are shown to play a vital role in bridging structural gaps commonly found in developing economies. The Conclusion of this research highlights that digital entrepreneurship should not be viewed merely as technology-based economic activity, but rather as a strategic catalyst for building adaptive, inclusive, and sustainable innovation ecosystems, thereby requiring integrated policy support and coordinated development strategies at both national and regional levels.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.34306/hky16s83",
+    "title": [
+     "Digital Entrepreneurship as a Driver of Innovation Ecosystems in Developing Countries",
+     "Digital Entrepreneurship as a Driver of Innovation Ecosystems in Emerging Economies"
+    ],
+    "container-title": [
+     "ADI Bisnis Digital Interdisiplin Jurnal"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       6,
+       13
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Wenaldo Abdi",
+      "family": "Gunawan",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Nila",
+      "family": "Sari",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Andrian",
+      "family": "Syahputra",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Ismail",
+      "family": "Zikri",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Arthur",
+      "family": "Freeman",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>This abstract is developed with a background that rapid digital technological advancement has positioned digital entrepreneurship as a critical driving force in shaping and accelerating innovation ecosystems, particularly in developing countries that face structural limitations such as restricted access to resources, markets, and conventional infrastructure. Digitalization enables entrepreneurs to leverage digital platforms to create value, foster collaboration, and stimulate inclusive and sustainable innovation. Based on this background, the Object of this study is to analyze the role of digital entrepreneurship as a key catalyst in driving innovation ecosystems in developing countries, as well as to identify the mechanisms of interaction among ecosystem actors mediated by digital technologies. The Method employed in this research adopts a qualitative approach through a systematic literature review of reputable international journal articles published within the last five years, complemented by conceptual analysis to construct an integrated analytical framework. The Result of the study indicates that digital entrepreneurship significantly strengthens innovation ecosystems by enhancing cross-sector collaboration, accelerating knowledge diffusion, improving business process efficiency, and expanding access to markets and financing opportunities. Furthermore, digital platforms are shown to play a vital role in bridging structural gaps commonly found in developing economies. The Conclusion of this research highlights that digital entrepreneurship should not be viewed merely as technology-based economic activity, but rather as a strategic catalyst for building adaptive, inclusive, and sustainable innovation ecosystems, thereby requiring integrated policy support and coordinated development strategies at both national and regional levels.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.20473/jde.v8i1.38361",
+    "title": [
+     "Digital Financial Inclusion and Implications for Developing Countries Economic Growth"
+    ],
+    "container-title": [
+     "Journal of Developing Economies"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       6,
+       15
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Misbahol",
+      "family": "Yaqin",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0001-5267-4822",
+      "authenticated-orcid": false,
+      "given": "Sugiharso",
+      "family": "Safuan",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 8,
+    "abstract": "<jats:p>This study aims to develop a model to measure financial inclusion by incorporating the evolution of digital finance and identifying its relationship with GDP growth in emerging nations. Data used are from 51 developing countries in 2014 and 2017. Principal component analysis (PCA) was used to create the Digital Financial Inclusion Index. The fixed effects model (FEM) is used to estimate the association between the inclusion of digital finances and economic growth. According to the study, metrics of digital financial inclusion in emerging nations are in the middle. Compared to other research, the financial inclusion indicator in this study strengthens it. The study discovered that the inclusion of digital finance enhances GDP growth in developing nations after testing the influence of digital financial inclusion on GDP growth in developing countries.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1108/jadee-04-2024-0130",
+    "title": [
+     "Modelling the enablers of Industry 4.0 technology adoption in agricultural supply chains in emerging economies"
+    ],
+    "container-title": [
+     "Journal of Agribusiness in Developing and Emerging Economies"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       4,
+       11
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0001-6542-7097",
+      "authenticated-orcid": true,
+      "given": "Janya",
+      "family": "Chanchaichujit",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Faculty of Environmental Management, Prince of Songkla University , ,",
+        "place": [
+         "Songkhla, Thailand"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-0475-7305",
+      "authenticated-orcid": true,
+      "given": "Sreejith",
+      "family": "Balasubramanian",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Business School, Middlesex University - Dubai Campus , ,",
+        "place": [
+         "Dubai, United Arab Emirates"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Supriya Kunnath",
+      "family": "Kaitheri",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Faculty of Environmental Management, Prince of Songkla University , ,",
+        "place": [
+         "Songkhla, Thailand"
+        ]
+       },
+       {
+        "name": "Business School, Middlesex University - Dubai Campus , ,",
+        "place": [
+         "Dubai, United Arab Emirates"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Sony",
+      "family": "Sreejith",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Business School, Middlesex University - Dubai Campus , ,",
+        "place": [
+         "Dubai, United Arab Emirates"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Kanruthai",
+      "family": "Chanchaichujit",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Faculty of Management Sciences, Prince of Songkla University , ,",
+        "place": [
+         "Songkhla, Thailand"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 3,
+    "abstract": "<jats:sec>\n                    <jats:title>Purpose</jats:title>\n                    <jats:p>The adoption of Industry 4.0 is critical for the post-pandemic recovery and growth of the agricultural sector, particularly in developing economies, where it can boost productivity, increase income, reduce poverty and create jobs. This study aims to identify, model and prioritize key enablers for Industry 4.0 adoption in Thailand’s agricultural sector.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Design/methodology/approach</jats:title>\n                    <jats:p>The study identified and validated 10 key enablers through a comprehensive literature review and semi-structured interviews with key stakeholders. Interpretive structural modelling (ISM) was used to gain insights into the hierarchical structure and complex interrelationships among enablers. The cross-impact matrix multiplication applied to classification (MICMAC) analysis clustered the enablers into four groups (autonomous, dependent, linkage and driver) based on their ability to drive change and their dependency on other factors.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Findings</jats:title>\n                    <jats:p>Government regulation and policies emerged as the enabler with the highest driver power influencing other enablers. A firm’s top management involvement/support, awareness and capacity-building programmes, stakeholder collaboration and partnerships were found to be de-pendent on other enablers. The ISM model and MICMAC analysis highlighted the enablers needing prioritization.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Research limitations/implications</jats:title>\n                    <jats:p>This study focused on the Thai agricultural sector as the context for the findings. The identification and prioritization of enablers offer a foundation for future research and the exploration of similar enablers in different sectors or economies.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Originality/value</jats:title>\n                    <jats:p>This is the first comprehensive investigation to identify and model the enablers of Industry 4.0 adoption in agricultural supply chains in emerging economies, indicating a significant contribution to the existing literature.</jats:p>\n                  </jats:sec>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.64388/irev9i8-1714587",
+    "title": [
+     "Digital Financial Services Adoption and Financial Inclusion in Emerging Economies: Evidence from Nigeria"
+    ],
+    "container-title": [
+     "Iconic Research and Engineering Journals"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       3,
+       3
+      ]
+     ]
+    },
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.66348/jefa.26.v1.n1.a19",
+    "title": [
+     "Fiscal Policy and Economic Growth in Developing Countries: Evidence from 12 Emerging Economies"
+    ],
+    "container-title": [
+     "Journal of Economics and Financial Affairs"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       5,
+       30
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Thamina",
+      "family": "Akter",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Department of Economics University of Southern Denmark Campusvej 55, Denmark ."
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>This study examines the impact of fiscal policy on economic growth in 12 developing countries over the period 2000–2023. Using panel data techniques, including fixed effects, random effects, pooled OLS, dynamic System GMM, and long-run estimators (FMOLS and DOLS), the analysis investigates the roles of government expenditure, tax revenue, fiscal balance, and public debt, while controlling for inflation, capital formation, population growth, and human capital. Preliminary analysis, including descriptive statistics, correlation, fiscal composition, multicollinearity, unit root, and cointegration tests, confirms data suitability and long-run relationships. Results indicate that government expenditure, tax revenue, fiscal balance, capital formation, and human capital positively influence GDP growth, whereas high public debt, inflation, and population growth exert negative effects. Interaction and moderation analyses reveal that human capital amplifies the growth effects of fiscal policy, while inflation dampens it. Robustness checks and Granger causality tests support the main findings, highlighting unidirectional causality from fiscal variables to growth. The study underscores the importance of balanced fiscal management, prudent debt strategies, and human capital investment to enhance growth outcomes. These findings provide actionable insights for policymakers seeking to design effective, growth-oriented fiscal frameworks in emerging economies.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1108/dprg-06-2023-0077",
+    "title": [
+     "The adoption of digital payments in emerging economies: challenges and policy responses"
+    ],
+    "container-title": [
+     "Digital Policy, Regulation and Governance"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       10,
+       3
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Jayaprada",
+      "family": "Putrevu",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Charilaos",
+      "family": "Mertzanis",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 87,
+    "abstract": "<jats:sec>\n<jats:title content-type=\"abstract-subheading\">Purpose</jats:title>\n<jats:p>This paper aims to present a comprehensive overview of the emergence and significance of digital payments, focusing on their impact on competitiveness and the need for policy interventions. In addition, it explores the design of policies that promote the adoption of digital payments, highlighting the benefits they offer to providers and users.</jats:p>\n</jats:sec>\n<jats:sec>\n<jats:title content-type=\"abstract-subheading\">Design/methodology/approach</jats:title>\n<jats:p>The paper examines the technological advances that have driven the growth of digital payment systems. It identifies key requirements for successful adoption and discusses the associated risks, along with potential strategies to mitigate these risks.</jats:p>\n</jats:sec>\n<jats:sec>\n<jats:title content-type=\"abstract-subheading\">Findings</jats:title>\n<jats:p>The findings emphasize the importance of responsible implementation and safeguarding the well-being of end users to fully realize the benefits of digital payment adoption. Understanding the inherent risks and establishing effective risk mitigation mechanisms are crucial. This necessitates the development of appropriate infrastructure to support the provision of digital payment services.</jats:p>\n</jats:sec>\n<jats:sec>\n<jats:title content-type=\"abstract-subheading\">Research limitations/implications</jats:title>\n<jats:p>More research is needed to gain deeper insights into how emerging global trends in financial technology should be analyzed and understood by policymakers, service providers and users.</jats:p>\n</jats:sec>\n<jats:sec>\n<jats:title content-type=\"abstract-subheading\">Practical implications</jats:title>\n<jats:p>The findings of this study can guide policymakers, private sector managers and consumers in comprehending the effects of emerging digitalization trends and determining their adoption responses accordingly.</jats:p>\n</jats:sec>\n<jats:sec>\n<jats:title content-type=\"abstract-subheading\">Originality/value</jats:title>\n<jats:p>This paper stands out as one of the few research contributions that provide comprehensive and actionable policy recommendations to facilitate a smooth transition to a digital payments ecosystem that benefits all stakeholders.</jats:p>\n</jats:sec>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1080/17520843.2024.2363025",
+    "title": [
+     "The anatomy of public debt reversals: new empirical insights from developing countries"
+    ],
+    "container-title": [
+     "Macroeconomics and Finance in Emerging Market Economies"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       6,
+       4
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Rabia",
+      "family": "Rafique",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Central University of Finance and Economics",
+        "place": [
+         "Beijing, People’s Republic of China"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Asad",
+      "family": "Nisar",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Central University of Finance and Economics",
+        "place": [
+         "Beijing, People’s Republic of China"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Syed Sadaqat Ali",
+      "family": "Shah",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Beijing International Studies University",
+        "place": [
+         "Beijing, People’s Republic of China"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1108/jadee-12-2021-0311",
+    "title": [
+     "Wine tourism in developing countries – the case of Armenia"
+    ],
+    "container-title": [
+     "Journal of Agribusiness in Developing and Emerging Economies"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       4,
+       23
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-7009-4124",
+      "authenticated-orcid": true,
+      "given": "Linda",
+      "family": "Bitsch",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Hochschule Geisenheim University , ,",
+        "place": [
+         "Geisenheim, Germany"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Jon H.",
+      "family": "Hanf",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Hochschule Geisenheim University , ,",
+        "place": [
+         "Geisenheim, Germany"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-5102-8906",
+      "authenticated-orcid": true,
+      "given": "Isabel",
+      "family": "Kottmann",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Hochschule Geisenheim University , ,",
+        "place": [
+         "Geisenheim, Germany"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:sec>\n                    <jats:title>Purpose</jats:title>\n                    <jats:p>With increasing wine consumption in Armenia, both residents and inbound tourists have become attractive target groups for wine sales, which are stimulated by wine tourism activities. The objective of this explorative study is to shed light on the potential of wine tourism for rural development in Armenia.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Design/methodology/approach</jats:title>\n                    <jats:p>The paper starts with a structured and interdisciplinary literature review. Based on qualitative surveys among local tour operators and wine producers, and complemented by three expert interviews, the offer of wine tourism activities in Armenia will then be analyzed.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Findings</jats:title>\n                    <jats:p>Each of the surveyed wine producers offers wine tourism activities. Foreign tourists know little about the Armenian wine industry, however, and are interested in cultural experiences and Armenia’s breathtaking nature. Armenian wine producers need to understand the expectations of their target groups to develop or adapt their offers successfully.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Research limitations/implications</jats:title>\n                    <jats:p>Due to the explorative nature of this study, the sample size of the surveyed wineries and tour operators is small and hence not representative. In addition, only local tour operators were surveyed. The sample should be extended to include foreign tour operators and more wineries in future research projects.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Originality/value</jats:title>\n                    <jats:p>Whereas first studies on the structure and competitiveness of the Armenian wine sector exist, there is no survey on the general wine tourism in Armenia and its potential to foster rural development.</jats:p>\n                  </jats:sec>",
+    "type": "journal-article"
+   }
+  ],
+  "items-per-page": 25,
+  "query": {
+   "start-index": 0,
+   "search-terms": null
+  }
+ }
+}

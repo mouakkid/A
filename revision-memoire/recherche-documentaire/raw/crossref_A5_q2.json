@@ -1,0 +1,1367 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message-version": "1.0.0",
+ "message": {
+  "facets": {},
+  "total-results": 408311,
+  "items": [
+   {
+    "DOI": "10.2139/ssrn.4987855",
+    "title": [
+     "Technological Unemployment in the Era of AI: Is Full Unemployment Worth Studying?"
+    ],
+    "container-title": [
+     "SSRN Electronic Journal"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Fabio",
+      "family": "D'Orlando",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.59670/ml.v20i5.2981",
+    "title": [
+     "Does the Perception of Unemployment Risk Affect the Willingness of Urban Citizenship of Chinese New-Generation Migrant Workers?"
+    ],
+    "container-title": [
+     "Migration Letters"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       8,
+       2
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Alan Zheng",
+      "family": "Ai-Xiang",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>Presently, the pace of transformation within traditional sectors of the Chinese economy is accelerating, resulting in the gradual demise of traditional occupations. Consequently, the emerging cohort of Chinese migrant workers confronts unprecedented challenges pertaining to their professional prospects and assimilation into urban society. In order to examine the impact of perceived unemployment risk on the inclination of new-generation migrant workers to embrace urban citizenship, we introduce the notions of environmental dynamism and active skill development as moderating variables. Employing multiple regression analysis, we construct a dual moderating model. The results of our study indicate that the perception of unemployment risk positively predicts the willingness of new-generation migrant workers to embrace urban citizenship. Moreover, we observe that environmental dynamism exerts a positive moderating influence on the relationship between unemployment risk perception and citizenship inclination. Additionally, active skill development serves to positively moderate the moderating effect of environmental dynamism. This study not only reveals the unique influence of subjective unemployment risk perception on the inclination towards urban citizenship but also sheds light on the role played by environmental dynamism and active skill development in this context. The findings of this research further enhance the theoretical framework pertaining to the study of urban citizenship inclination among new-generation Chinese migrant workers. \n </jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.47059/ml.v20i5.2981",
+    "title": [
+     "Does the Perception of Unemployment Risk Affect the Willingness of Urban Citizenship of Chinese New-Generation Migrant Workers?"
+    ],
+    "container-title": [
+     "Migration Letters"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       8,
+       2
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Alan Zheng",
+      "family": "Ai-Xiang",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>Presently, the pace of transformation within traditional sectors of the Chinese economy is accelerating, resulting in the gradual demise of traditional occupations. Consequently, the emerging cohort of Chinese migrant workers confronts unprecedented challenges pertaining to their professional prospects and assimilation into urban society. In order to examine the impact of perceived unemployment risk on the inclination of new-generation migrant workers to embrace urban citizenship, we introduce the notions of environmental dynamism and active skill development as moderating variables. Employing multiple regression analysis, we construct a dual moderating model. The results of our study indicate that the perception of unemployment risk positively predicts the willingness of new-generation migrant workers to embrace urban citizenship. Moreover, we observe that environmental dynamism exerts a positive moderating influence on the relationship between unemployment risk perception and citizenship inclination. Additionally, active skill development serves to positively moderate the moderating effect of environmental dynamism. This study not only reveals the unique influence of subjective unemployment risk perception on the inclination towards urban citizenship but also sheds light on the role played by environmental dynamism and active skill development in this context. The findings of this research further enhance the theoretical framework pertaining to the study of urban citizenship inclination among new-generation Chinese migrant workers. \n </jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.2139/ssrn.5286995",
+    "title": [
+     "Managerial Implications Of Technological Unemployment Anxiety: A Dimensional Study"
+    ],
+    "container-title": [
+     "SSRN Electronic Journal"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Mustafa Emre",
+      "family": "Civelek",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Mustafa Çağrı",
+      "family": "Pehlivanoğlu",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.3390/soc16030090",
+    "title": [
+     "Technological Unemployment Anxiety in the Post-Digital Ecosystem: A Bibliometric Analysis"
+    ],
+    "container-title": [
+     "Societies"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       3,
+       12
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Sabri",
+      "family": "Öz",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "BeTa Science Association, Istanbul School of Technology, Advanced Thought Institute, Bahcelievler, Istanbul 34810, Türkiye"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-7519-3068",
+      "authenticated-orcid": false,
+      "given": "M. Çağrı",
+      "family": "Pehlivanoğlu",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Faculty of Economics, Administrative and Social Sciences, Istanbul Kent University, Istanbul 34433, Türkiye"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-2847-5126",
+      "authenticated-orcid": false,
+      "given": "Mustafa Emre",
+      "family": "Civelek",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Faculty of Economics, Administrative and Social Sciences, Antalya Bilim University, Antalya 07190, Türkiye"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-5028-1096",
+      "authenticated-orcid": false,
+      "given": "Adnan Veysel",
+      "family": "Ertemel",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Management Engineering, Faculty of Management, Istanbul Technical University, Istanbul 34396, Türkiye"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>Rapid advances in automation, artificial intelligence, and Industry 4.0 technologies have intensified concerns about job displacement and reshaped employment relations globally. While technological unemployment has been widely examined, its psychological dimension—technological unemployment anxiety—remains fragmented and relatively underexplored in the literature. This study conducts a bibliometric analysis of 930 articles published between 2001 and 2025 and indexed in the Web of Science database to map the intellectual structure and thematic evolution of research on technology-related employment, including anxiety-related dimensions. Using keyword co-occurrence, collaboration mapping, and thematic clustering, this study identifies a gradual shift from macro-level economic discussions toward micro-level concerns, including job insecurity perceptions, employability expectations, and worker well-being. The findings indicate that post-pandemic digital acceleration has intensified individualized forms of workplace anxiety within contemporary workplaces. The novelty of this study lies in explicitly positioning technological unemployment anxiety as a distinct analytical construct, rather than a secondary outcome of technological change, thereby extending existing bibliometric research. The results offer insights for scholars and provide practical implications for policymakers and organizational actors seeking to address technology-driven anxiety in the emerging post-digital ecosystem.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.33976/iugjeps.34.2/2026/3",
+    "title": [
+     "The Role of Technological Unemployment Anxiety in Predicting Psychological Stress among Female Graduates of Public Universities in Riyadh"
+    ],
+    "container-title": [
+     "مجلة الجامعة الإسلامية للدراسات التربوية والنفسية"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       1,
+       18
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Haifa",
+      "family": "Al-Dosari",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1504/mejm.2023.10055404",
+    "title": [
+     "The effect of technological unemployment anxiety on employee burnout"
+    ],
+    "container-title": [
+     "Middle East J. of Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Murat",
+      "family": "Taşova",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Mustafa Emre",
+      "family": "Civelek",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "M. Çağrı",
+      "family": "Pehlivanoğlu",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/s12144-025-08989-0",
+    "title": [
+     "The impact of information type on AI threat perception: evidence from AI unemployment scenarios"
+    ],
+    "container-title": [
+     "Current Psychology"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       1,
+       28
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Jiahua",
+      "family": "Wu",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Yuyan",
+      "family": "Zhang",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Wanglong",
+      "family": "Jin",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Feng",
+      "family": "Yu",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Liying",
+      "family": "Xu",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/s00146-026-02941-x",
+    "title": [
+     "Is artificial intelligence a threat to meaningful work and living? Technological unemployment and the existential challenges of a transitional era"
+    ],
+    "container-title": [
+     "AI &amp; SOCIETY"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       4,
+       15
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Lucas",
+      "family": "Scripter",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Is artificial intelligence a threat to meaningful work and living? In both popular and academic press, concerns are often expressed that AI threatens not only people’s livelihoods but also the meaning they derive from their work. A common response to these worries stresses that the goods derived from work can be found elsewhere, often in better activities, suggesting that the proliferation of AI-powered automation does not threaten the meaningfulness of people’s lives. This argument, however, fails to consider the embeddedness and thickness of meaning in human lives. Even if there are rich non-work sources of meaning, this does not entail that there is not a significant and multi-faceted loss of meaning, one that cannot be compensated for or offset elsewhere. I will argue that thick subjectivist theories of meaning in life and meaningful work—those theories that emphasize that meaning-conferring activities are historically formed—enable us to appreciate how some losses cannot be made up, even if there are in principle ample alternative sources of meaning to be found elsewhere.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1504/mejm.2024.139578",
+    "title": [
+     "The effect of technological unemployment anxiety on employee burnout"
+    ],
+    "container-title": [
+     "Middle East J. of Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "M. Çağrı",
+      "family": "Pehlivanoğlu",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Mustafa Emre",
+      "family": "Civelek",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Murat",
+      "family": "Taşova",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 3,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1016/j.techfore.2025.124407",
+    "title": [
+     "Responsible AI for trustworthy tourism: A framework for mitigating ambiguity and anxiety with generative AI"
+    ],
+    "container-title": [
+     "Technological Forecasting and Social Change"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       2
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Hari Babu",
+      "family": "Singu",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Debarun",
+      "family": "Chakraborty",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Ciro",
+      "family": "Troise",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Mark Anthony",
+      "family": "Camilleri",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Stefano",
+      "family": "Bresciani",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 11,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.26900/hsq.2696",
+    "title": [
+     "On the way to the AI era: The view of health sciences faculty department students on AI and technological unemployment"
+    ],
+    "container-title": [
+     "HEALTH SCIENCES QUARTERLY"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       4,
+       26
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-9505-6677",
+      "authenticated-orcid": false,
+      "given": "Mehmet",
+      "family": "Koca",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0003-1453-0937",
+      "authenticated-orcid": false,
+      "given": "Feyza",
+      "family": "İnceoğlu",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0003-2519-0261",
+      "authenticated-orcid": false,
+      "given": "Seyhan",
+      "family": "Çıtlık Sarıtaş",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>As artificial intelligence-supported technologies begin to develop rapidly in the health sector, as in other fields, the concern that the need for professionals will decrease has brought about concerns about unemployment. This study aims to determine the health department students' perspective on artificial intelligence and their anxiety about technological unemployment. Artificial intelligence is developing today mainly in information technologies, and it is expected that professions that are application-based and require personalized interventions will be less affected. For this reason, four departments that are thought to be least and most affected by artificial intelligence development were taken. In this direction, the sample size was determined to be at least n=196 (each group n=49) with an effect size of 0.30, a margin of error of 0.05, a confidence level of 0.95, and a representative power of 0.95 universe, and the study was completed with n=206 participants. 86.89% of the participants (n=179) were female, and the age range was between 18 and 38. It was determined that the students studying in the department of exercise and sports sciences had the highest technological unemployment anxiety with 35.41, while the students studying in the department of midwifery had the lowest technological unemployment anxiety with 29.64. As a result of the study, it can be concluded that increasing anxiety about technological unemployment affects readiness for artificial intelligence. It is thought that providing students with information on how artificial intelligence can affect their professions and how this technology can be used, as well as practical courses such as artificial intelligence command language and robotics, will help reduce the anxiety of technology-related unemployment.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.17951/sil.2025.34.2.375-394",
+    "title": [
+     "Human Right to Work and Humanlike AI at Work: Technological Unemployment as a Legal and Ethical Issue"
+    ],
+    "container-title": [
+     "Studia Iuridica Lublinensia"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       9,
+       25
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0003-3974-2549",
+      "authenticated-orcid": false,
+      "given": "Riccardo",
+      "family": "Campa",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>The article considers various scenarios that are materializing following the emergence of a humanlike AI. In particular, the author argues that technological unemployment (and involuntary unemployment in general) should not be seen only as a technical issue belonging to economic discourse. Technological unemployment should also be seen as an ethical and legal issue, as a theory that entrusts the allocation of resources and jobs to the law of supply and demand alone is clearly in contrast with the Universal Declaration of Human Rights and various constitutional charts and ordinary laws. These pieces of legislation establish that work is not just an opportunity to be seized by competent people, but a fundamental human right.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.3389/fpsyt.2025.1641546",
+    "title": [
+     "The social anatomy of AI anxiety: gender, generations, and technological exposure"
+    ],
+    "container-title": [
+     "Frontiers in Psychiatry"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       11,
+       21
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Naciye Güliz",
+      "family": "Uğur",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Faruk",
+      "family": "Dursun",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 6,
+    "abstract": "<jats:sec>\n                    <jats:title>Introduction</jats:title>\n                    <jats:p>Public anxiety surrounding artificial intelligence (AI) carries significant clinical, educational, and policy implications. However, evidence regarding the multidimensional structure of AI-related anxiety and its demographic and experiential correlates remains fragmented. This study synthesizes validated measures into a coherent framework to examine how psychological and sociodemographic factors shape AI-related anxieties.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Method</jats:title>\n                    <jats:p>A cross-sectional survey of adults (N = 1,151) assessed nine dimensions of AI-related anxiety --general AI anxiety, technoparanoia, technophobia, AI interaction anxiety, job-replacement anxiety, sociotechnical blindness, cybernetic-revolt fear, technology self-efficacy, and AI learning orientation --adapted from established scales. Dimensionality was evaluated using common-factor exploratory factor analysis (principal axis factoring, Promax rotation; KMO = .89; Bartlett's p &amp;lt; .001), supported by parallel analysis and scree inspection. A 70/30 hold-out confirmatory factor analysis assessed structural validity. Reliability (Cronbach's α, McDonald's ω), composite reliability (CR), and average variance extracted (AVE) were calculated to examine internal consistency and convergent validity, while discriminant validity used the Fornell -Larcker and HTMT criteria. Group differences were tested using t-tests and ANOVA with Holm -Bonferroni correction and effect sizes. Hierarchical regression models controlled for age, gender, marital status, employment, and AI-use status.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>The nine-factor structure was supported (64.17% variance explained). CFA indicated good fit (CFI = .943, TLI = .936, RMSEA = .045 [90% CI .041 -.049], SRMR = .046). All scales demonstrated strong reliability (α, ω ≥ .80), convergent validity (CR ≥ .83; AVE ≥ .51), and discriminant validity. After correction for multiple comparisons, gender differences remained for technoparanoia, AI learning orientation, and AI interaction anxiety (small effects, Cohen's d ≈ .18 -.21). AI users exhibited higher general AI anxiety, technoparanoia, and sociotechnical blindness (d ≈ .17 -.29). Age-group differences were non-significant. Hierarchical regression showed that sociotechnical blindness and technoparanoia were the strongest positive predictors of general AI anxiety, while technology self-efficacy and AI learning orientation were negative predictors.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Discussion</jats:title>\n                    <jats:p>AI-related anxiety is a reliable and multidimensional construct, driven more by psychological dispositions and technology experience than by demographic characteristics. The findings suggest actionable pathways for mitigating anxiety, including targeted AI literacy initiatives, strengthening self-efficacy, and transparent communication regarding sociotechnical impacts. These interventions may support informed and equitable AI integration across clinical, educational, and policy contexts.</jats:p>\n                  </jats:sec>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.29140/jct.v2n1.103464",
+    "title": [
+     "\"Another type of nervousness\": Technological social presence anxiety in AI-mediated VR language learning"
+    ],
+    "container-title": [
+     "JALTCALL Trends"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       2,
+       23
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Amelia",
+      "family": "Ijiri",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>This study investigates how Japanese university students experience AI-mediated speaking practice in immersive virtual reality (VR) environments, focusing on affective adaptation and digital literacy. Using a within-subjects design, 17 English as a Foreign Language (EFL) learners participated in both human-peer and AI-chatbot interactions within Ovation VR (Ovation, 2024), a pre-generative public-speaking simulator. Quantitative data from digital literacy and perception surveys were triangulated with qualitative reflections to explore self-efficacy, comfort, and anxiety patterns. Findings revealed a moderate positive relationship between digital literacy and AI comfort (r = .34) and identified “another type of nervousness” a form of technological social presence anxiety arising from limited emotional feedback in AI interactions. Students with higher digital literacy exhibited greater self-regulation and adaptability, whereas lower-literacy learners reported confusion and discomfort. These results extend socio-technical learning theory by illustrating how affective and regulatory processes are co-produced through human–AI interaction, providing insight for culturally responsive AI integration in language education.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.3389/fpsyg.2025.1474639",
+    "title": [
+     "The relationship between proactive personality and migrant workers’ perception of technical unemployment risk under the impact of artificial intelligence in China"
+    ],
+    "container-title": [
+     "Frontiers in Psychology"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       3,
+       19
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Guanglu",
+      "family": "Xu",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Ming",
+      "family": "Xue",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 3,
+    "abstract": "<jats:sec><jats:title>Introduction</jats:title><jats:p>Under the background of rapid progress of artificial intelligence (AI) technology, migrant workers are at a high risk of becoming unemployed due to their low levels of human capital. As for the influencing factors of unemployment risk perception, individual characteristics are an important one. However, there remain few studies exploring the impact of personality on the perception of technical unemployment risk among migrant workers under the impact of AI. Therefore, this study examines the relationship between proactive personality and migrant workers’ perception of technical unemployment risk, focusing on the mediating roles of AI learning and AI self-efficacy.</jats:p></jats:sec><jats:sec><jats:title>Methods</jats:title><jats:p>This study collected data through the research platform “Credamo”. A total of 551 questionnaires were recovered in this survey, of which 446 valid questionnaires were reserved for research.</jats:p></jats:sec><jats:sec><jats:title>Results</jats:title><jats:p>The research results show that: proactive personality was negatively correlated with migrant workers’ perception of technical unemployment risk; AI learning and AI self-efficacy mediated this relationship independently, and played a chain-mediating role in this relationship.</jats:p></jats:sec><jats:sec><jats:title>Discussion</jats:title><jats:p>The present study contributes the perception of technical unemployment risk literature by highlighting the impact of proactive personality and the chain mediating role of AI learning and AI self-efficacy in a sample of Chinese migrant workers. The empirical results of this paper are considered as helpful for organizations to formulate the policies aimed at alleviating migrant workers’ perception of technical unemployment risk under the impact of AI technology.</jats:p></jats:sec>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.15659/3.sektor-sosyal-ekonomi.23.08.2170",
+    "title": [
+     "TEKNOLOJİK İŞSİZLİK KAYGISININ ÖRGÜTSEL SİNİZM ÜZERİNDEKİ ETKİSİ"
+    ],
+    "container-title": [
+     "3. SEKTÖR SOSYAL EKONOMİ DERGİSİ"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "MUSTAFA ÇAĞRI",
+      "family": "PEHLİVANOĞLU",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "MUSTAFA EMRE",
+      "family": "CİVELEK",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "EMRE",
+      "family": "EYMÜR",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1016/j.techfore.2025.124326",
+    "title": [
+     "The fear of being replaced by generative AI: An examination of influential factors among office workers"
+    ],
+    "container-title": [
+     "Technological Forecasting and Social Change"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       11
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0001-7442-4736",
+      "authenticated-orcid": false,
+      "given": "Hyeon",
+      "family": "Jo",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Do-Hyung",
+      "family": "Park",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 14,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.3389/fpsyg.2026.1788475",
+    "title": [
+     "Could AI risk perception, AI learning anxiety and personal growth initiative influence university students’ AI usage capability? An empirical investigation based on the control-value theory"
+    ],
+    "container-title": [
+     "Frontiers in Psychology"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       3,
+       18
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Yali",
+      "family": "Jiang",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Department of Psychology, Beijing Normal University",
+        "place": [
+         "Beijing, China"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Haiping",
+      "family": "Chen",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Department of Psychology, Beijing Normal University",
+        "place": [
+         "Beijing, China"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 1,
+    "abstract": "<jats:p>Based on the control-value theory, this study aims to explore the relationship among university students’ AI risk perception, AI learning anxiety, personal growth initiative, and AI usage capability. A questionnaire survey collected 1,001 valid data. SPSS 26.0 and PROCESS 3.4 were used for data processing. Results indicated that there was a significant negative correlation between AI risk perception and AI usage capability, and a significant indirect association through AI learning anxiety. Furthermore, personal growth initiative positively conditioned the negative association between AI risk perception and AI usage capability but negatively conditioned the negative relationship between AI learning anxiety and AI usage capability. This research offers a new perspective for understanding the emotional and cognitive mechanisms of college students in AI learning contexts and provides valuable insights for future AI education and system design.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/s10551-025-06007-8",
+    "title": [
+     "Self-Esteem and Technological Unemployment: Should We Halt AI to Protect Meaningful Work?"
+    ],
+    "container-title": [
+     "Journal of Business Ethics"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       5,
+       15
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-0909-3106",
+      "authenticated-orcid": false,
+      "given": "Carlo Ludovico",
+      "family": "Cordasco",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Carissa",
+      "family": "Véliz",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 8,
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Should we insulate humanity from AI development in an effort to preserve people’s ability to form self-esteem and find meaning in their occupations? In this article, we take this possibility seriously and argue that technological insulation would ultimately fail in its aim. In doing so, we will consider two different scenarios: one in which we only halt the deployment of technology that would lead to our replacement as workers, and a second one in which we collectively deliberate to halt technological development as a whole. The former, we argue, fails to preserve our ability to form self-esteem, as we become aware that our role is contingent on a policy that artificially preserves our status as contributing members of our communities. The latter seems unfeasible and overly demanding considering the expected benefits of AI. We propose instead the life of play and the life of excellence in the context of collaborative work with machines as alternative sources of self-esteem to the life of work.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/s41347-026-00638-y",
+    "title": [
+     "Intolerance of Uncertainty and Future Anxiety: The Serial Mediation Roles of Digital Risk Perception and AI Anxiety Among Turkish Adults"
+    ],
+    "container-title": [
+     "Journal of Technology in Behavioral Science"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       6,
+       30
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-6246-3540",
+      "authenticated-orcid": false,
+      "given": "Bilal",
+      "family": "Kaya",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0001-9748-626X",
+      "authenticated-orcid": false,
+      "given": "Fulya",
+      "family": "Cenkseven Önder",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.31269/csbwct77",
+    "title": [
+     "\"The Industrial Scrap Heap\": Technological Unemployment, Obsolescence and Older Workers in the Early Twentieth Century US"
+    ],
+    "container-title": [
+     "tripleC: Communication, Capitalism &amp; Critique. Open Access Journal for a Global Sustainable Information Society"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       12,
+       6
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Amanda",
+      "family": "Ciafone",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "id": [
+         {
+          "id": "https://ror.org/047426m28",
+          "id-type": "ROR",
+          "asserted-by": "publisher"
+         }
+        ],
+        "name": "University of Illinois Urbana-Champaign"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>Early 20th century workers, organisers, and social advocates argued that technological imposition by industry and its associated impact on older workers led to both the need and possibility to socialise old age economic security in the United States. This article explores how discourses of technological unemployment and human obsolescence influenced the push for old age pensions and Social Security. By analysing the intersection of technology, labour, and social movements and policy, the article sheds light on the ways in which technological unemployment has historically been used to justify economic and social reforms, and how these lessons can inform current debates on automation, AI and labour.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/s00146-023-01763-5",
+    "title": [
+     "Technology, the latent conqueror: an experimental study on the perception and awareness of technological determinism featuring select sci-fi films and AI literature"
+    ],
+    "container-title": [
+     "AI &amp; SOCIETY"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       11,
+       27
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Ardra P",
+      "family": "Kumar",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "S.",
+      "family": "Rukmini",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 3,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.4018/jgim.372177",
+    "title": [
+     "Unveiling the Impact of AI Technological Anxiety on the Marketers' Intention to Adopt Generative AI"
+    ],
+    "container-title": [
+     "Journal of Global Information Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       3,
+       29
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Meng",
+      "family": "Tao",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Dongbei University of Finance and Economics, Dalian, China"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0009-0002-0441-4625",
+      "authenticated-orcid": true,
+      "given": "Xiaofei",
+      "family": "Li",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Dongbei University of Finance and Economics, Dalian, China"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0003-3703-5170",
+      "authenticated-orcid": true,
+      "given": "Faizan",
+      "family": "Alam",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Dalian University, Dalian, China"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0009-0005-9943-1488",
+      "authenticated-orcid": true,
+      "given": "Yuyang",
+      "family": "Yan",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Guangzhou University, China"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0009-0007-3210-7151",
+      "authenticated-orcid": true,
+      "given": "Toby",
+      "family": "Chau",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Stanford University, USA"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 18,
+    "abstract": "<p>With the rapid development of Generative AI technology, businesses need their marketers to adopt it to assist in completing their job tasks. However, marketers are not entirely optimistic and may feel anxious and concerned about it. This research explores how AI anxiety affects marketers' AI-generated content intention. Based on social cognitive theory, this study empirically examines the impact of anxiety on marketers' intention to use AI-generated content, including the mediating role of AI trust and the moderating effect of AI self-efficacy. Using survey data from 495 marketers, we found that AI privacy, bias, and opacity anxiety negatively correlate with AI trust and weaken marketers' intention to use AI-generated content. Furthermore, this relationship is moderated by AI self-efficacy, where the negative relationship is significantly mitigated when marketers possess AI self-efficacy. These findings enrich the research on Generative AI in marketing and help organizations focus on marketers' anxious resistance to adopting Generative AI and reduce the adverse effects of AI anxiety.</p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.2224/sbp.14551",
+    "title": [
+     "Rural-to-urban Chinese migrant workers’ perception of risk of unemployment and depression: Impact of artificial intelligence"
+    ],
+    "container-title": [
+     "Social Behavior and Personality: an international journal"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       8,
+       6
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Guanglu",
+      "family": "Xu",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "School of Business, Nanjing University of Information Science and Technology, People’s Republic of China"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Xiaoqi",
+      "family": "Huang",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Business, Nanjing University of Information Science and Technology, People’s Republic of China"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Ming",
+      "family": "Xue",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Business Administration, Shanghai Lixin University of Accounting and Finance, People’s Republic of China"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 1,
+    "abstract": "<jats:p>In China, people who migrate from rural areas to cities for employment are mainly engaged in physical, repetitive, and low-skilled jobs. Artificial intelligence (AI) increases their unemployment risk, which can harm their mental health. We constructed a moderated mediation model of\n the link between perceived risk of unemployment and depression, and conducted a survey with 255 rural-to-urban migrant workers. Results revealed that perceived risk of unemployment had a positive association with depression, and AI anxiety mediated this relationship. Further, mindfulness moderated\n the association of AI anxiety and depression, and the mediating role of AI anxiety between perceived risk of unemployment and depression was negatively moderated by mindfulness. This paper extends research on the antecedents of depression under the impact of AI, providing a theoretical basis\n for organizational intervention in migrant workers??? mental health problems caused by the transformation of AI.</jats:p>",
+    "type": "journal-article"
+   }
+  ],
+  "items-per-page": 25,
+  "query": {
+   "start-index": 0,
+   "search-terms": null
+  }
+ }
+}

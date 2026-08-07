@@ -1,0 +1,947 @@
+{
+ "total": 1963,
+ "offset": 0,
+ "next": 25,
+ "data": [
+  {
+   "paperId": "9f012d0f5563d898a8c5ce29ac49aeed70163187",
+   "externalIds": {
+    "DOI": "10.1109/ICAISS68683.2026.11526676",
+    "CorpusId": 288704320
+   },
+   "title": "Explainable AI Framework for Transparent and Fair Recruitment Decision-Making in Automated HR Systems",
+   "venue": "2026 Fourth International Conference on Augmented Intelligence and Sustainable Systems (ICAISS)",
+   "year": 2026,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICAISS68683.2026.11526676?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICAISS68683.2026.11526676, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference"
+   ],
+   "authors": [
+    {
+     "authorId": "1658963638",
+     "name": "R. R. Rautrao"
+    },
+    {
+     "authorId": "2356850667",
+     "name": "M. Shailaja"
+    },
+    {
+     "authorId": "2353270488",
+     "name": "N. Roopalatha"
+    },
+    {
+     "authorId": "2324127965",
+     "name": "K. Kalaivani"
+    },
+    {
+     "authorId": "2382188945",
+     "name": "Feras Almarashdi"
+    },
+    {
+     "authorId": "2346531261",
+     "name": "M. Karthik"
+    }
+   ],
+   "abstract": "Human Resource hiring using Artificial Intelligence has revolutionized the traditional hiring practices, one that has not only increased the effectiveness of candidate evaluation and the efficiency of candidate selection. Current literature where graph-based and deep learning models are used is characterized by fairness, explainability, and biases mitigation challenges, which often result in opaque decisions that are difficult to trust. The suggested HR-GNN (Human Resource Graph Neural Network), which takes advantage of graph neural networks, represents the connection among candidates, job descriptions, and skills with fairness restrictions and SHAP-based clarifying modules. The methodology is implemented in Python and builds on heterogeneous graphs, which are created and the results produced are fed to relational learning to enhance both prediction accuracy and transparency. HR-GNN has an accuracy of 92.5% and F1-score, precision, fairness, and explainability of $91.9,0.92,0.72$, and 0.74 respectively, compared to traditional machine learning (78.5% accuracy) and deep learning (85.2% accuracy). The presented framework will allow HR professionals to make ethical, transparent, and biasconscience hiring choices to help them comply with the regulations, enhance trust in an organization, and enable the responsible use of AI-based recruitment systems in the actual HR setting."
+  },
+  {
+   "paperId": "25fa8e75062dbb1c11245d5374c17ede572f0645",
+   "externalIds": {
+    "DOI": "10.55041/ijsrem50733",
+    "CorpusId": 279568223
+   },
+   "title": "Trust in Artificial Intelligence vs. Human Recruiters: Analyzing Candidate Perceptions of Credibility, Ethical Considerations and Decision-Making Transparency in Hiring Process",
+   "venue": "INTERNATIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT",
+   "year": 2025,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.55041/ijsrem50733?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.55041/ijsrem50733, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "authors": [
+    {
+     "authorId": "2282318997",
+     "name": "Vansh Sharma"
+    }
+   ],
+   "abstract": "In today’s fast-paced and technology-driven world, recruitment is no longer just about face-to-face interviews or personal interactions with HR professionals. With the rise of artificial intelligence (AI), many companies have started using machines and algorithms to shortlist resumes, conduct video interviews, and even make final hiring decisions. This shift has helped organizations save time, process applications faster, and reduce the human workload. But in the middle of all this, one important question is often left out—how do job candidates feel about it?\n\nThis study is based on a simple yet powerful idea: when hiring, do candidates trust AI recruiters as much as human ones? As someone studying human resource management and business analytics, I wanted to explore how candidates feel when a machine is assessing them. Do they feel it’s fair? Ethical? Transparent? Or do they miss the human touch?\n\nTo understand this better, I designed a survey-based research using a structured questionnaire and shared it with students, job seekers, and working professionals who have experienced either human-led or AI-based recruitment. The questions focused on things like trust, transparency, ethics, and overall comfort level. I wanted to hear directly from the people going through the process."
+  },
+  {
+   "paperId": "556991c703ebe96424f8698497bd6a6e7b2fde1d",
+   "externalIds": {
+    "DOI": "10.51594/csitrj.v6i5.1934",
+    "CorpusId": 279217844
+   },
+   "title": "Explainable Artificial Intelligence (Al) through human-AI collaborative frameworks: Quantifying trust and interpretability in high-stakes decisions",
+   "venue": "Computer Science &amp; IT Research Journal",
+   "year": 2025,
+   "citationCount": 6,
+   "openAccessPdf": {
+    "url": "https://fepbl.com/index.php/csitrj/article/download/1934/2203",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.51594/csitrj.v6i5.1934?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.51594/csitrj.v6i5.1934, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2328488492",
+     "name": "Roy Okonkwo"
+    },
+    {
+     "authorId": "2332409579",
+     "name": "Adebola Folorunso"
+    },
+    {
+     "authorId": "2333147442",
+     "name": "Foyeke Ogundipe"
+    },
+    {
+     "authorId": "2365859683",
+     "name": "Clement Yayra Tettey"
+    }
+   ],
+   "abstract": "Explainable Artificial Intelligence (XAI) through human-AI collaborative frameworks is essential for building trust and interpretability in high-stakes decision-making processes. As AI systems are increasingly deployed in critical areas such as healthcare, finance, and criminal justice, the need for transparency and accountability in AI-driven decisions becomes paramount. High-stakes decisions often involve complex, high-consequence outcomes, where understanding and trusting AI predictions are vital. XAI aims to address these concerns by providing understandable, transparent explanations for AI decisions, making it possible for human experts to comprehend and, when necessary, override or adjust AI outputs. Human-AI collaboration focuses on enhancing the decision-making capabilities of both humans and machines by combining the strengths of AI’s computational power with human intuition and experience. By ensuring that AI systems are explainable, this collaboration fosters trust between humans and AI, essential for smooth integration in sensitive fields. Trust is crucial in high-stakes contexts, as users need to rely on AI outputs and integrate them into their decision-making processes. To quantify this trust, various metrics and frameworks have been developed, measuring aspects such as reliability, fairness, and the transparency of AI models. Interpretability is equally vital, as it allows users to trace and understand the rationale behind AI predictions. In high-stakes domains, transparent AI models support legal, ethical, and social accountability, ensuring that decisions are made with a clear understanding of how and why the AI reached a particular conclusion. However, achieving a balance between complex, high-performing AI models and the need for interpretability presents significant challenges. This explores how human-AI collaborative frameworks can address these challenges, enhancing the effectiveness, fairness, and trustworthiness of AI systems in high-stakes decision-making environments. \nKeywords: Explainable Artificial Intelligence, Human-Al, Frameworks Trust and Interpretability, High-Stakes Decisions."
+  },
+  {
+   "paperId": "21c6bcc6d8993a4f134a6f1eb96c0841ac26cde2",
+   "externalIds": {
+    "DOI": "10.58425/jpms.v2i1.570",
+    "CorpusId": 289664139
+   },
+   "title": "Explainable Artificial Intelligence (XAI) for Project Governance: Improving Transparency and Stakeholder Trust in Automated Project Decision",
+   "venue": "Journal of Project Management Studies",
+   "year": 2025,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "https://gprjournals.org/journals/index.php/jpms/article/download/570/555",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.58425/jpms.v2i1.570?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.58425/jpms.v2i1.570, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2439207260",
+     "name": "Paulson Geo Philip"
+    }
+   ],
+   "abstract": "Aim: This paper examines the role of Explainable Artificial Intelligence (XAI) in strengthening project governance through improved transparency, accountability, and stakeholder engagement. It also explores how explainability can enhance trust in AI-driven project decisions and support informed oversight in project management. \nMethods: The study draws on existing literature in AI governance, project management, and explainable machine learning. It examines the growing adoption of AI-driven systems in project management and analyzes the role of Explainable Artificial Intelligence (XAI) in addressing governance challenges associated with the use of advanced machine learning models. \nResults: The findings indicate that XAI contributes to improved project governance by enabling decision traceability, facilitating human–AI collaboration, and reducing concerns related to bias and uncertainty. However, the study also identifies significant implementation challenges, including organizational readiness, implementation complexity, and the trade-off between model performance and interpretability. \nConclusion: The study concludes that Explainable Artificial Intelligence has the potential to strengthen project governance by improving transparency, accountability, and stakeholder confidence in AI-generated decisions. Nevertheless, successful implementation requires addressing the practical challenges associated with deploying explainable AI systems in project environments. \nRecommendations: The study recommends further research on human-centered explainability, AI governance frameworks, and trust measurement mechanisms for AI-enabled project environments to enhance the effective governance and adoption of Explainable Artificial Intelligence in project management."
+  },
+  {
+   "paperId": "f41dc6d18f0d2b3fa72889b4a3e72f65aa9a4926",
+   "externalIds": {
+    "DOI": "10.1142/s2424862225500095",
+    "CorpusId": 283323597
+   },
+   "title": "Enhancing Project Management Decision-Making with Explainable Artificial Intelligence (XAI): A Model for Transparency and Trust",
+   "venue": "Journal of Industrial Integration and Management",
+   "year": 2025,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1142/s2424862225500095?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1142/s2424862225500095, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "authors": [
+    {
+     "authorId": "119521621",
+     "name": "Shah Mehmood Wagan"
+    },
+    {
+     "authorId": "2328704823",
+     "name": "S. Sidra"
+    }
+   ],
+   "abstract": "The study aims to understand the way in which Explainable Artificial Intelligence (XAI) is enhancing decisions made in the process of project management. It was a quantitative and research design where a structural survey tool using a validated scale was used to measure key constructs of study XAI, trust, understanding and quality of decision-making. The 233 samples were selected through an online questionnaire that was sent to experienced project managers who operate in fields of technology, construction, healthcare and financial aspects of different industries. The analysis of data employed structural equation modeling in the framework of SmartPLS software. The findings suggest that XAI considerably improves trust and understanding among project managers, which further boosts the quality of decision-making processes. To be more precise, path analysis revealed that the coefficient between XAI and trust ([Formula: see text]), XAI and understanding ([Formula: see text]), trust ([Formula: see text]) and understanding ([Formula: see text]) and quality of decisions was high and positive. Combined, they comprised 53% of the variance in the quality of decisions and this implies the mediating influence of the latter. Current research allows introducing findings that are considered a contribution to the current corpus of knowledge because they empirically prove the significance of XAI as a method of creating grounds of trust and comprehension within the project management environment."
+  },
+  {
+   "paperId": "1d5831e7b535d4a26efcc730c92bf6e964d602ba",
+   "externalIds": {
+    "DOI": "10.36948/ijfmr.2024.v06i06.30010",
+    "CorpusId": 273939420
+   },
+   "title": "Explainable Artificial Intelligence (XAI) in Healthcare: Enhancing Transparency and Trust",
+   "venue": "International Journal For Multidisciplinary Research",
+   "year": 2024,
+   "citationCount": 24,
+   "openAccessPdf": {
+    "url": "https://www.ijfmr.com/papers/2024/6/30010.pdf",
+    "status": "HYBRID",
+    "license": "CCBYSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.36948/ijfmr.2024.v06i06.30010?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.36948/ijfmr.2024.v06i06.30010, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "authors": [
+    {
+     "authorId": "2325361855",
+     "name": "Jaishankar Inukonda"
+    },
+    {
+     "authorId": "2325316626",
+     "name": "Vidya Rajasekhara Reddy Tetala"
+    },
+    {
+     "authorId": "2323582605",
+     "name": "Jayanna Hallur"
+    }
+   ],
+   "abstract": "Artificial Intelligence has now taken a full-fledged role in healthcare and has started driving innovations not only in diagnostics and treatment planning but also in patient monitoring and operational efficiency. This will enable complex medical data analysis, extracting patterns and insights that no human is capable of. However, most of these models are per se opaque-that is, the so-called \"black-box\" problem-there are still great challenges in areas such as transparency, trust, and ethical applications in a clinical setting. This lack of interpretability can stand in the way of acceptance or integration for AI technologies when issues of understanding and accountability are relevant.\nExplainable AI solves these problems by making real artificial intelligence decisions understand the decisions made to humans. XAI techniques offer well-understandable and interpretable explanations of the models with minimum degradations in performance.\n \nThis review article explains in detail the critical role of XAI in healthcare, underpinning how this field can bring more transparency into AI applications. We explain some of the current methods of XAI: model-agnostic techniques like LIME and SHAP, interpretable models relating to decision trees and linear models, and visualization techniques like saliency maps and mechanisms of attention."
+  },
+  {
+   "paperId": "312e02b99f05e0e90231d530cac22588b61e1765",
+   "externalIds": {
+    "DBLP": "journals/access/AlketbiM25",
+    "DOI": "10.1109/ACCESS.2025.3587114",
+    "CorpusId": 280098802
+   },
+   "title": "A Comprehensive Survey of Explainable Artificial Intelligence Techniques for Malicious Insider Threat Detection",
+   "venue": "IEEE Access",
+   "year": 2025,
+   "citationCount": 31,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1109/access.2025.3587114",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ACCESS.2025.3587114?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ACCESS.2025.3587114, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "authors": [
+    {
+     "authorId": "2372863590",
+     "name": "Khuloud Saeed Alketbi"
+    },
+    {
+     "authorId": "2179659049",
+     "name": "Abid Mehmood"
+    }
+   ],
+   "abstract": "Malicious insider threats remain a persistent and formidable challenge for organizations, primarily due to their covert nature and the severe impact they can have on critical systems and sensitive data. Traditional detection mechanisms often struggle to uncover such threats, underscoring the need for more intelligent, interpretable, and trustworthy solutions. Although the research community has shown increasing interest in Insider Threat Detection (ITD), existing surveys rarely emphasize the integration of Explainable Artificial Intelligence (XAI) with machine learning (ML) and deep learning (DL) techniques. This oversight has limited progress in understanding how interpretability can improve both detection effectiveness and the trust of security analysts. To address this gap, this survey presents a comprehensive review of the application of XAI in ITD. It explores how ML and DL models, when combined with XAI techniques, can uncover anomalous behaviors and insider actions while enhancing the transparency of model decisions. Tools such as SHAP and LIME are examined for their role in revealing feature contributions and improving analyst insight. The paper also highlights critical data sources–ranging from behavioral logs and network activity to psychometric indicators–that support the development of interpretable detection models. We categorize existing literature based on XAI techniques, data modalities, and threat models, and propose a conceptual framework for aligning XAI methods with specific ITD challenges. Our findings reveal that while XAI enhances interpretability and trust in AI-driven threat detection, several challenges persist. These include class imbalance in datasets, integration of heterogeneous data streams, and the absence of standardized metrics for evaluating explainability in cybersecurity contexts. Finally, the survey identifies key directions for future research, including privacy-preserving AI, human-in-the-loop explainability, and the development of benchmarking frameworks tailored to ITD applications. By offering a structured and up-to-date overview of XAI-enhanced ITD approaches, this work supports the advancement of more transparent, accountable, and operationally effective insider threat detection systems."
+  },
+  {
+   "paperId": "c6aea88f14ab06e3d62ac74c23623dba207d545e",
+   "externalIds": {
+    "ArXiv": "2604.16340",
+    "DBLP": "journals/corr/abs-2604-16340",
+    "DOI": "10.48550/arXiv.2604.16340",
+    "CorpusId": 287618278
+   },
+   "title": "How Can Explainable Artificial Intelligence Improve Trust and Transparency in Medical Diagnosis Systems?",
+   "venue": "arXiv.org",
+   "year": 2026,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2604.16340, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "authors": [
+    {
+     "authorId": "2268147408",
+     "name": "A. Seitenov"
+    },
+    {
+     "authorId": "2374463875",
+     "name": "A. Nurzhanova"
+    },
+    {
+     "authorId": "2429166565",
+     "name": "Azhar Bekbussinova"
+    },
+    {
+     "authorId": "2430555170",
+     "name": "Yerassyl Bolatkan"
+    }
+   ],
+   "abstract": "The growing adoption of artificial intelligence in healthcare has raised concerns about the transparency and trustworthiness of AI-driven medical diagnosis systems. Many existing models operate as black boxes, limiting clinicians'ability to understand how decisions are made. Explainable Artificial Intelligence (XAI) has been proposed as a solution to improve transparency, interpretability, and trust in AI-assisted medical tools. This study investigates the relationship between explainability and trust in AI-based diagnostic systems. A structured survey of 30 medical students was conducted to examine the influence of XAI understanding, confidence in AI decisions, perceived usefulness, and adoption intentions. The results indicate that explanations significantly increase trust, clarity, and perceived safety of AI recommendations. Knowledge of XAI showed a positive correlation with trust (r = 0.48, p = 0.01) and perceived usefulness (r = 0.60, p = 0.001). The findings suggest that explainability is a key factor for successful integration of AI in healthcare decision support systems. While AI explanations improve transparency and trust, participants still prefer AI to function as a support tool rather than replacing human clinical judgment."
+  },
+  {
+   "paperId": "b733ef917c59850344f6068cc0be1493c829df70",
+   "externalIds": {
+    "DOI": "10.31435/ijitss.1(49).2026.4676",
+    "CorpusId": 285565508
+   },
+   "title": "EXPLAINABLE ARTIFICIAL INTELLIGENCE IN HEALTHCARE: FROM ALGORITHMIC TRANSPARENCY TO TRUST AND SOCIAL ACCEPTANCE IN CLINICAL PRACTICE",
+   "venue": "International Journal of Innovative Technologies in Social Science",
+   "year": 2026,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.31435/ijitss.1(49).2026.4676",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.31435/ijitss.1(49).2026.4676?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.31435/ijitss.1(49).2026.4676, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "authors": [
+    {
+     "authorId": "2409850298",
+     "name": "Erwin Grzegorzak"
+    },
+    {
+     "authorId": "2409846179",
+     "name": "Rafał Pelczar"
+    },
+    {
+     "authorId": "2409849930",
+     "name": "Maciej Zachara"
+    },
+    {
+     "authorId": "2409845237",
+     "name": "Mateusz Bartoszek"
+    },
+    {
+     "authorId": "2409846110",
+     "name": "Patryk Harnicki"
+    },
+    {
+     "authorId": "2409848119",
+     "name": "Mikołaj Grodzki"
+    },
+    {
+     "authorId": "2409847921",
+     "name": "Jakub Minas"
+    },
+    {
+     "authorId": "2409848141",
+     "name": "Paulina Dybiak"
+    },
+    {
+     "authorId": "2409850182",
+     "name": "Adrian Morawiec"
+    },
+    {
+     "authorId": "2409850022",
+     "name": "Paweł Słoma"
+    },
+    {
+     "authorId": "2409845565",
+     "name": "Oliwia Krawczyk"
+    }
+   ],
+   "abstract": "Background and objective: The rapid expansion of artificial intelligence (AI) in healthcare has resulted in substantial advances in diagnostics, prognostics, clinical decision support systems, and patient monitoring. Despite promising performance, many AI-based systems remain insufficiently understood by clinicians and patients due to their “black-box” nature. This lack of transparency may undermine trust, hinder acceptance, and limit safe integration into routine clinical practice. Explainable artificial intelligence (XAI) has emerged as a response to these challenges by enabling human-interpretable explanations of algorithmic decisions. The objective of this narrative review is to synthesize current evidence on XAI in healthcare, with particular emphasis on its technical foundations, clinical applications, influence on trust and decision-making, and broader social and ethical implications. \nScope of review: This review synthesizes literature published between 2019 and 2025 addressing explainability in medical AI. The analysis includes methodological studies, clinical evaluations, human–computer interaction research, and social science investigations related to transparency, trust, accountability, and acceptance of AI systems. Relevant publications were identified through structured searches of PubMed, MEDLINE, Scopus, and Google Scholar using keywords related to explainable AI, interpretability, ethics, trust, and clinical decision support. \nFindings: XAI methods—including feature attribution, model simplification, counterfactual explanations, and visualization techniques—demonstrate potential to enhance clinician understanding of AI outputs and increase confidence in algorithm-assisted decisions. Evidence suggests that explainability may support diagnostic accuracy, reduce automation bias, and facilitate error detection. However, explainability alone does not ensure trust. Clinical context, user expertise, organizational culture, and regulatory frameworks play critical roles in shaping the adoption and appropriate use of explainable systems. Empirical research addressing patient perspectives remains limited. \nConclusions: Explainable AI constitutes an important step toward the responsible and socially acceptable integration of intelligent systems in healthcare. While XAI can enhance transparency and trust, its effectiveness depends on thoughtful design, contextual adaptation to clinical workflows, and alignment with user needs. Further interdisciplinary research is required to standardize explainability approaches, evaluate their real-world impact on clinical outcomes, and address the ethical, legal, and societal challenges associated with medical AI."
+  },
+  {
+   "paperId": "717069343783be9037895fd9e927c1f24d5c6a22",
+   "externalIds": {
+    "DOI": "10.21474/jncs01/132",
+    "CorpusId": 290176164
+   },
+   "title": "EXPLAINABLE ARTIFICIAL INTELLIGENCE FOR CYBERSECURITY THREAT DETECTION: IMPROVING TRUST AND TRANSPARENCY IN INTELLIGENT SECURITY SYSTEMS",
+   "venue": "Journal of Computer Science",
+   "year": 2026,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "https://jananexuscs.com/uploads/2026/05/6a50bbf660bd7_JNCS-055.pdf",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.21474/jncs01/132?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.21474/jncs01/132, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2424498937",
+     "name": "Zoya Hassan"
+    },
+    {
+     "authorId": "2449936110",
+     "name": "Liam Rodriguez"
+    },
+    {
+     "authorId": "2431868097",
+     "name": "Ethan Carter"
+    }
+   ],
+   "abstract": "The rapid evolution of cyber threats has increased the demand for intelligent security systems capable of detecting sophisticated attacks in real time. Artificial Intelligence (AI) has significantly enhanced intrusion detection, malware classification, phishing detection, and anomaly identification through advanced machine learning algorithms. However, many AI-based cybersecurity models operate as \"black boxes,\" making their decision-making processes difficult to interpret. This lack of transparency reduces user trust and limits practical deployment in critical infrastructures. Explainable Artificial Intelligence (XAI) addresses this challenge by providing understandable and interpretable explanations for AI-generated decisions. This paper investigates the role of Explainable Artificial Intelligence in modern cybersecurity, presents a comprehensive XAI-based threat detection framework, discusses recent advancements, evaluates existing challenges, and explores future research directions. The proposed framework combines deep learning, explainability techniques, attention mechanisms, and human-centered visualization to improve transparency while maintaining high detection accuracy. The study concludes that Explainable AI represents an essential component of trustworthy cybersecurity systems capable of supporting both automated and human-assisted security operations."
+  },
+  {
+   "paperId": "c4a5b0e213c957333bd28662a1557962a1f70de3",
+   "externalIds": {
+    "DOI": "10.35629/5252-07040105",
+    "CorpusId": 277774933
+   },
+   "title": "Advancing Transparency and DecisionMaking in Job Scheduling through Explainable Artificial Intelligence (AI)",
+   "venue": "International Journal of Advances in Engineering and Management",
+   "year": 2025,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.35629/5252-07040105?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.35629/5252-07040105, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2355311005",
+     "name": "Oluwatumininu Anne Ajayi"
+    }
+   ],
+   "abstract": "Job scheduling is a critical component in various\nindustries, including manufacturing, healthcare,\nand information technology. Traditional scheduling\nalgorithms often operate as \"black boxes,\"\nproviding limited insight into their decision-making\nprocesses. This lack of transparency can hinder\ntrust and adoption, particularly in high-stakes\nenvironments. This paper explores the integration\nof Explainable Artificial Intelligence (XAI)\ntechniques into job scheduling systems to enhance\ntransparency and improve decision-making. We\npresent a comprehensive framework that leverages\nXAI to provide interpretable explanations for\nscheduling decisions, thereby enabling stakeholders\nto understand, trust, and optimize these systems.\nOur approach is validated through a series of case\nstudies across different industries, demonstrating\nthe practical benefits of XAI in job scheduling. The\nresults indicate significant improvements in\nefficiency, resource utilization, and stakeholder\ntrust, highlighting the transformative potential of\nXAI in job scheduling"
+  },
+  {
+   "paperId": "25c6acf8f7105d41176c3cc589a01731d71e513e",
+   "externalIds": {
+    "DBLP": "journals/frai/MohaleO25",
+    "PubMedCentral": "11877648",
+    "DOI": "10.3389/frai.2025.1526221",
+    "CorpusId": 275980941,
+    "PubMed": "40040929"
+   },
+   "title": "A systematic review on the integration of explainable artificial intelligence in intrusion detection systems to enhancing transparency and interpretability in cybersecurity",
+   "venue": "Frontiers Artif. Intell.",
+   "year": 2025,
+   "citationCount": 102,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.3389/frai.2025.1526221",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11877648, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "authors": [
+    {
+     "authorId": "2322546658",
+     "name": "Vincent Zibi Mohale"
+    },
+    {
+     "authorId": "1859899",
+     "name": "I. Obagbuwa"
+    }
+   ],
+   "abstract": "The rise of sophisticated cyber threats has spurred advancements in Intrusion Detection Systems (IDS), which are crucial for identifying and mitigating security breaches in real-time. Traditional IDS often rely on complex machine learning algorithms that lack transparency despite their high accuracy, creating a “black box” effect that can hinder the analysts’ understanding of their decision-making processes. Explainable Artificial Intelligence (XAI) offers a promising solution by providing interpretability and transparency, enabling security professionals to understand better, trust, and optimize IDS models. This paper presents a systematic review of the integration of XAI in IDS, focusing on enhancing transparency and interpretability in cybersecurity. Through a comprehensive analysis of recent studies, this review identifies commonly used XAI techniques, evaluates their effectiveness within IDS frameworks, and examines their benefits and limitations. Findings indicate that rule-based and tree-based XAI models are preferred for their interpretability, though trade-offs with detection accuracy remain challenging. Furthermore, the review highlights critical gaps in standardization and scalability, emphasizing the need for hybrid models and real-time explainability. The paper concludes with recommendations for future research directions, suggesting improvements in XAI techniques tailored for IDS, standardized evaluation metrics, and ethical frameworks prioritizing security and transparency. This review aims to inform researchers and practitioners about current trends and future opportunities in leveraging XAI to enhance IDS effectiveness, fostering a more transparent and resilient cybersecurity landscape."
+  },
+  {
+   "paperId": "61fd8eb53d686684594e5c19031e6335cb6cc2b2",
+   "externalIds": {
+    "DOI": "10.36349/fujpam.2026.v5i01.013",
+    "CorpusId": 288521573
+   },
+   "title": "ARTIFICIAL INTELLIGENCE–ENABLED RECRUITMENT SYSTEMS AND TRANSPARENCY IN PUBLIC SECTOR HIRING: EVIDENCE FROM THE NATIONAL IDENTITY MANAGEMENT COMMISSION (NIMC), NIGERIA",
+   "venue": "FUGUS Journal of Public Administration and Management",
+   "year": 2026,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.36349/fujpam.2026.v5i01.013",
+    "status": "GOLD",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.36349/fujpam.2026.v5i01.013?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.36349/fujpam.2026.v5i01.013, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2437399046",
+     "name": "Enya, Nnake Samuel"
+    }
+   ],
+   "abstract": "This study examines the influence of artificial intelligence (AI)–enabled recruitment systems on\ntransparency in public sector hiring, with specific reference to the National Identity Management\nCommission (NIMC) in Nigeria. Recruitment transparency remains a critical governance issue in\ndeveloping countries, where institutional challenges often undermine merit-based hiring. The\nstudy adopts a quantitative research design and primary data were collected from employees\nacross NIMC offices in Cross River and Akwa Ibom States. Anchored on Institutional Theory, the\nstudy analyzes how AI-driven recruitment technologies enhance procedural consistency, reduce\n\nsubjectivity, and improve accountability in personnel selection processes. Findings reveal that AI-\nenabled recruitment systems significantly improve transparency by standardizing candidate\n\nevaluation, minimizing human bias, and generating verifiable digital records of recruitment\ndecisions. The study concludes that the integration of artificial intelligence in recruitment\nstrengthens institutional credibility and supports merit-based hiring practices. It contributes to the\nliterature on digital governance by providing empirical evidence from a developing country\ncontext and offers policy-relevant insights for improving transparency in public sector\nrecruitment."
+  },
+  {
+   "paperId": "ce7a3fd50c0b91a1c99623ecd9f1afd445ff931b",
+   "externalIds": {
+    "DBLP": "journals/access/OliveiraARMTT25",
+    "DOI": "10.1109/ACCESS.2025.3556245",
+    "CorpusId": 277484536
+   },
+   "title": "Effect of Explainable Artificial Intelligence on Trust of Mental Health Professionals in an AI-Based System for Suicide Prevention",
+   "venue": "IEEE Access",
+   "year": 2025,
+   "citationCount": 17,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1109/access.2025.3556245",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ACCESS.2025.3556245?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ACCESS.2025.3556245, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2163296970",
+     "name": "A. C. de Oliveira"
+    },
+    {
+     "authorId": "2353158891",
+     "name": "João Pedro Cavalcanti Azevedo"
+    },
+    {
+     "authorId": "2353160187",
+     "name": "Lívia Ruback"
+    },
+    {
+     "authorId": "35250674",
+     "name": "Rayele Moreira"
+    },
+    {
+     "authorId": "2068436061",
+     "name": "S. Teixeira"
+    },
+    {
+     "authorId": "2331649940",
+     "name": "A. S. Teles"
+    }
+   ],
+   "abstract": "Artificial Intelligence (AI)-based systems have been proposed to aid Mental Health Professionals (MHPs) in various tasks, including the prevention of suicide by identifying Suicidal Ideation (SI). However, these systems may lack transparency and thereby create mistrust among MHPs. Explainable Artificial Intelligence (XAI) methods can elucidate how features influence system predictions, aiding MHPs in understanding them. This exploratory study aims to investigate how MHPs’ trust is influenced by AI explanations (educational intervention and XAI methods) and other factors (professional background, knowledge of AI and computing, and reported system misclassification). We conducted an experiment using Boamente, an AI-powered clinical decision support system designed to assist MHPs in suicide prevention. Boamente identifies SI in Brazilian Portuguese texts typed on smartphones by leveraging a Large Language Model (LLM) for analysis. The results demonstrate that professional background, knowledge of AI and computing, and educational intervention had no statistically significant effect on trust. In contrast, trust was affected by factors such as LLM prediction explanations, the quality of explanations, and reported misclassification. Therefore, providing prediction explanations to understand the inner workings of AI models led MHPs to be more critical in relation to predictions, while there was an overtrust on MHPs when no explanations were provided. Furthermore, disagreement with LLM classifications and perceptions of system vulnerabilities also affected trust."
+  },
+  {
+   "paperId": "bba84c6627b3d7fad1db44af1825615b636e9eff",
+   "externalIds": {
+    "DOI": "10.48161/qtj.v4n3a70",
+    "CorpusId": 284331003
+   },
+   "title": "From Data to Pedagogy: Leveraging Explainable Artificial Intelligence to Enhance Trust, Transparency, and Effectiveness in Intelligent Learning Systems",
+   "venue": "Qubahan Techno Journal",
+   "year": 2025,
+   "citationCount": 5,
+   "openAccessPdf": {
+    "url": "https://technoqubahan.com/techno/index.php/QTJ/article/download/70/39",
+    "status": "HYBRID",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.48161/qtj.v4n3a70?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.48161/qtj.v4n3a70, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2300396413",
+     "name": "Rauan N. Alibayeva"
+    },
+    {
+     "authorId": "2401750791",
+     "name": "Sojida Umirzakovna Allayarova"
+    }
+   ],
+   "abstract": "The increasing integration of artificial intelligence into educational technologies has amplified concerns regarding transparency, trust, and pedagogical validity, particularly as complex machine learning models are deployed in high-stakes learning contexts. While contemporary intelligent learning systems demonstrate strong predictive capabilities, their black-box nature often limits educator trust and constrains meaningful instructional use. This study addresses this gap by proposing and empirically evaluating a human-centered framework that embeds explainable artificial intelligence (XAI) into intelligent learning systems to bridge the divide between data-driven prediction and pedagogical decision-making. The proposed architecture integrates instance-level explainability mechanisms—such as SHAP and ceteris-paribus analyses—with predictive models and an interactive teacher dashboard, enabling educators to interpret, validate, and act upon AI-generated insights. Using real-world learning management system data and mixed-methods evaluation, the study demonstrates that instance-level explanations significantly enhance interpretability, reduce mispredictions, and strengthen teacher trust without compromising predictive performance. Empirical findings further indicate that explainable feedback supports targeted pedagogical interventions and contributes to measurable improvements in student outcomes. By situating explainability within theories of learning, trust, and human–AI collaboration, this work advances the design of transparent, trustworthy, and pedagogically grounded intelligent learning systems, offering practical and theoretical contributions to the evolving field of AI in education."
+  },
+  {
+   "paperId": "2d036e8c50b4b3ef27189632d6e9eb4508301a29",
+   "externalIds": {
+    "PubMedCentral": "11382209",
+    "DOI": "10.1016/j.csbj.2024.08.005",
+    "CorpusId": 272165020,
+    "PubMed": "39252818"
+   },
+   "title": "Unveiling the black box: A systematic review of Explainable Artificial Intelligence in medical image analysis",
+   "venue": "Computational and Structural Biotechnology Journal",
+   "year": 2024,
+   "citationCount": 193,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1016/j.csbj.2024.08.005",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11382209, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review",
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2318101983",
+     "name": "Dost Muhammad"
+    },
+    {
+     "authorId": "3156701",
+     "name": "Malika Bendechache"
+    }
+   ],
+   "abstract": "This systematic literature review examines state-of-the-art Explainable Artificial Intelligence (XAI) methods applied to medical image analysis, discussing current challenges and future research directions, and exploring evaluation metrics used to assess XAI approaches. With the growing efficiency of Machine Learning (ML) and Deep Learning (DL) in medical applications, there's a critical need for adoption in healthcare. However, their “black-box” nature, where decisions are made without clear explanations, hinders acceptance in clinical settings where decisions have significant medicolegal consequences. Our review highlights the advanced XAI methods, identifying how they address the need for transparency and trust in ML/DL decisions. We also outline the challenges faced by these methods and propose future research directions to improve XAI in healthcare. This paper aims to bridge the gap between cutting-edge computational techniques and their practical application in healthcare, nurturing a more transparent, trustworthy, and effective use of AI in medical settings. The insights guide both research and industry, promoting innovation and standardisation in XAI implementation in healthcare."
+  },
+  {
+   "paperId": "7193b5f854121b75f7c4c6ac5993001c88c083ad",
+   "externalIds": {
+    "DOI": "10.59982/18294359-24.2-bg-18",
+    "CorpusId": 276354828
+   },
+   "title": "BALANCING TRANSPARENCY AND PERFORMANCE: A COMPARATIVE ANALYSIS OF EXPLAINABLE ARTIFICIAL INTELLIGENCE (XAI) TECHNIQUES ACROSS DOMAINS",
+   "venue": "\"European University\" Scientific Collection of Articles",
+   "year": 2024,
+   "citationCount": 1,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.59982/18294359-24.2-bg-18?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.59982/18294359-24.2-bg-18, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2345226441",
+     "name": "Arman Grigoryan"
+    }
+   ],
+   "abstract": "The increasing complexity of new artificial intelligence (AI) models has led to their being referred to as “black boxes,” in order not to attribute complex decision-making processes to them. This opacity is a big issue in critical areas like legal systems, finance and healthcare spheres, where it is essential to understand how AI makes its decisions. Explainable AI (XAI) is the answer to this problem as it makes the AI models and decisions more understandable and transparent without compromising efficiency.\nThis paper presents a study of various XAI techniques with their effectiveness, applicability, and the challenges encountered in finding the right balance between transparency and performance across domains. It provides a comprehensive taxonomy of interpretable AI, emphasizing its critical role in sectors such as healthcare, finance, and law. The paper highlights the necessity of transparency, trust, and compliance in leveraging XAI to enhance decision-making processes and ensure ethical and accountable AI adoption."
+  },
+  {
+   "paperId": "11112229889edb04633731b4f218a8d56e2a15ee",
+   "externalIds": {
+    "PubMedCentral": "11463756",
+    "DOI": "10.1371/journal.pone.0308758",
+    "CorpusId": 273229845,
+    "PubMed": "39383147"
+   },
+   "title": "Evaluating Explainable Artificial Intelligence (XAI) techniques in chest radiology imaging through a human-centered Lens",
+   "venue": "PLoS ONE",
+   "year": 2024,
+   "citationCount": 62,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1371/journal.pone.0308758",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC11463756, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2325125579",
+     "name": "Izegbua E Ihongbe"
+    },
+    {
+     "authorId": "2325125577",
+     "name": "Shereen Fouad"
+    },
+    {
+     "authorId": "2325115578",
+     "name": "Taha F Mahmoud"
+    },
+    {
+     "authorId": "2325124557",
+     "name": "Arvind Rajasekaran"
+    },
+    {
+     "authorId": "2325125586",
+     "name": "Bahadar Bhatia"
+    }
+   ],
+   "abstract": "The field of radiology imaging has experienced a remarkable increase in using of deep learning (DL) algorithms to support diagnostic and treatment decisions. This rise has led to the development of Explainable AI (XAI) system to improve the transparency and trust of complex DL methods. However, XAI systems face challenges in gaining acceptance within the healthcare sector, mainly due to technical hurdles in utilizing these systems in practice and the lack of human-centered evaluation/validation. In this study, we focus on visual XAI systems applied to DL-enabled diagnostic system in chest radiography. In particular, we conduct a user study to evaluate two prominent visual XAI techniques from the human perspective. To this end, we created two clinical scenarios for diagnosing pneumonia and COVID-19 using DL techniques applied to chest X-ray and CT scans. The achieved accuracy rates were 90% for pneumonia and 98% for COVID-19. Subsequently, we employed two well-known XAI methods, Grad-CAM (Gradient-weighted Class Activation Mapping) and LIME (Local Interpretable Model-agnostic Explanations), to generate visual explanations elucidating the AI decision-making process. The visual explainability results were shared through a user study, undergoing evaluation by medical professionals in terms of clinical relevance, coherency, and user trust. In general, participants expressed a positive perception of the use of XAI systems in chest radiography. However, there was a noticeable lack of awareness regarding their value and practical aspects. Regarding preferences, Grad-CAM showed superior performance over LIME in terms of coherency and trust, although concerns were raised about its clinical usability. Our findings highlight key user-driven explainability requirements, emphasizing the importance of multi-modal explainability and the necessity to increase awareness of XAI systems among medical practitioners. Inclusive design was also identified as a crucial need to ensure better alignment of these systems with user needs."
+  },
+  {
+   "paperId": "cd537c93acca44e3962c5246d1b15cb5ea132f9a",
+   "externalIds": {
+    "DBLP": "journals/cbm/VieiraRGD25",
+    "DOI": "10.1016/j.compbiomed.2024.109556",
+    "CorpusId": 274893359,
+    "PubMed": "39700858"
+   },
+   "title": "Exploring transparency: A comparative analysis of explainable artificial intelligence techniques in retinography images to support the diagnosis of glaucoma",
+   "venue": "Comput. Biol. Medicine",
+   "year": 2024,
+   "citationCount": 7,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.compbiomed.2024.109556?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.compbiomed.2024.109556, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2222764211",
+     "name": "Cleverson Vieira"
+    },
+    {
+     "authorId": "2056618431",
+     "name": "Leonardo Rocha"
+    },
+    {
+     "authorId": "2295734851",
+     "name": "M. Guimarães"
+    },
+    {
+     "authorId": "2252295208",
+     "name": "D. Dias"
+    }
+   ],
+   "abstract": "Machine learning models are widely applied across diverse fields, including nearly all segments of human activity. In healthcare, artificial intelligence techniques have revolutionized disease diagnosis, particularly in image classification. Although these models have achieved significant results, their lack of explainability has limited widespread adoption in clinical practice. In medical environments, understanding AI model decisions is essential not only for healthcare professionals' trust but also for regulatory compliance, patient safety, and accountability in case of failures. Glaucoma, a neurodegenerative eye disease, can lead to irreversible blindness, making early detection crucial for preventing vision loss. Automated glaucoma detection has been a focus of intensive research in computer vision, with numerous studies proposing the use of convolutional neural networks (CNNs) to analyze retinal fundus images and diagnose the disease automatically. However, these models often lack the necessary explainability, which is essential for ophthalmologists to understand and justify their decisions to patients. This paper explores and applies explainable artificial intelligence (XAI) techniques to different CNN architectures for glaucoma classification, comparing which explanation technique offers the best interpretive resources for clinical diagnosis. We propose a new approach, SCIM (SHAP-CAM Interpretable Mapping), which has shown promising results. The experiments were conducted with an ophthalmology specialist who highlighted that CAM-based interpretability, applied to the VGG16 and VGG19 architectures, stands out as the most effective resource for promoting interpretability and supporting diagnosis."
+  },
+  {
+   "paperId": "8167f334bf9bbbe6b51f86fe1690023bdf8e06f3",
+   "externalIds": {
+    "DBLP": "conf/explai/TymoshchukSKPT25",
+    "CorpusId": 284194707
+   },
+   "title": "An explainable artificial intelligence approach for detecting network attacks",
+   "venue": "ExplAI",
+   "year": 2025,
+   "citationCount": 3,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://ceur-ws.org/Vol-4141/paper4.pdf, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2316876407",
+     "name": "Dmytro Tymoshchuk"
+    },
+    {
+     "authorId": "2334958753",
+     "name": "Andriy Sverstiuk"
+    },
+    {
+     "authorId": "2162609816",
+     "name": "Yurii Klots"
+    },
+    {
+     "authorId": "2283155414",
+     "name": "Nataliia Petliak"
+    },
+    {
+     "authorId": "2173825469",
+     "name": "V. Titova"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "28ff384fe3b41967dd4e80ea32aa5cb96556a32e",
+   "externalIds": {
+    "DBLP": "conf/enase/AlcoverJMMF25",
+    "ArXiv": "2504.08552",
+    "DOI": "10.5220/0013289600003928",
+    "CorpusId": 277741108
+   },
+   "title": "Towards an Evaluation Framework for Explainable Artificial Intelligence Systems for Health and Well-Being",
+   "venue": "International Conference on Evaluation of Novel Approaches to Software Engineering",
+   "year": 2025,
+   "citationCount": 3,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.5220/0013289600003928",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2504.08552, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2314558",
+     "name": "Esperança Amengual Alcover"
+    },
+    {
+     "authorId": "1398371083",
+     "name": "Antoni Jaume-i-Capó"
+    },
+    {
+     "authorId": "2118970935",
+     "name": "Miquel Miró-Nicolau"
+    },
+    {
+     "authorId": "1413552295",
+     "name": "Gabriel Moyà-Alcover"
+    },
+    {
+     "authorId": "2078671226",
+     "name": "Antonia Paniza Fullana"
+    }
+   ],
+   "abstract": "The integration of Artificial Intelligence in the development of computer systems presents a new challenge: make intelligent systems explainable to humans. This is especially vital in the field of health and well-being, where transparency in decision support systems enables healthcare professionals to understand and trust automated decisions and predictions. To address this need, tools are required to guide the development of explainable AI systems. In this paper, we introduce an evaluation framework designed to support the development of explainable AI systems for health and well-being. Additionally, we present a case study that illustrates the application of the framework in practice. We believe that our framework can serve as a valuable tool not only for developing explainable AI systems in healthcare but also for any AI system that has a significant impact on individuals."
+  },
+  {
+   "paperId": "0b41ffc38da09fb832646e9813f4344ebfa6dee5",
+   "externalIds": {
+    "DOI": "10.1007/s10479-025-06575-y",
+    "CorpusId": 277691210
+   },
+   "title": "A novel explainable artificial intelligence framework using knockoffs techniques with applications to sports analytics",
+   "venue": "Annals of Operations Research",
+   "year": 2025,
+   "citationCount": 4,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1007/s10479-025-06575-y",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s10479-025-06575-y?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s10479-025-06575-y, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2146988278",
+     "name": "Tingting Zhao"
+    },
+    {
+     "authorId": "2354789520",
+     "name": "J. Cabral"
+    },
+    {
+     "authorId": "2260842796",
+     "name": "Guangyu Zhu"
+    }
+   ],
+   "abstract": "The rapid integration of black-box Machine Learning (ML) models into critical decision-making scenarios has triggered an urgent call for transparency from stakeholders in Artificial Intelligence (AI). This call stems from growing concerns about the deployment of models whose decisions lack justification, legitimacy, and detailed explanations of their behavior. To address these concerns, Explainable Artificial Intelligence (XAI) has emerged as a crucial field, focusing on methods and processes that enable the comprehension of how AI systems make decisions, generate predictions, and execute their functions. The importance of XAI lies in its ability to provide explanations that justify a model’s outputs, thereby ensuring trust and accountability in AI systems. In this work, we propose a novel XAI framework that leverages state-of-the-art statistical knockoff techniques to identify the most informative predictors while maintaining a controlled False Discovery Rate (FDR). This framework enhances informed decision-making by ensuring robust and interpretable insights. We validate our approach through synthetic data experiments, demonstrating that it can effectively identify important features with high power while providing finite-sample FDR control across various scenarios. We demonstrate the efficacy of our approach by applying it to predict the outcomes of National Football League (NFL) playoffs, a domain of significant importance in sports analytics. Our method provides invaluable insights that support strategic decision-making in the highly competitive field of professional football."
+  },
+  {
+   "paperId": "16055f5f6ddf2eb70bd8517a53d608e590fea34c",
+   "externalIds": {
+    "DOI": "10.56097/binhduonguniversityjournalofscienceandtechnology.v8i2.322",
+    "CorpusId": 284508739
+   },
+   "title": "Fintech adoption in Vietnam: The moderating role of explainable artificial intelligence",
+   "venue": "Tập san Khoa học và kỹ thuật trường Đại học Bình Dương",
+   "year": 2025,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "https://jst.bdu.edu.vn/index.php/jst/article/download/322/313",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.56097/binhduonguniversityjournalofscienceandtechnology.v8i2.322?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.56097/binhduonguniversityjournalofscienceandtechnology.v8i2.322, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2199439",
+     "name": "V. Nguyen"
+    },
+    {
+     "authorId": "2153620817",
+     "name": "Trung-Hieu Le"
+    },
+    {
+     "authorId": "2402841270",
+     "name": "Van Ban Van Ban"
+    }
+   ],
+   "abstract": "This study examines the importance of Explainable Artificial Intelligence (XAI) inpromoting the acceptance of financial technology (Fintech) in Vietnam. It emphasizes that XAI isnot only a technical factor but also a crucial element in building trust and facilitating Fintech adoption inthe country. In the context of the rapidly growing Fintech sector, the transparency and interpretability ofAI algorithms are essential for fostering consumer trust. In Vietnam, the development of the Internetand technology has been strong in recent years, however, some consumers are still hesitant to useFintech applications for a number of reasons, among which security is a factor that users are concernedabout. Users are more inclined to accept financial technologies when they understand how AI operatesand its decisions. Clear explanations enhance users' confidence in utilizing Fintech services,improving their experience and satisfaction. The research indicates that providing transparentinformation about the functioning of AI can increase the likelihood of Fintech acceptance, particularly inareas such as online lending and investment management. The findings reveal that factors such asFinancial Literacy, Financial Satisfaction, Usefulness, and Brand Image have a positive impact onFintech adoption. In contrast, Security and Ease of Use do not significantly influence Fintechacceptance. This research result helps businesses to refer to and have a strategy to integrate XAI intoFintech applications to attract customers to accept Fintech to optimize profits."
+  },
+  {
+   "paperId": "6cbd34b84e457f0e8ede48422e340d3bec663195",
+   "externalIds": {
+    "DOI": "10.1109/CBMS65348.2025.00125",
+    "CorpusId": 279899249
+   },
+   "title": "Explanation Supported Learning: Improving Prediction Performance with Explainable Artificial Intelligence",
+   "venue": "2025 IEEE 38th International Symposium on Computer-Based Medical Systems (CBMS)",
+   "year": 2025,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/CBMS65348.2025.00125?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CBMS65348.2025.00125, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": null,
+   "authors": [
+    {
+     "authorId": "2370136532",
+     "name": "Adrian Duric"
+    },
+    {
+     "authorId": "2248800913",
+     "name": "Jim Tørresen"
+    },
+    {
+     "authorId": "2274339086",
+     "name": "M. Riegler"
+    },
+    {
+     "authorId": "2290287734",
+     "name": "Hugo Hammer"
+    }
+   ],
+   "abstract": "When artificial intelligence (AI) and machine learning (ML) models are applied in healthcare, the ability to understand and explain model decisions is an important aspect. Methods in the field of explainable AI (XAI) have been developed to create explanations for such decisions, which provides transparency and trust to the prediction model. However, the use of XAI-based explanations as added data features for the purpose of improving prediction performance remains a little explored topic. Our proposed Explanation Supported Learning (XSL) framework can improve classification performance for ML models used in medical imaging systems, while also providing a new understanding of how medical images are processed by deep learning (DL) models. The XSL framework consists of novel methods to achieve knowledge transfer from one or several teacher models to a student model. The novelty lies in using explanations from the teacher models, obtained from XAI techniques, as added features when training the student model. This approach enables flexible knowledge transfer between models of different architecture types. We further demonstrate how the XSL framework can be used as a new metric for measuring the quality of the explanations provided by XAI methods. The achievement of increased performance in this framework requires that the chosen XAI technique contains useful information based on the learned understanding of the input data by the teacher models. By testing XSL on the HyperKvasir gastrointestinal image dataset, we achieved significant increases in most of the measured classification metrics, and exceeded most benchmark scores of the HyperKvasir paper. Our code is available on GitHub."
+  },
+  {
+   "paperId": "626313906050fbf924eb3702a52fa512f838f771",
+   "externalIds": {
+    "DOI": "10.30574/ijsra.2025.17.3.3376",
+    "CorpusId": 284495172
+   },
+   "title": "Explainable Artificial Intelligence: Bridging the gap between deep learning and human interpretability",
+   "venue": "International Journal of Science and Research Archive",
+   "year": 2025,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.30574/ijsra.2025.17.3.3376",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.30574/ijsra.2025.17.3.3376?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.30574/ijsra.2025.17.3.3376, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2403004433",
+     "name": "Razibul Islam Khan"
+    },
+    {
+     "authorId": "2402788713",
+     "name": "Mohammad Quayes Bin Habib"
+    },
+    {
+     "authorId": "2402781783",
+     "name": "Md. Abdur Rahim"
+    },
+    {
+     "authorId": "2397910215",
+     "name": "A. Debnath"
+    },
+    {
+     "authorId": "2405396191",
+     "name": "Md. Mahedi Hasan"
+    }
+   ],
+   "abstract": "This paper explores the critical role of explainable artificial intelligence (XAI) in bridging the gap between the high performance of deep learning models and the need for human interpretability. It investigates methods that enhance transparency and trust by providing meaningful explanations of complex model decisions, thereby addressing challenges posed by the black-box nature of deep neural networks. The study highlights the importance of developing interpretable AI systems to foster user trust and facilitate the integration of AI into sensitive domains such as healthcare and finance. Ultimately, this research aims to advance the understanding and implementation of XAI to ensure responsible and effective AI deployment in the modern era."
+  }
+ ]
+}

@@ -1,0 +1,1161 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message-version": "1.0.0",
+ "message": {
+  "facets": {},
+  "total-results": 1568030,
+  "items": [
+   {
+    "DOI": "10.70593/deepsci.0202043",
+    "title": [
+     "Acceptance of artificial intelligence in human resource management: Adoption factors, technology acceptance models, and HR analytics"
+    ],
+    "container-title": [
+     "International Journal of Applied Resilience and Sustainability"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       4,
+       5
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Mirian Ndidi",
+      "family": "Obizue",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>The adoption of the Artificial Intelligence in the Human Resource Management (HRM) has reshaped the workforce management, but the adoption of intelligent HR technologies is not unanimous because of the lack of knowledge about AI adoption determinants, Technology Acceptance Model, and preparedness to adopt HR Analytics in various organizational settings. This paper is an attempt to solve this issue as it will review systematically the determinants that affect the acceptance of AI in human resource management using PRISMA framework. Peer-reviewed articles were selected on Digital HRM, People Analytics, UTAUT, innovation diffusion, AI governance, and socio-technical systems affecting the implementation of AI in HR functions. The review is a synthesis of the latest literature on the subject that dwells on the behavioral intention, perceived usefulness, and perceived ease of use, organizational support, and human-AI interaction as the main predictors of acceptance. Particular focus is made on the emergent themes including Explainable AI, ethical AI in HR, predictive HR analytics, and data-driven decision-making that influence the attitude of the employees toward intelligent systems in greater and greater degrees. The findings show that the factors that make AI be accepted in HRM are a combination of technological, organizational, and psychological factors, and the capability of the HR analytics, believing in AI, and enabling conditions are important in successful adoption. Moreover, recent TAM and UTAUT extensions have a better explanatory ability when applied to AI ethics, AI governance, and the future of work. </jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.47191/jefms/v9-i2-48",
+    "title": [
+     "Adoption of Artificial Intelligence in Human Resource Management and Employee Acceptance of Digital HR Systems in Nigerian Universities"
+    ],
+    "container-title": [
+     "Journal of Economics, Finance And Management Studies"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       2,
+       28
+      ]
+     ]
+    },
+    "author": [
+     {
+      "name": "Department of Business Administration Afe Babalola University, Ado Ekit",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Makinde Victor,",
+      "family": "AKINNIGBAGBE",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Omofolasaye Omobolanle,",
+      "family": "ADEGOKE",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "name": "Department of Business Administration Afe Babalola University, Ado Ekiti",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Itunu OLU",
+      "family": "-OGUNLEYE",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "name": "Department of Human Resource Management, Elizade University, Ilara-Mokin Ondo State",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>The adoption of Artificial Intelligence (AI) in human resource management (HRM) and the acceptance of digital HR systems by employees in higher education institutions have become important factors in the management of the workforce in these institutions. This study aims to present a systematic literature review on the available research on the adoption of AI in HRM in higher education institutions and the factors that influence employee acceptance of digital HR systems. The available literature on the adoption of AI in HRM in higher education institutions was identified using the PRISMA approach, and relevant literature was identified from Scopus, Web of Science, Google Scholar, and Africa Journals Online (AJOL) databases, with the publication dates ranging from 2019 to 2026. The literature review indicates that the adoption of AI in HRM in higher education institutions is mainly in administrative functions, not in strategic functions, and that the adoption is influenced by technological, organisational, and environmental factors, while the barriers to adoption include infrastructural, cost, skill, and ethical factors. Employee acceptance is influenced by perceived usefulness, ease of use, trust, and organisational support, but resistance is driven by fear, ethics, and threats to professional autonomy. These findings are discussed using the Technology Acceptance Model (TAM), the Unified Theory of Acceptance and Use of Technology (UTAUT), and the Diffusion of Innovation (DOI) theory, which offer a comprehensive understanding of the technology and socio-organisational factors that influence AI adoption in HE HRM. In the final section, recommendations are offered for policy, practice, and further research, which highlight the importance of strategic alignment, capacity building, ethics, and contextual approaches to AI adoption and employee engagement with HR technology.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.52783/jier.v4i2.828",
+    "title": [
+     "Determinants Influencing the Adoption of Artificial Intelligence in Driving Effective Human Resource Management"
+    ],
+    "container-title": [
+     "Journal of Informatics Education and Research"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024
+      ]
+     ]
+    },
+    "is-referenced-by-count": 1,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.55248/gengpi.6.0825.31124",
+    "title": [
+     "Artificial Intelligence In Human Resource Management: A Case Study On Adoption And Challenges In Reliance Industry"
+    ],
+    "container-title": [
+     "International Journal of Research Publication and Reviews"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       8
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Dr.Kiran Kumar",
+      "family": "H.S",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1177/jiift.251398946",
+    "title": [
+     "Adoption of Artificial Intelligence in Contemporary Human Resource Management"
+    ],
+    "container-title": [
+     "IIFT International Business and Management Review Journal"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       1,
+       30
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "S. M. R. K.",
+      "family": "Illangarathne",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>This research examines the implementation of artificial intelligence (AI) to improve and advance human resource management (HRM) practices, along with the possibilities for future integration of various human and AI methodologies. The research is a narrative literature review, utilising recent studies, case examples, articles and pertinent literature regarding AI and HRM within the last 5 years from 2020 to 2024 (including 2024). Additionally, the article highlights the beneficial effects of AI on HRM practices and processes, providing an informative view on how AI enhances strategic HRM methods and boosts organisational performance through AI adoption.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.3390/educsci15081044",
+    "title": [
+     "Exploring Generation Z’s Acceptance of Artificial Intelligence in Higher Education: A TAM and UTAUT-Based PLS-SEM and Cluster Analysis"
+    ],
+    "container-title": [
+     "Education Sciences"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       8,
+       14
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0009-0005-6631-201X",
+      "authenticated-orcid": false,
+      "given": "Réka",
+      "family": "Koteczki",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Vehicle Industry Research Center, Széchenyi István University, 1. Egyetem tér, 9026 Győr, Hungary"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0003-2894-5615",
+      "authenticated-orcid": false,
+      "given": "Boglárka Eisinger",
+      "family": "Balassa",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Vehicle Industry Research Center, Széchenyi István University, 1. Egyetem tér, 9026 Győr, Hungary"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 14,
+    "abstract": "<jats:p>In recent years, the rapid growth of artificial intelligence (AI) has significantly transformed higher education, particularly among Generation Z students who are more open to new technologies. Tools such as ChatGPT are increasingly being used for learning, yet empirical research on their acceptance, especially in Hungary, is limited. This study aims to explore the psychological, technological, and social factors that influence the acceptance of AI among Hungarian university students and to identify different user groups based on their attitudes. The methodological novelty lies in combining two approaches: partial least-squares structural equation modelling (PLS-SEM) and cluster analysis. The survey, based on the TAM and UTAUT models, involved 302 Hungarian students and examined six dimensions of AI acceptance: perceived usefulness, ease of use, attitude, social influence, enjoyment and behavioural intention. The PLS-SEM results show that enjoyment (β = 0.605) is the strongest predictor of the intention to use AI, followed by usefulness (β = 0.167). All other factors also had significant effects. Cluster analysis revealed four groups: AI sceptics, moderately open users, positive acceptors, and AI innovators. The findings highlight that the acceptance of AI is shaped not only by functionality but also by user experience. Educational institutions should, therefore, provide enjoyable and user-friendly AI tools and tailor support to students’ attitude profiles.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.15864/ajbmr.5106",
+    "title": [
+     "Application of Artificial Intelligence in the field of Human Resource Management: Acceptance or Denial?"
+    ],
+    "container-title": [
+     "American Journal of Business and Management Research"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024
+      ]
+     ]
+    },
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1080/09585192.2025.2510546",
+    "title": [
+     "Synergetic legacy of organizational innovativeness, knowledge sharing, artificial intelligence adoption and big data analytic capability in human resource management"
+    ],
+    "container-title": [
+     "The International Journal of Human Resource Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       4,
+       28
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Lili",
+      "family": "He",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "School of Economics and Management, Xi’an University of Technology",
+        "place": [
+         "Xi’an, China"
+        ]
+       },
+       {
+        "name": "Xi’an University",
+        "place": [
+         "Xi’an, China"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Zahid",
+      "family": "Yousaf",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Economics, Government College of Management Sciences",
+        "place": [
+         "Mansehra, Pakistan"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Maria",
+      "family": "Palazzo",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Humanities and Social Sciences, Universitas Mercatorum",
+        "place": [
+         "Rome, Italy"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 3,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.48009/3_iis_2024_119",
+    "title": [
+     "EXAMINING GENERATIVE ARTIFICIAL INTELLIGENCE ADOPTION IN ACADEMIA: A UTAUT PERSPECTIVE"
+    ],
+    "container-title": [
+     "Issues In Information Systems"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024
+      ]
+     ]
+    },
+    "is-referenced-by-count": 7,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.21825/ewopinpractice.94697",
+    "title": [
+     "Promise or peril? Sentiments shaping the adoption of Generative Artificial Intelligence in Human Resource Management"
+    ],
+    "container-title": [
+     "EWOP in Practice"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       5,
+       18
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0003-2444-3343",
+      "authenticated-orcid": false,
+      "given": "Marna",
+      "family": "van der Merwe",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Academy to Innovate HR"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0003-4826-2758",
+      "authenticated-orcid": false,
+      "given": "Dieter",
+      "family": "Veldsman",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Academy to Innovate HR"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>This study examines the perceptions and sentiments of Human Resource (HR) Management professionals regarding the adoption and application of Generative AI (GenAI) technologies. Findings reveal that individual and organizational factors significantly influence HR professionals’ attitudes toward GenAI and their behaviours when utilizing these tools. Exposure to GenAI tools fosters an appreciation for their potential, particularly in automating routine tasks and enabling a shift toward more human-centric, value-added activities such as employee engagement, strategic talent management, and personalized employee experiences. However, skills deficits and organizational barriers, including data security and ethical use concerns, remain significant challenges to sustained adoption. While exposure to GenAI tools builds confidence, a lack of organizational support and opportunities to practice using these tools limits their integration into daily HR practices. The study highlights the critical need for robust governance frameworks, clear guidelines, and hands-on opportunities to build technical competence and confidence in AI utilization. Addressing these systemic issues is essential for enabling HR professionals to fully leverage the transformative potential of GenAI and contribute to more impactful and human-centred HR practices.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.55041/ijsrem32681",
+    "title": [
+     "An Analysis of Artificial Intelligence Adoption in the Human Resource Management"
+    ],
+    "container-title": [
+     "INTERANTIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       5,
+       1
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "ANURAG",
+      "family": "KUMAR",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 1,
+    "abstract": "<jats:p>The integration of AI into HRM practices will mark a turning point in the history of organizational dynamics, bringing with it improved productivity and fresh perspectives on long-term planning. Because of this integration, many difficult questions and ethical dilemmas emerge. The hazy waters of artificial intelligence (AI) in human resource management are explored in this study, which examines its effects on training, engagement, performance reviews, and recruiting. Examining the AI-HRM nexus, this study draws on recent literature and statistics to highlight key developments, motivating factors, and obstacles. In addition, it explores the ways AI is changing HRM practices, illuminating the potential for innovation as well as concerns about prejudice and privacy invasion. We are examining the openness, responsibility, and fairness of AI-driven HRM systems since ethical concerns are at the heart of this discussion. For companies looking to apply AI to HRM and use an integrated framework, this report provides strategic insights to help them manage the hurdles of AI adoption. Helping companies make the most of technology while protecting and valuing their personnel is the main goal.     Keywords: Artificial Intelligence, Human Resource Management, AI Adoption, Recruitment, Talent Management, Employee Engagement, Performance Evaluation, Ethical Implications, Privacy Concerns, Workforce Upskilling.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.33168/jsms.2023.0403",
+    "title": [
+     "Examining the Employees’ Acceptance of Human Resource  Information Systems: An Empirical Study with UTAUT Model"
+    ],
+    "container-title": [
+     "Journal of System and Management Sciences"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       8,
+       2
+      ]
+     ]
+    },
+    "is-referenced-by-count": 3,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.21275/es24131185821",
+    "title": [
+     "Revolutionizing Human Resource Management through Artificial Intelligence"
+    ],
+    "container-title": [
+     "International Journal of Science and Research (IJSR)"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       2,
+       5
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "P",
+      "family": "Deepa",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.61242/ijabo.25.621",
+    "title": [
+     "Adoption of Artificial Intelligence Technology in Human Resource Management in  Digital Office Management"
+    ],
+    "container-title": [
+     "International Journal Administration, Business &amp; Organization"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       12,
+       25
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Marcha Dwi",
+      "family": "Yuliana",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Febri",
+      "family": "Mardianti",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>The objective of this research is to examine the impact of integrating Artificial Intelligence (AI) on the effectiveness of Human Resource Management (HRM) within a digital office workplace. The study reveals that AI enhances the efficiency, accuracy, and fairness of numerous HR operations, especially recruitment, performance evaluation, and staff development. This research employs a qualitative descriptive approach using a systematic literature review to synthesize relevant scholarly findings on AI adoption in HRM within digital office environments. Furthermore, the implementation of digital technologies promotes enhanced communication, faster information flow, and a collaborative and inventive working environment. Despite these benefits, challenges remain, such as data privacy issues, cybersecurity threats, employees’ insufficient digital literacy, and resistance to technological innovation. Successful AI implementation in human resource management requires a holistic strategy encompassing technological readiness, enhancement of employees’ digital competencies, adherence to ethical standards, and an adaptable organizational culture. This approach allows organizations to develop flexible, sustainable, and effective office management systems that preserve a competitive edge amidst ongoing digital transformation.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.3390/healthcare13030250",
+    "title": [
+     "Understanding Psychosocial Barriers to Healthcare Technology Adoption: A Review of TAM Technology Acceptance Model and Unified Theory of Acceptance and Use of Technology and UTAUT Frameworks"
+    ],
+    "container-title": [
+     "Healthcare"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       1,
+       27
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0009-0000-2104-4553",
+      "authenticated-orcid": false,
+      "given": "Ann Thong",
+      "family": "Lee",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Faculty of Management, Multimedia University, Cyberjaya 63100, Malaysia"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "R Kanesaraj",
+      "family": "Ramasamy",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Faculty Computing Informatics, Multimedia University, Cyberjaya 63100, Malaysia"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-0384-5821",
+      "authenticated-orcid": false,
+      "given": "Anusuyah",
+      "family": "Subbarao",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Faculty of Management, Multimedia University, Cyberjaya 63100, Malaysia"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 169,
+    "abstract": "<jats:p>Background: Leveraging healthcare technology improves human development and well-being. However, adoption is frequently delayed by behavioural and psychological barriers, such as perceived usefulness, trust, and organisational readiness. This review examines the suitability of the Unified Theory of Acceptance and Use of Technology (UTAUT) and the Technology Acceptance Model (TAM) frameworks in healthcare settings, focusing on behavioural, educational, and psychological factors that influence technology adoption. Methods: A total of 20 peer-reviewed articles from 2019 to 2024 were examined. Results: The review identified significant organisational and psychological obstacles, including a lack of trust, inadequate training, and organisational support. While the UTAUT provided a more comprehensive viewpoint, it needed to be modified to include context-specific factors, including trust, facilitating circumstances, and educational interventions. Meanwhile, the TAM’s emphasis on perceived usefulness and ease of use was shown to be insufficient for dealing with complex healthcare situations. Conclusions: Interventions targeting stakeholders’ organisational and psychological preparation and educational strategies are essential to overcoming resistance and enhancing trust. Future research should look into integrative frameworks incorporating behavioural, psychological, and instructional tactics to improve the use of technology in healthcare.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.21608/aiis.2024.415848",
+    "title": [
+     "Factors affecting the acceptance of faculty members in Saudi universities to use artificial intelligence technologies in light of the Unified Theory of Acceptance and Use of Technology (UTAUT)"
+    ],
+    "container-title": [
+     "Artificial Intelligence Information Security"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       11,
+       1
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Faeeq Faeeqsaeed",
+      "family": "Al-Ghamdi",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.61725/abj.1786837",
+    "title": [
+     "Artificial Intelligence in Human Resource Management: A Systematic Review of Adoption, Impact, and Challenges"
+    ],
+    "container-title": [
+     "AYBU Business Journal"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       12,
+       31
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Shah Mehmood",
+      "family": "Wagan",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Sichuan university"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0009-0003-1689-3296",
+      "authenticated-orcid": true,
+      "given": "Sidra",
+      "family": "Sidra",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "University of Chinese Academy of Social Sciences, China"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 1,
+    "abstract": "<jats:p xml:lang=\"en\">The systematic review in question focuses on the altering way artificial intelligence (AI) may transform human resource management (HRM) across contemporary organizations. The review considers 22 empirical studies that have been published since 2016 and were designed to respond to three primary questions to comprehend the scope of the AI adoption in the HRM tools and potential implementation aspects, possible areas of AI introduction, its possible points and restrictions, and impact of AI use on the performance and satisfaction of employees and organizational effectiveness. According to the results, the AI is most likely to be popular in recruitment, learning, and development, performance management, and engagement, but it is also associated with improved efficiency, objectivity, and individualization. Still, such ethical aspects as the mechanistic bias, worker woes, and lack of talent remain critical challenges. However, such ethical concerns, as the bias in the algorithms, tribulations of the employees, the review also adds the differences in regions and industry areas where AI is implemented and the need to develop exclusive strategies. And shortage of skills remains significant challenges. According to key findings, AI becomes a disruptive technology in HRM profession, Nonetheless, it must be targeted in a moderate manner considering the technological revolution and human-relatedness values. The paper contributes to the literature about the issue and can be used as a recommendation piece to firms that are forced to accept the need to adopt the concept of AI in HRM.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.31893/multirev.2026510",
+    "title": [
+     "Adoption of artificial intelligence in human resource management: Systematic review and bibliometric analysis"
+    ],
+    "container-title": [
+     "Multidisciplinary Reviews"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       3,
+       25
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Outmane",
+      "family": "Said",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Abadi",
+      "family": "Nahid",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>This study presents a systematic and bibliometric review of academic research on the adoption of artificial intelligence (AI) in human resource management (HRM), with a specific focus on the paradoxical tensions arising from the integration of algorithmic systems into organizational decision-making. Based on a structured corpus of peer-reviewed publications indexed in the Scopus database and selected following the PRISMA protocol, the study combines systematic review procedures with bibliometric techniques to ensure methodological rigor and analytical transparency. Bibliometric mapping is used to examine the evolution of scientific production, identify influential authors and journals, and uncover dominant and emerging research themes through cooccurrence and network analyses. Adopting an interpretive perspective informed by Paradox Theory, the review moves beyond linear and deterministic approaches that frame AI in HRM as either beneficial or harmful, and instead highlights how the literature conceptualizes AI adoption as a set of persistent tensions between technological efficiency and human, organizational, and ethical considerations. The results reveal a sharp increase in scholarly output over the past decade, largely dominated by contributions from North America, Europe, and parts of Asia, thereby exposing a structural underrepresentation of studies conducted in emerging and non-Western contexts. Four major thematic clusters are identified: efficiency-oriented technological applications, strategic reconfiguration of the HR function, implications for employee experience, and paradoxical tensions related to algorithmic decision-making, particularly those involving autonomy versus control, standardization versus personalization, and efficiency versus fairness. A recurring issue highlighted in the literature is the gap between the technical promises of AI-enabled HR systems and the organizational, institutional, and cultural conditions shaping their implementation. By synthesizing fragmented research streams, this review contributes an integrative framework that connects technological, organizational, and ethical dimensions of AI adoption in HRM, and outlines avenues for future research emphasizing context-sensitive studies in developing economies, ethical governance of algorithmic tools, and the evolving professional role of HR actors.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.58806/ijsshmr.2026.v5i5n08",
+    "title": [
+     "Factors Influencing University Students' Adoption of Generative AI Tools: An Integrated TAM-UTAUT Model in Vietnamese Higher Education"
+    ],
+    "container-title": [
+     "INTERNATIONAL JOURNAL OF SOCIAL SCIENCE HUMANITY &amp; MANAGEMENT RESEARCH"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       5,
+       13
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Phan Tri",
+      "family": "Nghia",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Thu Dau Mot University, Ho Chi Minh City, Vietnam"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>This study investigates the factors influencing Vietnamese university students' behavioral intention to adopt generative artificial intelligence (GenAI) tools for academic purposes. By integrating the Technology Acceptance Model (TAM) and the Unified Theory of Acceptance and Use of Technology (UTAUT), the study proposes an extended framework incorporating perceived enjoyment and AI anxiety as additional determinants, with AI literacy as a potential moderator. A quantitative cross-sectional survey was conducted with 418 undergraduate students from public universities in Vietnam. Data were analyzed using SPSS 26.0, employing exploratory factor analysis (EFA), reliability analysis, Pearson correlation, hierarchical multiple regression, and moderation analysis.The results reveal that performance expectancy (β = 0.233, p &lt; 0.001), social influence (β = 0.267, p &lt; 0.001), perceived enjoyment (β = 0.250, p &lt; 0.001), effort expectancy (β = 0.092, p &lt; 0.05), and facilitating conditions (β = 0.088, p &lt; 0.05) significantly predict behavioral intention toward GenAI tools. AI anxiety shows a marginally negative but non-significant effect (β = –0.072, p = 0.065). Behavioral intention significantly predicts actual use (β = 0.434, p &lt; 0.001). AI literacy does not significantly moderate the relationships between key predictors and behavioral intention. This study contributes to the emerging literature on GenAI adoption in higher education by integrating TAM and UTAUT with context-specific variables in the Vietnamese educational setting. The findings provide practical implications for educators and policymakers seeking to facilitate responsible GenAI integration in academic environments.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.33545/26633213.2026.v8.i6a.502",
+    "title": [
+     "Artificial intelligence (AI) adoption in human resource management (HRM) in India: Challenges, opportunities, and organisational impact"
+    ],
+    "container-title": [
+     "International Journal of Research in Human Resource Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       6,
+       1
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Malathi",
+      "family": "Gottumukkala",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "K Naga",
+      "family": "Sundari",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.4102/sajhrm.v24i0.3315",
+    "title": [
+     "Knowledge-sharing behaviour as a pathway to competitive advantage: The nexus of artificial intelligence adoption and human resource competence"
+    ],
+    "container-title": [
+     "SA Journal of Human Resource Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       1,
+       13
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0009-0007-4756-753X",
+      "authenticated-orcid": false,
+      "given": "Sri Wahyu Lelly Hana",
+      "family": "Setyanti",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "id": [
+         {
+          "id": "https://ror.org/049f0ha78",
+          "id-type": "ROR",
+          "asserted-by": "publisher"
+         }
+        ],
+        "name": "Universitas Jember"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0009-0000-5898-7459",
+      "authenticated-orcid": false,
+      "given": "Khanifatul",
+      "family": "Khusna",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "id": [
+         {
+          "id": "https://ror.org/049f0ha78",
+          "id-type": "ROR",
+          "asserted-by": "publisher"
+         }
+        ],
+        "name": "Universitas Jember"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0009-0002-1107-0162",
+      "authenticated-orcid": false,
+      "given": "Ni Ketut",
+      "family": "Seminari",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "id": [
+         {
+          "id": "https://ror.org/035qsg823",
+          "id-type": "ROR",
+          "asserted-by": "publisher"
+         }
+        ],
+        "name": "Udayana University"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0009-0002-6054-1549",
+      "authenticated-orcid": false,
+      "given": "Kamillaeni",
+      "family": "Jamillah",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "id": [
+         {
+          "id": "https://ror.org/049f0ha78",
+          "id-type": "ROR",
+          "asserted-by": "publisher"
+         }
+        ],
+        "name": "Universitas Jember"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 1,
+    "abstract": "<jats:p>Orientation: The impact of artificial intelligence (AI) adoption and skills on organisational competitive advantage (CA) is examined through knowledge-sharing behaviour (KSB) in Indonesia’s creative industry.\nResearch purpose: This study investigates the impact of AI adoption and competence on organisational CA through KSB in the creative industry in Indonesia.\nMotivation for the study: Indonesia’s creative industry is facing technological disruption that demands the use of AI. However, little research has demonstrated the role of a culture of knowledge sharing and individual competency in optimising CA.\nResearch approach/design and method: The study employed quantitative methods by distributing a survey to 225 individuals working in the creative industry. Structural equation modelling (SEM) was used for analysis.\nMain findings: The results show that all independent variables, including AI adoption, competence, and KSB, significantly influence organisational CA. Furthermore, KSB was found to mediate the relationship between AI adoption and competence on CA.\nPractical/managerial implications: These findings not only add to the literature on knowledge management but also provide practical guidance for managing organisations in the digital age. A culture of knowledge sharing must be fostered to maximise the benefits of AI adoption and competence in enhancing CA.\nContribution/value-add: This study demonstrates that to achieve CA, AI adoption, competencies and KSB are needed. These results demonstrate that technology alone is insufficient without structured teamwork behaviours.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.52783/jes.5143",
+    "title": [
+     "Exploring Emotional Intelligence in Jordan’s Artificial Intelligence (AI) Healthcare Adoption: A UTAUT Framework"
+    ],
+    "container-title": [
+     "Journal of Electrical Systems"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       7,
+       10
+      ]
+     ]
+    },
+    "author": [
+     {
+      "family": "Mahmoud Mohammad Ahmad Ibrahim",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 9,
+    "abstract": "<jats:p>The integration of Artificial Intelligence (AI) has been reshaping healthcare globally. However, the AI adoption in Jordan is met with cautious progress. AI has shown substantial potential to enhance healthcare services and foster Emotional Intelligence (EI), especially in advanced economies. Despite its proven effectiveness elsewhere, the Jordanian populace is reluctant to adopt AI in the healthcare sector, with predictions for hospitalizations, medical consultations, and treatment recommendations being sluggish to gain acceptance. This study investigates the combination of Emotional Intelligence and AI adoption in the healthcare system in Jordan, guided by the Unified Theory of Acceptance and Use of Technology (UTAUT) model. While UTAUT typically considers performance expectancy, effort expectancy, social influence, and facilitating conditions as key determinants of technology acceptance, this study argues that emotional intelligence, including self-regulated, self-awareness, motivation, empathy, and social skills, should be integrated as direct determinants of behavioural intention. In this study, a quantitative approach has been employed, whereby questionnaires were delivered through email and messaging apps to evaluate the impact of emotional intelligence on Jordanians’ willingness to adopt AI technology in the healthcare sector. The findings suggested that the UTAUT model should be further expanded to encompass emotional intelligence as its fifth construct, particularly in developing countries like Jordan, where user models for AI adoption are less explored. The implications of the study extend to healthcare planners and developers in Jordan, providing insights into factors, which influence the successful adoption of AI technologies among diverse user groups. This study has provided valuable recommendations for developers of AI-based healthcare systems, enabling them to align their assistance with the perceptions and behaviours of Middle Eastern users. By doing so, they can foster increased acceptance of AI-based healthcare systems in the Middle East and other developing regions to improve healthcare services. </jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.23977/jaip.2024.070204",
+    "title": [
+     "The Application Research of Artificial Intelligence in Human Resource Management"
+    ],
+    "container-title": [
+     "Journal of Artificial Intelligence Practice"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024
+      ]
+     ]
+    },
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.55041/ijsrem66023",
+    "title": [
+     "Artificial Intelligence and the Evolution of Skill Demand in Marketing: Implications for AI-Driven Talent Acquisition in Human Resource Management— An Extended UTAUT Analysis Using PLS-SEM"
+    ],
+    "container-title": [
+     "International Journal of Scientific Research in Engineering and Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       7
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Mahesh Ambwani",
+      "family": "Mahesh Ambwani",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/s11301-023-00367-z",
+    "title": [
+     "Consolidating the theoretical foundations of digital human resource management acceptance and use research: a meta-analytic validation of UTAUT"
+    ],
+    "container-title": [
+     "Management Review Quarterly"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       9,
+       12
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-6117-4915",
+      "authenticated-orcid": false,
+      "given": "Christian",
+      "family": "Theres",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0003-0723-5964",
+      "authenticated-orcid": false,
+      "given": "Stefan",
+      "family": "Strohmeier",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 18,
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>With rapid technological progress, the adoption of digital technology in human resource management (HRM) has become a crucial step towards the vision of digital organizations. Over the last four decades, a substantial body of empirical research has been dedicated towards explaining the phenomenon of digital HRM. Moreover, research has applied a wide array of theories, constructs, and measures to explain the adoption of digital HRM in organizations. The results are fragmented theoretical foundations and inconsistent empirical evaluations. We provide a comprehensive overview of theories applied in digital HRM adoption research and propose an adjusted version of the unified theory of acceptance and use of technology as a consolidating theory to explain adoption across settings. We empirically validate this theory by combining evidence from 134 primary studies yielding 768 effect sizes via meta-analytic structural equation modelling. Moderator analyses assessing the influence of research setting and sample on effects show significant differences between private and public sector. Findings highlight research opportunities for future studies and implications for practitioners.</jats:p>",
+    "type": "journal-article"
+   }
+  ],
+  "items-per-page": 25,
+  "query": {
+   "start-index": 0,
+   "search-terms": null
+  }
+ }
+}

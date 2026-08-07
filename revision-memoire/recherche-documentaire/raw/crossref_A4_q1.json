@@ -1,0 +1,1175 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message-version": "1.0.0",
+ "message": {
+  "facets": {},
+  "total-results": 391153,
+  "items": [
+   {
+    "DOI": "10.56726/irjmets97899",
+    "title": [
+     "EXPLAINABLE ARTIFICIAL INTELLIGENCE (XAI): ENHANCING TRANSPARENCY AND TRUST IN AI SYSTEMS"
+    ],
+    "container-title": [
+     "International Research Journal of Modernization in Engineering Technology &amp; Science"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       5,
+       13
+      ]
+     ]
+    },
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.64643/ijirtv12i7-191723-459",
+    "title": [
+     "Enhancing Transparency and Trust in Artificial Intelligence Systems Using Explainable AI (XAI) Techniques"
+    ],
+    "container-title": [
+     "International Journal of Innovative Research in Technology"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       1,
+       30
+      ]
+     ]
+    },
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.3390/fi16070241",
+    "title": [
+     "Explainable Artificial Intelligence Methods to Enhance Transparency and Trust in Digital Deliberation Settings"
+    ],
+    "container-title": [
+     "Future Internet"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       7,
+       6
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0001-5489-3500",
+      "authenticated-orcid": false,
+      "given": "Ilias",
+      "family": "Siachos",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Industrial Management and Information Systems Lab, University of Patras, Rion, 26504 Patras, Greece"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-6581-6831",
+      "authenticated-orcid": false,
+      "given": "Nikos",
+      "family": "Karacapilidis",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Industrial Management and Information Systems Lab, University of Patras, Rion, 26504 Patras, Greece"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 10,
+    "abstract": "<jats:p>Digital deliberation has been steadily growing in recent years, enabling citizens from different geographical locations and diverse opinions and expertise to participate in policy-making processes. Software platforms aiming to support digital deliberation usually suffer from information overload, due to the large amount of feedback that is often provided. While Machine Learning and Natural Language Processing techniques can alleviate this drawback, their complex structure discourages users from trusting their results. This paper proposes two Explainable Artificial Intelligence models to enhance transparency and trust in the modus operandi of the above techniques, which concern the processes of clustering and summarization of citizens’ feedback that has been uploaded on a digital deliberation platform.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.63282/3050-9262.ijaidsml-v4i1p106",
+    "title": [
+     "Explainable AI in Healthcare: Ensuring Trust and Transparency in ML Clinical Decision Systems"
+    ],
+    "container-title": [
+     "International Journal of Artificial Intelligence, Data Science, and Machine Learning"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023
+      ]
+     ]
+    },
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.36948/ijfmr.2024.v06i06.30010",
+    "title": [
+     "Explainable Artificial Intelligence (XAI) in Healthcare: Enhancing Transparency and Trust"
+    ],
+    "container-title": [
+     "International Journal For Multidisciplinary Research"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       11,
+       6
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Jaishankar Inukonda",
+      "family": "-",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Vidya Rajasekhara Reddy Tetala",
+      "family": "-",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Jayanna Hallur",
+      "family": "-",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 14,
+    "abstract": "<jats:p>Artificial Intelligence has now taken a full-fledged role in healthcare and has started driving innovations not only in diagnostics and treatment planning but also in patient monitoring and operational efficiency. This will enable complex medical data analysis, extracting patterns and insights that no human is capable of. However, most of these models are per se opaque-that is, the so-called \"black-box\" problem-there are still great challenges in areas such as transparency, trust, and ethical applications in a clinical setting. This lack of interpretability can stand in the way of acceptance or integration for AI technologies when issues of understanding and accountability are relevant.\nExplainable AI solves these problems by making real artificial intelligence decisions understand the decisions made to humans. XAI techniques offer well-understandable and interpretable explanations of the models with minimum degradations in performance.\n \nThis review article explains in detail the critical role of XAI in healthcare, underpinning how this field can bring more transparency into AI applications. We explain some of the current methods of XAI: model-agnostic techniques like LIME and SHAP, interpretable models relating to decision trees and linear models, and visualization techniques like saliency maps and mechanisms of attention.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.37547/tajet/volume07issue08-02",
+    "title": [
+     "Explainable AI (XAI) in Business Intelligence: Enhancing Trust and Transparency in Enterprise Analytics"
+    ],
+    "container-title": [
+     "The American Journal of Engineering and Technology"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       8,
+       1
+      ]
+     ]
+    },
+    "author": [
+     {
+      "name": "I3GLOBALTECH Inc, USA",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Indraneel",
+      "family": "Madabhushini",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 2,
+    "abstract": "<jats:p>The integration of Artificial Intelligence in Business Intelligence systems has fundamentally transformed enterprise analytics capabilities, enabling sophisticated pattern recognition, predictive modeling, and automated decision-making processes. However, the opaque nature of many AI algorithms presents significant challenges in business contexts where transparency, accountability, and regulatory compliance remain paramount concerns. This comprehensive technical review examines the role of Explainable AI in addressing these critical challenges, providing detailed insights into current methodologies, implementation frameworks, and practical applications across enterprise analytics environments. The content explores theoretical foundations distinguishing interpretability from explainability, emphasizing their crucial roles for different stakeholder groups within organizations. Technical frameworks encompass model-agnostic and model-specific methods, including LIME, SHAP, and attention mechanisms, alongside implementation tools ranging from open-source libraries to enterprise platforms. Real-world applications demonstrate XAI effectiveness across financial services, healthcare, retail, manufacturing, and human resources sectors, highlighting regulatory compliance benefits and stakeholder trust improvements. Current challenges include computational complexity, explanation fidelity, multi-modal data integration, and scalability issues, while emerging trends focus on automated explanation generation, interactive interfaces, and causal reasoning methods. Regulatory and ethical considerations address compliance evolution, bias detection, and fairness metrics, while technical advancements explore foundation model interpretability and privacy-preserving techniques.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.52783/eel.v15i3.3729",
+    "title": [
+     "Artificial Intelligence in Hiring and Recruitment: A Comprehensive Bibliometric Analysis of Trends and Innovations"
+    ],
+    "container-title": [
+     "European Economic Letters"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025
+      ]
+     ]
+    },
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.33847/2712-8148.4.1_4",
+    "title": [
+     "Unlocking the Black Box: Explainable Artificial Intelligence (XAI) for Trust and Transparency in AI Systems"
+    ],
+    "container-title": [
+     "Journal of Digital Art &amp; Humanities"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       6,
+       26
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0009-0001-3374-1927",
+      "authenticated-orcid": false,
+      "given": "Nipuna",
+      "family": "Thalpage",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Cardiff Metropolitan University School of Technologies: Cardiff, Wales, GB"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 81,
+    "abstract": "<jats:p>Explainable Artificial Intelligence (XAI) has emerged as a critical field in AI research, addressing the lack of transparency and interpretability in complex AI models. This conceptual review explores the significance of XAI in promoting trust and transparency in AI systems. The paper analyzes existing literature on XAI, identifies patterns and gaps, and presents a coherent conceptual framework. Various XAI techniques, such as saliency maps, attention mechanisms, rule-based explanations, and model-agnostic approaches, are discussed to enhance interpretability. The paper highlights the challenges posed by black-box AI models, explores the role of XAI in enhancing trust and transparency, and examines the ethical considerations and responsible deployment of XAI. By promoting transparency and interpretability, this review aims to build trust, encourage accountable AI systems, and contribute to the ongoing discourse on XAI.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.58425/jpms.v2i1.570",
+    "title": [
+     "Explainable Artificial Intelligence (XAI) for Project Governance: Improving Transparency and Stakeholder Trust in Automated Project Decision"
+    ],
+    "container-title": [
+     "Journal of Project Management Studies"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       9,
+       27
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0009-0008-1676-0190",
+      "authenticated-orcid": false,
+      "given": "Paulson Geo",
+      "family": "Philip",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>Aim: This paper examines the role of Explainable Artificial Intelligence (XAI) in strengthening project governance through improved transparency, accountability, and stakeholder engagement. It also explores how explainability can enhance trust in AI-driven project decisions and support informed oversight in project management.\r\nMethods: The study draws on existing literature in AI governance, project management, and explainable machine learning. It examines the growing adoption of AI-driven systems in project management and analyzes the role of Explainable Artificial Intelligence (XAI) in addressing governance challenges associated with the use of advanced machine learning models.\r\nResults: The findings indicate that XAI contributes to improved project governance by enabling decision traceability, facilitating human–AI collaboration, and reducing concerns related to bias and uncertainty. However, the study also identifies significant implementation challenges, including organizational readiness, implementation complexity, and the trade-off between model performance and interpretability.\r\nConclusion: The study concludes that Explainable Artificial Intelligence has the potential to strengthen project governance by improving transparency, accountability, and stakeholder confidence in AI-generated decisions. Nevertheless, successful implementation requires addressing the practical challenges associated with deploying explainable AI systems in project environments.\r\nRecommendations: The study recommends further research on human-centered explainability, AI governance frameworks, and trust measurement mechanisms for AI-enabled project environments to enhance the effective governance and adoption of Explainable Artificial Intelligence in project management.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.70937/itej.v2i01.53",
+    "title": [
+     "Explainable AI In E-Commerce: Enhancing Trust And Transparency In AI-Driven Decisions"
+    ],
+    "container-title": [
+     "Innovatech Engineering Journal"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       1,
+       8
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Malay",
+      "family": "Sarkar",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 16,
+    "abstract": "<jats:p>This study explores the transformative role of Explainable Artificial Intelligence (XAI) in e-commerce, focusing on its potential to enhance consumer trust, transparency, and regulatory compliance. Through a systematic review of 42 peer-reviewed articles, this research examines the applications, challenges, and limitations of XAI techniques such as SHAP (Shapley Additive Explanations), LIME (Local Interpretable Model-Agnostic Explanations), and other interpretability frameworks in consumer-facing AI systems. The findings reveal that XAI significantly improves user trust and satisfaction by providing interpretable explanations for AI-driven decisions in areas like recommendation engines, fraud detection, and dynamic pricing. However, critical gaps remain, including the scalability of XAI methods for handling large datasets, their limited capacity to address systemic biases, and the need for personalized, user-centric explanations tailored to diverse audiences. The study also highlights the role of XAI in ensuring compliance with regulations such as GDPR and CCPA, showcasing its dual impact on operational transparency and legal adherence. By identifying these strengths and gaps, this research contributes to a deeper understanding of XAI’s potential and provides valuable insights for its effective integration into e-commerce platforms. These findings underscore the necessity of advancing XAI methodologies to meet the evolving demands of the digital marketplace.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.47738/ijrm.v3i2.48",
+    "title": [
+     "Enhancing Trust and Transparency in Metaverse Financial Systems Through Explainable Artificial Intelligence for Risk Assessment"
+    ],
+    "container-title": [
+     "International Journal Research on Metaverse"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       5,
+       24
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Rana Saad",
+      "family": "Mohammed",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>This study proposes an Explainable Artificial Intelligence (XAI) model for financial risk assessment in the Metaverse ecosystem by combining predictive accuracy with interpretability through the XGBoost algorithm. The model was trained on behavioral, transactional, and demographic data to capture complex relationships influencing user financial risk. The evaluation results showed strong predictive performance, with an R² value of 0.813 and a 5-fold cross-validation R² of 0.816, indicating robustness and generalization. Feature importance analysis identified High-Value Purchase Pattern and New Users as the most significant predictors, followed by Login Frequency and Transaction Amount, highlighting the importance of user activity and experience in determining financial risk. Residual diagnostics confirmed that the prediction errors were normally distributed and unbiased, demonstrating that the model was accurate and fair across different risk levels. The integration of explainability mechanisms allows stakeholders to interpret and validate AI-driven decisions, promoting transparency and accountability. This research contributes to the advancement of trustworthy and ethical AI systems in virtual economies, offering a practical framework for transparent financial risk management within the Metaverse.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.48161/qtj.v4n3a70",
+    "title": [
+     "From Data to Pedagogy: Leveraging Explainable Artificial Intelligence to Enhance Trust, Transparency, and Effectiveness in Intelligent Learning Systems"
+    ],
+    "container-title": [
+     "Qubahan Techno Journal"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       9,
+       15
+      ]
+     ]
+    },
+    "author": [
+     {
+      "family": "Rauan N. Alibayeva",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "family": "Sojida Umirzakovna Allayarova",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 1,
+    "abstract": "<jats:p>The increasing integration of artificial intelligence into educational technologies has amplified concerns regarding transparency, trust, and pedagogical validity, particularly as complex machine learning models are deployed in high-stakes learning contexts. While contemporary intelligent learning systems demonstrate strong predictive capabilities, their black-box nature often limits educator trust and constrains meaningful instructional use. This study addresses this gap by proposing and empirically evaluating a human-centered framework that embeds explainable artificial intelligence (XAI) into intelligent learning systems to bridge the divide between data-driven prediction and pedagogical decision-making. The proposed architecture integrates instance-level explainability mechanisms—such as SHAP and ceteris-paribus analyses—with predictive models and an interactive teacher dashboard, enabling educators to interpret, validate, and act upon AI-generated insights. Using real-world learning management system data and mixed-methods evaluation, the study demonstrates that instance-level explanations significantly enhance interpretability, reduce mispredictions, and strengthen teacher trust without compromising predictive performance. Empirical findings further indicate that explainable feedback supports targeted pedagogical interventions and contributes to measurable improvements in student outcomes. By situating explainability within theories of learning, trust, and human–AI collaboration, this work advances the design of transparent, trustworthy, and pedagogically grounded intelligent learning systems, offering practical and theoretical contributions to the evolving field of AI in education.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.21474/jncs01/132",
+    "title": [
+     "EXPLAINABLE ARTIFICIAL INTELLIGENCE FOR CYBERSECURITY THREAT DETECTION: IMPROVING TRUST AND TRANSPARENCY IN INTELLIGENT SECURITY SYSTEMS"
+    ],
+    "container-title": [
+     "Jana Nexus: Journal of Computer Science"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       5,
+       31
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Zoya",
+      "family": "Hassan",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Liam",
+      "family": "Rodriguez",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Ethan",
+      "family": "Carter",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>The rapid evolution of cyber threats has increased the demand for intelligent security systems capable of detecting sophisticated attacks in real time. Artificial Intelligence (AI) has significantly enhanced intrusion detection, malware classification, phishing detection, and anomaly identification through advanced machine learning algorithms. However, many AI-based cybersecurity models operate as \"black boxes,\" making their decision-making processes difficult to interpret. This lack of transparency reduces user trust and limits practical deployment in critical infrastructures. Explainable Artificial Intelligence (XAI) addresses this challenge by providing understandable and interpretable explanations for AI-generated decisions. This paper investigates the role of Explainable Artificial Intelligence in modern cybersecurity, presents a comprehensive XAI-based threat detection framework, discusses recent advancements, evaluates existing challenges, and explores future research directions. The proposed framework combines deep learning, explainability techniques, attention mechanisms, and human-centered visualization to improve transparency while maintaining high detection accuracy. The study concludes that Explainable AI represents an essential component of trustworthy cybersecurity systems capable of supporting both automated and human-assisted security operations.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.18535/ijsrm/v14i03.em03",
+    "title": [
+     "Perceptions of Online Recruitment in Bangladesh: Exploring Trust, Fairness, and Transparency in Digital Hiring"
+    ],
+    "container-title": [
+     "International Journal of Scientific Research and Management (IJSRM)"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Md.",
+      "family": "Arifuzzaman",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Senior Lecturer, Department of Business Administration, Northern University of Business and Technology, Khulna"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Naznin Nahar",
+      "family": "Ome",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Lecturer, Department of Business Administration, Northern University of Business and Technology, Khulna"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1002/mar.70129",
+    "title": [
+     "Transparency Matters: Psychological Ownership and Trust as Mediators of Explainable Artificial Intelligence Effectiveness"
+    ],
+    "container-title": [
+     "Psychology &amp; Marketing"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       3,
+       10
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0003-1714-8119",
+      "authenticated-orcid": false,
+      "given": "Suresh",
+      "family": "Malodia",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "MICA Ahmedabad India"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0009-0007-7621-0310",
+      "authenticated-orcid": false,
+      "given": "Yupal",
+      "family": "Shukla",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Department of Marketing, Fogelman College of Business and Economics The University of Memphis Memphis Tennessee USA"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-0602-4818",
+      "authenticated-orcid": false,
+      "given": "Kirti",
+      "family": "Sharma",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Management Development Institute Gurgaon Gurgaon India"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Anil",
+      "family": "Bilgihan",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Department of Marketing, College of Business Florida Atlantic University Boca Raton Florida USA"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>\n                    AI‐based recommender systems shape many consumer decisions, but users often have limited information about why a recommendation is presented. This paper examines how explainable AI (XAI) design influences consumers' follow‐through, and when these effects are stronger. We conceptualize XAI design along two dimensions: explanation level (high vs. low diagnostic detail) and explanation type (process‐oriented vs. outcome‐oriented), and we examine boundary conditions across recommendation context (product vs. content). Four scenario‐based, between‐subjects experiments were conducted with Prolific participants who reported familiarity with recommendation systems (total\n                    <jats:italic>N</jats:italic>\n                     = 1080). Study 1 establishes the baseline effect: high (vs. low) explanation level increases intention to follow the recommendation, and the effect is robust under divided attention. Study 2 shows that the benefit of higher explanation level is context‐dependent, with stronger effects in content recommendations than in product recommendations. Study 3 shows that explanation type also shapes the effect of explanation level on follow‐through, with process‐oriented explanations producing a larger advantage for high (vs. low) explanation level than outcome‐oriented explanations. Study 4 tests the proposed mechanisms in a 2 × 2 × 2 design and finds that explanation level affects follow‐through primarily through trust and psychological ownership, with these indirect effects stronger in content (vs. product) contexts and under process‐oriented (vs. outcome‐oriented) explanations. Together, the findings specify how explanation level, explanation type, and context jointly determine when XAI increases follow‐through, and they identify trust and psychological ownership as mechanisms through which explanation design translates into consumer action.\n                  </jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.3390/fintech5030060",
+    "title": [
+     "Explainable Artificial Intelligence in Financial Fraud Detection: A Systematic Review and FinTech-Oriented ADO–TCCM Meta-Framework for Trust, Governance, and Transparency"
+    ],
+    "container-title": [
+     "FinTech"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       7,
+       8
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0009-0005-3811-610X",
+      "authenticated-orcid": false,
+      "given": "Devansh",
+      "family": "Gupta",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "University School of Business, Chandigarh University, Mohali 140413, India"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0009-0004-9553-1329",
+      "authenticated-orcid": false,
+      "given": "Priyanka",
+      "family": "Chugh",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "University School of Business, Chandigarh University, Mohali 140413, India"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0001-6177-5318",
+      "authenticated-orcid": false,
+      "given": "Kiran",
+      "family": "Sood",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Chitkara Business School, Chitkara University, Rajpura 140401, Punjab, India"
+       },
+       {
+        "name": "Women Researchers Council (WRC), Azerbaijan State University of Economics (UNEC), Baku AZ1001, Azerbaijan"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0003-1523-5120",
+      "authenticated-orcid": false,
+      "given": "Simon",
+      "family": "Grima",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Department of Insurance and Risk Management, Faculty of Economics, Management and Accountancy, University of Malta, MSD2080 Msida, Malta"
+       },
+       {
+        "name": "Faculty of Economics and Social Sciences, University of Latvia, LV-1586 Riga, Latvia"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>Artificial intelligence (AI)-driven fraud detection systems in FinTech ecosystems increasingly face a governance tension between high predictive accuracy and limited regulatory transparency, a gap that existing reviews have not addressed through an integrated behavioural, technical, and institutional lens. This study synthesises 99 Scopus-indexed, ABDC-ranked journal articles (2015–2026) using PRISMA 2020 and the SPAR-4-SLR protocol, integrating the Theory of Planned Behaviour (TPB) within an Antecedents–Decisions–Outcomes (ADO) framework to examine organisational adoption of explainable AI (XAI) in financial fraud detection. Three antecedent clusters are identified: attitudinal (algorithmic complexity, model opacity, data imbalance), normative (regulatory compliance, ethical expectations), and control-based (technical self-efficacy, organisational readiness)—which drive decision mechanisms including post hoc interpretability tools (SHapley Additive exPlanations [SHAP], Local Interpretable Model-Agnostic Explanations [LIME]), ethical governance protocols, and human-in-the-loop oversight. These produce outcomes across precision (reduced false positives, improved decision accuracy), compliance (audit transparency, institutional legitimacy), and cognitive (user acceptance, procedural justice) dimensions. The study introduces the Stability–Transparency–Reliability (STR) model, which advances TPB, Socio-Technical Systems Theory, and the Dynamic Capabilities View by reframing XAI from a static interpretability output into a recursive governance capability, formalised through the concept of Interpretative Agility, with direct implications for financial institutions operating under the EU AI Act.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.64643/ijirtv12i11-198336-459",
+    "title": [
+     "Explainable Artificial Intelligence (XAI) for Decision Transparency"
+    ],
+    "container-title": [
+     "International Journal of Innovative Research in Technology"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       4,
+       23
+      ]
+     ]
+    },
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/s44163-026-01219-x",
+    "title": [
+     "Building trustworthy Artificial Intelligence through transparency explainability uncertainty and trust calibration"
+    ],
+    "container-title": [
+     "Discover Artificial Intelligence"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       4,
+       13
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Haochen",
+      "family": "Guo",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Petr",
+      "family": "Polak",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.3390/s25030854",
+    "title": [
+     "Securing the 6G–IoT Environment: A Framework for Enhancing Transparency in Artificial Intelligence Decision-Making Through Explainable Artificial Intelligence"
+    ],
+    "container-title": [
+     "Sensors"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       1,
+       30
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0009-0003-6137-5375",
+      "authenticated-orcid": false,
+      "given": "Navneet",
+      "family": "Kaur",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Department of Computer Science, University of Missouri, St. Louis, MO 63121, USA"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Lav",
+      "family": "Gupta",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Department of Computer Science, University of Missouri, St. Louis, MO 63121, USA"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 34,
+    "abstract": "<jats:p>Wireless communication advancements have significantly improved connectivity and user experience with each generation. The recent release of the framework M.2160 for the upcoming sixth generation (6G or IMT-2030) cellular wireless standard by ITU-R has significantly heightened expectations, particularly for Internet of Things (IoT) driven use cases. However, this progress introduces significant security risks, as technologies like O-RAN, terahertz communication, and native AI pose threats such as eavesdropping, supply chain vulnerabilities, model poisoning, and adversarial attacks. The increased exposure of sensitive data in 6G applications further intensifies these challenges. This necessitates a concerted effort from stakeholders including ITU-R, 3GPP, ETSI, OEMs and researchers to embed security and resilience as core components of 6G. While research is advancing, establishing a comprehensive security framework remains a significant challenge. To address these evolving threats, our research proposes a dynamic security framework that emphasizes the integration of explainable AI (XAI) techniques like SHAP and LIME with advanced machine learning models to enhance decision-making transparency, improve security in complex 6G environments, and ensure effective detection and mitigation of emerging cyber threats. By refining model accuracy and ensuring alignment through recursive feature elimination and consistent cross-validation, our approach strengthens the overall security posture of the IoT–6G ecosystem, making it more resilient to adversarial attacks and other vulnerabilities.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.36349/fujpam.2026.v5i01.013",
+    "title": [
+     "ARTIFICIAL INTELLIGENCE–ENABLED RECRUITMENT SYSTEMS AND TRANSPARENCY IN PUBLIC SECTOR HIRING: EVIDENCE FROM THE NATIONAL IDENTITY MANAGEMENT  COMMISSION (NIMC), NIGERIA"
+    ],
+    "container-title": [
+     "FUGUS Journal of Public Administration and Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       4,
+       30
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Enya, Nnake",
+      "family": "Samuel",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>This study examines the influence of artificial intelligence (AI)–enabled recruitment systems on\ntransparency in public sector hiring, with specific reference to the National Identity Management\nCommission (NIMC) in Nigeria. Recruitment transparency remains a critical governance issue in\ndeveloping countries, where institutional challenges often undermine merit-based hiring. The\nstudy adopts a quantitative research design and primary data were collected from employees\nacross NIMC offices in Cross River and Akwa Ibom States. Anchored on Institutional Theory, the\nstudy analyzes how AI-driven recruitment technologies enhance procedural consistency, reduce\n\nsubjectivity, and improve accountability in personnel selection processes. Findings reveal that AI-\nenabled recruitment systems significantly improve transparency by standardizing candidate\n\nevaluation, minimizing human bias, and generating verifiable digital records of recruitment\ndecisions. The study concludes that the integration of artificial intelligence in recruitment\nstrengthens institutional credibility and supports merit-based hiring practices. It contributes to the\nliterature on digital governance by providing empirical evidence from a developing country\ncontext and offers policy-relevant insights for improving transparency in public sector\nrecruitment.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.3390/su17041361",
+    "title": [
+     "Improving Crowdfunding Decisions Using Explainable Artificial Intelligence"
+    ],
+    "container-title": [
+     "Sustainability"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       2,
+       7
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-7422-1514",
+      "authenticated-orcid": false,
+      "given": "Andreas",
+      "family": "Gregoriades",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Department of Communication and Marketing, Cyprus University of Technology, Limassol 3036, Cyprus"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0001-9074-7711",
+      "authenticated-orcid": false,
+      "given": "Christos",
+      "family": "Themistocleous",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Persuasive Tech Lab, Department of Communication and Marketing, Cyprus University of Technology, Limassol 3036, Cyprus"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 4,
+    "abstract": "<jats:p>This paper investigates points of vulnerability in the decisions made by backers and campaigners in crowdfund pledges in an attempt to facilitate a sustainable entrepreneurial ecosystem by increasing the rate of good projects being funded. In doing so, this research examines factors that contribute to the success or failure of crowdfunding campaign pledges using eXplainable AI methods (SHapley Additive exPlanations and Counterfactual Explanations). A dataset of completed Kickstarter campaigns was used to train two binary classifiers. The first model used textual features from the campaigns’ descriptions, and the second used categorical, numerical, and textual features. Findings identify textual terms, such as “stretch goals”, that convey both elements of risk and ambitiousness to be strongly correlated with success, contrary to transparent communications of risks that bring forward worries that would have otherwise remained dormant for backers. Short sentence length, in conjunction with high term complexity, is also associated with campaign success. We link the latter to signaling theory and the campaigners’ projection of knowledgeability of the domain. Certain numerical data, such as the project’s duration, frequency of post updates, and use of images, confirm previous links to campaign success. We enhance implications through the use of Counterfactual Explanations and generate actionable recommendations on how failed projects could become successful while proposing new policies, in the form of nudges, that shield backers from points of vulnerability.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/s13218-026-00911-5",
+    "title": [
+     "Explainable AI is far more than an Additional Technical Feature: A Conversation with Philipp A. Toussaint about Transparency, Trust, and the Future of Artificial Intelligence in Healthcare"
+    ],
+    "container-title": [
+     "KI - Künstliche Intelligenz"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       6,
+       17
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-1617-3307",
+      "authenticated-orcid": false,
+      "given": "Philipp A.",
+      "family": "Toussaint",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1142/s2424862225500095",
+    "title": [
+     "Enhancing Project Management Decision-Making with Explainable Artificial Intelligence (XAI): A Model for Transparency and Trust"
+    ],
+    "container-title": [
+     "Journal of Industrial Integration and Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       11,
+       22
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0009-0003-0449-2655",
+      "authenticated-orcid": false,
+      "given": "Shah Mehmood",
+      "family": "Wagan",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "School of Business, Sichuan University, No. 24 South Section 1, Yihuan Road, Chengdu, 610065, Sichuan Province, P. R. China"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0009-0003-1689-3296",
+      "authenticated-orcid": false,
+      "given": "Sidra",
+      "family": "Sidra",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Institute of World Economics and Politics, University of Chinese Academy of Social Sciences, No. 11 Changyu Street, Fangshan District, 102488, Beijing, P. R. China"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>The study aims to understand the way in which Explainable Artificial Intelligence (XAI) is enhancing decisions made in the process of project management. It was a quantitative and research design where a structural survey tool using a validated scale was used to measure key constructs of study XAI, trust, understanding and quality of decision-making. The 233 samples were selected through an online questionnaire that was sent to experienced project managers who operate in fields of technology, construction, healthcare and financial aspects of different industries. The analysis of data employed structural equation modeling in the framework of SmartPLS software. The findings suggest that XAI considerably improves trust and understanding among project managers, which further boosts the quality of decision-making processes. To be more precise, path analysis revealed that the coefficient between XAI and trust ([Formula: see text]), XAI and understanding ([Formula: see text]), trust ([Formula: see text]) and understanding ([Formula: see text]) and quality of decisions was high and positive. Combined, they comprised 53% of the variance in the quality of decisions and this implies the mediating influence of the latter. Current research allows introducing findings that are considered a contribution to the current corpus of knowledge because they empirically prove the significance of XAI as a method of creating grounds of trust and comprehension within the project management environment.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.21275/sr26705230110",
+    "title": [
+     "Scoring the Score: An Empathy, Trust and Accountability Lens for Auditing AI-Assisted Hiring Decisions"
+    ],
+    "container-title": [
+     "International Journal of Science and Research (IJSR)"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       7,
+       8
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Joshua",
+      "family": "Fernandes",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1016/j.engappai.2025.110427",
+    "title": [
+     "A Multi-Module Explainable Artificial Intelligence Framework for Project Risk Management: Enhancing Transparency in Decision-making"
+    ],
+    "container-title": [
+     "Engineering Applications of Artificial Intelligence"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       5
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-5485-5552",
+      "authenticated-orcid": false,
+      "given": "Bodrunnessa",
+      "family": "Badhon",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-7373-0149",
+      "authenticated-orcid": false,
+      "given": "Ripon K.",
+      "family": "Chakrabortty",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Sreenatha G.",
+      "family": "Anavatti",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0001-6702-3563",
+      "authenticated-orcid": false,
+      "given": "Mario",
+      "family": "Vanhoucke",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 29,
+    "type": "journal-article"
+   }
+  ],
+  "items-per-page": 25,
+  "query": {
+   "start-index": 0,
+   "search-terms": null
+  }
+ }
+}

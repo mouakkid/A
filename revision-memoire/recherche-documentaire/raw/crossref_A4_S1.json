@@ -1,0 +1,1147 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message-version": "1.0.0",
+ "message": {
+  "facets": {},
+  "total-results": 517519,
+  "items": [
+   {
+    "DOI": "10.52783/rlj.v11i9s.1624",
+    "title": [
+     "THE ROLE OF ARTIFICIAL INTELLIGENCE (AI) IN RECRUITMENT AND SELECTION OF EMPLOYEES IN THE ORGANISATION"
+    ],
+    "container-title": [
+     "Russian Law Journal"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       4,
+       7
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "RAJANI",
+      "family": "MESHRAM",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 29,
+    "abstract": "<jats:p>One of the most innovative technologies now available is known as artificial intelligence (AI), and it is already altering the manner in which we live in a number of ways. In recent years, it has been more common practise in the recruiting industry to make use of enormous volumes of data in order to find applications, analyse applicant profiles, conduct interviews, choose the top prospects, and so on. As a consequence of this, it has the potential to influence the function of human resources, the perspective of people looking for work, and the general culture and policies of the firm. Because recruiters may not be aware of the availability of this technology or because the businesses that are adopting this technology may still be in the beginning stages of the adoption process, this circumstance presents a number of challenges that are closely related to the actual conditions that exist in the real world. This encourages us to do further research on the subject so that we can inform members of the public about the potential benefits of the technology.\r\nFirst, artificial intelligence improves the application experience by cutting down on the amount of time and effort spent on the process by the HR manager. This frees up resources that can be used toward enhancing the overall productivity of the company. According to a poll conducted by the Sage Group, more than twenty-four percent of businesses all over the globe are already using AI in their candidate selection and evaluation procedures. More than half of all HR managers have shown interest in using AI solutions over the next 12 months. Second, according to the World Economic Forum (WEF), roughly 75 million of the world's already existing occupations will be gone. Because of the addition of 133 million new job roles and positions, the human resources department is going to be under a great deal of stress. This is particularly the case because of the rise of artificial intelligence (AI) and machine learning (ML), both of which will cause the organisation to hire more HR professionals to handle the increased workload.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.61221/jriem.v3i1.56",
+    "title": [
+     "Penerimaan Teknologi Artificial Intelligence (AI) di Proses Rekrutmen dan Seleksi Oleh Pelamar Kerja",
+     "Acceptance Of Artificial Intelligence (AI) Technology in The Recruitment and Selection Process By Job Applicants"
+    ],
+    "container-title": [
+     "Journal of Research in Industrial Engineering and Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       5,
+       31
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Muhammad",
+      "family": "Putro",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Joko",
+      "family": "Siswanto",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>Penggunaan teknologi dalam proses rekrutmen dan seleksi berkembang seiring dengan persaingan organisasi untuk mengidentifikasi, memilih, dan mempertahankan talenta terbaik. Teknologi Artificial Intelligence (AI) dalam proses rekrutmen dan seleksi, yang menawarkan berbagai keuntungan dari perspektif organisasi. Namun, persepsi teknologi AI dari sudut pandang pelamar kerja belum banyak dibahas dalam literatur, sedangkan hal ini menjadi salah satu isu utama yang dapat mempengaruhi berbagai sikap dan perilaku pelamar kerja pasca-proses rekrutmen dan seleksi. Penelitian ini berfokus pada penerimaan teknologi AI oleh pelamar kerja menggunakan model-model teoritis penerimaan teknologi untuk memahami faktor-faktor yang memengaruhi intensi pelamar kerja menggunakan teknologi AI. Metode statistika PLS-SEM digunakan dalam pengolahan data menggunakan perangkat lunak SmartPLS. Berdasarkan 166 responden di Jabodetabek dan Bandung yang belum pernah mengikuti proses rekrutmen dan seleksi yang menggunakan teknologi AI, didapatkan hasil penelitian bahwa persepsi manfaat, persepsi kemudahan, dan kepercayaan memiliki dampak positif terhadap intensi menggunakan AI, dengan sikap berperan sebagai mediator. Persepsi manfaat dan persepsi kemudahan memiliki dampak positif secara langsung terhadap intensi menggunakan AI. Selain itu, sikap dan pengaruh sosial juga berpengaruh positif pada intensi menggunakan AI. Sementara itu, persepsi pengetahuan tidak memiliki pengaruh positif pada intensi menggunakan AI dalam proses rekrutmen dan seleksi oleh pelamar kerja\r\nKata kunci: Rekrutmen dan Seleksi, Artificial Intelligence, Pelamar Kerja, Penerimaan Teknologi</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.47535/1991auoes33(2)024",
+    "title": [
+     "ARTIFICIAL INTELLIGENCE IN THE RECRUITMENT AND SELECTION OF EMPLOYEES WORLDWIDE VS. ROMANIA"
+    ],
+    "container-title": [
+     "The Annals of the University of Oradea Economic Sciences"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       12,
+       31
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Alina Mihaela",
+      "family": "FRĂTICĂ-DRAGOMIR (GUȘE)",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1016/j.chbr.2023.100303",
+    "title": [
+     "Applicants' perception of artificial intelligence in the recruitment process"
+    ],
+    "container-title": [
+     "Computers in Human Behavior Reports"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       8
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-4319-3186",
+      "authenticated-orcid": false,
+      "given": "Piotr",
+      "family": "Horodyski",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 82,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1111/ijsa.12456",
+    "title": [
+     "Reactions of applicants with disabilities to technology‐enabled recruitment and selection: A research agenda"
+    ],
+    "container-title": [
+     "International Journal of Selection and Assessment"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       9,
+       25
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0003-3385-1103",
+      "authenticated-orcid": false,
+      "given": "Sandra L.",
+      "family": "Fisher",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Münster School of Business Münster University of Applied Sciences Münster Germany"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Catherine E.",
+      "family": "Connelly",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "DeGroote School of Business McMaster University Hamilton Ontario Canada"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Silvia",
+      "family": "Bonaccio",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Telfer School of Management University of Ottawa Ottawa Ontario Canada"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 6,
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>Technology‐enabled recruitment and selection technologies, such as chatbots, assessment games, and asynchronous video interviews, are becoming more widely used. However, their impact on people with disabilities is frequently ignored; this has potentially significant implications for the perceived fairness of hiring decisions. We advance eight theoretical propositions on the positive and negative implications of technology‐enabled recruitment and selection technologies for applicant reactions of people with disabilities. Our propositions are based on three key design features of these technologies: separation in time and space, automated administration, and automated evaluation. We provide recommendations for future research and discuss practical implications for the use of advanced technology in recruitment and selection.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.21863/ijbai/2025.13.2.005",
+    "title": [
+     "A Study on Applicants Perception Towards Use of Artificial Intelligence and Machine Learning Applications in Recruitment"
+    ],
+    "container-title": [
+     "International Journal of Business Analytics and Intelligence"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Meet",
+      "family": "Bhatt",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Komal",
+      "family": "Jhunjhunwala",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>This study examines applicants’ perceptions of the use of Artificial Intelligence (AI) and Machine Learning (ML) applications in recruitment within the HR consultancy sector. With increasing adoption of AI-driven tools such as automated resume screening, chatbots, predictive analytics, and video interview analysis, understanding candidate acceptance has become critical. The research follows a descriptive design and is based on primary data collected through a structured questionnaire administered to 100 job applicants using AI-enabled recruitment platforms. The study analyses key perception factors including perceived usefulness, perceived ease of use, attitude towards use, and behavioural intention to use AI-based recruitment systems. Statistical tools such as exploratory factor analysis and hypothesis testing were applied to assess relationships between demographic variables and applicants’ perceptions. The findings indicate an overall positive perception of AI and ML in recruitment, particularly in terms of efficiency and fairness, though concerns related to transparency, bias, and reduced human interaction persist.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.3389/frai.2025.1671997",
+    "title": [
+     "Rejected by an AI? Comparing job applicants’ fairness perceptions of artificial intelligence and humans in personnel selection"
+    ],
+    "container-title": [
+     "Frontiers in Artificial Intelligence"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       11,
+       4
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Christine",
+      "family": "Malin",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Jürgen",
+      "family": "Fleiß",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Renate",
+      "family": "Ortlieb",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Stefan",
+      "family": "Thalmann",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 4,
+    "abstract": "<jats:sec>\n                    <jats:title>Introduction</jats:title>\n                    <jats:p>Artificial intelligence (AI) transforms personnel selection, but the application of AI raises fairness concerns and aversion towards AI. Although job applicants may perceive the selection process as fairer when they receive an explanation for the decision, scientific knowledge about AI-related fairness perceptions in this setting is limited. This paper investigates how job applicants perceive fairness of an AI-based personnel selection process considering explanations provided.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Methods</jats:title>\n                    <jats:p>\n                      The hypotheses are based on a theoretical framework about fairness and literature on algorithm aversion. Data were collected through a vignette-style method focusing on four personnel selection scenarios (\n                      <jats:italic>n</jats:italic>\n                      = 921).\n                    </jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>We show that provided explanations increase job applicants’ perceptions of outcome fairness, process fairness, interpersonal treatment, and recommendation intention, irrespective of the decision being made by an AI or human.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Discussion</jats:title>\n                    <jats:p>We provide conclusions for algorithmic decision-making and discuss factors that need to be considered when adopting and designing AI so that AI is perceived as fair.</jats:p>\n                  </jats:sec>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.58175/gjarr.2025.3.2.0024",
+    "title": [
+     "Exploring the Perception of Potential Employees on the Use of Artificial Intelligence Tools in the Recruitment and Selection Process"
+    ],
+    "container-title": [
+     "Global Journal of Advanced Research and Reviews"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       10,
+       30
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Adebayo",
+      "family": "Aderohunmu",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>This study explores how potential employees perceive the use of Artificial Intelligence (AI) tools in recruitment and selection processes. Despite the growing adoption of AI in human resource management, limited research has examined candidate-side perceptions. Focusing on Master's degree Human Resource Management students at the University of Derby, this research investigates perceptions and influencing factors through a qualitative lens. Using an interpretivist philosophy, an inductive approach, and a single-case study design, ten semi-structured interviews were conducted. Thematic analysis revealed a nuanced perspective, with participants acknowledging benefits such as efficiency and reduced bias, while also raising significant concerns about depersonalisation, algorithmic opacity, and a lack of emotional sensitivity. The Technology Acceptance Model (TAM) was used to frame the findings, highlighting that perceived usefulness and ease of use, as well as moderating factors like trust and transparency, shaped participant attitudes. Influencing factors included prior experience with AI, communication from employers, and the transparency of systems. The study contributes to the understanding of user perspectives in AI-driven recruitment and offers recommendations for HR practitioners, policymakers, and researchers to ensure responsible and inclusive implementation.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1080/17579961.2026.2710954",
+    "title": [
+     "Effective remedies for job applicants in algorithmic recruitment: the contribution of the EU Artificial Intelligence Act"
+    ],
+    "container-title": [
+     "Law, Innovation and Technology"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       8,
+       5
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0001-8761-3085",
+      "authenticated-orcid": false,
+      "given": "Henni",
+      "family": "Parviainen",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "University of Turku",
+        "place": [
+         "Turku, Finland"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.17708/drmj.2026.v15n01a04",
+    "title": [
+     "ARTIFICIAL INTELLIGENCE AND JOB RECRUITMENT: WHAT APPLICANTS SHOULD HAVE TO WIN THE JOB"
+    ],
+    "container-title": [
+     "Dynamic Relationships Management Journal"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       5,
+       7
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Mustafa",
+      "family": "Mahmoud Al‐Somaidaee",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Ghani",
+      "family": "Dhhamm Al‐zubaidičerne",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.36948/ijfmr.2025.v07i03.46766",
+    "title": [
+     "The Impact of Artificial Intelligence on Recruitment and Selection Process"
+    ],
+    "container-title": [
+     "International Journal For Multidisciplinary Research"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       5,
+       31
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "WASIF",
+      "family": "RAZA",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 1,
+    "abstract": "<jats:p>In today’s competitive and technology-driven environment, organizations are increasingly adopting Artificial Intelligence (AI) to improve recruitment and selection processes. This study explores how AI technologies—such as machine learning, natural language processing, chatbots, and predictive analytics—are being applied across various stages of hiring, from resume screening to candidate assessments. While AI promises increased efficiency, reduced time-to-hire, and improved candidate experience, it also raises concerns about fairness, algorithmic bias, data privacy, and the reduction of human interaction in decision-making. The research uses a qualitative approach, including literature reviews, interviews with HR professionals and candidates, surveys, and case studies. It compares AI-driven recruitment with traditional methods, assessing their relative effectiveness and ethical implications. The study aims to provide a balanced perspective on the benefits and limitations of AI in hiring. Findings offer valuable insights and practical recommendations for HR professionals, organizations, and policymakers to ensure responsible and effective use of AI in recruitment practices.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.2139/ssrn.4452924",
+    "title": [
+     "Use of Artificial Intelligence (AI) in Recruitment and Selection"
+    ],
+    "container-title": [
+     "SSRN Electronic Journal"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Abhijeet",
+      "family": "Thakur",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Punamkumar",
+      "family": "Hinge",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Vikas",
+      "family": "Adhegaonkar",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 3,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.63680/ijsate0426208.130",
+    "title": [
+     "Artificial Intelligence in Recruitment and Selection: Looking Beyond Efficiency"
+    ],
+    "container-title": [
+     "International Journal of Science Architecture Technology and Environment"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       4,
+       21
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Nayak V",
+      "family": "Tamanna",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.63680/ijsate0426010.016",
+    "title": [
+     "A Study on the Role of Artificial Intelligence in Recruitment Among IT Sector Employees in Bengaluru"
+    ],
+    "container-title": [
+     "International Journal of Science Architecture Technology and Environment"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       4,
+       4
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "K",
+      "family": "Chandana",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.54097/f4gvxp61",
+    "title": [
+     "Application of Artificial Intelligence in Recruitment and Selection"
+    ],
+    "container-title": [
+     "Academic Journal of Science and Technology"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       2,
+       23
+      ]
+     ]
+    },
+    "author": [
+     {
+      "family": "Sha Ri Na",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 12,
+    "abstract": "<jats:p>The aim of this paper is to analyse the application of artificial intelligence in recruitment and selection. In terms of application in recruitment and selection, AI plays an important role in resume screening, interviewing and competency assessment. By applying AI technology, companies can screen suitable candidates more efficiently and improve recruitment efficiency and accuracy. In addition, AI can help enterprises better assess candidates' abilities and potential in the interview process through technologies such as voice and image recognition, which has greater potential in competency assessment. Artificial intelligence plays an important role in the recruitment and selection process, and enterprise managers should continue to explore and summarise to integrate artificial intelligence more closely with the recruitment and selection of the enterprise, and to promote the effective management of the enterprise.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.53555/jaz.v44is7.3454",
+    "title": [
+     "Influencing Factors Of Recruitment And Selection Process Through Artificial Intelligence- Multiple Regression Analysis"
+    ],
+    "container-title": [
+     "Journal of Advanced Zoology"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       12,
+       10
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Dr. L.",
+      "family": "Satheeskumar",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "T.",
+      "family": "Porselvi",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.14451/1.252.364",
+    "title": [
+     "Optimizing Staff Recruitment and Selection Processes with Artificial Intelligence Technologies"
+    ],
+    "container-title": [
+     "ЭКОНОМИЧЕСКИЕ НАУКИ"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       1,
+       1
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Антон Олегович",
+      "family": "Пилипчук",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Марина Михайловна",
+      "family": "Крекова",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>The article examines the theoretical and practical aspects of implementing artificial intelligence (AI) technologies in staff recruitment and selection processes. It substantiates the necessity of digital transformation in HR management amidst dynamic labor market changes and increasing data volumes. An analysis is conducted on the key stages of recruitment—sourcing, pre-selection, competency assessment, decision-making, and employee onboarding—from the perspective of their optimization through AI. The main technologies utilized in modern recruitment are highlighted: machine learning, natural language processing (NLP), computer vision, and predictive analytics. Domestic and international practices of using intelligent systems are reviewed. Special attention is paid to issues of ethics, algorithmic transparency, and the legal regulation of AI application in HR processes. It is concluded that the integration of artificial intelligence into the recruitment system enhances selection accuracy, reduces costs, and facilitates the formation of a more flexible and adaptive HR policy for the organization.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1111/ijsa.12472",
+    "title": [
+     "How do avatar characteristics affect applicants' interactional justice perceptions in artificial intelligence‐based job interviews?"
+    ],
+    "container-title": [
+     "International Journal of Selection and Assessment"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       4,
+       12
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Qingfei",
+      "family": "Min",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "School of Economics &amp; Management Dalian University of Technology Dalian China"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-1729-5461",
+      "authenticated-orcid": false,
+      "given": "Haoye",
+      "family": "Sun",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "College of Business &amp; Law Coventry University Coventry UK"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Xiaodi",
+      "family": "Wang",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Economics &amp; Management Dalian University of Technology Dalian China"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Crystal",
+      "family": "Zhang",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "College of Business &amp; Law Coventry University Coventry UK"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 10,
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>Artificial intelligence (AI)‐based job interviews are increasingly adopted in organizations' recruitment activities. Despite their standardization and flexibility, concerns about fairness for applicants remain a critical challenge. Taking a perspective on interface design, this research examines the role of avatar characteristics in shaping perceptions of interactional justice in AI‐based job interviews. Through a scenario‐based study involving 465 participants, the impact of avatar characteristics—specifically, appearance, linguistic style, and feedback informativeness—on applicants' perceptions of interpersonal justice and informational justice was investigated. The findings indicate that avatars characterized by a warm and cheerful appearance, coupled with an affective expression style and informative feedback, significantly enhance perceptions of interpersonal justice and informational justice. These insights offer valuable practical guidance for avatar design in AI‐based job interview systems.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.3390/admsci14070155",
+    "title": [
+     "Recruitment and Selection Process Using Artificial Intelligence: How Do Candidates React?"
+    ],
+    "container-title": [
+     "Administrative Sciences"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       7,
+       19
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Nuno",
+      "family": "Ligeiro",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Faculdade de Ciências e Tecnologia, Universidade Europeia, Quinta do Bom Nome, Estr. da Correia 53, 1500-210 Lisbon, Portugal"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Ivo",
+      "family": "Dias",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Faculdade de Ciências e Tecnologia, Universidade Europeia, Quinta do Bom Nome, Estr. da Correia 53, 1500-210 Lisbon, Portugal"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-4799-874X",
+      "authenticated-orcid": false,
+      "given": "Ana",
+      "family": "Moreira",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Faculdade de Ciências e Tecnologia, Universidade Europeia, Quinta do Bom Nome, Estr. da Correia 53, 1500-210 Lisbon, Portugal"
+       },
+       {
+        "name": "School of Psychology, ISPA—Instituto Universitário, Rua do Jardim do Tabaco 34, 1149-041 Lisboa, Portugal"
+       },
+       {
+        "name": "APPsyCI—Applied Psychology Research Center Capabilities & Inclusion, ISPA—Instituto Universitário, R. do Jardim do Tabaco 34, 1149-041 Lisbon, Portugal"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 12,
+    "abstract": "<jats:p>This study aimed to study the association between organizational attractiveness, intrinsic motivation, perceived novelty, trust in the process, and the intention to apply, engage, and finish an artificial intelligence recruitment and selection process. It was also tested whether having already had the experience of having been involved in a recruitment and selection process using artificial intelligence moderated these relationships. The sample for this study consisted of 299 participants. The results indicate that organizational attractiveness and perceived novelty are positively and significantly associated with applying to, getting involved in, and completing the recruitment and selection process using artificial intelligence for participants aged between 45 and 54. For participants aged between 35 and 44, trust in the process significantly affects their intention to apply to, get involved in, and complete the recruitment and selection process using artificial intelligence. Intrinsic motivation did not prove to be a significant predictor of the intention to apply to, get involved in, and complete the recruitment and selection process using artificial intelligence.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.4236/jhrss.2023.113034",
+    "title": [
+     "Exploring the Applicability of Artificial Intelligence in Recruitment and Selection Processes: A Focus on the Recruitment Phase"
+    ],
+    "container-title": [
+     "Journal of Human Resource and Sustainability Studies"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Anusha",
+      "family": "Hewage",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 26,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.52783/jisem.v10i17s.2705",
+    "title": [
+     "Artificial Intelligence in HR: Transforming Recruitment and Selection in IT Industry"
+    ],
+    "container-title": [
+     "Journal of Information Systems Engineering and Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       3,
+       7
+      ]
+     ]
+    },
+    "author": [
+     {
+      "family": "G. Venkateshwaran,",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 4,
+    "abstract": "<jats:p>e integration of Artificial Intelligence (AI) in Human Resource Management (HRM) has revolutionized traditional recruitment and selection processes, particularly in the IT industry, where rapid technological advancements demand a skilled and dynamic workforce. AI-driven recruitment systems leverage machine learning, natural language processing (NLP), and predictive analytics to enhance efficiency, reduce hiring biases, and improve decision-making. This study explores the transformative role of AI in recruitment and selection within the IT sector, highlighting its benefits, challenges, and future implications. AI-powered tools have streamlined various stages of the hiring process, from resume screening to candidate assessment. Automated applicant tracking systems (ATS) equipped with AI algorithms can efficiently scan thousands of resumes, filtering out the most relevant candidates based on predefined criteria. Additionally, AI-driven chatbots and virtual assistants engage with applicants, provide real-time responses, schedule interviews, and enhance the candidate experience. These tools reduce the time-to-hire and improve the quality of recruitment by identifying the best-fit candidates based on skills, experience, and cultural alignment. Another critical advantage of AI in recruitment is its potential to reduce human biases. Traditional hiring processes are often influenced by unconscious biases related to gender, ethnicity, or educational background. AI-driven assessments focus on skills-based evaluation, utilizing predictive analytics to match candidates with job roles based on competencies rather than demographic factors. Furthermore, video interview analysis tools can assess verbal and non-verbal cues using facial recognition and speech analysis, helping recruiters make data-driven hiring decisions. Despite these benefits, AI in recruitment comes with challenges. One significant concern is data privacy and ethical considerations. AI algorithms rely on vast datasets, raising questions about data security, transparency, and fairness. If trained on biased historical data, AI systems may perpetuate discrimination rather than eliminate it. Ensuring algorithmic fairness and regulatory compliance, such as adhering to General Data Protection Regulation (GDPR) and other data protection laws, is crucial for ethical AI deployment in HR. Additionally, the human touch in recruitment remains essential. While AI can handle administrative tasks and initial screenings, final hiring decisions still require human judgment. Organizations must strike a balance between AI automation and human intuition to ensure a holistic approach to talent acquisition. HR professionals must also undergo upskilling to effectively leverage AI tools and interpret AI-driven insights. The future of AI in HRM will see advancements in predictive hiring, sentiment analysis, and skill gap analysis. AI-powered platforms will not only match candidates to current job roles but also predict future skill requirements and recommend personalized learning paths for employees. In the IT industry, where skills evolve rapidly, AI-driven workforce planning will play a crucial role in talent retention and upskilling initiatives. This paper analyzes the impact of AI on recruitment and selection in the IT industry, focusing on efficiency, bias reduction, candidate experience, and decision-making improvements. It examines AI-driven tools like ATS, chatbots, and predictive analytics, discusses ethical concerns, and explores the future role of AI in workforce planning and talent acquisition.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.56726/irjmets49947",
+    "title": [
+     "Enhancing Recruitment Efficiency: A Comprehensive Analysis of Artificial Intelligence in Applicant Screening and Selection"
+    ],
+    "container-title": [
+     "International Research Journal of Modernization in Engineering Technology and Science"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       3,
+       9
+      ]
+     ]
+    },
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/s44163-026-01488-6",
+    "title": [
+     "A systematic review and descriptive analysis of artificial intelligence applied to recruitment and personnel selection in the present and possible future"
+    ],
+    "container-title": [
+     "Discover Artificial Intelligence"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       6,
+       4
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Antonio",
+      "family": "González-Morales",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "M. Milagro",
+      "family": "Martín-López",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Fernando",
+      "family": "Góngora-Larequi",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.64771/jsetms.2026.v03.i06.pp1-23",
+    "title": [
+     "Impact of Artificial Intelligence on Recruitment and Selection"
+    ],
+    "container-title": [
+     "Journal of Science Engineering Technology and Management Sciences"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       6
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Jallipalli A. N. K",
+      "family": "Jayanth",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.22158/rem.v11n1p44",
+    "title": [
+     "Evaluating the Use of Artificial Intelligence in Recruitment and Selection: A Four-Dimensional Framework"
+    ],
+    "container-title": [
+     "Research in Economics and Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       4,
+       19
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Huitong",
+      "family": "Sun",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>Artificial intelligence is increasingly used across recruitment and selection. Existing research has mainly examined its applications at different stages of recruitment and the trade-off between efficiency and fairness. However, a framework for assessing the appropriate boundaries of AI use across the recruitment process remains undeveloped. This paper develops a four-dimensional framework based on standardization, future-oriented judgment, opportunity visibility, and explainability. It applies the framework to the early, middle, and late stages of recruitment and selection. The analysis shows that AI should play different roles across stages. In the early stage, it can support job definition and attraction strategies. In the middle stage, AI may support sourcing and initial screening, but it also raises concerns about opportunity visibility and screening fairness, which require close attention. In the later stage, AI should not be used as a black-box tool to infer personality, potential, or future performance, nor should it make independent hiring decisions. The key issue in AI recruitment is therefore not efficiency alone, but its implications for candidate opportunity, procedural fairness, and accountability.</jats:p>",
+    "type": "journal-article"
+   }
+  ],
+  "items-per-page": 25,
+  "query": {
+   "start-index": 0,
+   "search-terms": null
+  }
+ }
+}

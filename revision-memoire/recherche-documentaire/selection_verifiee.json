@@ -1,0 +1,1279 @@
+{
+ "date": "2026-08-07",
+ "verifiees": [
+  {
+   "axe": "A1",
+   "tier": "A",
+   "doi": "10.1007/s11301-023-00367-z",
+   "titre": "Consolidating the theoretical foundations of digital human resource management acceptance and use research: a meta-analytic validation of UTAUT",
+   "revue": "Management Review Quarterly",
+   "annee": 2023,
+   "volume": "74",
+   "numero": "4",
+   "pages": "2683-2715",
+   "type": "journal-article",
+   "citations_crossref": 18,
+   "auteurs": [
+    {
+     "famille": "Theres",
+     "prenom": "Christian"
+    },
+    {
+     "famille": "Strohmeier",
+     "prenom": "Stefan"
+    }
+   ],
+   "verifie_le": "2026-08-07",
+   "methode": "Crossref REST API (works/{doi})",
+   "statut": "vérifiée (existence et métadonnées)"
+  },
+  {
+   "axe": "A1",
+   "tier": "A",
+   "doi": "10.1016/j.hrmr.2022.100899",
+   "titre": "Unlocking the value of artificial intelligence in human resource management through AI capability framework",
+   "revue": "Human Resource Management Review",
+   "annee": 2023,
+   "volume": "33",
+   "numero": "1",
+   "pages": "100899",
+   "type": "journal-article",
+   "citations_crossref": 699,
+   "auteurs": [
+    {
+     "famille": "Chowdhury",
+     "prenom": "Soumyadeb"
+    },
+    {
+     "famille": "Dey",
+     "prenom": "Prasanta"
+    },
+    {
+     "famille": "Joel-Edgar",
+     "prenom": "Sian"
+    },
+    {
+     "famille": "Bhattacharya",
+     "prenom": "Sudeshna"
+    },
+    {
+     "famille": "Rodriguez-Espindola",
+     "prenom": "Oscar"
+    },
+    {
+     "famille": "Abadie",
+     "prenom": "Amelie"
+    },
+    {
+     "famille": "Truong",
+     "prenom": "Linh"
+    }
+   ],
+   "verifie_le": "2026-08-07",
+   "methode": "Crossref REST API (works/{doi})",
+   "statut": "vérifiée (existence et métadonnées)"
+  },
+  {
+   "axe": "A1",
+   "tier": "A",
+   "doi": "10.1016/j.hrmr.2022.100940",
+   "titre": "Artificial intelligence (AI)-assisted HRM: Towards an extended strategic framework",
+   "revue": "Human Resource Management Review",
+   "annee": 2023,
+   "volume": "33",
+   "numero": "1",
+   "pages": "100940",
+   "type": "journal-article",
+   "citations_crossref": 181,
+   "auteurs": [
+    {
+     "famille": "Malik",
+     "prenom": "Ashish"
+    },
+    {
+     "famille": "Budhwar",
+     "prenom": "Pawan"
+    },
+    {
+     "famille": "Kazmi",
+     "prenom": "Bahar Ali"
+    }
+   ],
+   "verifie_le": "2026-08-07",
+   "methode": "Crossref REST API (works/{doi})",
+   "statut": "vérifiée (existence et métadonnées)"
+  },
+  {
+   "axe": "A1",
+   "tier": "A",
+   "doi": "10.1080/09585192.2024.2440065",
+   "titre": "Integrating artificial intelligence and human resource management: a review and future research agenda",
+   "revue": "The International Journal of Human Resource Management",
+   "annee": 2024,
+   "volume": "36",
+   "numero": "1",
+   "pages": "103-141",
+   "type": "journal-article",
+   "citations_crossref": 72,
+   "auteurs": [
+    {
+     "famille": "Gong",
+     "prenom": "Qinyan"
+    },
+    {
+     "famille": "Fan",
+     "prenom": "Di"
+    },
+    {
+     "famille": "Bartram",
+     "prenom": "Timothy"
+    }
+   ],
+   "verifie_le": "2026-08-07",
+   "methode": "Crossref REST API (works/{doi})",
+   "statut": "vérifiée (existence et métadonnées)"
+  },
+  {
+   "axe": "A1",
+   "tier": "B",
+   "doi": "10.1080/09585192.2025.2510546",
+   "titre": "Synergetic legacy of organizational innovativeness, knowledge sharing, artificial intelligence adoption and big data analytic capability in human resource management",
+   "revue": "The International Journal of Human Resource Management",
+   "annee": 2025,
+   "volume": "36",
+   "numero": "8",
+   "pages": "1407-1430",
+   "type": "journal-article",
+   "citations_crossref": 3,
+   "auteurs": [
+    {
+     "famille": "He",
+     "prenom": "Lili"
+    },
+    {
+     "famille": "Yousaf",
+     "prenom": "Zahid"
+    },
+    {
+     "famille": "Palazzo",
+     "prenom": "Maria"
+    }
+   ],
+   "verifie_le": "2026-08-07",
+   "methode": "Crossref REST API (works/{doi})",
+   "statut": "vérifiée (existence et métadonnées)"
+  },
+  {
+   "axe": "A2",
+   "tier": "A",
+   "doi": "10.1111/1748-8583.12524",
+   "titre": "Human resource management in the age of generative artificial intelligence: Perspectives and research directions on ChatGPT",
+   "revue": "Human Resource Management Journal",
+   "annee": 2023,
+   "volume": "33",
+   "numero": "3",
+   "pages": "606-659",
+   "type": "journal-article",
+   "citations_crossref": 731,
+   "auteurs": [
+    {
+     "famille": "Budhwar",
+     "prenom": "Pawan"
+    },
+    {
+     "famille": "Chowdhury",
+     "prenom": "Soumyadeb"
+    },
+    {
+     "famille": "Wood",
+     "prenom": "Geoffrey"
+    },
+    {
+     "famille": "Aguinis",
+     "prenom": "Herman"
+    },
+    {
+     "famille": "Bamber",
+     "prenom": "Greg J."
+    },
+    {
+     "famille": "Beltran",
+     "prenom": "Jose R."
+    },
+    {
+     "famille": "Boselie",
+     "prenom": "Paul"
+    },
+    {
+     "famille": "Lee Cooke",
+     "prenom": "Fang"
+    },
+    {
+     "famille": "Decker",
+     "prenom": "Stephanie"
+    },
+    {
+     "famille": "DeNisi",
+     "prenom": "Angelo"
+    },
+    {
+     "famille": "Dey",
+     "prenom": "Prasanta Kumar"
+    },
+    {
+     "famille": "Guest",
+     "prenom": "David"
+    },
+    {
+     "famille": "Knoblich",
+     "prenom": "Andrew J."
+    },
+    {
+     "famille": "Malik",
+     "prenom": "Ashish"
+    },
+    {
+     "famille": "Paauwe",
+     "prenom": "Jaap"
+    },
+    {
+     "famille": "Papagiannidis",
+     "prenom": "Savvas"
+    },
+    {
+     "famille": "Patel",
+     "prenom": "Charmi"
+    },
+    {
+     "famille": "Pereira",
+     "prenom": "Vijay"
+    },
+    {
+     "famille": "Ren",
+     "prenom": "Shuang"
+    },
+    {
+     "famille": "Rogelberg",
+     "prenom": "Steven"
+    },
+    {
+     "famille": "Saunders",
+     "prenom": "Mark N. K."
+    },
+    {
+     "famille": "Tung",
+     "prenom": "Rosalie L."
+    },
+    {
+     "famille": "Varma",
+     "prenom": "Arup"
+    }
+   ],
+   "verifie_le": "2026-08-07",
+   "methode": "Crossref REST API (works/{doi})",
+   "statut": "vérifiée (existence et métadonnées)"
+  },
+  {
+   "axe": "A2",
+   "tier": "A",
+   "doi": "10.1111/1467-8551.12824",
+   "titre": "Generative Artificial Intelligence in Business: Towards a Strategic Human Resource Management Framework",
+   "revue": "British Journal of Management",
+   "annee": 2024,
+   "volume": "35",
+   "numero": "4",
+   "pages": "1680-1691",
+   "type": "journal-article",
+   "citations_crossref": 158,
+   "auteurs": [
+    {
+     "famille": "Chowdhury",
+     "prenom": "Soumyadeb"
+    },
+    {
+     "famille": "Budhwar",
+     "prenom": "Pawan"
+    },
+    {
+     "famille": "Wood",
+     "prenom": "Geoffrey"
+    }
+   ],
+   "verifie_le": "2026-08-07",
+   "methode": "Crossref REST API (works/{doi})",
+   "statut": "vérifiée (existence et métadonnées)"
+  },
+  {
+   "axe": "A2",
+   "tier": "A",
+   "doi": "10.1002/hrdq.21551",
+   "titre": "Bridging human resource development processes through generative Artificial Intelligence",
+   "revue": "Human Resource Development Quarterly",
+   "annee": 2024,
+   "volume": "35",
+   "numero": "3",
+   "pages": "247-256",
+   "type": "journal-article",
+   "citations_crossref": 29,
+   "auteurs": [
+    {
+     "famille": "Korzynski",
+     "prenom": "Pawel"
+    },
+    {
+     "famille": "Kim",
+     "prenom": "Sewon"
+    },
+    {
+     "famille": "Egan",
+     "prenom": "Toby"
+    }
+   ],
+   "verifie_le": "2026-08-07",
+   "methode": "Crossref REST API (works/{doi})",
+   "statut": "vérifiée (existence et métadonnées)"
+  },
+  {
+   "axe": "A2",
+   "tier": "A",
+   "doi": "10.1108/ijchm-01-2025-0159",
+   "titre": "Generative artificial intelligence in human resource management: a critical reflection on impacts, resilience and roles",
+   "revue": "International Journal of Contemporary Hospitality Management",
+   "annee": 2025,
+   "volume": "37",
+   "numero": "9",
+   "pages": "3136-3158",
+   "type": "journal-article",
+   "citations_crossref": 19,
+   "auteurs": [
+    {
+     "famille": "Garcia",
+     "prenom": "R.L. Fernando"
+    },
+    {
+     "famille": "Kwok",
+     "prenom": "Linchi"
+    }
+   ],
+   "verifie_le": "2026-08-07",
+   "methode": "Crossref REST API (works/{doi})",
+   "statut": "vérifiée (existence et métadonnées)"
+  },
+  {
+   "axe": "A2",
+   "tier": "B",
+   "doi": "10.1007/s44282-025-00175-8",
+   "titre": "Potential benefits and challenges of artificial intelligence in human resource management in public institutions",
+   "revue": "Discover Global Society",
+   "annee": 2025,
+   "volume": "3",
+   "numero": "1",
+   "pages": null,
+   "type": "journal-article",
+   "citations_crossref": 26,
+   "auteurs": [
+    {
+     "famille": "Mwita",
+     "prenom": "Kelvin M."
+    },
+    {
+     "famille": "Kitole",
+     "prenom": "Felician Andrew"
+    }
+   ],
+   "verifie_le": "2026-08-07",
+   "methode": "Crossref REST API (works/{doi})",
+   "statut": "vérifiée (existence et métadonnées)"
+  },
+  {
+   "axe": "A3",
+   "tier": "A",
+   "doi": "10.1016/j.hrmr.2021.100876",
+   "titre": "The duality of algorithmic management: Toward a research agenda on HRM algorithms, autonomy and value creation",
+   "revue": "Human Resource Management Review",
+   "annee": 2023,
+   "volume": "33",
+   "numero": "1",
+   "pages": "100876",
+   "type": "journal-article",
+   "citations_crossref": 214,
+   "auteurs": [
+    {
+     "famille": "Meijerink",
+     "prenom": "Jeroen"
+    },
+    {
+     "famille": "Bondarouk",
+     "prenom": "Tanya"
+    }
+   ],
+   "verifie_le": "2026-08-07",
+   "methode": "Crossref REST API (works/{doi})",
+   "statut": "vérifiée (existence et métadonnées)"
+  },
+  {
+   "axe": "A3",
+   "tier": "A",
+   "doi": "10.1016/j.hrmr.2022.100925",
+   "titre": "An artificial intelligence algorithmic approach to ethical decision-making in human resource management processes",
+   "revue": "Human Resource Management Review",
+   "annee": 2023,
+   "volume": "33",
+   "numero": "1",
+   "pages": "100925",
+   "type": "journal-article",
+   "citations_crossref": 328,
+   "auteurs": [
+    {
+     "famille": "Rodgers",
+     "prenom": "Waymond"
+    },
+    {
+     "famille": "Murray",
+     "prenom": "James M."
+    },
+    {
+     "famille": "Stefanidis",
+     "prenom": "Abraham"
+    },
+    {
+     "famille": "Degbey",
+     "prenom": "William Y."
+    },
+    {
+     "famille": "Tarba",
+     "prenom": "Shlomo Y."
+    }
+   ],
+   "verifie_le": "2026-08-07",
+   "methode": "Crossref REST API (works/{doi})",
+   "statut": "vérifiée (existence et métadonnées)"
+  },
+  {
+   "axe": "A3",
+   "tier": "A",
+   "doi": "10.1002/hrm.22168",
+   "titre": "Algorithmic <scp>HRM</scp> control in the gig economy: The app‐worker perspective",
+   "revue": "Human Resource Management",
+   "annee": 2023,
+   "volume": "62",
+   "numero": "6",
+   "pages": "883-899",
+   "type": "journal-article",
+   "citations_crossref": 123,
+   "auteurs": [
+    {
+     "famille": "Duggan",
+     "prenom": "James"
+    },
+    {
+     "famille": "Carbery",
+     "prenom": "Ronan"
+    },
+    {
+     "famille": "McDonnell",
+     "prenom": "Anthony"
+    },
+    {
+     "famille": "Sherman",
+     "prenom": "Ultan"
+    }
+   ],
+   "verifie_le": "2026-08-07",
+   "methode": "Crossref REST API (works/{doi})",
+   "statut": "vérifiée (existence et métadonnées)"
+  },
+  {
+   "axe": "A3",
+   "tier": "A",
+   "doi": "10.1002/hrm.22268",
+   "titre": "Strategic Human Resource Management in the Era of Algorithmic Technologies: Key Insights and Future Research Agenda",
+   "revue": "Human Resource Management",
+   "annee": 2024,
+   "volume": "64",
+   "numero": "2",
+   "pages": "447-464",
+   "type": "journal-article",
+   "citations_crossref": 62,
+   "auteurs": [
+    {
+     "famille": "Kim",
+     "prenom": "Sunghoon"
+    },
+    {
+     "famille": "Khoreva",
+     "prenom": "Violetta"
+    },
+    {
+     "famille": "Vaiman",
+     "prenom": "Vlad"
+    }
+   ],
+   "verifie_le": "2026-08-07",
+   "methode": "Crossref REST API (works/{doi})",
+   "statut": "vérifiée (existence et métadonnées)"
+  },
+  {
+   "axe": "A3",
+   "tier": "A",
+   "doi": "10.1002/hrm.22263",
+   "titre": "Exploring the Duality of Perceptions: Insights into Uncertainties, Aversion and Appreciation Towards Algorithmic <scp>HRM</scp>",
+   "revue": "Human Resource Management",
+   "annee": 2024,
+   "volume": "64",
+   "numero": "2",
+   "pages": "583-616",
+   "type": "journal-article",
+   "citations_crossref": 34,
+   "auteurs": [
+    {
+     "famille": "Tandon",
+     "prenom": "Anushree"
+    },
+    {
+     "famille": "Dhir",
+     "prenom": "Amandeep"
+    },
+    {
+     "famille": "Malik",
+     "prenom": "Ashish"
+    },
+    {
+     "famille": "Budhwar",
+     "prenom": "Pawan"
+    },
+    {
+     "famille": "Kaur",
+     "prenom": "Puneet"
+    }
+   ],
+   "verifie_le": "2026-08-07",
+   "methode": "Crossref REST API (works/{doi})",
+   "statut": "vérifiée (existence et métadonnées)"
+  },
+  {
+   "axe": "A3",
+   "tier": "A",
+   "doi": "10.1016/j.hrmr.2026.101135",
+   "titre": "A meta-analysis on reactions to algorithmic decision-making in human resource management",
+   "revue": "Human Resource Management Review",
+   "annee": 2026,
+   "volume": "36",
+   "numero": "2",
+   "pages": "101135",
+   "type": "journal-article",
+   "citations_crossref": 5,
+   "auteurs": [
+    {
+     "famille": "Moritz",
+     "prenom": "Josephine Mago"
+    },
+    {
+     "famille": "Pomrehn",
+     "prenom": "Larissa"
+    },
+    {
+     "famille": "Steinmetz",
+     "prenom": "Holger"
+    },
+    {
+     "famille": "Wehner",
+     "prenom": "Marius Claus"
+    }
+   ],
+   "verifie_le": "2026-08-07",
+   "methode": "Crossref REST API (works/{doi})",
+   "statut": "vérifiée (existence et métadonnées)"
+  },
+  {
+   "axe": "A3",
+   "tier": "A",
+   "doi": "10.5465/amd.2022.0091",
+   "titre": "The Future of HRM Incentivizing Strathern’s Paradox? Workers’ Responses to Algorithmic Human Resource Management",
+   "revue": "Academy of Management Discoveries",
+   "annee": 2024,
+   "volume": "10",
+   "numero": "3",
+   "pages": "393-415",
+   "type": "journal-article",
+   "citations_crossref": 9,
+   "auteurs": [
+    {
+     "famille": "Scheibmayr",
+     "prenom": "Isabella"
+    },
+    {
+     "famille": "Reichel",
+     "prenom": "Astrid"
+    }
+   ],
+   "verifie_le": "2026-08-07",
+   "methode": "Crossref REST API (works/{doi})",
+   "statut": "vérifiée (existence et métadonnées)"
+  },
+  {
+   "axe": "A4",
+   "tier": "A",
+   "doi": "10.1016/j.chbr.2023.100303",
+   "titre": "Applicants' perception of artificial intelligence in the recruitment process",
+   "revue": "Computers in Human Behavior Reports",
+   "annee": 2023,
+   "volume": "11",
+   "numero": null,
+   "pages": "100303",
+   "type": "journal-article",
+   "citations_crossref": 82,
+   "auteurs": [
+    {
+     "famille": "Horodyski",
+     "prenom": "Piotr"
+    }
+   ],
+   "verifie_le": "2026-08-07",
+   "methode": "Crossref REST API (works/{doi})",
+   "statut": "vérifiée (existence et métadonnées)"
+  },
+  {
+   "axe": "A4",
+   "tier": "A",
+   "doi": "10.1007/s11846-024-00748-y",
+   "titre": "Consumer responses to human-AI collaboration at organizational frontlines: strategies to escape algorithm aversion in content creation",
+   "revue": "Review of Managerial Science",
+   "annee": 2024,
+   "volume": "19",
+   "numero": "2",
+   "pages": "377-413",
+   "type": "journal-article",
+   "citations_crossref": 47,
+   "auteurs": [
+    {
+     "famille": "Haupt",
+     "prenom": "Martin"
+    },
+    {
+     "famille": "Freidank",
+     "prenom": "Jan"
+    },
+    {
+     "famille": "Haas",
+     "prenom": "Alexander"
+    }
+   ],
+   "verifie_le": "2026-08-07",
+   "methode": "Crossref REST API (works/{doi})",
+   "statut": "vérifiée (existence et métadonnées)"
+  },
+  {
+   "axe": "A4",
+   "tier": "A",
+   "doi": "10.1057/s41599-025-05116-z",
+   "titre": "AI algorithm transparency, pipelines for trust not prisms: mitigating general negative attitudes and enhancing trust toward AI",
+   "revue": "Humanities and Social Sciences Communications",
+   "annee": 2025,
+   "volume": "12",
+   "numero": "1",
+   "pages": null,
+   "type": "journal-article",
+   "citations_crossref": 35,
+   "auteurs": [
+    {
+     "famille": "Park",
+     "prenom": "Keonyoung"
+    },
+    {
+     "famille": "Yoon",
+     "prenom": "Ho Young"
+    }
+   ],
+   "verifie_le": "2026-08-07",
+   "methode": "Crossref REST API (works/{doi})",
+   "statut": "vérifiée (existence et métadonnées)"
+  },
+  {
+   "axe": "A4",
+   "tier": "B",
+   "doi": "10.3389/frai.2025.1671997",
+   "titre": "Rejected by an AI? Comparing job applicants’ fairness perceptions of artificial intelligence and humans in personnel selection",
+   "revue": "Frontiers in Artificial Intelligence",
+   "annee": 2025,
+   "volume": "8",
+   "numero": null,
+   "pages": null,
+   "type": "journal-article",
+   "citations_crossref": 4,
+   "auteurs": [
+    {
+     "famille": "Malin",
+     "prenom": "Christine"
+    },
+    {
+     "famille": "Fleiß",
+     "prenom": "Jürgen"
+    },
+    {
+     "famille": "Ortlieb",
+     "prenom": "Renate"
+    },
+    {
+     "famille": "Thalmann",
+     "prenom": "Stefan"
+    }
+   ],
+   "verifie_le": "2026-08-07",
+   "methode": "Crossref REST API (works/{doi})",
+   "statut": "vérifiée (existence et métadonnées)"
+  },
+  {
+   "axe": "A4",
+   "tier": "A",
+   "doi": "10.1108/jkm-06-2025-0870",
+   "titre": "Dancing with the algorithm: a framework to navigate knowledge and autonomy in AI-assisted managerial decisions",
+   "revue": "Journal of Knowledge Management",
+   "annee": 2025,
+   "volume": "30",
+   "numero": "11",
+   "pages": "1-31",
+   "type": "journal-article",
+   "citations_crossref": 8,
+   "auteurs": [
+    {
+     "famille": "Cristofaro",
+     "prenom": "Matteo"
+    },
+    {
+     "famille": "Bañón-Gomis",
+     "prenom": "Alexis J."
+    }
+   ],
+   "verifie_le": "2026-08-07",
+   "methode": "Crossref REST API (works/{doi})",
+   "statut": "vérifiée (existence et métadonnées)"
+  },
+  {
+   "axe": "A5",
+   "tier": "A",
+   "doi": "10.1007/s10869-024-09963-6",
+   "titre": "The Buffering Role of Workplace Mindfulness: How Job Insecurity of Human-Artificial Intelligence Collaboration Impacts Employees’ Work–Life-Related Outcomes",
+   "revue": "Journal of Business and Psychology",
+   "annee": 2024,
+   "volume": "39",
+   "numero": "6",
+   "pages": "1395-1411",
+   "type": "journal-article",
+   "citations_crossref": 109,
+   "auteurs": [
+    {
+     "famille": "Wu",
+     "prenom": "Tung-Ju"
+    },
+    {
+     "famille": "Liang",
+     "prenom": "Yuan"
+    },
+    {
+     "famille": "Wang",
+     "prenom": "Yushu"
+    }
+   ],
+   "verifie_le": "2026-08-07",
+   "methode": "Crossref REST API (works/{doi})",
+   "statut": "vérifiée (existence et métadonnées)"
+  },
+  {
+   "axe": "A5",
+   "tier": "A",
+   "doi": "10.1016/j.jik.2024.100590",
+   "titre": "How artificial intelligence-induced job insecurity shapes knowledge dynamics: the mitigating role of artificial intelligence self-efficacy",
+   "revue": "Journal of Innovation &amp; Knowledge",
+   "annee": 2024,
+   "volume": "9",
+   "numero": "4",
+   "pages": "100590",
+   "type": "journal-article",
+   "citations_crossref": 82,
+   "auteurs": [
+    {
+     "famille": "Kim",
+     "prenom": "Byung-Jik"
+    },
+    {
+     "famille": "Kim",
+     "prenom": "Min-Jik"
+    }
+   ],
+   "verifie_le": "2026-08-07",
+   "methode": "Crossref REST API (works/{doi})",
+   "statut": "vérifiée (existence et métadonnées)"
+  },
+  {
+   "axe": "A5",
+   "tier": "A",
+   "doi": "10.1016/j.actpsy.2025.104733",
+   "titre": "Artificial intelligence and employee outcomes: Investigating the role of job insecurity and technostress in the hospitality industry",
+   "revue": "Acta Psychologica",
+   "annee": 2025,
+   "volume": "253",
+   "numero": null,
+   "pages": "104733",
+   "type": "journal-article",
+   "citations_crossref": 76,
+   "auteurs": [
+    {
+     "famille": "Sharif",
+     "prenom": "Muhammad Naeem"
+    },
+    {
+     "famille": "Zhang",
+     "prenom": "Li"
+    },
+    {
+     "famille": "Asif",
+     "prenom": "Muhammad"
+    },
+    {
+     "famille": "Alshdaifat",
+     "prenom": "Sajead Mowafaq"
+    },
+    {
+     "famille": "Hanaysha",
+     "prenom": "Jalal Rajeh"
+    }
+   ],
+   "verifie_le": "2026-08-07",
+   "methode": "Crossref REST API (works/{doi})",
+   "statut": "vérifiée (existence et métadonnées)"
+  },
+  {
+   "axe": "A5",
+   "tier": "A",
+   "doi": "10.1108/ijchm-01-2024-0051",
+   "titre": "The double-edged sword effect of artificial intelligence awareness among hotel employees",
+   "revue": "International Journal of Contemporary Hospitality Management",
+   "annee": 2025,
+   "volume": "37",
+   "numero": "3",
+   "pages": "997-1015",
+   "type": "journal-article",
+   "citations_crossref": 39,
+   "auteurs": [
+    {
+     "famille": "Liu",
+     "prenom": "Shengmin"
+    },
+    {
+     "famille": "Cheng",
+     "prenom": "Pengfan"
+    }
+   ],
+   "verifie_le": "2026-08-07",
+   "methode": "Crossref REST API (works/{doi})",
+   "statut": "vérifiée (existence et métadonnées)"
+  },
+  {
+   "axe": "A5",
+   "tier": "A",
+   "doi": "10.1016/j.techfore.2025.124326",
+   "titre": "The fear of being replaced by generative AI: An examination of influential factors among office workers",
+   "revue": "Technological Forecasting and Social Change",
+   "annee": 2025,
+   "volume": "220",
+   "numero": null,
+   "pages": "124326",
+   "type": "journal-article",
+   "citations_crossref": 14,
+   "auteurs": [
+    {
+     "famille": "Jo",
+     "prenom": "Hyeon"
+    },
+    {
+     "famille": "Park",
+     "prenom": "Do-Hyung"
+    }
+   ],
+   "verifie_le": "2026-08-07",
+   "methode": "Crossref REST API (works/{doi})",
+   "statut": "vérifiée (existence et métadonnées)"
+  },
+  {
+   "axe": "A5",
+   "tier": "A",
+   "doi": "10.1016/j.caeai.2024.100260",
+   "titre": "To fear or not to fear – Human resource development professionals’ positioning towards artificial intelligence with a focus on augmentation",
+   "revue": "Computers and Education: Artificial Intelligence",
+   "annee": 2024,
+   "volume": "7",
+   "numero": null,
+   "pages": "100260",
+   "type": "journal-article",
+   "citations_crossref": 10,
+   "auteurs": [
+    {
+     "famille": "Guggemos",
+     "prenom": "Josef"
+    }
+   ],
+   "verifie_le": "2026-08-07",
+   "methode": "Crossref REST API (works/{doi})",
+   "statut": "vérifiée (existence et métadonnées)"
+  },
+  {
+   "axe": "A5",
+   "tier": "B",
+   "doi": "10.1080/00049530.2025.2559910",
+   "titre": "Artificial intelligence awareness, career resilience, job insecurity and behavioural outcomes",
+   "revue": "Australian Journal of Psychology",
+   "annee": 2025,
+   "volume": "77",
+   "numero": "1",
+   "pages": null,
+   "type": "journal-article",
+   "citations_crossref": 12,
+   "auteurs": [
+    {
+     "famille": "Chung",
+     "prenom": "Yang Woon"
+    },
+    {
+     "famille": "Im",
+     "prenom": "Seunghee"
+    },
+    {
+     "famille": "Kim",
+     "prenom": "Jung Eun"
+    },
+    {
+     "famille": "Yun",
+     "prenom": "Jeong Kwon"
+    }
+   ],
+   "verifie_le": "2026-08-07",
+   "methode": "Crossref REST API (works/{doi})",
+   "statut": "vérifiée (existence et métadonnées)"
+  },
+  {
+   "axe": "A6",
+   "tier": "B",
+   "doi": "10.4102/sajhrm.v23i0.2960",
+   "titre": "The impact of artificial intelligence on human resource management practices: An investigation",
+   "revue": "SA Journal of Human Resource Management",
+   "annee": 2025,
+   "volume": "23",
+   "numero": null,
+   "pages": null,
+   "type": "journal-article",
+   "citations_crossref": 8,
+   "auteurs": [
+    {
+     "famille": "Ncube",
+     "prenom": "Thandukwazi R."
+    },
+    {
+     "famille": "Sishi",
+     "prenom": "Kusangiphila K."
+    },
+    {
+     "famille": "Skinner",
+     "prenom": "Jane P."
+    }
+   ],
+   "verifie_le": "2026-08-07",
+   "methode": "Crossref REST API (works/{doi})",
+   "statut": "vérifiée (existence et métadonnées)"
+  },
+  {
+   "axe": "A6",
+   "tier": "B",
+   "doi": "10.4102/sajhrm.v24i0.3315",
+   "titre": "Knowledge-sharing behaviour as a pathway to competitive advantage: The nexus of artificial intelligence adoption and human resource competence",
+   "revue": "SA Journal of Human Resource Management",
+   "annee": 2026,
+   "volume": "24",
+   "numero": null,
+   "pages": null,
+   "type": "journal-article",
+   "citations_crossref": 1,
+   "auteurs": [
+    {
+     "famille": "Setyanti",
+     "prenom": "Sri Wahyu Lelly Hana"
+    },
+    {
+     "famille": "Khusna",
+     "prenom": "Khanifatul"
+    },
+    {
+     "famille": "Seminari",
+     "prenom": "Ni Ketut"
+    },
+    {
+     "famille": "Jamillah",
+     "prenom": "Kamillaeni"
+    }
+   ],
+   "verifie_le": "2026-08-07",
+   "methode": "Crossref REST API (works/{doi})",
+   "statut": "vérifiée (existence et métadonnées)"
+  },
+  {
+   "axe": "A6",
+   "tier": "B",
+   "doi": "10.1186/s43093-025-00515-9",
+   "titre": "Mapping the impacts of neural networks on human resource management research: a bibliometric analysis",
+   "revue": "Future Business Journal",
+   "annee": 2025,
+   "volume": "11",
+   "numero": "1",
+   "pages": null,
+   "type": "journal-article",
+   "citations_crossref": 4,
+   "auteurs": [
+    {
+     "famille": "Sakib",
+     "prenom": "Md. Nazmus"
+    },
+    {
+     "famille": "Jabber",
+     "prenom": "Mohammad Abdul"
+    },
+    {
+     "famille": "Younus",
+     "prenom": "Mohammad"
+    },
+    {
+     "famille": "Bithee",
+     "prenom": "Mst. Mafruha"
+    },
+    {
+     "famille": "Sannyamat",
+     "prenom": "Md. Manir"
+    },
+    {
+     "famille": "Saha",
+     "prenom": "Adri"
+    },
+    {
+     "famille": "Guha",
+     "prenom": "Anuvab"
+    }
+   ],
+   "verifie_le": "2026-08-07",
+   "methode": "Crossref REST API (works/{doi})",
+   "statut": "vérifiée (existence et métadonnées)"
+  },
+  {
+   "axe": "A6",
+   "tier": "B",
+   "doi": "10.7190/fintaf.v2i1.413",
+   "titre": "A Review of the legal framework in Morocco as a hindrance to artificial intelligence adoption in the financial services industry",
+   "revue": "FinTech and AI in Finance",
+   "annee": 2025,
+   "volume": null,
+   "numero": null,
+   "pages": null,
+   "type": "journal-article",
+   "citations_crossref": 0,
+   "auteurs": [],
+   "verifie_le": "2026-08-07",
+   "methode": "Crossref REST API (works/{doi})",
+   "statut": "vérifiée (existence et métadonnées)"
+  },
+  {
+   "axe": "A6",
+   "tier": "A",
+   "doi": "10.1002/hrm.22313",
+   "titre": "Employee Digital Transformation Experience Towards Automation Versus Augmentation: Implications for Job Attitudes",
+   "revue": "Human Resource Management",
+   "annee": 2025,
+   "volume": "64",
+   "numero": "5",
+   "pages": "1359-1379",
+   "type": "journal-article",
+   "citations_crossref": 19,
+   "auteurs": [
+    {
+     "famille": "Ren",
+     "prenom": "Shuang"
+    },
+    {
+     "famille": "Chowdhury",
+     "prenom": "Soumyadeb"
+    }
+   ],
+   "verifie_le": "2026-08-07",
+   "methode": "Crossref REST API (works/{doi})",
+   "statut": "vérifiée (existence et métadonnées)"
+  },
+  {
+   "axe": "A7",
+   "tier": "A",
+   "doi": "10.1057/s41599-023-02079-x",
+   "titre": "Ethics and discrimination in artificial intelligence-enabled recruitment practices",
+   "revue": "Humanities and Social Sciences Communications",
+   "annee": 2023,
+   "volume": "10",
+   "numero": "1",
+   "pages": null,
+   "type": "journal-article",
+   "citations_crossref": 360,
+   "auteurs": [
+    {
+     "famille": "Chen",
+     "prenom": "Zhisheng"
+    }
+   ],
+   "verifie_le": "2026-08-07",
+   "methode": "Crossref REST API (works/{doi})",
+   "statut": "vérifiée (existence et métadonnées)"
+  },
+  {
+   "axe": "A7",
+   "tier": "A",
+   "doi": "10.3389/fpsyg.2023.1118723",
+   "titre": "Check the box! How to deal with automation bias in AI-based personnel selection",
+   "revue": "Frontiers in Psychology",
+   "annee": 2023,
+   "volume": "14",
+   "numero": null,
+   "pages": null,
+   "type": "journal-article",
+   "citations_crossref": 45,
+   "auteurs": [
+    {
+     "famille": "Kupfer",
+     "prenom": "Cordula"
+    },
+    {
+     "famille": "Prassl",
+     "prenom": "Rita"
+    },
+    {
+     "famille": "Fleiß",
+     "prenom": "Jürgen"
+    },
+    {
+     "famille": "Malin",
+     "prenom": "Christine"
+    },
+    {
+     "famille": "Thalmann",
+     "prenom": "Stefan"
+    },
+    {
+     "famille": "Kubicek",
+     "prenom": "Bettina"
+    }
+   ],
+   "verifie_le": "2026-08-07",
+   "methode": "Crossref REST API (works/{doi})",
+   "statut": "vérifiée (existence et métadonnées)"
+  },
+  {
+   "axe": "A7",
+   "tier": "A",
+   "doi": "10.1111/ijsa.12499",
+   "titre": "Sourcing algorithms: Rethinking fairness in hiring in the era of algorithmic recruitment",
+   "revue": "International Journal of Selection and Assessment",
+   "annee": 2024,
+   "volume": "33",
+   "numero": "1",
+   "pages": null,
+   "type": "journal-article",
+   "citations_crossref": 15,
+   "auteurs": [
+    {
+     "famille": "Alexander",
+     "prenom": "Leo"
+    },
+    {
+     "famille": "Song",
+     "prenom": "Q. Chelsea"
+    },
+    {
+     "famille": "Hickman",
+     "prenom": "Louis"
+    },
+    {
+     "famille": "Shin",
+     "prenom": "Hyun Joo"
+    }
+   ],
+   "verifie_le": "2026-08-07",
+   "methode": "Crossref REST API (works/{doi})",
+   "statut": "vérifiée (existence et métadonnées)"
+  },
+  {
+   "axe": "A7",
+   "tier": "B",
+   "doi": "10.1007/s44282-025-00246-w",
+   "titre": "Role of artificial intelligence in employee recruitment: systematic review and future research directions",
+   "revue": "Discover Global Society",
+   "annee": 2025,
+   "volume": "3",
+   "numero": "1",
+   "pages": null,
+   "type": "journal-article",
+   "citations_crossref": 11,
+   "auteurs": [
+    {
+     "famille": "Dadaboyev",
+     "prenom": "Sherzodbek Murodilla Ugli"
+    },
+    {
+     "famille": "Abdullayeva",
+     "prenom": "Jasmina"
+    },
+    {
+     "famille": "Abbosova",
+     "prenom": "Naval"
+    },
+    {
+     "famille": "Suleymenova",
+     "prenom": "Afina"
+    },
+    {
+     "famille": "Mamadjanova",
+     "prenom": "Komila"
+    }
+   ],
+   "verifie_le": "2026-08-07",
+   "methode": "Crossref REST API (works/{doi})",
+   "statut": "vérifiée (existence et métadonnées)"
+  },
+  {
+   "axe": "A7",
+   "tier": "A",
+   "doi": "10.1177/00187267251403902",
+   "titre": "Problematizing the role of artificial intelligence in hiring and organizational inequalities: A multidisciplinary review",
+   "revue": "Human Relations",
+   "annee": 2025,
+   "volume": "79",
+   "numero": "2",
+   "pages": "246-278",
+   "type": "journal-article",
+   "citations_crossref": 10,
+   "auteurs": [
+    {
+     "famille": "Hughes",
+     "prenom": "Karen D"
+    },
+    {
+     "famille": "Konnikov",
+     "prenom": "Alla"
+    },
+    {
+     "famille": "Denier",
+     "prenom": "Nicole"
+    },
+    {
+     "famille": "Hu",
+     "prenom": "Yang"
+    }
+   ],
+   "verifie_le": "2026-08-07",
+   "methode": "Crossref REST API (works/{doi})",
+   "statut": "vérifiée (existence et métadonnées)"
+  }
+ ],
+ "echecs": []
+}

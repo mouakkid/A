@@ -1,0 +1,1222 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message-version": "1.0.0",
+ "message": {
+  "facets": {},
+  "total-results": 1105562,
+  "items": [
+   {
+    "DOI": "10.21275/mr24206175858",
+    "title": [
+     "The Challenges of Artificial Intelligence Adoption by Business Organizations"
+    ],
+    "container-title": [
+     "International Journal of Science and Research (IJSR)"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       2,
+       5
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Chapman",
+      "family": "Eze Nnadozie",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.33140/ijdj.01.01.01",
+    "title": [
+     "Adoption of Artificial Intelligence in Media Organizations: A Comparative Study of Egyptian and European Media Professionals"
+    ],
+    "container-title": [
+     "International Journal of Digital Journalism"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       7,
+       24
+      ]
+     ]
+    },
+    "author": [
+     {
+      "name": "Assistant Professor and Head of Media Department, Arab Academy for Science, Technology and Marine Transport, Egypt",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Sally Samy",
+      "family": "Tayie",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>This article reviews findings of a study which was carried out on a purposive sample of experts and media professionals\nfrom Egypt and some European countries. This study aims primarily to identify the perceptions and opinions of experts\nregarding the extent of awareness and knowledge of AI and its uses in media organizations. It also aims to find out about\nthe challenges which AI may bring to our life in general. The study relied on in-depth interviews, which is an important\nqualitative technique and focused on identifying the extent of media professionals’ knowledge in these countries of the\nbasics and uses of AI, the efforts made to improve AI skills, and ethical concerns in institutions that adopt AI. The results of\nthe study have shown that in general there is a significant lack of awareness, knowledge, and understanding of the role that\nAI can play within media institutions, whether in Egypt or some European countries. The results have shown that experts\nin various countries also aim and called for the need to enact regulations and laws and emphasize the ethical aspect, and\nthe urgent need to enact regulations to address ethical concerns, including the need to consider accuracy, copyright, bias,\nand privacy violations.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1108/dlo-02-2026-0074",
+    "title": [
+     "On artificial intelligence technology adoption in management and higher education"
+    ],
+    "container-title": [
+     "Development and Learning in Organizations: An International Journal"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       5,
+       12
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Michael",
+      "family": "Shick",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Western Carolina University School of Economics, Management, and Project Management, College of Business, , ,",
+        "place": [
+         "Cullowhee, USA"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Janice A.",
+      "family": "Black",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Northeastern State University the Department of Management, , Broken Arrow, ,",
+        "place": [
+         "Oklahoma, USA"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:sec>\n                    <jats:title>Purpose</jats:title>\n                    <jats:p>Examine implications of artificial intelligence (AI) adoption within organizations and management education. Considering technological parallels, we propose a structured, ethical integration to enhance users’ critical thinking, employability, and adaptive professional skills while mitigating risks like cognitive offloading.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Design/methodology/approach</jats:title>\n                    <jats:p>This viewpoint paper synthesizes literature on technological adoption patterns, cognitive offloading effects, and emerging AI impacts on decision-making. Drawing on historical examples, it proposes practical applications for embedding AI in management coursework, anchored in critical-thinking frameworks.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Findings</jats:title>\n                    <jats:p>Accelerating AI adoption brings enhanced rationality closer to realization yet risks over-reliance on decision-support and diminished independent reasoning. Higher education should prioritize foundational critical thinking before extensive AI use. Proposed practices include sequencing AI as an instrumental tool, constrained collaboration, and collegial evaluation. Structured AI usage fosters ethical practices, prompt literacy, transparency, and preparation for AI-integrated workplaces.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Research limitations/implications</jats:title>\n                    <jats:p>Future research could quantitatively validate the proposed effects on cognitive offloading and critical thinking among students using AI for decision-support.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Practical implications</jats:title>\n                    <jats:p>Management educators should integrate guided AI applications in assignments. Doing so sets ethical boundaries, reinforces student authorship, and builds competencies (e.g., advanced information processing, emotional regulation, and boundary-setting) for AI usage in organizations.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Originality/value</jats:title>\n                    <jats:p>The paper offers a critical-thinking-anchored framework for embedding AI in management education. It links historical adoption patterns to current AI dynamics and extending discussions on enhanced rationality to pedagogical practice. Further, it provides actionable guidance to balance AI benefits with risks in ways that support long-term career development.</jats:p>\n                  </jats:sec>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.46656/access.2024.5.3(1)",
+    "title": [
+     "Factors driving the adoption of artificial intelligence technology in the recruitment process in Morocco"
+    ],
+    "container-title": [
+     "Access Journal - Access to Science, Business, Innovation in the digital economy"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       7,
+       9
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0009-0009-3003-2234",
+      "authenticated-orcid": false,
+      "given": "Asmaa",
+      "family": "Benhmama",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "name": "University Hassan II de Casablanca, Casablanca, Morocco",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-4815-9905",
+      "authenticated-orcid": false,
+      "given": "Yasmina",
+      "family": "BENNIS BENNANI",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "name": "University Hassan II de Casablanca, Casablanca, Morocco",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 5,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.7190/fintaf.v2i1.413",
+    "title": [
+     "A Review of the legal framework in Morocco as a hindrance to artificial intelligence adoption in the financial services industry"
+    ],
+    "container-title": [
+     "FinTech and AI in Finance"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025
+      ]
+     ]
+    },
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>Artificial intelligence (AI) is the revelation of a new era dominated by data, precision, and gains in terms of time, effectiveness, and relevance. These elements are the best precursors of a revolutionary evolution in all fields. The financial sector, the lifeblood of any society, is the first to be impacted by this disruptive revolution. To ensure a balance between technological development and the protection of fundamental rights and against the bias of technological disruption, international organizations are intervening to issue recommendations and legal guidelines that provide a basis of inspiration for countries around the world.\n\nThe evolution of the Moroccan financial system through AI, although timid, is beginning to gain momentum meanly because the opportunities it presents. The aim of this article is to propose an appropriate legal framework for AI for the Moroccan financial sector, based on the various guidelines and legal frameworks approved by international organizations. The results show that, although an initial legal framework already exists in Morocco, it remains insufficient in the face of the challenges posed by the use of AI in the financial sector. This framework can be supplemented by adjustments to hard and soft law</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.47191/ijcsrr/v7-i3-56",
+    "title": [
+     "Adoption and Adaptation of Generative Artificial Intelligence in Organizations: Actions for Efficient and Responsible Use in Interaction with Collaborators"
+    ],
+    "container-title": [
+     "International Journal of Current Science Research and Review"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       3,
+       28
+      ]
+     ]
+    },
+    "author": [
+     {
+      "name": "Tecnológico Nacional de México – TES de Coacalco, México",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Noé Chávez",
+      "family": "Hernández",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 5,
+    "abstract": "<jats:p>The aim of this work was to determine the actions needed to adopt and adapt Generative Artificial Intelligence (GenAI) for efficient and responsible use in the organization, without affecting the contribution of the collaborator to his/her work activities. A bibliographic review of the scientific literature and information published by consulting companies on the current development of research related to GenAI and its impact on organizations was carried out. Artificial intelligence search tools, academic search engines were used, and criteria for the inclusion and exclusion of publications were established. As a result, necessary actions were identified for the adoption, adaptation, efficient and responsible use, and interaction of GenAI with employees in their work environment. These actions include the adjustment of processes, infrastructure, and resources; capacity-building for integration and a culture of innovation, protocol development, staff training, creation of flexible and supportive working environments, collaboration with regulators, transformation of work; and alignment of staff management practices. It was concluded that GenAI is having a major impact on organizations by automating processes and increasing productivity and efficiency. It is essential to address actions in three categories: staff training, fostering a culture of innovation, ethics, and accountability in the use of this technology, and its efficient adoption and adaptation without affecting the contribution of employees. This research helps to identify the elements needed to deepen research development and define, in real contexts, the effectiveness of the adoption and efficient adaptation of GenAI in internal processes and interaction with collaborators, with the aim of promoting best practices that generate value through its use.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.55463/hkjss.issn.1021-3619.63.36",
+    "title": [
+     "Factors Influencing the Adoption of Artificial Intelligence for Talent Acquisition in ITeS Organizations in Malaysia"
+    ],
+    "container-title": [
+     "Hong Kong Journal of Social Sciences"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024
+      ]
+     ]
+    },
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.24023/futurejournal/2175-5825/2024.v16i1.860",
+    "title": [
+     "Artificial intelligence adoption in public organizations: a case study"
+    ],
+    "container-title": [
+     "Future Studies Research Journal: Trends and Strategies"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       3,
+       7
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Luis",
+      "family": "Guedes",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Moacir",
+      "family": "Oliveira Júnior",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 8,
+    "abstract": "<jats:p>Purpose: The study explores the key factors influencing AI adoption by public organizations, and sought to understand the dynamics of AI adoption, aiming to identify the potential challenges of integrating AI with ESG considerations.\r\nOriginality/value: This research addresses the gap in understanding AI adoption in the public sector at the firm level, emphasizing the challenges and risks of technology integration. The study discuss how AI can be used effectively, contributing to societal appropriation of technological progress.\r\nMethods: Methodology employs a multi-stage analysis of literature, followed by ten interviews and a case study on Brazil's Federal Revenue Service. Empirical data was probed through rigorous coding and thematic analysis, selecting the most impactful factors influencing AI adoption.\r\nResults: The conclusions highlight the role of AI in elevating public services performance and reach. However, the deployment of AI calls for vigilant oversight to mitigate adverse effects and inequalities and demands a multidisciplinary strategy addressing an interplay of challenges.\r\nConclusion: The study provides a framework for effective AI adoption, offering insights for decision-makers on strategizing AI adoption, emphasizing the importance of factoring ESG concerns into de decision to adopt this technology.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.61882/meo.14.1.103",
+    "title": [
+     "Application of artificial intelligence in higher education based on learning rate and adoption of artificial intelligence: the mediating role of attitude and behavioral intentions"
+    ],
+    "container-title": [
+     "Quarterly Journal of Managing Education In Organizations"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       3,
+       1
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Farideh",
+      "family": "Nasiri",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Sakineh",
+      "family": "Jafari",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.23882/ijdam.25216",
+    "title": [
+     "Rethinking the adoption of artificial intelligence in higher education: a bibliometric study of barriers, ethical issues, and governance challenges"
+    ],
+    "container-title": [
+     "International Journal of Digitalization and Applied Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       7,
+       1
+      ]
+     ]
+    },
+    "author": [
+     {
+      "name": "Ibn Zohr University, Morocco",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Afafe",
+      "family": "ELAMRANI ELHASSANI",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Ayoub",
+      "family": "OULAMINE",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "name": "Ibn Zohr University, Morocco",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Fatima",
+      "family": "ELBARHOUMI",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "name": "Ibn Zohr University, Morocco",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>This paper presents a bibliometric analysis of recent research on the integration of artificial intelligence (AI) in higher education, with a particular focus on the obstacles encountered, the ethical dilemmas raised, and the associated governance issues. The study is based on a corpus of 803 peer-reviewed articles extracted from the Web of Science database for the period 2020–2024.\nThe analysis was conducted using the VOSviewer and Biblioshiny tools, which identified the most frequently co-occurring keywords, major contributors, global collaboration networks, and structuring thematic clusters.\nThe results highlight a strong focus on technology acceptance models (particularly UTAUT and TAM) and the pedagogical integration of AI. However, several critical gaps remain, particularly regarding personal data protection, algorithmic bias, the lack of robust regulatory frameworks, and the underrepresentation of developing countries in scientific publications and academic collaboration networks.\nThe study highlights the importance of strengthening ethical governance mechanisms, developing inclusive policies to support the growth of AI in the Global South, and promoting more balanced scientific partnerships at the international level.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.59400/cai3958",
+    "title": [
+     "From calculators to artificial intelligence: A multi-level framework for technology adoption and resistance in education and organisations"
+    ],
+    "container-title": [
+     "Computing and Artificial Intelligence"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       2,
+       26
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0003-4322-7857",
+      "authenticated-orcid": false,
+      "given": "Michael Mncedisi",
+      "family": "Willie",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>Technological innovations are frequently associated with enhanced efficiency and improved decision-making; however, their initial adoption has often been characterised by notable resistance. This study examined the persistence of this phenomenon by synthesising empirical evidence from the historical adoption of calculators, spreadsheets, and statistical software, and by comparing these insights with contemporary developments in artificial intelligence (AI). The findings indicated that resistance extended beyond technical limitations and reflected a complex, multi-dimensional process shaped by individual factors such as self-efficacy, perceived usefulness, and anxieties related to skill displacement as well as organisational culture and broader systemic conditions. The evidence further demonstrated that successful adoption was contingent upon structured support mechanisms, incremental exposure to new technologies, and the clear articulation of value propositions. At the organisational level, effective leadership, adequate resource allocation, and coherent policy alignment emerged as critical enablers of sustained integration. Drawing on these insights, the study proposed a multi-level conceptual framework that integrates individual, organisational, and systemic determinants to guide future technology adoption. The framework underscores that meaningful and sustainable integration depends on coordinated, cross-level interventions rather than isolated initiatives. The framework also highlights the need for further empirical research into AI adoption in under-resourced contexts. It calls for critical engagement with the ethical implications of algorithmic decision-making in evolving socio-technical systems.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1016/j.engappai.2025.112887",
+    "title": [
+     "The moderating effect of income and training on design engineers’ adoption of artificial intelligence: An extended unified theory of acceptance and use of technology approach"
+    ],
+    "container-title": [
+     "Engineering Applications of Artificial Intelligence"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       1
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-1072-2977",
+      "authenticated-orcid": false,
+      "given": "Ali",
+      "family": "Katebi",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0009-0003-6696-6676",
+      "authenticated-orcid": false,
+      "given": "Mahdi",
+      "family": "Tehrani",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 1,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.63680/ijsate062684.90",
+    "title": [
+     "Artificial Intelligence Adoption, Information Technology Infrastructure, and Organizational Agility: A Study of Bangalore’s Technology Ecosystem"
+    ],
+    "container-title": [
+     "International Journal of Science Architecture Technology and Environment"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       6,
+       21
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "J",
+      "family": "Hemanth",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1080/02564602.2025.2485910",
+    "title": [
+     "Adoption of Artificial Intelligence in Cybersecurity for Organizations: Barriers and Roadmap"
+    ],
+    "container-title": [
+     "IETE Technical Review"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       3,
+       4
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Ramanpreet",
+      "family": "Kaur",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Jožef Stefan Institute",
+        "place": [
+         "Ljubljana, Slovenia"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Tomaž",
+      "family": "Klobučar",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Jožef Stefan Institute",
+        "place": [
+         "Ljubljana, Slovenia"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Dušan",
+      "family": "Gabrijelčič",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Jožef Stefan Institute",
+        "place": [
+         "Ljubljana, Slovenia"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 5,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.47191/etj/v11i01.25",
+    "title": [
+     "The Role of Artificial Intelligence in Enhancing Information Technology Services and Operations: A Systematic Review and Strategic Adoption Framework"
+    ],
+    "container-title": [
+     "Engineering and Technology Journal"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       1,
+       31
+      ]
+     ]
+    },
+    "author": [
+     {
+      "name": "Delta State University, Abraka",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Engr. INKO, Inko",
+      "family": "Amaeriworio",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Mrs. Inko",
+      "family": "Ayebamieghayefa",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "name": "Delta State University, Abraka",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>The integration of Artificial Intelligence (AI) into Information Technology (IT) services is driving a significant shift toward automation, intelligent analysis, and predictive capabilities in IT operations in IT operations. This paper systematically examines the role of AI in enhancing IT service delivery and operational efficiency, drawing from a review of 25 peer-reviewed articles, industry reports, and case studies published between 2020 and 2025. Key AI technologies—including Machine Learning (ML), Natural Language Processing (NLP), Robotic Process Automation (RPA), and AIOps (Artificial Intelligence for IT Operations)—are analyzed for their impact on incident management, cybersecurity, resource optimization, and user support. The study identifies significant benefits, such as up to 50% reduction in mean time to resolution (MTTR), 30–45% improvement in operational efficiency, and enhanced proactive threat detection. However, critical barriers to adoption persist, including high implementation costs, skill shortages, data privacy concerns, and integration complexities, particularly in developing regions and SMEs. In response, this paper proposes a structured, five-phase strategic framework for AI adoption in IT, emphasizing phased implementation, workforce development, ethical governance, and scalable cloud-based integration. The findings underscore AI's pivotal role in the future of IT service management and provide actionable recommendations for organizations seeking to harness AI for sustainable digital transformation.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.32854/x9bdf747",
+    "title": [
+     "Adoption of robotics and artificial intelligence in agriculture",
+     "Adoption of Robotics and Artificial Intelligence in Agriculture"
+    ],
+    "container-title": [
+     "Agro Productividad"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       10,
+       21
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0003-4824-7160",
+      "authenticated-orcid": false,
+      "given": "Pablo Alan",
+      "family": "Calderón Carrasco",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-8748-8285",
+      "authenticated-orcid": false,
+      "given": "Lucina",
+      "family": "Vega Argüello",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>This study analyzes the evolution of research on the adoption of robotics and artificial intelligence in agriculture from 2020 to 2025, focusing on identifying key countries, concepts, thematic relationships, and terms, as well as compiling advantages, challenges, and strategies implemented in other regions to promote these technologies.\r\nThe research is based on a systematic review and bibliometric analysis of articles retrieved from Scopus. Findings are contextualized with studies on agricultural mechanization and technological advancement to provide a comprehensive perspective.\r\nThe analysis shows that this field, though still emerging, has seen significant growth in recent years. India and the United States are the most active countries, and key thematic clusters reveal a shift in terminology from \"agriculture 4.0\" and \"agricultural robots\" five years ago to \"smart farming\" and \"digitalization\" today. Barriers to adoption, such as financial and technical constraints, were identified, alongside evaluations of effective strategies implemented in other regions.\r\nThe study is limited to Scopus-indexed publications and excludes documents in languages other than English and Spanish. Nevertheless, it offers valuable insights for policymakers, researchers, and agricultural stakeholders.\r\nThis research emphasizes the need for tailored strategies to address adoption barriers, particularly for small and medium-sized farmers. Participatory approaches, cooperative models, and multifunctional robots are highlighted as essential tools to foster adoption and address ongoing challenges.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.2139/ssrn.4756845",
+    "title": [
+     "Technology, Risk, Artificial Intelligence Acceptance, and the Adoption of Smart Devices"
+    ],
+    "container-title": [
+     "SSRN Electronic Journal"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Dr. Heidrich",
+      "family": "Vicci",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.47974/jios-1748",
+    "title": [
+     "Artificial intelligence and machine learning adoption in automotive organizations using technology-organization-environment framework"
+    ],
+    "container-title": [
+     "Journal of Information and Optimization Sciences"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Dhanya",
+      "family": "Pramod",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Kanchan Pranay",
+      "family": "Patil",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "S. Vijayakumar",
+      "family": "Bharathi",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Bhalshankar Vaibhavi",
+      "family": "Vijaykumar",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Shouryadipta",
+      "family": "Birabar",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Biswajit",
+      "family": "Sahoo",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>Purpose: This research purposes to give a thorough knowledge of the factors impacting the adoption of AI/ML in demand forecast management within automotive organizations. In automotive organizations, artificial intelligence technology and machine learning algorithms (AI/ML) can increase demand forecast accuracy, time series forecasting, predictive analytics, inventory management, production planning, and supply chain efficiency. Methodology: Built on the Technology-Organization-Environment underpinning theory, this study validates the AI/ML adoption intentions. In this empirical study, primary data from 257 employees of small, medium, and big Automotive organization was used to test a conceptual model using structural equation modelling.  Findings: Technology factors such as AI/ML complexity and innovation, organizational factors like internal policies, organization communication, and data integrity, and environmental factors like government regulations and economic conditions were favourable for AI/ML adoption in automotive industries. The results highlight that organizational capability, AI/ML compatibility and localization were insignificant in the context of demand forecasting. Implications: This study provides theoretical and practical implications as Automotive organizations may respond swiftly to dynamic settings by using AI/ML to quickly adjust to shifting market conditions, customer preferences, and unanticipated demand variations.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.71002/iecs.v5n2p1",
+    "title": [
+     "Generative Artificial Intelligence in Higher Education: Understanding Faculty Adoption Through the Technology Acceptance Model"
+    ],
+    "container-title": [
+     "International Education and Culture Studies"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       4
+      ]
+     ]
+    },
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.2147/ijgm.s465944",
+    "title": [
+     "Radiologic Technology Students’ Perceptions on Adoption of Artificial Intelligence Technology in Radiology"
+    ],
+    "container-title": [
+     "International Journal of General Medicine"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       7
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-7940-0984",
+      "authenticated-orcid": true,
+      "given": "Wejdan",
+      "family": "Arif",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 6,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.55057/ijbtm.2023.5.3.28",
+    "title": [
+     "Adoption of Artificial Intelligence and Robotics in Organisations: A Systematic Literature Review"
+    ],
+    "container-title": [
+     "International Journal of Business and Technology Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       9,
+       30
+      ]
+     ]
+    },
+    "is-referenced-by-count": 97,
+    "abstract": "<jats:p>Organisations have increasingly used artificial intelligence (AI) to innovate and compete successfully. Therefore, knowing the factors that affect the adoption of AI is crucial. This study aims to investigate the theories and models utilised in studying the adoption of AI among organisations and identify the factors influencing AI adoption among organisations across countries. Hence, a systematic literature review (SLR) and the PRISMA framework were used. This SLR contains eleven earlier studies that uncovered a growth in research focusing on AI adoption among organisations. Furthermore, this SLR discovered that the TAM, TOE, and UTAUT models are the most common ones. Three factors influencing organisations’ adoption of AI across countries are perceived usefulness, perceived ease of use, and intention. In developed countries, 30 factors have been discovered as having a significant influence on AI adoption while in developing countries, 27 factors have been identified. There is a lack of prior literature using SLR to analyse the technological adoption frameworks and models for AI adoption among organisations. Studies on identifying the crucial factors influencing AI adoption among organisations are limited. Therefore, the findings of this study contribute to the current body of knowledge on AI adoption among organisations. The results of this SLR can also help managers make the right decisions and build effective strategies for adopting AI among organisations.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1108/aiie-08-2025-0205",
+    "title": [
+     "School principals' technology and transformational leadership practices for spreading the adoption of an artificial intelligence in education (AIED) policy"
+    ],
+    "container-title": [
+     "Artificial Intelligence in Education"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       3,
+       27
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-0928-9280",
+      "authenticated-orcid": true,
+      "given": "Orit",
+      "family": "Avidov-Ungar",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Achva Academic College , ,",
+        "place": [
+         "Shikmim, Israel"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-2920-9153",
+      "authenticated-orcid": true,
+      "given": "Sherry",
+      "family": "Ganon-Shilon",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Achva Academic College , ,",
+        "place": [
+         "Shikmim, Israel"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 1,
+    "abstract": "<jats:sec>\n                    <jats:title>Purpose</jats:title>\n                    <jats:p>This qualitative study aims to examine the communication of school principals' leadership practices for spreading the adoption of an AIED policy, an innovation diffusion, during the persuasion stage, within a national program.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Design/methodology/approach</jats:title>\n                    <jats:p>A bottom-up thematic analysis approach was utilized to analyze qualitative data from semi-structured interviews with 16 elementary and high school principals from four school districts.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Findings</jats:title>\n                    <jats:p>The analysis surfaced school principals' communication of technology and transformational leadership practices exemplified via their role as boundary spanners of innovation diffusion: (1) communicating technology leadership practices across internal and external boundaries: (a) building professional capacity through increased learning opportunities for experimentation with AI tools and communities of practice for AI learning, (b) sharing leadership, (c) connecting with parents and (d) connecting with external partners and (2) communicating transformational leadership practices within internal boundaries: (a) idealized influence, (b) inspirational motivation, (c) intellectual stimulation and (d) individualized consideration.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Practical implications</jats:title>\n                    <jats:p>Professionalization programs should equip school principals with specific leadership approaches for an AIED policy.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Originality/value</jats:title>\n                    <jats:p>This article provides a theoretical insight emphasizing that the communication of an innovation diffusion bridging top-down policy adoption with bottom-up stakeholder engagement requires an integrated leadership.</jats:p>\n                  </jats:sec>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1016/j.techsoc.2026.103411",
+    "title": [
+     "Artificial intelligence adoption and corporate substantive green innovation: An occupational impact perspective"
+    ],
+    "container-title": [
+     "Technology in Society"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       8
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0009-0009-4098-2428",
+      "authenticated-orcid": false,
+      "given": "Wenna",
+      "family": "Zhang",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Shaozhou",
+      "family": "Qi",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 1,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1016/j.techsoc.2024.102750",
+    "title": [
+     "Exploring determinants influencing artificial intelligence adoption, reference to diffusion of innovation theory"
+    ],
+    "container-title": [
+     "Technology in Society"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       12
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Priyadarsini",
+      "family": "Patnaik",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0003-4637-4035",
+      "authenticated-orcid": false,
+      "given": "Mahmoud",
+      "family": "Bakkar",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 83,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.55677/gjefr/17-2025-vol02e9",
+    "title": [
+     "Actuarial Science and Artificial Intelligence: Optimization and Deep Learning for Risk Modeling in Morocco 2022"
+    ],
+    "container-title": [
+     "Global Journal of Economic and Finance Research"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       9,
+       22
+      ]
+     ]
+    },
+    "author": [
+     {
+      "name": "Master’s student in Participatory Finance Engineering and Artificial Intelligence, Faculty of Legal, Economic and Social Sciences– Ain Sebaa, Hassan II University, Casablanca, Morocco",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Marouane",
+      "family": "Karim",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>This study explores the integration of actuarial science and artificial intelligence through a hybrid framework combiningoptimization techniques and deep learning to enhance actuarial risk modeling. Using a Moroccancase study, we leverage linear programming for financial decision-making and arti- ficial neural networks (ANN) for predicting and analyzing actuarial risks under uncertainty.\n\nThe methodology is applied to real-world data from the Moroccan insurance sector, demonstrating its practical relevance for improving long-term financial planning and risk evaluation.\n\nExperimental results show that the ANN model achieves a normalized Mean Absolute Error (MAE) of 0.625, outperforming traditional Generalized LinearModels (GLMs) by approximately 15% in pre- dictive accuracy. Risk assessment metrics further revealimprovements, with the 95% Value at Risk (VaR) and Tail Value at Risk (TVaR)reduced by 9.4% and 13.9%,respectively, compared to Poisson andNegative Binomial GLMs. These gains highlight the ANN’s capacity to capture complex nonlinear relationships and heteroscedasticity in insurance claim data.\n\nMoreover, linear programming integration enables optimized premium pricing and reserve allocation under multiple regulatory and economic constraints.\n\nThis hybrid approachfosters a more robust and adaptive actuarial process, equipping insurersto bet- ter manage uncertainty and extreme risk scenarios.\n\nOverall, this work modernizes actuarial practices by introducing intelligent, data-driven modelsthat enhance predictive performance and strategic decision-making, contributing to sustainable financial stability in emerging markets such as Morocco.</jats:p>",
+    "type": "journal-article"
+   }
+  ],
+  "items-per-page": 25,
+  "query": {
+   "start-index": 0,
+   "search-terms": null
+  }
+ }
+}

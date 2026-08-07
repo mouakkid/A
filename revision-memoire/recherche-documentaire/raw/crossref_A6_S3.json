@@ -1,0 +1,959 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message-version": "1.0.0",
+ "message": {
+  "facets": {},
+  "total-results": 1628673,
+  "items": [
+   {
+    "DOI": "10.37136/1998-013-002-047",
+    "title": [
+     "The Newly Introduced Cultural Liberties In Maghreb Legislations \"Algeria–Tunisia–Morocco\""
+    ],
+    "container-title": [
+     "مجلة الحقوق والحريات"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Farid",
+      "family": "Aouadi",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.57030/23364890.cemj.31.2.8",
+    "title": [
+     "Advanced Economic and Financial Digital Transformation of Strategic Human Resource Management Practices"
+    ],
+    "container-title": [
+     "Central European Management Journal"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023
+      ]
+     ]
+    },
+    "is-referenced-by-count": 1,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1353/tmr.00002",
+    "title": [
+     "The Political Economy of China’s Relations with the Maghreb Countries: Algeria, Libya, Mauritania, Morocco, and Tunisia"
+    ],
+    "container-title": [
+     "The Maghreb Review"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Steven F.",
+      "family": "Jackson",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p xml:lang=\"en\"> ABSTRACT: The political–economic relationship between China and the five countries of the Maghreb region vary substantially. China’s relations with Algeria are older and much more established than with the other countries, but China has been seeking to deepen its relationship with Morocco since the 2010s. The poor strategic relations between Algiers and Rabat, however, make it difficult, and China has sought to work with both. Politically, China has always focused on diplomatic relations with all countries, and the north African states were among its earliest contacts. Maintaining formal relations with other countries and excluding Taiwan from the world stage are paramount goals for Beijing. At the same time, developing economic relations, not only in accessing resources but also in developing markets are high priorities for China. These countries’ proximity to and access to European markets are also a strong attraction for China. For the Maghreb countries, economic relations with China helps them balance their dependence on their post-colonial and proximate European economies. For Libya and Tunisia, the Arab Spring unrest undid much of China’s political and economic efforts in the early 21st century.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.31673/2415-8089.2024.040410",
+    "title": [
+     "EVALUATION OF DIGITAL TRANSFORMATION PROCESSES IN HUMAN RESOURCE MANAGEMENT SYSTEM"
+    ],
+    "container-title": [
+     "Economy Management Business"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024
+      ]
+     ]
+    },
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.23977/jhrd.2026.080103",
+    "title": [
+     "The Impact and Practice Exploration of Digital Transformation on Human Resource Management Decision-Making"
+    ],
+    "container-title": [
+     "Journal of Human Resource Development"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026
+      ]
+     ]
+    },
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.61838/medda.1.4.6",
+    "title": [
+     "Human Resource Management Strategies to Support Digital Transformation Programs"
+    ],
+    "container-title": [
+     "Management, Education and Development in Digital Age"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0009-0001-3418-2610",
+      "authenticated-orcid": false,
+      "given": "Saeed",
+      "family": "Askari Masouleh",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>The objective of this paper is to examine human resource management strategies to support digital transformation programs in organizations. This qualitative study was conducted using semi-structured interviews with 22 human resource managers and experts in Tehran. Data was collected until theoretical saturation was reached and analyzed using NVivo software. The results of the study revealed that transformational leadership, employee training and development, and organizational culture are key strategies that can support digital transformation. Additionally, resistance to change and misalignment between strategies and human resources were identified as major challenges in the digital transformation process. Human resource management strategies play a crucial role in the success of digital transformation programs. Transformational leadership and continuous employee training are among the strategies that can reduce resistance to digital changes and prepare organizational culture for embracing these changes. Organizations need to design appropriate strategies to overcome existing barriers and capitalize on the benefits of digitalization.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.5861/ijrsm.2024.1253",
+    "title": [
+     "Digital transformation, agile practices, and strategic human resource management: Basis for enhanced human resource management framework"
+    ],
+    "container-title": [
+     "International Journal of Research Studies in Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       9,
+       1
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Yuhong",
+      "family": "Yang",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1002/hrm.22313",
+    "title": [
+     "Employee Digital Transformation Experience Towards Automation Versus Augmentation: Implications for Job Attitudes"
+    ],
+    "container-title": [
+     "Human Resource Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       5,
+       30
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-8768-8447",
+      "authenticated-orcid": false,
+      "given": "Shuang",
+      "family": "Ren",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Queen's Business School, Queen's University Belfast  Belfast UK"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Soumyadeb",
+      "family": "Chowdhury",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "TBS Business School  Toulouse France"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 19,
+    "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>As a growing number of organizations are leveraging emerging technologies to optimize their operations to stay competitive, digital transformation has fast become an integral part of employee experience at the intersection of their psychological states and the workplace. However, employee experience with digital transformation is heterogeneous given the different approaches organizations take toward this initiative. We hence simultaneously consider both the nature of the digital transformation (i.e., automation versus augmentation) and the presence versus absence of employee voice mechanisms. Drawing from psychological reactance theory, we argue that employee experience of automation‐driven transformation will be more likely to engender psychological reactance, which in turn impacts important employee job attitudes, represented by job satisfaction, employment security, and turnover intention. We also argue that employee voice moderates this mediated relationship. Using data from two studies with different samples and research designs (an experimental design in Study 1 and a field survey in Study 2), the findings support our hypothesized relationships. The two‐study approach helps to enhance the validity of the research and demonstrate the generalizability of findings, thereby strengthening our contributions to the literature. Overall, the studies theoretically extend understandings of how employees respond to digital transformation by offering new insights into the psychological reactance mechanism. We also provide practical implications for business and practitioners seeking to manage digital transformation in ways that enhance desired employee job attitudes.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.35912/ahrmr.v6i2.3704",
+    "title": [
+     "Digital Transformation at the Village Government: A Human Resources Adaptive Capability Analysis"
+    ],
+    "container-title": [
+     "Annals of Human Resource Management Research"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       6,
+       9
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Marisa",
+      "family": "Permatasari",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Otti Ilham",
+      "family": "Khair",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>Purpose: While many studies have focused on technological factors in terms of digital transformation, this research shifts attention to human factors, specifically analyzing the adaptive capability of human resources using the digital competence framework.\nResearch Methodology: This research used a qualitative approach, involving in-depth interviews with 15 village personnel who used the digital applications provided. The interviews were guided by and analyzed using the digital competence framework and NVIVO software.\nResults: The human resource adaptive capability of Banjarsari Village remains at the foundational level of the digital competence framework. Their use of technology is reactive and limited rather than proactive to engage the community.\nConclusions: Despite having the necessary digital infrastructure, Banjarsari Village has not achieved a true digital transformation. This study identified three key factors that hinder meaningful transformation.\nLimitations: This research is limited to analyzing human resource adaptive capability through the digital competence framework. However, it identifies factors that have not been formally examined, pointing to important directions for future research.\nContributions: The research findings offer practical insights for policymakers and village leaders, suggesting that future efforts should shift from merely providing infrastructure to investing in integrated capacity building.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.14391/ajhs.e3004.2.002",
+    "title": [
+     "Digital Transformation of Human Resource Management"
+    ],
+    "container-title": [
+     "Asian Journal of Human Services"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       7,
+       31
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Sri",
+      "family": "HARTONO",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "id": [
+         {
+          "id": "https://ror.org/03d9vfb50",
+          "id-type": "ROR",
+          "asserted-by": "publisher"
+         }
+        ],
+        "name": "Muhammadiyah University of Ponorogo"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Yusup",
+      "family": "ARIP",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "id": [
+         {
+          "id": "https://ror.org/03d9vfb50",
+          "id-type": "ROR",
+          "asserted-by": "publisher"
+         }
+        ],
+        "name": "Muhammadiyah University of Ponorogo"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Fery",
+      "family": "SETIAWAN",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "id": [
+         {
+          "id": "https://ror.org/03d9vfb50",
+          "id-type": "ROR",
+          "asserted-by": "publisher"
+         }
+        ],
+        "name": "Muhammadiyah University of Ponorogo"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Muhammad Nur",
+      "family": "MUHIBBUDIN",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "id": [
+         {
+          "id": "https://ror.org/03d9vfb50",
+          "id-type": "ROR",
+          "asserted-by": "publisher"
+         }
+        ],
+        "name": "Muhammadiyah University of Ponorogo"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Diana Pramudya",
+      "family": "WARDHANI",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "id": [
+         {
+          "id": "https://ror.org/03d9vfb50",
+          "id-type": "ROR",
+          "asserted-by": "publisher"
+         }
+        ],
+        "name": "Muhammadiyah University of Ponorogo"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Komang",
+      "family": "ARIYANTO",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "id": [
+         {
+          "id": "https://ror.org/05smgpd89",
+          "id-type": "ROR",
+          "asserted-by": "publisher"
+         }
+        ],
+        "name": "IPB University"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1111/1748-8583.70047",
+    "title": [
+     "Employee Representation and Firm Digital Transformation"
+    ],
+    "container-title": [
+     "Human Resource Management Journal"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       4,
+       26
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-5727-9802",
+      "authenticated-orcid": false,
+      "given": "Xin",
+      "family": "Liu",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "HSBC Business School Peking University  Shenzhen China"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-7259-0674",
+      "authenticated-orcid": false,
+      "given": "Ting",
+      "family": "Ren",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "HSBC Business School Peking University  Shenzhen China"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>While digital transformation has advanced rapidly within firms, there is limited understanding of the role played by the labor force along the progress. Using the Chinese private enterprises survey dataset, this study investigates the impact of employee representation on firm digital transformation. The study reveals that firms with established labor union or worker representative congress exhibit higher levels of digital transformation. The study further explores two competing mechanisms, internal protection and labor force technology complementarity, to explain why labor embraces digital transformation. The results identify the labor force technology complementarity as the underlying channel, highlighting the significant empowering effect of employee representation on labor. The study thus provides evidence to understand the importance of labor engagement in shaping the future labor landscape.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.17586/2310-1172-2026-19-1-40-49",
+    "title": [
+     "Human resource management in a digital environment: how digital transformation affects the achievement of sustainable development goals"
+    ],
+    "container-title": [
+     "Economics and Environmental Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026
+      ]
+     ]
+    },
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.25236/ajbm.2024.060635",
+    "title": [
+     "Human resource organization support and management strategies under digital transformation"
+    ],
+    "container-title": [
+     "Academic Journal of Business &amp; Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024
+      ]
+     ]
+    },
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.62872/f9efpa90",
+    "title": [
+     "Digital Human Resource Management Supporting Digital Transformation: A Systematic Literature Review"
+    ],
+    "container-title": [
+     "Maneggio"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       12,
+       31
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Nuraini",
+      "family": "Aisiyah",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Nur",
+      "family": "Wening",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>Digital transformation has become a strategic imperative for organizations and requires human resource management (HRM) to assume a more adaptive and strategic role. This study aims to identify the main strategies, enabling factors, and challenges in implementing digital HRM to support digital transformation. A Systematic Literature Review (SLR) was conducted following PRISMA guidelines, initially identifying more than 1,000 international and national indexed articles published between 2000 and 2025. Through a structured screening and eligibility process, 23 articles were retained for in-depth analysis. The review shows that digital HRM practices including Human Resource Information Systems (HRIS), process automation, HR analytics, and digital training significantly enhance organizational efficiency, employee productivity, and competence development. Sectoral comparisons reveal different orientations: private organizations mainly emphasize productivity and competitiveness, whereas public organizations prioritize service effectiveness and accountability. The key enabling factors for successful digital HRM include transformational leadership, organizational culture readiness, and continuous development of digital skills. The findings highlight that digital transformation in HRM goes beyond technology adoption; it also requires managerial capability, change management, and cultural alignment. The study recommends cross-sector strategies and mixed-method research designs to provide a more comprehensive understanding of how digital HRM can strengthen organizational competitiveness in the digital era. </jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1108/jwam-02-2025-0019",
+    "title": [
+     "Traditional to digital: human resource management transformation"
+    ],
+    "container-title": [
+     "Journal of Work-Applied Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       4,
+       21
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Sunali",
+      "family": "Bindra",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0003-3069-1976",
+      "authenticated-orcid": false,
+      "given": "Sonali",
+      "family": "Bhattacharya",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Shubhasheesh",
+      "family": "Bhattacharya",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 10,
+    "abstract": "<jats:sec><jats:title content-type=\"abstract-subheading\">Purpose</jats:title><jats:p>Organizations are experiencing significant transformations in human resource management (HRM) due to technological advancements and digitalization. The pandemic has accelerated this transformation, making it crucial for organizational competitiveness. While firms that quickly adopt digital HRM technologies gain a competitive advantage, uncertainty remains regarding the implications and organizational impact of this transformation. This article examines the key elements of HRM digitalization.</jats:p></jats:sec><jats:sec><jats:title content-type=\"abstract-subheading\">Design/methodology/approach</jats:title><jats:p>A bibliometric analysis and the theories, constructs, characteristics and methods (TCCM) framework are used to analyze theoretical foundations, contextual settings, characteristics and methodological approaches.</jats:p></jats:sec><jats:sec><jats:title content-type=\"abstract-subheading\">Findings</jats:title><jats:p>The findings indicate that research has evolved from examining basic automation (pre-2018) to exploring complex human–AI interactions (2018 and onward). However, gaps remain in understanding how AI can complement rather than replace human HR functions.</jats:p></jats:sec><jats:sec><jats:title content-type=\"abstract-subheading\">Originality/value</jats:title><jats:p>No other studies have conducted a comprehensive review of this topic through the TCCM lens.</jats:p></jats:sec>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.35596/1729-7648-2023-29-2-24-34",
+    "title": [
+     "Principles of Human Resource Management According to Jeffrey Pfeffer in the Context of Digital Business Transformation"
+    ],
+    "container-title": [
+     "Digital Transformation"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       6,
+       16
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "A. N.",
+      "family": "Kazinets",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Belarusian State University of Informatics and Radioelectronics"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>The problem of eﬀective human resource management is relevant at all stages of the life cycle of an organization. Every day, HR managers have to deal with diﬃculties, the solution for which is often not trivial, and sometimes requires the use of modern digital technologies. This article analyzes the basic principles of human resource management proposed by Jeﬀrey Pfeﬀer in terms of positive and negative aspects of implementing each principle in practice. The article concludes with recommendations on possible options for such an implementation in the context of digital transformation.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.55057/ijaref.2024.6.2.18",
+    "title": [
+     "Research on Digital Transformation of Human Resource Management"
+    ],
+    "container-title": [
+     "International Journal of Advanced Research in Economics and Finance"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       6,
+       1
+      ]
+     ]
+    },
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>In recent years, with the continuous development of science and technology, enterprises can make better use of digital tools to assist internal reform, improve the efficiency of enterprise operation, and promote the long-term development of enterprises. Human resource management department is an important part of the enterprise. In recent years, the competition in the talent market has become increasingly fierce, and enterprises have begun to try to improve the ways and methods of human resource management and carry out the digital transformation of human resource management. This paper introduces the concept of human resource digital management, analyzes the reasons of human resource management digital transformation from three aspects: external economic environment, enterprise internal environment and the advantages of digital transformation. The methods of digital transformation of human resource management are analyzed from three aspects: technology, business process and thinking. Finally, the paper briefly discusses the problems that enterprises may face in the digital transformation of human resource management.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.47750/qas/27.210.38",
+    "title": [
+     "The Role of Human Resource Management in Organizational Change During Digital Transformation"
+    ],
+    "container-title": [
+     "Quality-Access to Success"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       1,
+       1
+      ]
+     ]
+    },
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.37170/1986-007-004-012",
+    "title": [
+     "Innovative Digital Practices:, Enhancing The Effectiveness Of Human Resource Management In The Digital Transformation Era"
+    ],
+    "container-title": [
+     "مجلة اقتصاديات المال والأعمال"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Omar",
+      "family": "Hassani",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Nacer",
+      "family": "Boubegra",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.18282/hrms5895",
+    "title": [
+     "Research on digital transformation strategy of human resource management in colleges and universities"
+    ],
+    "container-title": [
+     "Human Resources Management and Services"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       6,
+       11
+      ]
+     ]
+    },
+    "author": [
+     {
+      "family": "Yu Zheng",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>This paper presents a systematic investigation into the core proposition of digital transformation in human resource management (HRM) within colleges and universities. By conducting an in-depth analysis of how digital technologies reshape core functions such as human resource planning, recruitment, training, performance management, and compensation management, and by combining this with lessons learned from typical cases, this systematic research provides theoretical support and a practical pathway for universities undertaking this transformation. Building on this analysis, the paper proposes a set of forward-looking and practical implementation strategies, along with a supporting mechanism, to offer theoretical guidance and practical pathways for institutions undertaking digital transformation initiatives. It further elaborates on the application of digital technologies across key HR functions, including planning, recruitment, training, performance management, and compensation, and draws on practical cases to summarize lessons learned. The findings aim to support higher education institutions in successfully navigating digital transformation, thereby enhancing operational efficiency, strengthening competitiveness, and adapting more effectively to the demands of the digital era.Keywords: university human resource management; digital transformation; human resource information system</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.35808/ijfirm/400",
+    "title": [
+     "The Effects of Practices and Real Exchange Rate Misalignment and Economic Growth in the Maghreb Countries (Tunisia, Algeria, Morocco)"
+    ],
+    "container-title": [
+     "International Journal of Finance, Insurance and Risk Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       1,
+       1
+      ]
+     ]
+    },
+    "author": [
+     {
+      "family": "Adnan",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1108/hrmid-12-2025-0325",
+    "title": [
+     "Lessons from Vietnam in navigating digital transformation"
+    ],
+    "container-title": [
+     "Human Resource Management International Digest"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       1,
+       26
+      ]
+     ]
+    },
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:sec>\n                    <jats:title>Purpose</jats:title>\n                    <jats:p>This paper aims to review the latest management developments across the globe and pinpoint practical implications from cutting-edge research and case studies.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Design/methodology/approach</jats:title>\n                    <jats:p>This briefing is prepared by an independent writer who adds their own impartial comments and places the articles in context.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Findings</jats:title>\n                    <jats:p>This article explores how frontline banking employees adapt to digital HR management changes and how this adaptation affects their performance and job security. The study found that hardiness impacts the relationship between proactive personality and employee ambidexterity, and that higher levels of ambidexterity lead to better proactive service performance and lower perceived job insecurity. Some of the key managerial insights cover strategies on how to encourage proactive personalities, and how to promote ambidexterity among employees. By understanding and implementing these insights, managers can help their teams navigate the challenges of digital HR management changes more effectively.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Originality/value</jats:title>\n                    <jats:p>The briefing saves busy executives, strategists and researchers hours of reading time by selecting only the very best, most pertinent information and presenting it in a condensed and easy-to-digest format.</jats:p>\n                  </jats:sec>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.18282/hrms5538",
+    "title": [
+     "Research on digital transformation strategy of human resource management in colleges and universities"
+    ],
+    "container-title": [
+     "Human Resources Management and Services"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       4,
+       21
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "YU",
+      "family": "ZHENG",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 1,
+    "abstract": "<jats:p>This paper presents a systematic investigation into the core proposition of digital transformation in human resource management (HRM) within colleges and universities. By conducting an in-depth analysis of how digital technologies reshape core functions such as human resource planning, recruitment, training, performance management, and compensation management, and by combining this with lessons learned from typical cases, this systematic research provides theoretical support and a practical pathway for universities undertaking this transformation. Building on this analysis, the paper proposes a set of forward-looking and practical implementation strategies, along with a supporting mechanism, to offer theoretical guidance and practical pathways for institutions undertaking digital transformation initiatives. It further elaborates on the application of digital technologies across key HR functions, including planning, recruitment, training, performance management, and compensation, and draws on practical cases to summarize lessons learned. The findings aim to support higher education institutions in successfully navigating digital transformation, thereby enhancing operational efficiency, strengthening competitiveness, and adapting more effectively to the demands of the digital era.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.7753/ijsea1205.1016",
+    "title": [
+     "Digital Transformation of Human Resource Management: Elements, Modes, and Paths"
+    ],
+    "container-title": [
+     "International Journal of Science and Engineering Applications"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       5,
+       4
+      ]
+     ]
+    },
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1108/hrmid-02-2026-0032",
+    "title": [
+     "The dual nature of digital transformation psychology"
+    ],
+    "container-title": [
+     "Human Resource Management International Digest"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       3,
+       27
+      ]
+     ]
+    },
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:sec>\n                    <jats:title>Purpose</jats:title>\n                    <jats:p>This paper aims to review the latest management developments across the globe and pinpoint practical implications from cutting-edge research and case studies.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Design/methodology/approach</jats:title>\n                    <jats:p>This briefing is prepared by an independent writer who adds their own impartial comments and places the articles in context.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Findings</jats:title>\n                    <jats:p>This article summarizes a study that investigates how digital transformation influences employee work passion through dual pathways: a facilitating path (boosting harmonious passion via psychological availability) and an overloading path (fueling obsessive passion via role overload). The results confirmed that the human side of digital transformation – digital transformational leadership – strengthens the positive effects while mitigating the negative ones, highlighting its pivotal role in shaping employee experiences. Key implementation insights include calls for designing digital work for psychological safety and for cultivating leadership that humanizes technology.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Originality/value</jats:title>\n                    <jats:p>The briefing saves busy executives, strategists and researchers hours of reading time by selecting only the very best, most pertinent information and presenting it in a condensed and easy-to-digest format.</jats:p>\n                  </jats:sec>",
+    "type": "journal-article"
+   }
+  ],
+  "items-per-page": 25,
+  "query": {
+   "start-index": 0,
+   "search-terms": null
+  }
+ }
+}

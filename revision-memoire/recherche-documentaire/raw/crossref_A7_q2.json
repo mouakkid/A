@@ -1,0 +1,1213 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message-version": "1.0.0",
+ "message": {
+  "facets": {},
+  "total-results": 332221,
+  "items": [
+   {
+    "DOI": "10.1007/s43681-025-00927-x",
+    "title": [
+     "The ethical imperative of algorithmic fairness in AI-enabled hiring: a critical analysis of bias, accountability, and justice"
+    ],
+    "container-title": [
+     "AI and Ethics"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       12,
+       15
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Jason",
+      "family": "Law",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 1,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/s43681-025-00844-z",
+    "title": [
+     "Addressing intersectional bias in AI recruitment using HITHIRE model: a fair, ethical, green AI and transparent hiring solution for Saudi Arabia’s diverse workforce in line with vision 2030"
+    ],
+    "container-title": [
+     "AI and Ethics"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       12,
+       11
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Elham",
+      "family": "Albaroudi",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Taha",
+      "family": "Mansouri",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Mohammad",
+      "family": "Hatamleh",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Ali",
+      "family": "Alameer",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 1,
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Artificial Intelligence (AI) is transforming recruitment by allowing organisations to employ data-driven hiring decisions. However, AI-powered tools are prone to reinforcing biases instead of eliminating them, posing ethical and fairness concerns. Since AI-powered tools are critical in hiring, this study introduces HITHIRE, an AI-driven recruitment model designed to enhance transparency, fairness, and inclusivity within the diverse workforce of Saudi Arabia, which aligns with Vision 2030. A baseline model was first evaluated using Llama 3.1, BERT, and regular NPL techniques. However, the baseline model revealed significant biases in gender and nationality-based hiring, making it inappropriate for the Saudi Arabian diverse hiring environment. The Llama 3.1 model was enhanced through data augmentation, sentence transformers, standard scoring, and transparency mechanisms, resulting in the HITHIRE model. Fairness analysis demonstrated improvements across gender and nationality dimensions, with reduced Statistical Parity Difference (SPD) and Disparate Impact (DI) scores. The findings highlight the potential of ethical AI integration in recruitment, ensuring unbiased, accountable, and transparent hiring practices. HITHIRE sets a precedent for AI-driven fairness in recruitment, contributing to HR policies and ethical AI discourse globally.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/s43681-026-01086-3",
+    "title": [
+     "Human bias, machine bias: a cognitive lens on fair AI"
+    ],
+    "container-title": [
+     "AI and Ethics"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       5,
+       6
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Nyida",
+      "family": "Gyal",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/s43681-026-01283-0",
+    "title": [
+     "Bias in AI: a framework for understanding the sources of bias in artificial intelligence"
+    ],
+    "container-title": [
+     "AI and Ethics"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       8
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Wolfgang",
+      "family": "Robinig",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Johannes P.",
+      "family": "Wallner",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Bias in Artificial Intelligence (AI) systems is widely recognized as a critical challenge across technical, educational, and societal domains, yet its conceptual treatment frequently remains anchored at the level of observable model outputs. This conflation of symptoms with causes obscures the layered, interdependent nature of how bias arises and propagates across the AI cycle, and limits the effectiveness of both mitigation strategies and instruction. This paper proposes a framework of ten sources of harm in AI, organized across three analytically distinct but interdependent levels: dataset and source bias, model and training bias, and interaction and surface bias. The third level constitutes the primary contribution of this work, introducing three sources of harm that arise specifically at the human-AI interaction layer and are absent from concise AI bias frameworks: presentation bias, the distortion of user perception through interface ranking, linguistic hedging, and visual salience; framing bias, the systematic sensitivity of model outputs to surface-level variations in prompt formulation independent of semantic content; and interaction bias, the emergent amplification of bias through iterative user engagement and its feedback into future training data. The taxonomy extension is developed following the method of Nickerson et al. [22] and evaluated against their ending conditions. A formal treatment of the framework as a series of functional transformations across the AI cycle enables precise localization of each bias type to a distinct injection point. Because the ten categories are not interchangeable descriptions of the same underlying problem, the choice of remediation depends critically on identifying where in the pipeline a distortion originates—applying a remedy suited to one category to a bias originating in another displaces rather than neutralizes the harm. For engineering practice, the framework supports structured bias audits in which localization precedes remediation. For educational practice, it provides a principled basis for curricula and educational materials in which individual bias mechanisms are taught in isolation before being encountered in combination.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.3390/ai5010019",
+    "title": [
+     "A Comprehensive Review of AI Techniques for Addressing Algorithmic Bias in Job Hiring"
+    ],
+    "container-title": [
+     "AI"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       2,
+       7
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0009-0002-2205-2541",
+      "authenticated-orcid": false,
+      "given": "Elham",
+      "family": "Albaroudi",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "School of Science, Engineering and Environment, University of Salford, University Road, Manchester M5 4QJ, UK"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0003-1539-5546",
+      "authenticated-orcid": false,
+      "given": "Taha",
+      "family": "Mansouri",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Science, Engineering and Environment, University of Salford, University Road, Manchester M5 4QJ, UK"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-7969-3609",
+      "authenticated-orcid": false,
+      "given": "Ali",
+      "family": "Alameer",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Science, Engineering and Environment, University of Salford, University Road, Manchester M5 4QJ, UK"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 126,
+    "abstract": "<jats:p>The study comprehensively reviews artificial intelligence (AI) techniques for addressing algorithmic bias in job hiring. More businesses are using AI in curriculum vitae (CV) screening. While the move improves efficiency in the recruitment process, it is vulnerable to biases, which have adverse effects on organizations and the broader society. This research aims to analyze case studies on AI hiring to demonstrate both successful implementations and instances of bias. It also seeks to evaluate the impact of algorithmic bias and the strategies to mitigate it. The basic design of the study entails undertaking a systematic review of existing literature and research studies that focus on artificial intelligence techniques employed to mitigate bias in hiring. The results demonstrate that the correction of the vector space and data augmentation are effective natural language processing (NLP) and deep learning techniques for mitigating algorithmic bias in hiring. The findings underscore the potential of artificial intelligence techniques in promoting fairness and diversity in the hiring process with the application of artificial intelligence techniques. The study contributes to human resource practice by enhancing hiring algorithms’ fairness. It recommends the need for collaboration between machines and humans to enhance the fairness of the hiring process. The results can help AI developers make algorithmic changes needed to enhance fairness in AI-driven tools. This will enable the development of ethical hiring tools, contributing to fairness in society.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/s43681-024-00445-2",
+    "title": [
+     "Addressing diversity in hiring procedures: a generative adversarial network approach"
+    ],
+    "container-title": [
+     "AI and Ethics"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       5,
+       2
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0003-2998-515X",
+      "authenticated-orcid": false,
+      "given": "Tales",
+      "family": "Marra",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-5250-357X",
+      "authenticated-orcid": false,
+      "given": "Emeric",
+      "family": "Kubiak",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 3,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/s43681-024-00495-6",
+    "title": [
+     "Manipulating Aggregate Societal values to Bias AI Social Choice Ethics"
+    ],
+    "container-title": [
+     "AI and Ethics"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       6,
+       13
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-2429-5232",
+      "authenticated-orcid": false,
+      "given": "Seth D",
+      "family": "Baum",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 2,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1609/aies.v8i3.36703",
+    "title": [
+     "Invisible Filters: Cultural Bias in Hiring Evaluations Using Large Language Models"
+    ],
+    "container-title": [
+     "Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       10,
+       15
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Pooja S. B.",
+      "family": "Rao",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Laxminarayen",
+      "family": "Nagarajan Venkatesan",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Mauro",
+      "family": "Cherubini",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Dinesh Babu",
+      "family": "Jayagopi",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 3,
+    "abstract": "<jats:p>Artificial Intelligence (AI) is increasingly used in hiring, with large language models (LLMs) having the potential to influence or even make hiring decisions. However, this raises pressing concerns about bias, fairness, and trust, particularly across diverse cultural contexts. Despite their growing role, few studies have systematically examined the potential biases in AI-driven hiring evaluation across cultures. In this study, we conduct a systematic analysis of how LLMs assess job interviews across cultural and identity dimensions. Using two datasets of interview transcripts, 100 from UK and 100 from Indian job seekers, we first examine cross-cultural differences in LLM-generated scores for hirability and related traits. Indian transcripts receive consistently lower scores than UK transcripts, even when they were anonymized, with disparities linked to linguistic features such as sentence complexity and lexical diversity. We then perform controlled identity substitutions (varying names by gender, caste, and region) within the Indian dataset to test for name-based bias. These substitutions do not yield statistically significant effects, indicating that names alone, when isolated from other contextual signals, may not influence LLM evaluations. Our findings underscore the importance of evaluating both linguistic and social dimensions in LLM-driven evaluations and highlight the need for culturally sensitive design and accountability in AI-assisted hiring.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1109/access.2025.3599947",
+    "title": [
+     "Mitigating Bias in AI Model Using eXplainable AI in Terms of Hiring Process in the Industry"
+    ],
+    "container-title": [
+     "IEEE Access"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Noir",
+      "family": "Alsubaie",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Saudi Electronic University",
+        "place": [
+         "Riyadh, Saudi Arabia"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-0310-8899",
+      "authenticated-orcid": false,
+      "given": "Noura",
+      "family": "Aleisa",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Saudi Electronic University",
+        "place": [
+         "Riyadh, Saudi Arabia"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 6,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.3389/fpsyg.2023.1118723",
+    "title": [
+     "Check the box! How to deal with automation bias in AI-based personnel selection"
+    ],
+    "container-title": [
+     "Frontiers in Psychology"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       4,
+       5
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Cordula",
+      "family": "Kupfer",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Rita",
+      "family": "Prassl",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Jürgen",
+      "family": "Fleiß",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Christine",
+      "family": "Malin",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Stefan",
+      "family": "Thalmann",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Bettina",
+      "family": "Kubicek",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 45,
+    "abstract": "<jats:p>Artificial Intelligence (AI) as decision support for personnel preselection, e.g., in the form of a dashboard, promises a more effective and fairer selection process. However, AI-based decision support systems might prompt decision makers to thoughtlessly accept the system’s recommendation. As this so-called automation bias contradicts ethical and legal requirements of human oversight for the use of AI-based recommendations in personnel preselection, the present study investigates strategies to reduce automation bias and increase decision quality. Based on the Elaboration Likelihood Model, we assume that instructing decision makers about the possibility of system errors and their responsibility for the decision, as well as providing an appropriate level of data aggregation should encourage decision makers to process information systematically instead of heuristically. We conducted a 3 (general information, information about system errors, information about responsibility) x 2 (low vs. high aggregated data) experiment to investigate which strategy can reduce automation bias and enhance decision quality. We found that less automation bias in terms of higher scores on verification intensity indicators correlated with higher objective decision quality, i.e., more suitable applicants selected. Decision makers who received information about system errors scored higher on verification intensity indicators and rated subjective decision quality higher, but decision makers who were informed about their responsibility, unexpectedly, did not. Regarding aggregation level of data, decision makers of the highly aggregated data group spent less time on the level of the dashboard where highly aggregated data were presented. Our results show that it is important to inform decision makers who interact with AI-based decision-support systems about potential system errors and provide them with less aggregated data to reduce automation bias and enhance decision quality.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/s43681-023-00329-x",
+    "title": [
+     "Algorithmic bias, generalist models, and clinical medicine"
+    ],
+    "container-title": [
+     "AI and Ethics"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       8,
+       14
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0003-3251-4981",
+      "authenticated-orcid": false,
+      "given": "Geoff",
+      "family": "Keeling",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 4,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.58840/ke81n154",
+    "title": [
+     "Bias in AI Decision‑Making: Ethical Implications for Hiring and Healthcare Algorithms"
+    ],
+    "container-title": [
+     "OTS Canadian Journal"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       7,
+       29
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Rafael",
+      "family": "Gutierrez",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>Artificial Intelligence (AI) has revolutionized decision-making in critical sectors such as hiring and healthcare. While AI promises enhanced efficiency, scalability, and data-driven objectivity, emerging evidence shows that these systems can inherit and even amplify societal biases, leading to unfair outcomes. This article explores the ethical implications of AI-driven bias in hiring and healthcare algorithms. It examines the sources of bias, the consequences of algorithmic discrimination, and the regulatory and ethical frameworks needed to ensure transparency, accountability, and equity. Case studies illustrate real-world impacts, and policy recommendations are provided for developers, organizations, and regulators seeking to create responsible AI systems.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/s43681-024-00651-y",
+    "title": [
+     "Embryo selection, AI and reproductive choice"
+    ],
+    "container-title": [
+     "AI and Ethics"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       12,
+       20
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-2465-6413",
+      "authenticated-orcid": false,
+      "given": "Aurélie",
+      "family": "Halsband",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 3,
+    "abstract": "<jats:title>Abstract</jats:title>\n          <jats:p>In reproductive medicine, current research into the use of artificial intelligence (AI) to improve embryo selection has been met with enthusiasm. Within ethics, previous assessments of AI-assisted embryo selection have focused, for example, on liability gaps or risks arising from opaque decision-making. I argue that this focus on the ethical issues raised by AI in embryo selection alone is incomplete because it neglects how AI’s convergence with other innovative reproductive technologies raises further ethical issues. I describe how AI is acting as a catalyst for a social disruption of human reproduction and for a profound change in reproductive morality. The social disruption is the result of the convergence of improved embryo culture, the optimization of embryo selection through AI and the possibility of selecting a screened embryo. This technological interplay creates a pull towards assisted reproduction, even for those prospective parents who can reproduce without medical assistance. In discussing a fictional case of prospective parents, I argue that this <jats:italic>social</jats:italic> disruption of reproduction is linked to a <jats:italic>moral</jats:italic> disruption. The moral disruption manifests itself in the deep uncertainty of prospective parents about legitimate ways of procreating. I explain how this uncertainty is rooted in a technology-induced disruption of the concept of reproductive choice. I then outline how the ethical debate about AI-assisted embryo selection should be reframed in light of this moral disruption.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.2139/ssrn.4678430",
+    "title": [
+     "The Gatekeeper Effect: The Implications of Pre-Screening, Self-selection, and Bias for Hiring Processes."
+    ],
+    "container-title": [
+     "SSRN Electronic Journal"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Moran",
+      "family": "Koren",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 1,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/s11948-026-00612-0",
+    "title": [
+     "Bias in the Machine? A Solution to the Isolationist Problem Through a Sociotechnical Understanding of Bias in AI Ethics"
+    ],
+    "container-title": [
+     "Science and Engineering Ethics"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       7,
+       25
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-0006-7024",
+      "authenticated-orcid": false,
+      "given": "Gabriela",
+      "family": "Arriagada-Bruneau",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>Dominant approaches to bias in artificial intelligence (AI) are structured by what I identify as the isolationist problem: the tendency to treat bias as a discrete, technically addressable flaw within the AI development pipeline, rather than as a relational phenomenon embedded in social, institutional, and political arrangements. This problem is sustained by two mutually reinforcing orientations: technocentrism, which reframes ethical challenges as engineering problems amenable to computational resolution, and the bias-centric conception of fairness, which reduces fairness to statistical mitigation and obscures its contested, context-dependent character. Together, these orientations produce ontological, epistemic, and practical forms of narrowing ethical imagination and channel intervention into technically tractable but socially limited responses. Against this, I propose sociotechnical sensitivity as both an analytical orientation and a normative commitment: a sustained attentiveness to the ways in which AI systems are constitutively embedded in social relations, institutional arrangements, cultural norms, and power structures. The paper’s central argumentative shift is to change the narrative from bias mitigation to bias management—treating bias not as a defect to be corrected but as an ongoing condition to be governed. These arguments are developed through an extended analysis of the well-known case of the COMPAS algorithm, a recidivism risk-assessment prediction tool, illustrating three practical axes of bias management: contextualisation, institutionalisation, and iteration. The gap between sociotechnically sensitive AI ethics and its realisation is ultimately a matter of governance design and political will, not merely a problem of missing methods or tools.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.52783/jier.v5i3.3262",
+    "title": [
+     "AI and Bias in Recruitment: Ensuring Fairness in Algorithmic Hiring."
+    ],
+    "container-title": [
+     "Journal of Informatics Education and Research"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       7,
+       18
+      ]
+     ]
+    },
+    "author": [
+     {
+      "family": "Magnus Chukwuebuka Ahuchogu",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>The integration of Artificial Intelligence (AI) in recruitment processes has revolutionized hiring by increasing efficiency, reducing time-to-hire, and enabling data-driven decision-making. However, despite these advancements, concerns about algorithmic bias and fairness remain central to ethical AI deployment. This paper explores the multifaceted dimensions of bias in AI-based recruitment systems, highlighting how historical data, model design, and feature selection can unintentionally reinforce existing societal and workplace inequalities. By analyzing real-world case studies and evaluating commonly used machine learning models in hiring tools, the study identifies sources of bias and their potential impacts on underrepresented groups. The paper also discusses regulatory frameworks, such as the EU AI Act and U.S. Equal Employment Opportunity guidelines, that emphasize the need for transparency and accountability in automated decision-making. To address these challenges, the research proposes strategies for developing fair AI hiring systems, including bias mitigation techniques, diverse training datasets, explainable AI (XAI), and regular auditing protocols. Furthermore, the importance of human oversight in the recruitment pipeline is emphasized to ensure ethical alignment and trustworthiness. The goal is to provide actionable insights for HR professionals, developers, and policymakers to design and implement AI-driven hiring solutions that are not only efficient but also equitable. As AI continues to shape the future of work, ensuring fairness in algorithmic hiring is critical to building inclusive and diverse workplaces.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1109/access.2026.3719092",
+    "title": [
+     "Corrections to “Mitigating Bias in AI Model Using eXplainable AI in Terms of Hiring Process in the Industry”"
+    ],
+    "container-title": [
+     "IEEE Access"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Noir",
+      "family": "Alsubaie",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Saudi Electronic University",
+        "place": [
+         "Riyadh, Saudi Arabia"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-0310-8899",
+      "authenticated-orcid": false,
+      "given": "Noura",
+      "family": "Aleisa",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Saudi Electronic University",
+        "place": [
+         "Riyadh, Saudi Arabia"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/s43681-022-00255-4",
+    "title": [
+     "Apropos of “Speciesist bias in AI: how AI applications perpetuate discrimination and unfair outcomes against animals”"
+    ],
+    "container-title": [
+     "AI and Ethics"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       1,
+       9
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-9314-194X",
+      "authenticated-orcid": false,
+      "given": "Ognjen",
+      "family": "Arandjelović",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 1,
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>The present comment concerns a recent <jats:italic>AI &amp; Ethics</jats:italic> article which purports to report evidence of speciesist bias in various popular computer vision (CV) and natural language processing (NLP) machine learning models described in the literature. I examine the authors’ analysis and show it, ironically, to be prejudicial, often being founded on poorly conceived assumptions and suffering from fallacious and insufficiently rigorous reasoning, its appeal in large part relying on the extant consensus in the community.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.48047/resmil.v10i1.9",
+    "title": [
+     "Ethics in AI: Bias, Fairness, and Accountability"
+    ],
+    "container-title": [
+     "resmilitaris"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       3,
+       1
+      ]
+     ]
+    },
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/s43681-025-00721-9",
+    "title": [
+     "Systematic literature review on bias mitigation in generative AI"
+    ],
+    "container-title": [
+     "AI and Ethics"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       8,
+       25
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0009-0007-5686-0121",
+      "authenticated-orcid": false,
+      "given": "Juveria",
+      "family": "Afreen",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0003-2228-8300",
+      "authenticated-orcid": false,
+      "given": "Mahsa",
+      "family": "Mohaghegh",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Maryam",
+      "family": "Doborjeh",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 41,
+    "abstract": "<jats:title>Abstract</jats:title>\n          <jats:p>In the era of rapid technological advancement, Artificial Intelligence (AI) is a transformative force, permeating diverse facets of society. However, bias concerns have gained prominence as AI systems become integral to decision-making processes. Bias can exert significant and extensive consequences, influencing individuals, groups, and society. The presence of bias in generative AI or machine learning systems can produce content that exhibits discriminating tendencies, perpetuates stereotypes, and contributes to inequalities. Artificial intelligence (AI) systems have the potential to be employed in various contexts that involve sensitive settings, where they are tasked with making significant judgements that can have profound impacts on individuals' lives. Consequently, it is important to establish measures that prevent these decisions from exhibiting discriminating tendencies against specific groups or populations. This exclusive exploration embarks on a comprehensive journey through the nuanced landscape of bias in AI, unravelling its intricate layers to discern different types, pinpoint underlying causes, and illuminate innovative mitigation strategies. Delving deeper, we investigate the roots of bias in AI, revealing a complex interplay of historical legacies, societal imbalances, and algorithmic intricacies. Unravelling the causes involves exploring unintentional reinforcement of existing biases, reliance on incomplete or biased training data, and the potential amplification of disparities when AI systems are deployed in diverse real-world scenarios. Various domains such as text, image, audio, video and more significant advancements in Generative Artificial Intelligence (GAI) were evidenced. Multiple challenges and proliferation of biases occur in different perspectives considered in the study. Against this backdrop, the exploration transitions to a proactive stance, offering a glimpse into cutting-edge mitigation strategies. Diverse and inclusive datasets emerge as a cornerstone, ensuring representative input for AI models. Ethical considerations throughout the development lifecycle and ongoing monitoring mechanisms prove pivotal in mitigating biases that may arise during training or deployment. Technical and non-technical strategies come to the forefront of pursuing fairness and equity in AI. The paper underscores the importance of interdisciplinary collaboration, emphasising that a collective effort spanning developers, ethicists, policymakers, and end-users is paramount for effective bias mitigation. As AI continues its ascent into various spheres of our lives, understanding, acknowledging, and addressing bias becomes an imperative. This exploration seeks to contribute to the discourse, fostering a deeper comprehension of the challenges posed by bias in AI and inspiring a collective commitment to building equitable, trustworthy AI systems for the future.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.59720/25-193",
+    "title": [
+     "Algorithmic barriers: Investigating student perceptions of AI bias in subjective “culture fit” hiring"
+    ],
+    "container-title": [
+     "Journal of Emerging Investigators"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Ishan",
+      "family": "Mahatara",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Karan Singh",
+      "family": "Thagunna",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>The growing adoption of artificial intelligence (AI) in corporate hiring creates serious ethical concerns because it evaluates subjective parameters like “culture fit”. One particular concern is that AI recruitment platforms, tasked with assessing whether a candidate's values align with a company's culture, may reinforce existing biases through pattern replication and amplification. While marketed as objective, these platforms learn from data containing embedded discriminatory patterns, creating feedback loops that systematically disadvantage underrepresented groups. Drawing on institutional isomorphism theory, prior research suggests that organizations that adopt these technologies are often driven by legitimacy-seeking rather than demonstrated fairness. We hypothesized that high school and college students would express significant concerns about AI-based culture fit assessments, perceiving these systems as likely to reinforce existing biases and systematically disadvantage marginalized applicants in hiring decisions. Our hypothesis was supported by our survey of 150 high school and early-college students in Kathmandu Valley, Nepal, revealing widespread awareness and concern about algorithmic bias among emerging workforce participants. Binary logistic regression analysis found that ethnicity significantly predicts concern about AI bias. Our research shows that emerging workforce participants perceive AI-driven hiring as a potential source of systematic barriers to workplace equity, particularly for neurodivergent, disabled, and culturally diverse applicants, highlighting the need for robust ethical oversight.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/s43681-023-00377-3",
+    "title": [
+     "Navigating in the moral landscape: analysing bias and discrimination in AI through philosophical inquiry"
+    ],
+    "container-title": [
+     "AI and Ethics"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       11,
+       22
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-1989-1718",
+      "authenticated-orcid": false,
+      "given": "Serap",
+      "family": "Keles",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 13,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/s43681-026-01235-8",
+    "title": [
+     "On the inevitability of left-leaning political bias in aligned language models"
+    ],
+    "container-title": [
+     "AI and Ethics"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       7,
+       22
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-4633-2153",
+      "authenticated-orcid": false,
+      "given": "Thilo",
+      "family": "Hagendorff",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>The guiding principle of AI alignment is to train large language models (LLMs) to be harmless, helpful, and honest (HHH). At the same time, there are mounting concerns that LLMs exhibit a left-wing political bias. Yet, the commitment to AI alignment cannot be harmonized with the latter critique. In this article, I argue that, insofar as they are trained to be harmless and honest under current alignment practice, intelligent systems will systematically exhibit what is measured as left-leaning political bias. Normative assumptions underlying alignment objectives inherently concur with progressive moral frameworks and left-wing principles, emphasizing harm avoidance, inclusivity, fairness, and empirical truthfulness. Conversely, right-wing ideologies often conflict with alignment guidelines. Yet, research on political bias in LLMs is consistently framing its insights about left-leaning tendencies as a risk, as problematic, or concerning. This way, researchers are actively arguing against AI alignment, tacitly fostering the violation of HHH principles.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/s43681-023-00319-z",
+    "title": [
+     "Speciesist bias in AI: a reply to Arandjelović"
+    ],
+    "container-title": [
+     "AI and Ethics"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       7,
+       10
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-4633-2153",
+      "authenticated-orcid": false,
+      "given": "Thilo",
+      "family": "Hagendorff",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Leonie",
+      "family": "Bossert",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Tse Yip",
+      "family": "Fai",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Peter",
+      "family": "Singer",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 1,
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>The elimination of biases in artificial intelligence (AI) applications—for example biases based on race or gender—is a high priority in AI ethics. So far, however, efforts to eliminate bias have all been anthropocentric. Biases against nonhuman animals have not been considered, despite the influence AI systems can have on normalizing, increasing, or reducing the violence that is inflicted on animals, especially on farmed animals. Hence, in 2022, we published a paper in <jats:italic>AI and Ethics</jats:italic> in which we empirically investigated various examples of image recognition, word embedding, and language models, with the aim of testing whether they perpetuate speciesist biases. A critical response has appeared in <jats:italic>AI and Ethics</jats:italic>, accusing us of drawing upon theological arguments, having a naive anti-speciesist mindset, and making mistakes in our empirical analyses. We show that these claims are misleading.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1111/gwao.70232",
+    "title": [
+     "New Accelerants of Inequality Regimes: AI‐Hiring Tools and Algorithmic Bias"
+    ],
+    "container-title": [
+     "Gender, Work &amp; Organization"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       8,
+       2
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0003-4336-5782",
+      "authenticated-orcid": false,
+      "given": "Emily",
+      "family": "Yarrow",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Newcastle University Business School Newcastle University  Newcastle upon Tyne UK"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>AI‐hiring technology is becoming increasingly widely adopted, raising important questions about what effect such technology may have on organizational inequality regimes. Although there is a large and growing body of literature surrounding the effects of AI hiring, its impacts, and bias, markedly less is known about who develops, sells, and markets such tools, and what role this may play in the altering and further entrenching of inequality regimes. Drawing on the voices of 21 developers and hiring platform vendors, this study explores current levels of apathy surrounding gender equality in AI‐hiring tech. From the findings, it is argued that DEI issues and subsequent debiasing are seen as iterative, retrofit solutions, problems that can be tended to retrospectively, rather than inclusion and equity being built‐in from the outset. In turn, it is posited that algorithmic bias and AI‐hiring tools serve as a contemporary facet of inequality regimes. This article offers a threefold contribution to Feminist AI scholarship: a theoretical extension to Acker's inequality regimes framework in the form of an annex, which includes the role of artificial intelligence in the reproduction of inequalities, a conceptual model which outlines new accelerants of inequality regimes, and contemporary empirical insights from a hard to access group.</jats:p>",
+    "type": "journal-article"
+   }
+  ],
+  "items-per-page": 25,
+  "query": {
+   "start-index": 0,
+   "search-terms": null
+  }
+ }
+}

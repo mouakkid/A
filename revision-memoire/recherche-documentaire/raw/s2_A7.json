@@ -1,0 +1,840 @@
+{
+ "total": 652,
+ "offset": 0,
+ "next": 25,
+ "data": [
+  {
+   "paperId": "06931b57128240d8b859492a689064c6d453653b",
+   "externalIds": {
+    "DOI": "10.22178/pos.116-10",
+    "CorpusId": 278448835
+   },
+   "title": "Algorithmic Fairness in Recruitment: Designing AI-Powered Hiring Tools to Identify and Reduce Biases in Candidate Selection",
+   "venue": "Path of Science",
+   "year": 2025,
+   "citationCount": 7,
+   "openAccessPdf": {
+    "url": "https://pathofscience.org/index.php/ps/article/download/3471/1690",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.22178/pos.116-10?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.22178/pos.116-10, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2145556006",
+     "name": "C. Agbasiere"
+    },
+    {
+     "authorId": "2359918844",
+     "name": "Goodness Rex Nze-Igwe"
+    }
+   ],
+   "abstract": "The study looks into how artificial intelligence (AI) affects hiring procedures, focusing on the fairness of the algorithms that drive these tools. AI has improved the efficiency of the hiring process, yet its use results in institutionalised discrimination. The AI systems used for recruitment, which base evaluations on past performance data, have the potential to discriminate against minority candidates as well as women through unintentional actions. The ability of AI systems to decrease human biases during recruitment encounters major challenges, as Amazon's discriminatory resume screening demonstrates the issues in systemic bias maintenance. This paper discusses the origins of algorithmic bias, including biased training records, defining labels, and choosing features, and suggests debiasing methods. Methods such as reweighting, adversarial debiasing, and fairness-aware algorithms are assessed for suitability in developing unbiased AI hiring systems. A quantitative approach is used in the research, web scraping data from extensive secondary sources to assess these biases and their mitigation measures. A Fair Machine Learning (FML) theoretical framework is utilised, which introduces fairness constraints into machine learning models so that hiring models do not perpetuate present discrimination. The ethical, legal, and organisational ramifications of using AI for recruitment are further examined under GDPR and Equal Employment Opportunity law provisions. By investigating HR practitioners' experiences and AI-based recruitment data, the study aims to develop guidelines for designing open, accountable, and equitable AI-based hiring processes. The findings emphasise the value of human oversight and the necessity of regular audits to guarantee equity in AI hiring software and, consequently, encourage diversity and equal opportunity during employment."
+  },
+  {
+   "paperId": "2534eae035a4dfdaa9f0d198c78d7eccf868d567",
+   "externalIds": {
+    "DOI": "10.62311/nesx/rphcr19",
+    "CorpusId": 279034959
+   },
+   "title": "Detecting and Mitigating Algorithmic Discrimination in Recruitment Platforms",
+   "venue": "International Journal of Academic and Industrial Research Innovations(IJAIRI)",
+   "year": 2025,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.62311/nesx/rphcr19?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.62311/nesx/rphcr19, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2295364655",
+     "name": "Murali Krishna Pasupuleti"
+    }
+   ],
+   "abstract": "Abstract:\nThe rapid adoption of artificial intelligence (AI) in recruitment has introduced efficiency gains but also raised concerns over fairness and bias. This study investigates the presence and mitigation of algorithmic discrimination in recruitment platforms through a data-driven and model-agnostic framework. Utilizing both synthetic and real-world recruitment datasets, the research applies logistic regression and random forest classifiers to detect disparities in hiring outcomes based on sensitive attributes such as gender and ethnicity. Fairness metrics—including Statistical Parity Difference (SPD) and Equal Opportunity Difference (EOD)—are employed to quantify bias before and after applying mitigation techniques. Among the techniques tested, adversarial debiasing demonstrated the most effective balance between fairness enhancement and predictive performance. Regression analysis revealed statistically significant negative coefficients for female and minority candidates, confirming bias in model decision-making. Post-mitigation results showed substantial improvement in fairness metrics (SPD improved from -0.28 to -0.05), with minimal compromise on accuracy. The findings underscore the necessity of integrating algorithmic audits and fairness-aware learning into AI-driven hiring systems. These insights contribute to the development of transparent, equitable recruitment platforms aligned with ethical AI principles and regulatory requirements.\nKeywords:\nalgorithmic discrimination, recruitment platforms, fairness metrics, statistical parity, adversarial debiasing, AI ethics, bias mitigation, logistic regression, equal opportunity, algorithmic accountability"
+  },
+  {
+   "paperId": "026db048a04bb5989d1b361c9676ffc47f675014",
+   "externalIds": {
+    "DOI": "10.55041/ijcope.v2i6.059",
+    "CorpusId": 289023405
+   },
+   "title": "Bias in AI Recruitment Systems: Challenges, Impacts, and Mitigation Strategies",
+   "venue": "International Journal of Creative and Open Research in Engineering and Management",
+   "year": 2026,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "https://ijcope.org/wp-content/uploads/2026/06/Bias-in-AI-Recruitment-Systems-Challenges-Impacts-and-Mitigation-Strategies.pdf",
+    "status": "HYBRID",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.55041/ijcope.v2i6.059?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.55041/ijcope.v2i6.059, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "authors": [
+    {
+     "authorId": "2440883851",
+     "name": "Shiv Kumar Sharma Shiv Kumar Sharma"
+    },
+    {
+     "authorId": "2440883327",
+     "name": "Surbhi Gupta Surbhi Gupta"
+    },
+    {
+     "authorId": "2440883848",
+     "name": "Poorva Batra Poorva Batra"
+    },
+    {
+     "authorId": "2440883265",
+     "name": "Ishita Saxena Ishita Saxena"
+    }
+   ],
+   "abstract": "Artificial Intelligence (AI) shows up as a transformative instrument in today’s recruitment, where organizations can automate resume screening, candidate ranking, and job matching in a faster, maybe even more streamlined way. When companies fold in machine learning with natural language processing, AI-based hiring systems can genuinely improve hiring efficiency, cutting down the everyday operational costs, and also help executives make decisions that lean on data rather than just gut feeling. But at the same time, there are real concerns about algorithmic fairness, including discrimination, and these worries create ethical, legal, and managerial headaches that you really can’t just push aside. Since many of these systems are usually trained on old recruitment records, they may absorb existing societal biases and then continue reinforcing them, so some demographic groups could be treated unevenly across the full hiring pipeline. In this study, we ask whether algorithmic bias is really present in AI-driven recruitment systems and what it does in practice, mixing a bit of theory-oriented discussion with an empirical check. We worked with a recruitment dataset containing 10,000 applicant entries to train and evaluate four machine learning models: logistic regression, random forest, gradient boosting, and a multi-layer perceptron (MLP).\nTo see how well each model worked, we looked at these usual evaluation measures For the fairness part, we ran demographic bias auditing across gender, race, and age cohorts, and not just one single view either. The outcomes showed, kind of clearly, that the MLP ended up with the best predictive performance, and it seemed particularly strong on candidate-to-job matching style tasks, which, honestly, is where it looked best. This study points at a pretty serious tension in AI hiring, so better prediction does not automatically mean more fair choices. It also says fairness reviews should go with transparency features and bias reduction methods built into the recruiting tech. Overall, by combining technical evals with ethical and managerial stuff, this work pushes for responsible, transparent AI hiring systems. These systems aim to keep org productivity while respecting social fairness too.\nKeywords— Algorithmic Bias; AI Recruitment; Hiring Discrimination; Machine Learning Fairness; Disparate Impact; Neural Network."
+  },
+  {
+   "paperId": "9be82ef3e4d3beb1b73260599ac05404222671e4",
+   "externalIds": {
+    "DOI": "10.1109/CCIC68129.2026.11486201",
+    "CorpusId": 287920639
+   },
+   "title": "Bias-Free AI Recruitment with Automated Team Structuring (EquiHire)",
+   "venue": "2026 Contemporary Computing Innovations Conference (CCIC)",
+   "year": 2026,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1109/CCIC68129.2026.11486201?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CCIC68129.2026.11486201, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference"
+   ],
+   "authors": [
+    {
+     "authorId": "1583289337",
+     "name": "Dr.S. Karthiyayini"
+    },
+    {
+     "authorId": "2432633308",
+     "name": "K. Raghavendra"
+    },
+    {
+     "authorId": "2432634096",
+     "name": "Reddy"
+    },
+    {
+     "authorId": "2365450131",
+     "name": "Ramprasad Reddy"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "fe8540408c2b37c1ac45df6ae50fb2c53ba167ef",
+   "externalIds": {
+    "DOI": "10.66931/jmb-365",
+    "CorpusId": 288792166
+   },
+   "title": "Artificial Intelligence Integration in Recruitment: Enhancing Efficiency while Navigating Algorithmic Bias and Candidate Experience",
+   "venue": "Jurnal Manajemen Bisnis",
+   "year": 2026,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "https://jurnalstebibama.ac.id/index.php/jmb/article/download/365/382",
+    "status": "HYBRID",
+    "license": "CCBYSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.66931/jmb-365?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.66931/jmb-365, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2402754677",
+     "name": "Wisma Miftahur Rozi"
+    },
+    {
+     "authorId": "2439622653",
+     "name": "Wilni Wahda Ulwiyati"
+    }
+   ],
+   "abstract": "This study investigates the integration of Artificial Intelligence (AI) in recruitment and its impact on recruitment efficiency, algorithmic bias, and candidate experience within the context of HIPMI Kota Malang. A quantitative approach was employed using Structural Equation Modeling–Partial Least Squares (SEM-PLS) with a sample of 160 respondents consisting of business owners and recruitment practitioners. Data were collected through structured questionnaires and analyzed to examine both direct relationships among variables. The results indicate that AI integration significantly enhances recruitment efficiency, confirming its role in streamlining hiring processes and improving decision-making. However, AI integration is also found to significantly influence algorithmic bias, suggesting potential risks related to fairness and transparency. Furthermore, recruitment efficiency positively affects candidate experience, while algorithmic bias negatively impacts it, highlighting the dual effects of AI implementation. This study contributes theoretically by integrating technological and behavioral perspectives into a comprehensive framework of AI-driven recruitment outcomes. It extends existing literature by demonstrating the simultaneous benefits and risks of AI adoption, particularly in entrepreneurial contexts. Practically, the findings suggest that organizations should adopt responsible AI strategies by balancing efficiency gains with ethical considerations, including transparency and bias mitigation. The study is limited by its regional focus and cross-sectional design; therefore, future research is recommended to explore broader contexts and longitudinal approaches. Overall, this research underscores the importance of aligning technological innovation with fairness and human-centered recruitment practices."
+  },
+  {
+   "paperId": "71a8d8a2a89cff8d1b411a099d899751116abe41",
+   "externalIds": {
+    "DOI": "10.55041/ijcope.v2i5.538",
+    "CorpusId": 288559417
+   },
+   "title": "The Algorithmic Mirror: Can Artificial Intelligence Truly Mitigate Human Bias in Hiring and Performance Management",
+   "venue": "International Journal of Creative and Open Research in Engineering and Management",
+   "year": 2026,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "https://ijcope.org/wp-content/uploads/2026/05/The-Algorithmic-Mirror-Can-Artificial-Intelligence-Truly-Mitigate-Human-Bias-in-Hiring-and-Performance-Management.pdf",
+    "status": "HYBRID",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.55041/ijcope.v2i5.538?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.55041/ijcope.v2i5.538, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2437701265",
+     "name": "Sonny B. Kollio Sonny B. Kollio"
+    },
+    {
+     "authorId": "2437702361",
+     "name": "Sam Siryon Sam Siryon"
+    }
+   ],
+   "abstract": "Artificial Intelligence (AI) is increasingly marketed as a neutral arbiter capable of eliminating unconscious bias from human resource processes, with the global HR technology market expected to expand from USD 43.7 billion in 2025 to over USD 81 billion by 2032. However, emerging evidence indicates that algorithms often inherit and amplify the historical biases present in training data. This study examines the dual role of AI in the workplace: as a tool for bias reduction and as a potential vehicle for systemic discrimination. Drawing on empirical studies from 2024–2026, this paper analyses three primary vectors of AI bias in hiring, data bias, interaction bias, and evaluation bias, and evaluates contemporary mitigation frameworks.\nKEYWORDS\nAlgorithmic Bias, AI Ethics, HR Analytics, Diversity and Inclusion, Predictive \nHiring, Fairness in Machine Learning, Human-in-the-Loop System"
+  },
+  {
+   "paperId": "993aac95692e2230e076e64f8fdbbe96fbda22ac",
+   "externalIds": {
+    "DOI": "10.64823/ijebm.2601008",
+    "CorpusId": 290190786
+   },
+   "title": "Algorithmic Bias in AI-Based Recruitment Systems: Implications for Fair Hiring Practices",
+   "venue": "International Journal of Economics and Business Management",
+   "year": 2026,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "https://ioro.org/article/031473660524/pdf",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.64823/ijebm.2601008?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.64823/ijebm.2601008, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "authors": [
+    {
+     "authorId": "2450073105",
+     "name": "Rakshitha M M"
+    }
+   ],
+   "abstract": "Artificial Intelligence (AI) has become an integral component of modern recruitment by enabling organizations to automate candidate sourcing, resume screening, and selection processes. While AI-driven recruitment systems improve efficiency and decision-making, they also introduce significant concerns regarding algorithmic bias, fairness, transparency, and accountability. This study presents a conceptual and systematic review of contemporary literature published between 2020 and 2026 to examine the nature, sources, and implications of algorithmic bias in AI-based recruitment systems. The review synthesizes multidisciplinary evidence from Human Resource Management, Artificial Intelligence, Business Analytics, Organizational Behaviour, and AI Ethics to identify key factors influencing fair hiring practices. The findings indicate that algorithmic bias primarily arises from biased training data, model design, proxy variables, and organizational implementation practices, potentially leading to discriminatory recruitment outcomes and reduced workforce diversity. The study further highlights the importance of explainable AI, ethical governance, human oversight, and continuous bias monitoring in promoting transparent and accountable recruitment systems. Particular attention is given to the emerging Indian context alongside global developments in AI governance. The study proposes a conceptual framework linking algorithmic bias, transparency, organizational trust, and recruitment outcomes while providing practical recommendations for HR professionals and organizations seeking to implement responsible AI-driven recruitment and support equitable hiring practices.\n\nKeywords: artificial intelligence; Explainable Artificial Intelligence; algorithmic bias; Artificial Intelligence Based Recruitment; Fair Hiring Practices; Human Resource Management; Ethical Artificial Intelligence; Artificial Intelligence Governance."
+  },
+  {
+   "paperId": "f944e26fb101f4794f7e6ab88eca069612e067b3",
+   "externalIds": {
+    "DBLP": "journals/aiethics/Law26",
+    "DOI": "10.1007/s43681-025-00927-x",
+    "CorpusId": 284006891
+   },
+   "title": "The ethical imperative of algorithmic fairness in AI-enabled hiring: a critical analysis of bias, accountability, and justice",
+   "venue": "AI and Ethics",
+   "year": 2025,
+   "citationCount": 1,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s43681-025-00927-x?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s43681-025-00927-x, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2399507830",
+     "name": "Jason Law"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "dfd7bc2c8a4e4d9ef0e9658de53c28b65ca10987",
+   "externalIds": {
+    "DOI": "10.63332/joph.v5i5.1316",
+    "CorpusId": 278219950
+   },
+   "title": "Ethically Aligned Artificial Intelligence: Investigating Algorithmic Bias, Human Identity, and Posthuman Ethics through a Data-Driven Philosophical Lens",
+   "venue": "Journal of Posthumanism",
+   "year": 2025,
+   "citationCount": 3,
+   "openAccessPdf": {
+    "url": "https://posthumanism.co.uk/jp/article/download/1316/693",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.63332/joph.v5i5.1316?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.63332/joph.v5i5.1316, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "52160924",
+     "name": "A. Alyousef"
+    },
+    {
+     "authorId": "2339704411",
+     "name": "Asem Omari"
+    }
+   ],
+   "abstract": "Human society is being transformed by AI at an unprecedented speed-and in this context questions regarding fairness, agency, and identity become very tricky. This paper presents an interdisciplinary study into algorithmic bias and its ethical implicature in the relationship of data science and philosophy. By bringing into account concepts from posthumanism and moral theory, the research scrutinizes the redefinition of human identity within an age of autonomous systems and artificial consciousness. It proposes a data-oriented mechanism to the detection and mitigation of bias in AI systems, substantiated with case studies in health care and recruitment. One of the emphases of this work is on transparency, accountability, and inclusive governance, ultimately arguing for ethically aligned AI that promotes human dignity concurrent with evolving technological realities. Implications of this study point toward diversifying the development of a new ethical paradigm with the capability to regulate AI design, deployment, and policy."
+  },
+  {
+   "paperId": "18cf40c7c9b0980df92069a6713c796c1fbf65de",
+   "externalIds": {
+    "DOI": "10.59992/ijlrs.2026.v5n5p12",
+    "CorpusId": 288494460
+   },
+   "title": "Legal Protection Against Algorithmic Bias in Artificial Intelligence Systems Used in Recruitment and Employment: An Analytical Study",
+   "venue": "International Journal of Law Research and Studies",
+   "year": 2026,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.59992/ijlrs.2026.v5n5p12?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.59992/ijlrs.2026.v5n5p12, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2132944193",
+     "name": "Mashael S. Alharbi"
+    },
+    {
+     "authorId": "2353690764",
+     "name": "Amal Khadragey"
+    }
+   ],
+   "abstract": "Bias in artificial intelligence systems used in recruitment and employment is considered one of the most significant modern legal issues due to its impact on the principle of equality in employment opportunities. These systems rely on analyzing applicants’ data and making decisions that may favor certain groups or exclude others based on biased data or criteria, despite their apparent technical neutrality.\nTherefore, this research aims to examine the concept of bias in artificial intelligence systems used in recruitment and employment, identify its causes and forms, and clarify the legal protection established to address it. The research adopts the analytical approach through studying and analyzing the relevant legal provisions, particularly the provisions of the Saudi Labor Law related to equality and non-discrimination, as well as the relevant provisions of the Personal Data Protection Law, in order to assess the adequacy of the legal protection established to address algorithmic bias in recruitment and employment procedures.\nFinally, the research concludes that the rules of Saudi Labor Law constitute an important basis for protecting individuals from bias in artificial intelligence systems used in recruitment and employment. The Personal Data Protection Law also contributes to strengthening such protection. However, the complex technical nature of these systems, and the difficulties associated with proving algorithmic bias, particularly those related to transparency and explainability, require the development of more effective legal mechanisms to enhance oversight over such systems and reduce discrimination."
+  },
+  {
+   "paperId": "77a79bc8fb156e9e924dce0a762ac29776b941b9",
+   "externalIds": {
+    "DOI": "10.66308/air.e2026026",
+    "CorpusId": 286758971
+   },
+   "title": "Artificial Intelligence Adoption in Talent Acquisition: Effects on Recruitment Efficiency, Algorithmic Fairness Perceptions, and Employee Experience",
+   "venue": "American Impact Review",
+   "year": 2026,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "https://americanimpactreview.com/articles/e2026026.pdf",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.66308/air.e2026026?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.66308/air.e2026026, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "authors": [
+    {
+     "authorId": "2322747251",
+     "name": "A. Nuralieva"
+    }
+   ],
+   "abstract": "The deployment of artificial intelligence in talent acquisition has accelerated rapidly, yet empirical research examining the full pathway from adoption determinants to downstream effects on perceived recruitment efficiency, algorithmic fairness perceptions, and HR-reported employee experience remains limited. This study develops and tests an integrated theoretical framework combining the Technology Acceptance Model and the Technology-Organization-Environment framework to examine AI adoption in talent acquisition across mid-to-large United States enterprises. Using cross-sectional survey data from 523 human resource professionals and hiring managers representing 184 organizations across multiple industries, the analysis relies on partial least squares path modeling (PLS-PM) to test eight predictions linking technological perceptions, organizational factors, and adoption outcomes. Results indicate that perceived usefulness and perceived ease of use significantly predict AI adoption intention, with perceived usefulness exhibiting a stronger effect. Top management support and HR digital readiness are both positively associated with organizational AI adoption, though top management support demonstrates greater explanatory power. AI adoption is positively associated with recruitment efficiency across all three metrics examined: time-to-hire reduction, cost-per-hire reduction, and quality-of-hire improvement. Algorithmic transparency emerges as a strong predictor of procedural fairness perceptions, which in turn positively predict employee experience outcomes including organizational commitment, job satisfaction, and employer trust. Organizational size moderates the adoption-efficiency relationship such that larger firms realize proportionally greater efficiency gains. These findings contribute to the human resource management and information systems literatures by providing empirical evidence linking AI adoption antecedents to a chain of recruitment efficiency and employee experience outcomes, while highlighting the central role of algorithmic transparency in sustaining perceived fairness. Practical implications for HR leaders, technology vendors, and policymakers are discussed."
+  },
+  {
+   "paperId": "7bbd7ec1d7837d0aa6d75a79ac07ef329eb4f0b9",
+   "externalIds": {
+    "DBLP": "journals/jamia/DavisDPM25",
+    "PubMedCentral": "12012346",
+    "DOI": "10.1093/jamia/ocaf039",
+    "CorpusId": 276988705,
+    "PubMed": "40079820"
+   },
+   "title": "Emerging algorithmic bias: fairness drift as the next dimension of model maintenance and sustainability",
+   "venue": "J. Am. Medical Informatics Assoc.",
+   "year": 2025,
+   "citationCount": 31,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1093/jamia/ocaf039",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12012346, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2328022859",
+     "name": "Sharon E Davis"
+    },
+    {
+     "authorId": "2301847545",
+     "name": "Chad Dorn"
+    },
+    {
+     "authorId": "2107597645",
+     "name": "D. Park"
+    },
+    {
+     "authorId": "2265744380",
+     "name": "Michael E. Matheny"
+    }
+   ],
+   "abstract": "Abstract Objectives While performance drift of clinical prediction models is well-documented, the potential for algorithmic biases to emerge post-deployment has had limited characterization. A better understanding of how temporal model performance may shift across subpopulations is required to incorporate fairness drift into model maintenance strategies. Materials and Methods We explore fairness drift in a national population over 11 years, with and without model maintenance aimed at sustaining population-level performance. We trained random forest models predicting 30-day post-surgical readmission, mortality, and pneumonia using 2013 data from US Department of Veterans Affairs facilities. We evaluated performance quarterly from 2014 to 2023 by self-reported race and sex. We estimated discrimination, calibration, and accuracy, and operationalized fairness using metric parity measured as the gap between disadvantaged and advantaged groups. Results Our cohort included 1 739 666 surgical cases. We observed fairness drift in both the original and temporally updated models. Model updating had a larger impact on overall performance than fairness gaps. During periods of stable fairness, updating models at the population level increased, decreased, or did not impact fairness gaps. During periods of fairness drift, updating models restored fairness in some cases and exacerbated fairness gaps in others. Discussion This exploratory study highlights that algorithmic fairness cannot be assured through one-time assessments during model development. Temporal changes in fairness may take multiple forms and interact with model updating strategies in unanticipated ways. Conclusion Equitable and sustainable clinical artificial intelligence deployments will require novel methods to monitor algorithmic fairness, detect emerging bias, and adopt model updates that promote fairness."
+  },
+  {
+   "paperId": "e92a139db680ad9bb92534f77e7bdfe31e08d74a",
+   "externalIds": {
+    "DOI": "10.1007/s43681-026-01238-5",
+    "CorpusId": 290334555
+   },
+   "title": "Algorithmic fairness and bias mitigation in financial artificial intelligence: scoping review",
+   "venue": "AI and Ethics",
+   "year": 2026,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s43681-026-01238-5.pdf",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s43681-026-01238-5?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s43681-026-01238-5, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "authors": [
+    {
+     "authorId": "2451086500",
+     "name": "Marcelo Wecchi"
+    },
+    {
+     "authorId": "2237897967",
+     "name": "Lilian Berton"
+    }
+   ],
+   "abstract": "The growing adoption of artificial intelligence in the financial sector has intensified concerns regarding unfair discrimination across diverse systems. Under increasing regulatory and accountability pressures, ensuring fairness and transparency in AI-driven decision-making has become a critical challenge. Our aim is to map how the literature addresses fairness in finance, the metrics employed, the financial contexts considered, and the effectiveness of mitigation techniques. This review also seeks to synthesize existing knowledge, identify methodological gaps, and provide guidance for future research and policy development. We considered peer-reviewed articles focused on AI in finance and fairness, prioritizing studies from 2023–2026 or from 2016–2022 with at least 100 citations. The papers were collected from CAPES, Elsevier, Google Scholar, Scopus, Web of Science, and gray literature such as ArXiv. We performed automated screening, AI-based refinement (Gemini, Perplexity, Copilot), and systematic extraction of technical dimensions using a results spreadsheet for thematic categorization of articles considered relevant. We identified 17,019 records, resulting in a final corpus of 99 articles for the synthesis of the work and 45 supporting documents for contextualizing finance and equity. We answered seven research questions related to datasets, machine learning, and equity approaches, as well as evaluation metrics. We found a predominance of studies on credit risk and credit scoring. There was a consolidation of technical approaches and identification of the need for standardized metrics, with greater emphasis on intersectionality and causality for sensitive data."
+  },
+  {
+   "paperId": "ca63b3d8eb2110baa14ca035bf8d64209cb232bd",
+   "externalIds": {
+    "DOI": "10.52783/eel.v14i1.1107",
+    "CorpusId": 268000880
+   },
+   "title": "AI-powered Recruitment and Employee Selection: Evaluating Bias and Fairness in Hiring Practices",
+   "venue": "European Economic Letters (EEL)",
+   "year": 2024,
+   "citationCount": 7,
+   "openAccessPdf": {
+    "url": "https://eelet.org.uk/index.php/journal/article/download/1107/968",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.52783/eel.v14i1.1107?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.52783/eel.v14i1.1107, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "authors": [
+    {
+     "authorId": "40149236",
+     "name": "Dr. Abzal Basha H S"
+    },
+    {
+     "authorId": "2287533124",
+     "name": "Dr Kiran Kumar Thoti, Mohammed Khalid R P, Dr. Biswo Ranjan Mishra"
+    }
+   ],
+   "abstract": "Artificial intelligence (AI) has significantly impacted various business sectors, including recruitment and selection practices. Associations risk losing their strategic advantage as they battle to find and recruit qualified ability. Employing faculty goes to man-made consciousness (artificial intelligence) devices to assist with procuring ability, increment effectiveness, and lessen costs. However, despite the best efforts to integrate equitable and evidence-based systems, using these tools may exacerbate bias. We methodicallly survey the writing on the ethicality of man-made intelligence empowered enrolling and determination rehearses in four phases: First, we classify the identified literature based on assumed perspectives to demonstrate how existing research evaluates the ethicality of AI recruiting.  I make sense of how man-made intelligence based employing choices in associations are setting ward and mix the capacities of algorithmic powered apparatuses with decisions and decisions made by process specialists. I finish up by offering hypothetical and functional contemplations for ability, recruiting, and the mix of calculations at work. The implementation of AI-based processes in the recruiting sector has resulted in increased efficiency and qualitative benefits for both employers and potential employees. \n "
+  },
+  {
+   "paperId": "d414fad4602cafc68637c0ab105775c40e584aea",
+   "externalIds": {
+    "PubMedCentral": "12812018",
+    "DOI": "10.1177/00187267251403902",
+    "CorpusId": 284448516,
+    "PubMed": "41550203"
+   },
+   "title": "Problematizing the role of artificial intelligence in hiring and organizational inequalities: A multidisciplinary review",
+   "venue": "Human relations; studies towards the integration of the social sciences",
+   "year": 2025,
+   "citationCount": 7,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1177/00187267251403902",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12812018, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "authors": [
+    {
+     "authorId": "2331659950",
+     "name": "Karen D Hughes"
+    },
+    {
+     "authorId": "113296328",
+     "name": "Alla Konnikov"
+    },
+    {
+     "authorId": "2322154411",
+     "name": "Nicole Denier"
+    },
+    {
+     "authorId": "2279519479",
+     "name": "Yang Hu"
+    }
+   ],
+   "abstract": "What are the implications of the growing use of artificial intelligence (AI) in recruitment and hiring for organizational inequalities? While advocates suggest that AI is a groundbreaking tool that can enhance hiring precision, efficiency, diversity and fit, critics raise serious concerns around bias, fairness, and privacy. This review article critically advances this debate by drawing on diverse scholarship across computing and data sciences; human resource, management, and organization studies; social sciences; and law. Using a hybrid review approach that combines scoping and problematizing review methods, we examine the implications of algorithmic hiring for organizational inequalities. Our review identifies a multidisciplinary discussion marked by asymmetries in how key concerns are conceptualized; a clear and heightened potential for AI to conceal inequalities in hiring processes; and contestation over the regulation of algorithmic hiring. Building on Acker’s (2006) framework of ‘inequality regimes’, we propose the concept of algorithmically-mediated inequality regimes to highlight AI’s capacity for concealing and reproducing inequalities in hiring through enhanced algorithmic invisibility and the growing legitimacy of AI solutions. We propose an agenda for future research, policy, and practice, emphasizing the need for an interdisciplinary ‘chain of knowledge’ and a multi-stakeholder ‘chain of responsibility’ in AI application and regulation."
+  },
+  {
+   "paperId": "3043baa136b8841f0767c4a3ed6a067cf88b571e",
+   "externalIds": {
+    "DOI": "10.1057/s41599-023-02079-x",
+    "CorpusId": 261698638
+   },
+   "title": "Ethics and discrimination in artificial intelligence-enabled recruitment practices",
+   "venue": "Humanities and Social Sciences Communications",
+   "year": 2023,
+   "citationCount": 362,
+   "openAccessPdf": {
+    "url": "https://www.nature.com/articles/s41599-023-02079-x.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1057/s41599-023-02079-x?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1057/s41599-023-02079-x, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "authors": [
+    {
+     "authorId": "49864764",
+     "name": "Zhisheng Chen"
+    }
+   ],
+   "abstract": "This study aims to address the research gap on algorithmic discrimination caused by AI-enabled recruitment and explore technical and managerial solutions. The primary research approach used is a literature review. The findings suggest that AI-enabled recruitment has the potential to enhance recruitment quality, increase efficiency, and reduce transactional work. However, algorithmic bias results in discriminatory hiring practices based on gender, race, color, and personality traits. The study indicates that algorithmic bias stems from limited raw data sets and biased algorithm designers. To mitigate this issue, it is recommended to implement technical measures, such as unbiased dataset frameworks and improved algorithmic transparency, as well as management measures like internal corporate ethical governance and external oversight. Employing Grounded Theory, the study conducted survey analysis to collect firsthand data on respondents’ experiences and perceptions of AI-driven recruitment applications and discrimination."
+  },
+  {
+   "paperId": "7bbe036a43597f8ddd0d11e533ea593d201aea21",
+   "externalIds": {
+    "DOI": "10.1109/ICMI68585.2026.11539889",
+    "CorpusId": 288907682
+   },
+   "title": "Diagnosing Algorithmic Bias in AI-Powered Hiring: Toward a Fairness-Aware Framework",
+   "venue": "International Conference on Multimodal Interaction",
+   "year": 2026,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICMI68585.2026.11539889?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICMI68585.2026.11539889, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference"
+   ],
+   "authors": [
+    {
+     "authorId": "2402014706",
+     "name": "Hairu Fan"
+    },
+    {
+     "authorId": "2109478081",
+     "name": "Shiyuan Wang"
+    }
+   ],
+   "abstract": "Artificial intelligence (AI) is gaining wider usage in hiring from resume screening through candidate evaluation. Though such systems hold out the promise of efficiency, they also understandably generate recurrent doubts about fairness and bias. This work addresses these doubts by presenting a diagnostic framework for detecting bias in AI-powered hiring. The framework combines three stages: (1) descriptive analysis of demographic distributions, (2) statistical testing of group outcome disparities, and (3) model-level fairness metrics, including selection rates, true positive rates, and false positive rates. With three extensively researched datasets: Adult Income, Job Salary, and COMPAS, this work demonstrates that gendered differences persist. Results demonstrate steady salary outcome gaps and differential error rates across demographic groups despite standardized preprocessing. The findings suggest that automated hiring tools without systematic fairness evaluation may reinforce existing workplace inequalities. Proposed here is a structured and reproducible method to detect algorithmic bias that will help both researchers and users promote fairness and accountability in hiring systems."
+  },
+  {
+   "paperId": "6b88d144d3159f172ba36496942ca5ea9ed51e96",
+   "externalIds": {
+    "DOI": "10.37082/ijirmps.v13.i4.232659",
+    "CorpusId": 280038813
+   },
+   "title": "Algorithmic Bias and Discrimination: Legal Accountability of AI Systems",
+   "venue": "International Journal of Innovative Research in Engineering &amp; Multidisciplinary Physical Sciences",
+   "year": 2025,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "https://www.ijirmps.org/papers/2025/4/232659.pdf",
+    "status": "HYBRID",
+    "license": "CCBYSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.37082/ijirmps.v13.i4.232659?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.37082/ijirmps.v13.i4.232659, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2153293555",
+     "name": "Subholaxmi Mukherjee"
+    }
+   ],
+   "abstract": "As Artificial Intelligence (AI) systems increasingly influence decision-making in hiring, finance, criminal justice, and public welfare, concerns about algorithmic bias and systemic discrimination have become urgent. This article examines how AI systems, often assumed to be neutral, can replicate and amplify social prejudices embedded in data or design. Anchored in recent international case law—from the U.S., UK, and France—and early Indian experiences with judicial and administrative use of AI, the paper explores the emerging legal and institutional responses to algorithmic discrimination. It also analyses government reports such as India’s 2025 AI Advisory Framework and the creation of the IndiaAI Safety Institute. Building on these developments, a dedicated section synthesizes their legal implications and articulates an analytical framework to assign accountability in AI ecosystems. The article argues that India must adopt a rights-based, transparent, and auditable regulatory regime to ensure fairness in algorithmic governance, bridging the gap between technological advancement and constitutional mandates."
+  },
+  {
+   "paperId": "e93582f89c7fd67bc3d4572d68b8d265dc4f40b7",
+   "externalIds": {
+    "DOI": "10.54254/2755-2721/2025.20842",
+    "CorpusId": 276369161
+   },
+   "title": "AI and Employment Discrimination: AIHR's Algorithmic Bias",
+   "venue": "Applied and Computational Engineering",
+   "year": 2025,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "https://ace.ewapub.com/article/view/20842.pdf",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.54254/2755-2721/2025.20842?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.54254/2755-2721/2025.20842, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2269885779",
+     "name": "Yuzhe Zhu"
+    }
+   ],
+   "abstract": "Today, artificial intelligence (AI) has developed rapidly to permeate every aspect of people's lives. Some AI has already replaced humans to start working in factories or companies, in addition to AI in the field of employment and AIHR under the recruitment path based on big data algorithms for resume screening and employee interviews. The extension of AI to employment recruitment raises the issue of potential algorithmic discrimination, which manifests itself in discrimination in hiring data extrapolation, hiring data interpretation, and hiring data applications. The studys shows that employment equity and artificial intelligence in the current recruitment path, it should be combined with employment algorithm discrimination and legal challenges to explore the solution path: overcome the root algorithm bias at the technical level, clarify the responsibility of the recruitment subject, improve the laws and regulations on AI in the employment field, and set up supervision and evaluation institutions. Taking into account industrial development and employment development, we will promote the development and progress of AI recruitment and ensure that the right to fair opportunities for employees is not infringed."
+  },
+  {
+   "paperId": "4280dc840fd97fd64d999f789db20f883856d930",
+   "externalIds": {
+    "DOI": "10.55735/wz4rnt53",
+    "CorpusId": 283366581
+   },
+   "title": "Adoption and Role of Artificial Intelligence in Recruitment and Selection: Analytical Study in Pakistan",
+   "venue": "Strategic Leadership and Business Management Journal",
+   "year": 2025,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "https://www.slbmj.com/index.php/main/article/download/5/1",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.55735/wz4rnt53?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.55735/wz4rnt53, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "authors": [
+    {
+     "authorId": "18139242",
+     "name": "Fiza Fatima"
+    },
+    {
+     "authorId": "2395085277",
+     "name": "Eman Aleem"
+    },
+    {
+     "authorId": "26974702",
+     "name": "R. Saleem"
+    },
+    {
+     "authorId": "2395084897",
+     "name": "Ruskhsar Mohsin"
+    },
+    {
+     "authorId": "2440620000",
+     "name": "Pakeeza Mahmood"
+    }
+   ],
+   "abstract": "This study investigates the adoption of Artificial Intelligence in recruitment and selection within Pakistani organizations and examines human resource professionals’ perceptions regarding its effectiveness, efficiency, and ethical implications. Using a mixed-method approach that combines qualitative interviews with quantitative survey data analyzed through SPSS, the findings demonstrate that AI significantly enhances screening efficiency and hiring accuracy, while challenges such as algorithmic bias, lack of transparency, and employee resistance persist. Results reveal that AI adoption has a positive association with recruitment efficiency (r=0.691, p<0.01) and perceived decision-making fairness (r=0.578, p<0.01). Regression analysis further indicates that AI adoption explains 47.7% of the variance in recruitment efficiency. The study contributes practical insights for HR leaders and emphasizes the need for regulatory frameworks, ethical guidelines, and employee readiness for successful AI implementation in Pakistan’s evolving corporate landscape."
+  },
+  {
+   "paperId": "d8e62936e7be7a09008335e27ef70894cd87a06f",
+   "externalIds": {
+    "DOI": "10.62823/ijarcmss/8.4(i).8207",
+    "CorpusId": 283678027
+   },
+   "title": "Exploring the Implications of Artificial Intelligence in the Recruitment Process: A Systematic Literature Review",
+   "venue": "International Journal of Advanced Research in Commerce, Management &amp; Social Science",
+   "year": 2025,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.62823/ijarcmss/8.4(i).8207?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.62823/ijarcmss/8.4(i).8207, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "authors": [
+    {
+     "authorId": "2383809431",
+     "name": "Shipra Jain"
+    },
+    {
+     "authorId": "3229049",
+     "name": "S. Saxena"
+    }
+   ],
+   "abstract": "Artificial Intelligence (AI) has transformed recruitment by automating job matching, resume screening, candidate assessment, and communication. This study systematically reviews 60 peer-reviewed papers published between 2020 and 2025 to explore how AI-driven recruitment influences efficiency, fairness, candidate experience, and organizational outcomes. The review identifies key contributions of machine learning, natural language processing, chatbots, predictive analytics, and algorithmic decision systems. Findings show that AI reduces hiring time, improves decision accuracy, enhances employer branding, and supports large-scale candidate processing. However, challenges such as hidden bias, lack of explainability, privacy issues, and candidate trust remain significant. This review contributes by mapping contemporary trends, identifying research gaps, and presenting structured insights for practitioners and researchers. The study concludes that AI can significantly enhance recruitment effectiveness only when aligned with ethical design, transparency, and human oversight."
+  },
+  {
+   "paperId": "3600084ae649f3f764e0b99e8a6efffd401a6967",
+   "externalIds": {
+    "DOI": "10.1007/s44282-025-00246-w",
+    "CorpusId": 281166150
+   },
+   "title": "Role of artificial intelligence in employee recruitment: systematic review and future research directions",
+   "venue": "Discover Global Society",
+   "year": 2025,
+   "citationCount": 16,
+   "openAccessPdf": {
+    "url": "https://link.springer.com/content/pdf/10.1007/s44282-025-00246-w.pdf",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s44282-025-00246-w?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s44282-025-00246-w, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "authors": [
+    {
+     "authorId": "1396126121",
+     "name": "S. Dadaboyev"
+    },
+    {
+     "authorId": "2370050020",
+     "name": "Jasmina Abdullayeva"
+    },
+    {
+     "authorId": "2370050876",
+     "name": "Naval Abbosova"
+    },
+    {
+     "authorId": "2370056517",
+     "name": "Afina Suleymenova"
+    },
+    {
+     "authorId": "2370056519",
+     "name": "Komila Mamadjanova"
+    }
+   ],
+   "abstract": "Artificial intelligence (AI) is increasingly used in recruitment processes to enhance efficiency and improve hiring decisions. This systematic literature review examines the opportunities and challenges of AI in employee recruitment across various organizational settings. Analyzing 49 peer-reviewed articles sourced from the Web of Science database published between 2018 and 2025, this review summarizes the current knowledge of AI's impact, highlighting its potential to increase productivity (e.g., through automated resume parsing and chatbot-led initial screening), improve candidate quality (e.g., via predictive analytics for job-fit and AI-assisted video interview analysis), and potentially reduce human bias by standardizing initial evaluations, though it also addresses critical ethical considerations such as the risk of algorithmic bias stemming from training data. However, it also addresses ethical considerations, including algorithmic bias and the need for transparency. The review concludes with recommendations for future research focused on legal frameworks, industry-specific applications, and mitigating the risks associated with AI in recruitment."
+  },
+  {
+   "paperId": "22f7a874454ef54309e69cbe1f8fe8fac99d5568",
+   "externalIds": {
+    "DBLP": "journals/ijimai/GonzalezSendinoSBN24",
+    "DOI": "10.9781/ijimai.2023.11.001",
+    "CorpusId": 265233421
+   },
+   "title": "A Review of Bias and Fairness in Artificial Intelligence",
+   "venue": "Int. J. Interact. Multim. Artif. Intell.",
+   "year": 2024,
+   "citationCount": 38,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.9781/ijimai.2023.11.001",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.9781/ijimai.2023.11.001?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.9781/ijimai.2023.11.001, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "authors": [
+    {
+     "authorId": "2266925020",
+     "name": "Rubén González-Sendino"
+    },
+    {
+     "authorId": "2057384379",
+     "name": "Emilio Serrano"
+    },
+    {
+     "authorId": "2222450431",
+     "name": "Javier Bajo"
+    },
+    {
+     "authorId": "2266925365",
+     "name": "Paulo Novais"
+    }
+   ],
+   "abstract": "Automating decision systems has led to hidden biases in the use of artificial intelligence (AI). Consequently, explaining these decisions and identifying responsibilities has become a challenge. As a result, a new field of research on algorithmic fairness has emerged. In this area, detecting biases and mitigating them is essential to ensure fair and discrimination-free decisions. This paper contributes with: (1) a categorization of biases and how these are associated with different phases of an AI model’s development (including the data-generation phase); (2) a revision of fairness metrics to audit the data and AI models trained with them (considering agnostic models when focusing on fairness); and, (3) a novel taxonomy of the procedures to mitigate biases in the different phases of an AI model’s development (pre-processing, training, and post-processing) with the addition of transversal actions that help to produce fairer models."
+  },
+  {
+   "paperId": "a5f8b25be207fdd7c95732b032fa0b799cb6a525",
+   "externalIds": {
+    "DOI": "10.36948/ijfmr.2025.v07i01.34682",
+    "CorpusId": 275777027
+   },
+   "title": "The Evolving Role of Artificial Intelligence in Recruitment: Efficiency, Bias Mitigation, and Ethical Challenges",
+   "venue": "International Journal For Multidisciplinary Research",
+   "year": 2025,
+   "citationCount": 2,
+   "openAccessPdf": {
+    "url": "https://www.ijfmr.com/papers/2025/1/34682.pdf",
+    "status": "HYBRID",
+    "license": "CCBYSA",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.36948/ijfmr.2025.v07i01.34682?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.36948/ijfmr.2025.v07i01.34682, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2341428050",
+     "name": "Anees Faroozan"
+    }
+   ],
+   "abstract": "Artificial Intelligence (AI) is redefining Human Resource Management (HRM) by revolutionizing traditional recruitment methods and optimizing hiring processes. Conventional recruitment, often prolonged and labor-intensive, has been transformed by AI’s ability to efficiently analyse large volumes of applications, identify top candidates, and provide succinct summaries of qualifications. This technological advancement allows recruiters to shift their focus toward enhancing the candidate experience and attracting exceptional talent. Additionally, AI holds the potential to reduce unconscious bias in hiring by relying on objective data and standardized criteria during initial screening. However, these benefits are accompanied by challenges, including ethical concerns, algorithmic biases, and risks associated with over-reliance on automation. This paper explores the dual role of AI in driving efficiency and fostering equitable hiring practices while addressing its limitations and ethical implications within the recruitment process."
+  },
+  {
+   "paperId": "df724418595023d8db463fe5f64b38faeba9f82b",
+   "externalIds": {
+    "DOI": "10.1109/ICDICI66477.2025.11134999",
+    "CorpusId": 281093668
+   },
+   "title": "Artificial Intelligence Based Transparent Hiring Frameworks: Leveraging Technology for Recruitment Practices",
+   "venue": "2025 6th International Conference on Data Intelligence and Cognitive Informatics (ICDICI)",
+   "year": 2025,
+   "citationCount": 1,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICDICI66477.2025.11134999?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICDICI66477.2025.11134999, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference"
+   ],
+   "authors": [
+    {
+     "authorId": "2356862281",
+     "name": "Neha Dixit"
+    },
+    {
+     "authorId": "2356872230",
+     "name": "Ranjana Mishra"
+    },
+    {
+     "authorId": "2356865132",
+     "name": "Sachin Swami"
+    },
+    {
+     "authorId": "2356854162",
+     "name": "Preeti Pandey"
+    }
+   ],
+   "abstract": "The Transparent and Ethical Recruitment Optimization Model (TEROM) is an innovative framework designed to enhance fairness, inclusivity, and efficiency in recruitment processes using advanced technology and ethical principles. Evaluations across multiple organizations demonstrated significant improvements in hiring metrics. Fairness metrics, such as the representation of women and minorities, increased from 35 % and 22 % to 48 % and 40 %, respectively. TEROM's bias detection algorithms reduced bias scores across key areas, including gender (from 0.37 to 0.12) and ethnicity (from 0.45 to 0.15). The model improved diversity, with ethnic diversity rising from 24 % to 39 % and LGBTQ+ representation doubling from 5 % to 14 %. Efficiency metrics also showed substantial gains, with the average time-to-hire decreasing from 38 to 24 days and resumes processed per day increasing from 100 to 250. Candidate satisfaction ratings improved across key dimensions, with transparency scores rising from 2.8 to 4.5 out of 5. TEROM achieved an accuracy rate of 93.7 % in candidate screening while mitigating biases effectively. These results validate the potential of TEROM to revolutionize recruitment practices by combining ethical guidelines with cutting-edge AI and automation. Future enhancements aim to incorporate predictive analytics for longterm performance evaluations, furthering TEROM's impact on equitable and efficient hiring."
+  }
+ ]
+}

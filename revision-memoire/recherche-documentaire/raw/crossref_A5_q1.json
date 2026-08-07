@@ -1,0 +1,1517 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message-version": "1.0.0",
+ "message": {
+  "facets": {},
+  "total-results": 404118,
+  "items": [
+   {
+    "DOI": "10.33168/jliss.2024.0530",
+    "title": [
+     "Engaging Hotel Employees in the Era of Artificial Intelligence:  The Interplay of Artificial Intelligence Awareness, Job Insecurity,  and Technical Self-Efficacy"
+    ],
+    "container-title": [
+     "Journal of Logistics, Informatics and Service Science"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       5,
+       4
+      ]
+     ]
+    },
+    "is-referenced-by-count": 2,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.3389/fpsyg.2026.1786588",
+    "title": [
+     "The impact of artificial intelligence application on employees' job insecurity: the moderating roles of self-efficacy and transformational leadership"
+    ],
+    "container-title": [
+     "Frontiers in Psychology"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       6,
+       3
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Wenxiu",
+      "family": "Fu",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Shandong Management University, School of Business Administration",
+        "place": [
+         "Jinan, China"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Hui",
+      "family": "Zhang",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Shandong University of Finance and Economics, School of Business Administration",
+        "place": [
+         "Jinan, China"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:sec>\n                    <jats:title>Introduction</jats:title>\n                    <jats:p>Against the backdrop of the intelligent era, the widespread application of artificial intelligence (AI) has fundamentally reshaped the internal and external developmental ecosystems of organizations, exerting a profound impact on employees' work-related psychological states. Drawing on the Conservation of Resources Theory and the Cognitive Appraisal Theory of Stress, this study empirically explores the underlying mechanism through which AI application influences employees' job insecurity.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Methods</jats:title>\n                    <jats:p>Data for this study were collected using a mixed online and offline distribution method, with all measures administered through employee self-reported questionnaires. A total of 453 questionnaires were distributed, including 242 online and 211 offline. We received 449 questionnaires, with 242 from the online channel and 207 offline. Following a stringent validity screening process conducted by the research team, 411 valid questionnaires were retained for analysis (219 online and 192 offline), resulting in an effective response rate of 90.73%.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results</jats:title>\n                    <jats:p>There is a significant U-shaped relationship between AI application and employees' job insecurity: moderate AI application reduces insecurity, whereas excessive application heightens it. Self-efficacy negatively moderates this relationship by strengthening the insecurity-reducing effect of moderate AI application and weakening the insecurity-enhancing effect of excessive application. Transformational leadership similarly exerts a negative moderating effect, suggesting that both individual psychological resources and supportive leadership can buffer employees' insecurity responses to varying levels of AI application in digitality transforming organizational contexts more effectively.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Discussion</jats:title>\n                    <jats:p>This study advances research on AI-enabled workplace changes by revealing a U-shaped effect of AI application intensity on employees' job insecurity. It explains this relationship through the dual mechanisms of resource gain and resource threat. It further incorporates self-efficacy and transformational leadership as boundary conditions, thereby clarifying when AI application alleviates or intensifies employees' job insecurity. These findings enrich the theoretical understanding of employees' job insecurity within the context of AI application, and offer empirical insights for managing employee wellbeing and refining human resource strategies during organizational digital transformation.</jats:p>\n                  </jats:sec>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.13088/jiis.2026.32.2.035",
+    "title": [
+     "The Impact of Generative Artificial Intelligence Adoption on Job Insecurity and Job Engagement among White-Collar Employees"
+    ],
+    "container-title": [
+     "Journal of Intelligence and Information Systems"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       6,
+       30
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Jinsoo",
+      "family": "Park",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Dohun",
+      "family": "Kim",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Seungho",
+      "family": "Jeong",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Jihae",
+      "family": "Suh",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1051/e3sconf/202338803021",
+    "title": [
+     "The Association Between Smart Technology, Artificial Intelligence, Robotics, and Algorithms (STARA) Awareness, Job Stress, Job Insecurity, and Job Satisfaction Among Hotel Employees During COVID-19 Pandemic"
+    ],
+    "container-title": [
+     "E3S Web of Conferences"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Nurul Sukma",
+      "family": "Lestari",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Dendy",
+      "family": "Rosman",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Evi",
+      "family": "Millenia",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 16,
+    "abstract": "<jats:p>Despite the numerous advantages of implementing smart technology, expenses or negatives must be considered, with one of the most significant being the influence on personnel. A lot of studies have been undertaken to examine the influence of technological innovation on personnel. In the hospitality industry, research on service robots has grown, with a focus on customer-robot interactions. Despite this, studies on the influence of service robots on hotel employees are still at an early stage of development, especially in Indonesia. To fill the gap, the purpose of the study is to investigates the relationship between Smart Technology, Artificial Intelligence, Robotics, and Algorithms (STARA) awareness, job stress, job insecurity among hotel employees in Jakarta. Using quantitative approach, this study used convenient sample and involve 160 research participants. The research respondent was coming from various hotel employees located in Jakarta. Multiple regression analysis was used to analyze the data. The study found that there is a significant relationship between STARA awareness, job stress, job insecurity, and job satisfaction. The current study contributes to literature in the impact of technology adoption on service employees. This study is important because the findings provide an insight for hotel managers in developing technology implementation program in their businesses, especially the one that focuses on employees work behavior.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.56893/pajes2025v06i01.07",
+    "title": [
+     "Utilization of Artificial Intelligence (AI) and Fear of Job Loss in the Banking Industry: Perspectives of Bank Employees"
+    ],
+    "container-title": [
+     "Pan-African Journal of Education and Social Sciences"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       5,
+       12
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0009-0009-8122-3989",
+      "authenticated-orcid": false,
+      "given": "Angela E.",
+      "family": "Nwaomah",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Adventist University of Africa, Kenya"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 2,
+    "abstract": "<jats:p>This study investigated the utilization of AI and the fear of job loss, seeking employees’ perceptions in Kenya’s banking industry. This study adopted a descriptive survey design. Data was collected with a self-designed questionnaire. Fifty-two employees from five selected banks in Nairobi participated in the study. The findings revealed that banks utilize AI in various aspects of operational and customer services, but highly in cybersecurity, fraud detection, and anticipating customer needs. The findings also revealed that 82.7% of the respondents perceived that the high utilization of artificial intelligence (AI) in the banking industry raises the fear of job loss as they considered consolidation of tasks for a few workers and reduced staff workforce as the threats associated to Artificial Intelligence (AI) utilization in the banking industry. The employees believe that their jobs could be secured by embracing the AI technology and skill improvement. Thus, the study recommends that bank authorities facilitate the adjustments of the bank employees as jobs are redesigned to enable their transition to AI-related positions.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/s10869-024-09963-6",
+    "title": [
+     "The Buffering Role of Workplace Mindfulness: How Job Insecurity of Human-Artificial Intelligence Collaboration Impacts Employees’ Work–Life-Related Outcomes"
+    ],
+    "container-title": [
+     "Journal of Business and Psychology"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       5,
+       29
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Tung-Ju",
+      "family": "Wu",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0003-2558-5335",
+      "authenticated-orcid": false,
+      "given": "Yuan",
+      "family": "Liang",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Yushu",
+      "family": "Wang",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 109,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1057/s41599-026-08274-w",
+    "title": [
+     "Artificial intelligence and robotics awareness among frontline employees in tourist hotels and its impact on service sabotage: the roles of job insecurity, organization-based self-esteem, and competitive psychological climate"
+    ],
+    "container-title": [
+     "Humanities and Social Sciences Communications"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       7,
+       8
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Rujie",
+      "family": "Chen",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Yiyun",
+      "family": "Ying",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Hua",
+      "family": "Yang",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.3389/frai.2024.1337264",
+    "title": [
+     "“Machine replacement” or “job creation”: How does artificial intelligence impact employment patterns in China's manufacturing industry?"
+    ],
+    "container-title": [
+     "Frontiers in Artificial Intelligence"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       3,
+       6
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Qingqing",
+      "family": "Huo",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Jing",
+      "family": "Ruan",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Yan",
+      "family": "Cui",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 18,
+    "abstract": "<jats:p>Artificial intelligence (AI), as an important engine for promoting high-quality economic development, should not be overlooked in terms of its impact on the employment of the labor force while promoting the digital and intelligent transformation of industries. In the face of the complex international environment and non-systemic shocks, it is of great significance to explore whether it is “machine replacement” or “job creation” in the process of the integration of AI and industry, as well as the impact of technological progress on the employment pattern of the labor force, in order to promote the economic development, respond to and solve the employment problem. It is of great significance to promote economic development and cope with and solve the employment problem. Based on the task model, this paper analyses the mechanism of the impact of AI on the employment pattern of manufacturing industry. Meanwhile, based on the provincial panel data of China's manufacturing industry from 2011 to 2020, it empirically examines the impact of AI on the total employment, employment structure and employment quality of the labor force, and analyses the multiple responses of AI on the employment pattern of the manufacturing industry. The study shows that: Firstly, the level of development of AI and the total amount of employment is a positive U-shaped relationship, the short term is dominated by the substitution effect, and the long term is dominated by the creation effect; Secondly, with regard to the employment structure, low-skilled labor is more likely to be replaced. The financial, accommodation and catering industries are relatively less affected by the spillover effects of the manufacturing industry; Third, with regard to the employment quality, the gap between urban and rural incomes has eased, with per capita net income of rural residents rising to a higher degree than per capita disposable income of urban residents. Thus, in order to further address the impact of AI on the employment patterns of the labor force, the level of AI development should be increased while expanding employment channels, paying attention to labor force skills training, reinforcing the leading role of developed regions, and accelerating regional integration and urban-rural integration, so as to share the dividends of technological progress.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1016/j.jik.2024.100590",
+    "title": [
+     "How artificial intelligence-induced job insecurity shapes knowledge dynamics: the mitigating role of artificial intelligence self-efficacy"
+    ],
+    "container-title": [
+     "Journal of Innovation &amp; Knowledge"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       10
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Byung-Jik",
+      "family": "Kim",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Min-Jik",
+      "family": "Kim",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 82,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1108/md-05-2025-1462",
+    "title": [
+     "Artificial intelligence and organisational transformation: technical skills, job insecurity and adoption"
+    ],
+    "container-title": [
+     "Management Decision"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       2,
+       9
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0009-0008-6601-2086",
+      "authenticated-orcid": true,
+      "given": "Lorena",
+      "family": "Arranz Lahuerta",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "University of Alcalá Department of Business Organization, , ,",
+        "place": [
+         "Alcalá de Henares, Spain"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0009-0002-1206-9171",
+      "authenticated-orcid": true,
+      "given": "María Rosa",
+      "family": "López Ramajo",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "University of Alcalá Department of Business Organization, , ,",
+        "place": [
+         "Alcalá de Henares, Spain"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-9664-0453",
+      "authenticated-orcid": true,
+      "given": "Andrés",
+      "family": "Gandía",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "University of Alcalá Department of Business Organization, , ,",
+        "place": [
+         "Alcalá de Henares, Spain"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 4,
+    "abstract": "<jats:sec>\n                    <jats:title>Purpose</jats:title>\n                    <jats:p>This study explores the impact of Artificial Intelligence (AI) on technical skills development, job insecurity, and system adoption within organisations. It examines how businesses can navigate AI-driven workplace transformations while mitigating workforce challenges and fostering a culture of trust and innovation.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Design/methodology/approach</jats:title>\n                    <jats:p>The research adopts a mixed-method approach, combining theoretical analysis with empirical insights. Data were gathered from the AI-driven transformation Scopus database, analysing the relationship between AI implementation, employee perceptions, and organisational strategies for skill development and job security.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Findings</jats:title>\n                    <jats:p>(1) AI has a dual impact: it increases demand for advanced technical skills while also heightening job insecurity, particularly in organisations lacking structured reskilling programs. (2) Organisations that integrate transparent governance and employee participation into AI adoption strategies experience lower resistance and higher acceptance. (3) A balance between technological advancement and human capital investment is critical for minimising disruptions and ensuring a smooth transition to AI-driven operations.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Research limitations/implications</jats:title>\n                    <jats:p>The study is limited by the scope of available industry data and the generalisability of case study findings. Future research should explore sector-specific AI adoption challenges and long-term workforce adaptation strategies.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Practical implications</jats:title>\n                    <jats:p>The findings offer actionable insights for organisational leaders and policymakers, emphasising the need for structured skill enhancement programs, transparent communication, and ethical AI governance frameworks. These measures reduce workforce resistance, enhance innovation, and facilitate equitable AI-driven transformation.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Social implications</jats:title>\n                    <jats:p>By addressing concerns about job security and skill obsolescence, the study contributes to a more sustainable AI integration approach that promotes workforce adaptability, inclusion, and ethical decision-making in the digital era.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Originality/value</jats:title>\n                    <jats:p>This research provides a novel perspective by integrating AI adoption, skill development, and job insecurity within the broader framework of organisational transformation. It offers a socio-technical view of AI-driven change, highlighting the importance of ethical considerations and participatory decision-making.</jats:p>\n                  </jats:sec>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.3389/fsoc.2026.1782891",
+    "title": [
+     "Techno-overload and employee outcomes: relationships with job insecurity, turnover intention, and occupation insecurity among Lithuanian employees"
+    ],
+    "container-title": [
+     "Frontiers in Sociology"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       7,
+       27
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Laima",
+      "family": "Okunevičiūtė Neverauskienė",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Lithuanian Centre for Social Sciences",
+        "place": [
+         "Vilnius, Lithuania"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Dalia",
+      "family": "Bagdžiūnienė",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Institute of Psychology, Vilnius University",
+        "place": [
+         "Vilnius, Lithuania"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:sec>\n                    <jats:title>Introduction</jats:title>\n                    <jats:p>Information and communication technologies are rapidly integrating into everyday life and work processes. Nowadays, without them, innovations, human development, and business growth are impossible. At the same time, this integration increases the likelihood of negative consequences for employees, particularly technostress and techno-overload, as one of its creators.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>The aim</jats:title>\n                    <jats:p>Based on the Job Demands–Resources Theory and the Social Exchange Theory, this research examines the role of techno-overload in relation to employee job insecurity, turnover intention, and occupation insecurity among Lithuanian employees.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Method</jats:title>\n                    <jats:p>\n                      The cross-sectional study sample involved 754 employees from state and private organizations, with 54.8% female representation. The average age of participants was 41.9 years (\n                      <jats:italic>SD</jats:italic>\n                      = 12.06). The survey was conducted using Computer-Assisted Telephone and Web Interviewing. Descriptive statistics, correlation analyses, and structural equation modeling were applied for data analysis.\n                    </jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results and conclusion</jats:title>\n                    <jats:p>Techno-overload was positively associated with employees' job and occupation insecurity. Job insecurity mediated the relationships between techno-overload and both turnover intention and occupation insecurity. The results complement research on the links between techno-overload and employee insecurity in the labor market, reveal the role of job insecurity in the relationships between techno-overload and employee outcomes, and the value of more comprehensive studies of occupation insecurity—an important construct in employment research. Research limitations, theoretical and practical implications are discussed.</jats:p>\n                  </jats:sec>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.18502/kss.v10i7.18329",
+    "title": [
+     "The Influence of Job Satisfaction and Job Insecurity Towards Turnover Intention on Contract Employees"
+    ],
+    "container-title": [
+     "KnE Social Sciences"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       3,
+       27
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0003-1528-132X",
+      "authenticated-orcid": false,
+      "given": "Istiqomah",
+      "family": "‎",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Rizki",
+      "family": "Anwar",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0001-9759-6688",
+      "authenticated-orcid": false,
+      "given": "Silfiasari",
+      "family": "‎ ‎",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>Turnover intention is a person’s desire or intention to quit their job. An apparent high level of employee turnover can result in various impacts both on the organization or company and on the employees concerned. Turnover intention is caused by various factors, such as job satisfaction and job insecurity. This research aims to determine the effect of job satisfaction and job insecurity on turnover intention among contract (outsourced) employees at PT. X. It used a quantitative method with a correlational approach. The subjects in this research were 72 employees (outsourcing) at PT. X using total sampling. This research utilized three scales, namely job satisfaction, job insecurity, and turnover intention, with a data analysis method of multiple linear regression. The data analysis revealed no influence between job satisfaction and turnover intention among contract (outsourced) employees at PT. X. Meanwhile, job insecurity had a significant influence on turnover intention among contract employees (outsourcing) at PT. Job satisfaction and job insecurity provide an effective contribution of 24.6% to turnover intention.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.21511/ppm.22(1).2024.52",
+    "title": [
+     "Effect of COVID-19 fear on nurse performance through insecurity and job satisfaction"
+    ],
+    "container-title": [
+     "Problems and Perspectives in Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       3,
+       26
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0003-0007-8783",
+      "authenticated-orcid": false,
+      "given": "Mia",
+      "family": "Ayu Gusti",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Dr., Lecturer, Department of Management, Faculty of Economics and Business, Universitas Negeri Padang [Padang State University], Indonesia"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0003-1260-5739",
+      "authenticated-orcid": false,
+      "given": "Hendra",
+      "family": "Lukito",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Dr., Lecturer, Department of Management, Faculty of Economics and Business, Universitas Andalas [Andalas University], Indonesia"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-8412-8524",
+      "authenticated-orcid": false,
+      "given": "Alpon",
+      "family": "Satrianto",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Dr., Lecturer, Department of Economics, Faculty of Economics and Business, Universitas Negeri Padang [Padang State University], Indonesia"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-4453-2645",
+      "authenticated-orcid": false,
+      "family": "Marwan",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Dr., Lecturer, Department of Economics Education, Faculty of Economics and Business, Universitas Negeri Padang [Padang State University], Indonesia"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0003-4099-3732",
+      "authenticated-orcid": false,
+      "given": "Heppy",
+      "family": "Setya Prima",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Master, Lecturer, Department of Biology, Faculty of Mathematics and Natural Sciences, Universitas Negeri Medan [Medan State University], Indonesia"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 1,
+    "abstract": "<jats:p>Apart from physical health problems, the COVID-19 outbreak also affected psychological health, causing extreme fear of this pandemic. Thus, this study aims to investigate the relationship between nurse performance and the fear of COVID-19 mediated by job insecurity and job satisfaction with conservation of resources theory as the lens. Data from 260 nurses were collected through an online structured questionnaire and analyzed using structural equation modeling-partial least squares. The direct effect findings show that COVID-19 fear influences job insecurity (p &amp;amp;lt; 0.05) but does not influence job satisfaction and nurse performance (p &amp;amp;gt; 0.05). Besides, job insecurity significantly influences job satisfaction and nurse performance (p &amp;amp;lt; 0.05). On the other hand, job satisfaction has no effect on nurse performance (p &amp;amp;gt; 0.05). Then, the indirect effect results show that job insecurity fully mediates the influence of COVID-19 fear on job satisfaction and nurse performance (p &amp;amp;lt; 0.05). Likewise, job satisfaction partially mediates the influence of job insecurity on nurse performance (p &amp;amp;lt; 0.05) but does not mediate the fear of COVID-19 on nurse performance (p &amp;amp;gt; 0.05). These findings provide evidence that the fear of COVID-19 plays an essential role for job insecurity, influencing job satisfaction and nurse performance. These results can develop strategies for better human resource management in nursing staff and provide pragmatic insight into the impact of the COVID-19 pandemic.\nAcknowledgmentThe authors thank Universitas Negeri Padang for its support in completing this article. We also thank all members for their support and cooperation.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.3390/bs14100974",
+    "title": [
+     "The Effect of Job Skill Demands Under Artificial Intelligence Embeddedness on Employees’ Job Performance: A Moderated Double-Edged Sword Model"
+    ],
+    "container-title": [
+     "Behavioral Sciences"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       10,
+       21
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Ningning",
+      "family": "Chen",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "School of Business Administration, Northeastern University, Shenyang 110167, China"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Xinan",
+      "family": "Zhao",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Business Administration, Northeastern University, Shenyang 110167, China"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Lele",
+      "family": "Wang",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Party School of Liaoning Provincial Party Committee, Shenyang 110004, China"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 26,
+    "abstract": "<jats:p>With the widespread application of AI technology, the skills and abilities required by employees in their work are undergoing fundamental changes, redefining the roles of employees. This research aims to explore the effect of job skill demands under AI embeddedness on well-being in organizations and job performance. Based on conservation of resources theory, this research randomly selected 479 employees from 8 companies in China using a time-lag method as samples, and conducted statistical analysis with ordinary least squares (OLS). This research found that, job skill demands under AI embeddedness will both increase employees’ competency needs, promoting their well-being in organizations and job performance and decrease employees’ job embeddedness, inhibiting their well-being in organizations and job performance. Meanwhile, technological anxiety moderated the impact of job skill demands under AI embeddedness on job embeddedness.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.56497/esj260608",
+    "title": [
+     "The Role of Artificial Intelligence in Employee Motivation: Mediating Role of Work Efficiency, Skill Development, Job Autonomy, and Job Insecurity"
+    ],
+    "container-title": [
+     "Economic Studies (Ikonomicheski Izsledvania)"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       6,
+       19
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Gëzim",
+      "family": "Jusufi",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "“AAB” College in Pristina, St. “Elez Berisha”"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Xhavit",
+      "family": "Islami",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "“AAB” College in Pristina, St. “Elez Berisha”"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Enis",
+      "family": "Mulolli",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "“AAB” College in Pristina, St. “Elez Berisha”"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>The purpose of this paper is to examine how artificial intelligence (AI) adoption influences the motivation of employees, focusing on the mediating roles of perceived work efficiency, skill development, job autonomy, and job insecurity with work-related stress. Using data collected from 358 IT employees and analysed through structural equation modelling and mediation analysis, the study finds that AI adoption has a significant direct effect on employee motivation. The findings reveal the dual nature of AI adoption: it enhances employee motivation by improving work efficiency, learning opportunities, and job autonomy, while simultaneously undermining motivation by increasing job insecurity and work-related stress. Perceived work efficiency, skill development, and job autonomy positively mediate this relationship, whereas job insecurity and work-related stress exert a negative mediating effect. This study contributes to the literature by providing an integrated mediation framework that explains how AI affects employee motivation from a socio-technical perspective. Practically, the results suggest that organisations should adopt human-centred AI strategies that amplify positive job characteristics while proactively addressing AI-related insecurity and stress.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1002/sd.3376",
+    "title": [
+     "The Dark Sides of Artificial Intelligence Implementation: Examining How Corporate Social Responsibility Buffers the Impact of Artificial Intelligence‐Induced Job Insecurity on Pro‐Environmental Behavior Through Meaningfulness of Work"
+    ],
+    "container-title": [
+     "Sustainable Development"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       2,
+       4
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Byung‐Jik",
+      "family": "Kim",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "College of Business Administration University of Ulsan  Ulsan South Korea"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Julak",
+      "family": "Lee",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Department of Industrial Security Chung‐Ang University  Seoul South Korea"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 23,
+    "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>This study investigates the complex relationships between artificial intelligence (AI)‐induced job insecurity, meaningfulness of work (MOW), pro‐environmental behavior at work (PEBW), and corporate social responsibility (CSR) in South Korean organizations. As AI technologies increasingly permeate the workplace, understanding their impact on employee attitudes and behaviors becomes crucial for organizational sustainability efforts. Drawing on several theories, we propose and test a moderated mediation model using a three‐wave time‐lagged design with 392 employees from various South Korean corporations. Our findings reveal that AI‐induced job insecurity negatively influences PEBW through the mediating role of MOW. Contrary to initial expectations, no direct relationship was found between AI‐induced job insecurity and PEBW. Instead, AI‐induced job insecurity decreases employees' MOW, which in turn reduces their engagement in PEBW. Furthermore, we found that CSR moderates the AI‐induced job insecurity‐MOW link, such that strong CSR buffers the negative influence of AI‐induced job insecurity. These results may contribute to the literature on organizational behavior, environmental sustainability, and technological change by elucidating the psychological mechanisms linking AI‐induced job insecurity to PEBW. Our study emphasizes the crucial role of MOW in this relationship. Also, it demonstrates how CSR can function as a strategic tool to weaken the potential negative impacts of AI implementation on employee attitudes and behaviors. The findings offer meaningful implications for managers and policymakers navigating the challenges of AI integration while promoting environmental sustainability at work. By maintaining employee MOW and leveraging CSR initiatives, organizations may be better equipped to foster PEBW in the face of technological changes.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.29322/ijsrp.15.07.2025.p16322",
+    "title": [
+     "Perceptions of Artificial Intelligence and Job Insecurity: Understanding Workforce Dynamics in AI Driven Industries"
+    ],
+    "container-title": [
+     "International Journal of Scientific and Research Publications"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       7,
+       24
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "RAHERISAMBATRA MICHAEL",
+      "family": "JOSEPHSON",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.47191/jefms/v8-i8-31",
+    "title": [
+     "The Influence of Job Insecurity on Psychological Utility Through Job Burnout Among Employees"
+    ],
+    "container-title": [
+     "Journal of Economics, Finance And Management Studies"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       8,
+       18
+      ]
+     ]
+    },
+    "author": [
+     {
+      "name": "Management Study Program, Faculty of Economics and Business",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Fachrudy",
+      "family": "Asj’ari",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Andy",
+      "family": "Andreawan",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "name": "Universitas PGRI Adi Buana Surabaya",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Rayhan Ahmad Alfa",
+      "family": "Rizki",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "name": "Management Study Program, Faculty of Economics and Business",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Hartono",
+      "family": ".",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "name": "University of Islam Mojopahit Mojokerto",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>The aim of this research is to assess the significance of job insecurity on psychological utility at PT. Elang Jagad in Sidoarjo. The respondents in this study were employees working at PT. Elang Jagad, with a total of 50 questionnaires distributed. This research utilized a saturated sample and employed a sampling method commonly used in quantitative research. As a result, 50 employees were used as the research sample. The data analysis method employed was descriptive statistical analysis, specifically using SEM-PLS testing. The software used for data processing was SmartPLS 4.0. The external model analysis (measurement model) was applied to analyze the data. This research employed validity and reliability testing. Further model analysis (structural model evaluation) included model fit testing, bootstrapping for hypothesis testing, and cross-validated redundancy assessment (Q2). The results of the tests indicated that: 1) job insecurity has a significant and positive influence on job burnout; 2) job insecurity has a considerable impact on psychological utility; and 3) job burnout has a strong influence on psychological utility. This research provides additional insights for companies to monitor their employees and highlights the importance of the impact of job insecurity on psychological utility through job burnout at PT. Elang Jagad in Sidoarjo. Furthermore, it is expected to serve as a guideline, reference, or inspiration for future research aiming to develop similar studies, and it is hoped that the results of this study will be beneficial for readers and expand understanding on the topic.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.3724/sp.j.1042.2023.01359",
+    "title": [
+     "Job replacement or job transformation? Definition, consequences, and sources of technology-driven job insecurity"
+    ],
+    "container-title": [
+     "Advances in Psychological Science"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Yan",
+      "family": "TU",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Po",
+      "family": "HAO",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Lirong",
+      "family": "LONG",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 10,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.21511/ppm.23(3).2025.05",
+    "title": [
+     "Investigating the mediating role of self-efficacy on work stress and job insecurity among Indonesian startup employees"
+    ],
+    "container-title": [
+     "Problems and Perspectives in Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       7,
+       11
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-4918-9209",
+      "authenticated-orcid": false,
+      "given": "Jefta",
+      "family": "Harlianto",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Ph.D., Department of Management, BINUS Business School Undergraduate Program, BINUS University, Indonesia"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0009-0004-1979-6712",
+      "authenticated-orcid": false,
+      "family": "Rudi",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "M.T., Department of Management, BINUS Business School Undergraduate Program, BINUS University, Indonesia"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Aga",
+      "family": "Qurota Ayun Hakim",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "S.M., Department of Management, BINUS Business School Undergraduate Program, BINUS University, Indonesia"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Steven",
+      "family": "Lo",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "S.M., Department of Management, BINUS Business School Undergraduate Program, BINUS University, Indonesia"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>Type of the article: Research Article\nAbstractThe wave of layoffs in Indonesia’s startups has increased employees’ concerns about job insecurity, raising the need for a deeper understanding of its determinants. This study examines the associations between work stress, self-efficacy, and job insecurity in Indonesia’s startup ecosystem. Specifically, it investigates direct and indirect effects of work stress on job insecurity through self-efficacy. Data were collected from 262 digital startup employees in Jakarta using an online survey at the beginning of 2024 and analyzed using covariance-based structural equation modeling with LISREL software. The findings suggest that work stress does not directly influence job insecurity (T-value of 0.79 &amp;amp;lt; 1.967), indicating that startup employees may perceive stress as a regular aspect of their dynamic and high-pressure work environment. However, work stress significantly and positively impacts self-efficacy (T-value of 11.32&amp;amp;gt; 1.967), implying that stress can enhance employees’ confidence in their abilities when managed effectively. Self-efficacy has a significant and positive effect on job insecurity (T-value of 9.98 &amp;amp;gt; 1.967), highlighting its pivotal role in shaping perceptions of job stability. Furthermore, work stress indirectly influences job insecurity through self-efficacy (Indirect effect 0.7392 &amp;amp;gt; direct effect 0.045), emphasizing the mediating role of self-belief in mitigating the adverse effects of workplace stress. The findings emphasize the importance of fostering self-efficacy through supportive management, training programs, and clear communication to lessen job insecurity and promote resilience. These insights provide practical implications for enhancing employee well-being and organizational sustainability in the rapidly evolving startup environment.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1016/j.caeai.2024.100260",
+    "title": [
+     "To fear or not to fear – Human resource development professionals’ positioning towards artificial intelligence with a focus on augmentation"
+    ],
+    "container-title": [
+     "Computers and Education: Artificial Intelligence"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       12
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0003-0091-1341",
+      "authenticated-orcid": false,
+      "given": "Josef",
+      "family": "Guggemos",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 10,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.62019/abbdm.v3i1.35",
+    "title": [
+     "Data-driven Artificial Intelligence at the Crossroads: Investigating the Role of Affective Job Insecurity in the relationship between Artificial Intelligence Identity Threat and Employee Well-Being"
+    ],
+    "container-title": [
+     "The Asian Bulletin of Big Data Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       10,
+       10
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0009-0001-2758-6123",
+      "authenticated-orcid": false,
+      "given": "Aqeel",
+      "family": "Gull",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0009-0005-5103-6438",
+      "authenticated-orcid": false,
+      "given": "Shumaila",
+      "family": "Dilawar",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0009-0002-4736-9270",
+      "authenticated-orcid": false,
+      "given": "Falak",
+      "family": "Sher",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 13,
+    "abstract": "<jats:p>We developed a model based on Social Identity Theory, in which the identity threat posed by artificial intelligence (AI) has a negative impact on well-being of workers by increasing their feelings of job insecurity. This model is based on the observation that AI has the potential to displace jobs. The findings are supported by information obtained from a sample of 273 workers drawn from a variety of Pakistani businesses and industries and gathered over a period of time. We used a Confirmatory Factor Analysis to investigate the proposed model, and we used PROCESS MACRO to investigate direct and indirect effects of model's variables. It was ascertained that AI Identity Threat exerts an adverse impact on employees' well-being. Affective job insecurity was identified as a mediating factor in the relationship between AI Identity Threat and employee well-being. The empirical evidence derived from our study supports the assertion that an affective sense of job insecurity operates as a mediator, ameliorating the detrimental effects of AI identity threats on employee well-being. Our study's findings necessitate a discussion of both its conclusions and potential avenues for future research.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.17323/2312-5942-2024-14-3-56-75",
+    "title": [
+     "Employees’ mental fatigue: the role of perception of job insecurity"
+    ],
+    "container-title": [
+     "Organizational psychology"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       3,
+       25
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-8962-7824",
+      "authenticated-orcid": false,
+      "given": "Х. Тезкан",
+      "family": "Уйсал",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-2051-0417",
+      "authenticated-orcid": false,
+      "given": "Ознур Яван",
+      "family": "Темизкан",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>Purpose. The purpose of the study is to examine whether there is a significant relationship between the perception of job insecurity and mental fatigue in employees, and to determine the level and in which perceived job insecurity affects mental fatigue if there is a significant relationship. Study design. Data was obtained from employees in the assembly workshop of a company operating in the private sector by face-to-face survey method. In the study, the purpose among non-probable sampling methods has been used, and data has been received from 104 employees within the same organization.The data required to test the hypotheses suggested within the scope of the research were evaluated using SPSS 20.0 and AMOS 24.0 software. Confirmatory factor analysis, reliability analysis, normality test, correlation analysis and regression analysis were applied for the data obtained from the scales used in the study. Findings. As a result of the analysis, a positive and moderately significant relationship was found between job insecurity and mental fatigue. A positive and low-level significant relationship was determined between quantitative job insecurity and qualitative job insecurity with mental fatigue. In addition, according to the formula obtained as a result of regression analysis, a 1.0-unit increase in quantitative job insecurity was found to result in a 1.009-unit increase in mental fatigue and a 1.0-unit increase in qualitative job insecurity resulted in a 0.791-unit increase in mental fatigue.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.47297/wspchrmwsp2040-800502.20241501",
+    "title": [
+     "Idiosyncratic Deals and Employees' Knowledge Hiding: Mediating Role of Job Insecurity"
+    ],
+    "container-title": [
+     "Journal of Chinese Human Resources Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       3,
+       1
+      ]
+     ]
+    },
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.71364/ijiss.v1i5.12",
+    "title": [
+     "Artificial Intelligence Adoption, Job Insecurity, and Psychological Resilience: Challenges for Employee Adaptation in Future Work Environments"
+    ],
+    "container-title": [
+     "International Journal of Issue Science"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       9,
+       6
+      ]
+     ]
+    },
+    "author": [
+     {
+      "family": "Komang Meydiana Hutama Putri",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "family": "Yoessy Etna Werdini",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 2,
+    "abstract": "<jats:p>The rapid adoption of Artificial Intelligence (AI) in the workplace is reshaping industries, presenting both opportunities and challenges for employees. This literature review examines the interplay between AI adoption, job insecurity, and psychological resilience, and their implications for employee adaptation to future work environments. By synthesizing findings from 10 key articles, this study highlights how AI-induced job displacement, particularly in routine and low-skilled tasks, leads to heightened job insecurity, contributing to stress, anxiety, and reduced job satisfaction. However, the review also identifies psychological resilience as a critical factor that can mitigate the negative effects of job insecurity. Resilient employees are better equipped to cope with the uncertainties brought on by technological disruptions, enabling them to maintain motivation and adapt to new job roles. The review underscores the importance of fostering resilience through organizational support, such as upskilling initiatives and psychological well-being programs. Furthermore, the study discusses the need for a balanced approach that combines technological skills development with emotional support to ensure a sustainable and adaptable workforce. This research emphasizes the essential role of resilience in navigating the challenges of AI integration and highlights the need for future research to explore effective strategies for enhancing employee resilience in AI-driven environments.</jats:p>",
+    "type": "journal-article"
+   }
+  ],
+  "items-per-page": 25,
+  "query": {
+   "start-index": 0,
+   "search-terms": null
+  }
+ }
+}

@@ -1,0 +1,1107 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message-version": "1.0.0",
+ "message": {
+  "facets": {},
+  "total-results": 1660932,
+  "items": [
+   {
+    "DOI": "10.21275/es24131185821",
+    "title": [
+     "Revolutionizing Human Resource Management through Artificial Intelligence"
+    ],
+    "container-title": [
+     "International Journal of Science and Research (IJSR)"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       2,
+       5
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "P",
+      "family": "Deepa",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.23977/jaip.2024.070204",
+    "title": [
+     "The Application Research of Artificial Intelligence in Human Resource Management"
+    ],
+    "container-title": [
+     "Journal of Artificial Intelligence Practice"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024
+      ]
+     ]
+    },
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.55819/mrij.2026.21.1.67",
+    "title": [
+     "Artificial Intelligence in 360-Degree Feedback Appraisal: Transformation in Performance Management of Human Resource Management"
+    ],
+    "container-title": [
+     "KINFORMS"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       6,
+       30
+      ]
+     ]
+    },
+    "author": [
+     {
+      "name": "KINFORMS",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Sheeba Asirvatham",
+      "family": "Sheeba Asirvatham",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Nazarina Jamil",
+      "family": "Nazarina Jamil",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p/>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.23977/jhrd.2026.080105",
+    "title": [
+     "Applications, Opportunities, and Challenges of Artificial Intelligence in Human Resource Management"
+    ],
+    "container-title": [
+     "Journal of Human Resource Development"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026
+      ]
+     ]
+    },
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1002/hrm.70071",
+    "title": [
+     "Equity by Design: A Positive Organizational Scholarship Approach to Human Resource‐Artificial Intelligence Systems Design"
+    ],
+    "container-title": [
+     "Human Resource Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       3,
+       26
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0003-1112-6381",
+      "authenticated-orcid": false,
+      "given": "Tiffany M.",
+      "family": "Trzebiatowski",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Department of Management Colorado State University  Fort Collins Colorado USA"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-2168-1250",
+      "authenticated-orcid": false,
+      "given": "Eileen Yeirim",
+      "family": "Suh",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "College of Business Hankuk University of Foreign Studies  Seoul South Korea"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0001-8720-7933",
+      "authenticated-orcid": false,
+      "given": "LaStarr",
+      "family": "Hollie",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Division of Business and Economics Morehouse College  Atlanta Georgia USA"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>In today's polarized sociopolitical climate, diversity, equity, and inclusion (DEI) efforts increasingly face backlash, with equity in particular becoming marginalized in both scholarly and practitioner discourse despite its central importance for ensuring fair allocation of opportunities and resources across the employee lifecycle. These concerns are magnified as human resource (HR) decisions become increasingly mediated by artificial intelligence (AI), which shifts the locus of equity from individual judgment to systems design. In this paper, we introduce the concept of HR‐AI systems design, defined as the intentional planning and configuration of AI tools that support core HR functions in ways that reflect and embed focal organizational values. More specifically, we focus on equitable HR‐AI systems design, which concerns the design of AI‐mediated HR systems in which equity considerations are embedded in their underlying logics, evaluative criteria, and decision processes. Drawing on positive organizational scholarship (POS), we develop a values‐based framework for equitable HR‐AI systems design grounded in three core elements: a strengths‐based orientation, justice as a virtuous value, and high‐quality connections as a relational principle. These POS‐informed design elements can redirect dominant merit‐based, optimization‐based, and homophily‐based biasing logics embedded in existing HR‐AI systems toward more equitable outcomes. This paper contributes to DEI scholarship by theorizing equity as a designable systems feature, advances research on AI in HR by identifying equity‐oriented design logics, and extends POS scholarship to digitally mediated organizational contexts.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.4102/sajhrm.v24i0.3382",
+    "title": [
+     "Impostor phenomenon in human resource management within the era of artificial intelligence"
+    ],
+    "container-title": [
+     "SA Journal of Human Resource Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       7,
+       3
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-5943-3826",
+      "authenticated-orcid": false,
+      "given": "Faraaz",
+      "family": "Omar",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "id": [
+         {
+          "id": "https://ror.org/056e9h402",
+          "id-type": "ROR",
+          "asserted-by": "publisher"
+         }
+        ],
+        "name": "Cape Peninsula University of Technology"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0001-6980-5526",
+      "authenticated-orcid": false,
+      "given": "Tendency",
+      "family": "Beretu",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "id": [
+         {
+          "id": "https://ror.org/056e9h402",
+          "id-type": "ROR",
+          "asserted-by": "publisher"
+         }
+        ],
+        "name": "Cape Peninsula University of Technology"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>Orientation: The global adoption of artificial intelligence (AI) is transforming organisations, including in South Africa, where human resource management (HRM) professionals increasingly use AI-enabled systems. While AI offers efficiency, it creates psychological challenges, notably the impostor phenomenon (IP), where professionals doubt their competence and credit success to external factors like AI.\nResearch purpose: This study explored how AI adoption is perceived by HRM practitioners to relate to experiences of the IP and examined the implications of IP for practitioners’ perceived professional confidence in AI-driven contexts.\nMotivation for the study: Despite growing research on AI-in-HRM, its psychological impact remains understudied. Addressing this gap is vital to ensure AI adoption enhances performance without undermining professional confidence.\nResearch approach/design and method: A qualitative design was employed. Semi-structured online interviews were conducted with HR managers in South Africa (n = 15). Data were transcribed verbatim and analysed using thematic analysis to generate key themes.\nMain findings: Participant accounts suggest that AI adoption heightened feelings of self-doubt among HRM professionals, with many attributing workplace achievements to AI systems, luck or external support. Participants described IP as eroding their confidence, reducing ownership of achievements and affecting work engagement.\nPractical/managerial implications: HR leaders should embed AI training within human resource development (HRD) programmes, implement performance appraisal systems that recognise both human and AI contributions, and design interventions to strengthen self-efficacy.\nContribution/value-add: This study offers interpretive insights into how IP is experienced in AI-driven contexts and offers actionable insights for fostering resilience and adaptability among HRM professionals in South Africa.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1108/hrmid-11-2023-0223",
+    "title": [
+     "Using artificial intelligence in human resource management"
+    ],
+    "container-title": [
+     "Human Resource Management International Digest"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       11,
+       30
+      ]
+     ]
+    },
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:sec>\n<jats:title content-type=\"abstract-subheading\">Purpose</jats:title>\n<jats:p>This paper aims to review the latest management developments across the globe and pinpoint practical implications from cutting-edge research and case studies.</jats:p>\n</jats:sec>\n<jats:sec>\n<jats:title content-type=\"abstract-subheading\">Design/methodology/approach</jats:title>\n<jats:p>This briefing is prepared by an independent writer who adds their own impartial comments and places the articles in context.</jats:p>\n</jats:sec>\n<jats:sec>\n<jats:title content-type=\"abstract-subheading\">Findings</jats:title>\n<jats:p>Firms can enhance their human resource management (HRM) capabilities through the adoption of relevant artificial intelligence (AI) applications. However, they must also address different issues concerning potential job design, data volume, transparency and performance ambiguities in order to gain positive outcomes.</jats:p>\n</jats:sec>\n<jats:sec>\n<jats:title content-type=\"abstract-subheading\">Originality/value</jats:title>\n<jats:p>The briefing saves busy executives and researchers hours of reading time by selecting only the very best, most pertinent information and presenting it in a condensed and easy-to-digest format.</jats:p>\n</jats:sec>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1177/09728686261460509",
+    "title": [
+     "Role of Artificial Intelligence in Human Resource Management"
+    ],
+    "container-title": [
+     "Review of Professional Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       6,
+       24
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Radha R.",
+      "family": "Sharma",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.22381/pihrm11120233",
+    "title": [
+     "Artificial Intelligence Human Resource Management Algorithms for Employee Recruitment, Engagement, and Retention"
+    ],
+    "container-title": [
+     "Psychosociological Issues in Human Resource Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023
+      ]
+     ]
+    },
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.36108/ljerhrm/5202.50.0211",
+    "title": [
+     "Linking Artificial Intelligence Technologies to Human Resource Performance: A Review"
+    ],
+    "container-title": [
+     "LASU Journal of Employment Relations and Human Resource Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       12,
+       10
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Abiola Waliyu",
+      "family": "AIYEOLA",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "The Administrative Staff College of Nigeria (ASCON)"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>This paper explores the growing role of Artificial Intelligence (AI) technologies in enhancing human resource performance within contemporary organisations, with a particular focus on Nigeria. Using a qualitative approach based on secondary data from scholarly publications, industry reports, and digital knowledge databases, the study examines the evolution of AI technologies and their application in recruitment, selection, performance evaluation, and employee development. Findings indicate that AI technologies have significantly reshaped organisational operations, enabling data-driven decision-making and improved efficiency. AI technologies such as machine learning, cloud computing, predictive analytics, and robotic process automation were integrated into Nigeria Human Resource Management (HRM) practices. Despite the potential benefits, the study identifies major challenges hindering effective AI technologies adoption in Nigeria, including weak digital infrastructure, high implementation costs, limited technical competence among HR professionals, poor data governance, employee resistance, ethical concerns, and inadequate regulatory frameworks. The paper concludes that AI technologies can substantially transform organisational productivity and HRM practice if implemented strategically and ethically. It recommends investment in digital infrastructure, capacity building, regulatory strengthening, and the development of locally adaptable AI solutions to support sustainable organisational growth in Nigeria.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.52783/eel.v15i4.3775",
+    "title": [
+     "Artificial Intelligence and Smart Workforce Development: A Transformative Approach to Human Resource Management"
+    ],
+    "container-title": [
+     "European Economic Letters"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025
+      ]
+     ]
+    },
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.52340/bal/2024.02.10",
+    "title": [
+     "Artificial Intelligence (AI) in Human Resource Management (HRM) processes"
+    ],
+    "container-title": [
+     "Business and Legislation"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       12,
+       27
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Keso",
+      "family": "Sumbadze",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Nino",
+      "family": "Tavberidze",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1016/j.hrmr.2022.100923",
+    "title": [
+     "Artificial intelligence and people management: A critical assessment through the ethical lens"
+    ],
+    "container-title": [
+     "Human Resource Management Review"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       3
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Arup",
+      "family": "Varma",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Cedric",
+      "family": "Dawkins",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Kaushik",
+      "family": "Chaudhuri",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 114,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.22381/pihrm11220234",
+    "title": [
+     "Artificial Intelligence-assisted Human Resource Management Algorithms for Employee Motivation, Efficiency, and Productivity"
+    ],
+    "container-title": [
+     "Psychosociological Issues in Human Resource Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023
+      ]
+     ]
+    },
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.55248/gengpi.5.0124.0107",
+    "title": [
+     "Artificial Intelligence and Machine Learning in Human Resource Management: Prospect and Future Trends"
+    ],
+    "container-title": [
+     "International Journal of Research Publication and Reviews"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       1,
+       2
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Sunil",
+      "family": "Basnet",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 33,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1080/09585192.2024.2440065",
+    "title": [
+     "Integrating artificial intelligence and human resource management: a review and future research agenda"
+    ],
+    "container-title": [
+     "The International Journal of Human Resource Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       12,
+       27
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Qinyan",
+      "family": "Gong",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "School of Management, RMIT University, Melbourne, Australia"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0003-2737-4136",
+      "authenticated-orcid": false,
+      "given": "Di",
+      "family": "Fan",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Management, RMIT University, Melbourne, Australia"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Timothy",
+      "family": "Bartram",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Management, RMIT University, Melbourne, Australia"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 72,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1016/j.hrmr.2022.100925",
+    "title": [
+     "An artificial intelligence algorithmic approach to ethical decision-making in human resource management processes"
+    ],
+    "container-title": [
+     "Human Resource Management Review"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       3
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Waymond",
+      "family": "Rodgers",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "James M.",
+      "family": "Murray",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Abraham",
+      "family": "Stefanidis",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "William Y.",
+      "family": "Degbey",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Shlomo Y.",
+      "family": "Tarba",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 328,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.52783/eel.v15i3.3766",
+    "title": [
+     "Integration of Artificial Intelligence in Human Resource Management: A Roadmap for Sustainable Organizational Growth"
+    ],
+    "container-title": [
+     "European Economic Letters"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025
+      ]
+     ]
+    },
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1016/j.hrmr.2022.100940",
+    "title": [
+     "Artificial intelligence (AI)-assisted HRM: Towards an extended strategic framework"
+    ],
+    "container-title": [
+     "Human Resource Management Review"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       3
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Ashish",
+      "family": "Malik",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Pawan",
+      "family": "Budhwar",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Bahar Ali",
+      "family": "Kazmi",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 181,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1111/1748-8583.12531",
+    "title": [
+     "Correction to “Human resource management in the age of generative artificial intelligence: Perspectives and research directions on ChatGPT”"
+    ],
+    "container-title": [
+     "Human Resource Management Journal"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       9
+      ]
+     ]
+    },
+    "is-referenced-by-count": 7,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.7176/ejbm/17-4-14",
+    "title": [
+     "The Role of Artificial Intelligence in supporting Human Resource Management Practices: Conceptual Framework"
+    ],
+    "container-title": [
+     "European Journal of Business and Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       5
+      ]
+     ]
+    },
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.4102/sajhrm.v23i0.2960",
+    "title": [
+     "The impact of artificial intelligence on human resource management practices: An investigation"
+    ],
+    "container-title": [
+     "SA Journal of Human Resource Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       6,
+       17
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0001-6632-4663",
+      "authenticated-orcid": false,
+      "given": "Thandukwazi R.",
+      "family": "Ncube",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "id": [
+         {
+          "id": "https://ror.org/0303y7a51",
+          "id-type": "ROR",
+          "asserted-by": "publisher"
+         }
+        ],
+        "name": "Durban University of Technology"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0001-8672-4322",
+      "authenticated-orcid": false,
+      "given": "Kusangiphila K.",
+      "family": "Sishi",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "id": [
+         {
+          "id": "https://ror.org/0303y7a51",
+          "id-type": "ROR",
+          "asserted-by": "publisher"
+         }
+        ],
+        "name": "Durban University of Technology"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-2976-8633",
+      "authenticated-orcid": false,
+      "given": "Jane P.",
+      "family": "Skinner",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "id": [
+         {
+          "id": "https://ror.org/056e9h402",
+          "id-type": "ROR",
+          "asserted-by": "publisher"
+         }
+        ],
+        "name": "Cape Peninsula University of Technology"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 8,
+    "abstract": "<jats:p>Orientation: This study investigates the transformative impact of artificial intelligence (AI) technologies on traditional human resource management (HRM) practices across key industries.\n\nResearch purpose: This study aims to systematically review and analyse the literature on AI’s current integration into HRM practices across industries, focusing on studies published from 2020 to 2024.\n\nMotivation for the study: The motivation for this study was to identify both key benefits and possible limitations in the current employment of AI in HRM practices with a view to making recommendations for the optimal deployment of AI tools.\n\nResearch approach/design and method: This study utilises the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) approach. Data sources include Google Scholar, Scopus and ScienceDirect.\n\nMain findings: Findings reveal that while AI tools may significantly increase the efficiency and effectiveness of the hiring process, potentially enhance the accuracy and objectivity of performance appraisals and enable the implementation of more personalised training and development initiatives, several ethical implications and challenges remain. These include potential biases within AI algorithms, concerns about data privacy and over-surveillance of employees, along with exacerbating the ‘digital divide’ between those with access to technology and those without. The research also notes the limitations of concrete, quantifiable, metrics available in the literature thus far, for the extent of the benefits claimed.\n\nPractical/managerial implications: The study offers recommendations for organisations to maximise the benefits of AI while addressing its associated challenges.\n\nContribution/value-add: The need for robust regulatory frameworks and best practices to ensure AI’s ethical deployment is clearly indicated. The findings aim to guide HR practitioners, policymakers and researchers in developing effective strategies for integrating AI into HRM practices ethically and responsibly while noting the current uncertainties regarding its concrete benefits and dangers.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1002/hrm.70025",
+    "title": [
+     "Can Legal and Professional Personnel Selection Principles be Met With Machine Learning (Artificial Intelligence)?"
+    ],
+    "container-title": [
+     "Human Resource Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       9,
+       19
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0001-7066-2788",
+      "authenticated-orcid": false,
+      "given": "Michael A.",
+      "family": "Campion",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Daniels School of Business Purdue University  West Lafayette Indiana USA"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 2,
+    "abstract": "<jats:title>ABSTRACT</jats:title>\n                  <jats:p>The purpose of this article is primarily to evaluate whether machine learning (a form of artificial intelligence) can meet scientific, professional, and legal principles of personnel selection based on the rapidly accumulating research literature in Human Resource Management (HRM). It does so by addressing a series of questions in terms of what is known in the current research literature on these principles and related topics and by proposing a research agenda for what else needs to be studied. The review shows that there is enough current scientific evidence on the value of ML to support its use. ML tools are able to meet the basic principles of personnel selection and better meet many other very important principles. In addition, ML for personnel selection decisions is not a “black box” and can be understood and explained. It does not increase the legal risks from hiring, although it may require some additional steps in a few jurisdictions. There are uses of ML in selection that most organizations should be considering. Customized procedures will require good data, but generic vendor products may also serve some needs. Additional expertise may be required of HRM professionals, but not necessarily at a high level that would require new staffing or consultant expense. The availability of large language models (LLMs) may render unproctored remote assessments vulnerable to cheating, and all narrative candidate information provided in the future susceptible to AI‐generated text, resulting in more questions than research answers at this stage. The article ends with practical and theoretical implications for the use of ML in selection.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1016/j.hrmr.2022.100899",
+    "title": [
+     "Unlocking the value of artificial intelligence in human resource management through AI capability framework"
+    ],
+    "container-title": [
+     "Human Resource Management Review"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       3
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Soumyadeb",
+      "family": "Chowdhury",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Prasanta",
+      "family": "Dey",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Sian",
+      "family": "Joel-Edgar",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Sudeshna",
+      "family": "Bhattacharya",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Oscar",
+      "family": "Rodriguez-Espindola",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Amelie",
+      "family": "Abadie",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Linh",
+      "family": "Truong",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 699,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.22381/pihrm11120236",
+    "title": [
+     "Artificial Intelligence-enabled Human Resource Management Processes and Practices for Employee Engagement, Performance, and Productivity"
+    ],
+    "container-title": [
+     "Psychosociological Issues in Human Resource Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023
+      ]
+     ]
+    },
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   }
+  ],
+  "items-per-page": 25,
+  "query": {
+   "start-index": 0,
+   "search-terms": null
+  }
+ }
+}

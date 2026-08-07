@@ -1,0 +1,1439 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message-version": "1.0.0",
+ "message": {
+  "facets": {},
+  "total-results": 382730,
+  "items": [
+   {
+    "DOI": "10.7206/cid.3071-7973.9",
+    "title": [
+     "No Algorithm Aversion in Improving AI"
+    ],
+    "container-title": [
+     "Collective and Individual Decisions"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       12,
+       15
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Wojciech",
+      "family": "Milczarski",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Anna",
+      "family": "Borkowska",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Emilia",
+      "family": "Biesiada",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Laura",
+      "family": "Russak",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Michał",
+      "family": "Białek",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.3390/math13213528",
+    "title": [
+     "Time-Series Recommendation Quality, Algorithm Aversion, and Data-Driven Decisions: A Temporal Human–AI Interaction Perspective"
+    ],
+    "container-title": [
+     "Mathematics"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       11,
+       4
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0003-2702-7046",
+      "authenticated-orcid": false,
+      "given": "Shan",
+      "family": "Jiang",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "School of Economics, Wuhan University of Technology, Wuhan 430070, China"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Tianyu",
+      "family": "Chen",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Computer Science and Engineering, Beihang University, Beijing 100191, China"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Yufei",
+      "family": "Tan",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Economics, Wuhan University of Technology, Wuhan 430070, China"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Shiqi",
+      "family": "Gao",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Computer Science and Engineering, Beihang University, Beijing 100191, China"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Lanhao",
+      "family": "Li",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Computer Science and Engineering, Beihang University, Beijing 100191, China"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>New AI technologies have empowered e-commerce personalized recommendation systems, many of which now leverage time-series forecasting to capture dynamic user preferences. However, buyers’ algorithm aversion hinders these systems from realizing their full potential in enabling data-driven decisions. Current research focuses heavily on artifact design and algorithm optimization to reduce aversion, with insufficient attention to the temporal dimensions of human–AI interaction (HAII). To address this gap, this study explores how recommendation accuracy, novelty, and diversity—key attributes in time-series recommendation contexts—influence buyers’ algorithm aversion from a temporal HAII perspective. Data from 205 online survey responses were analyzed using partial least squares structural equation modeling (PLS-SEM). Results reveal that accuracy (encompassing sequential prediction consistency), novelty (balanced with temporal relevance), and diversity (covering long-term preferences) negatively impact algorithm aversion, with perceived usefulness as a mediator. Reduced aversion further facilitates data-driven purchasing decisions. This study enriches the algorithm aversion literature by emphasizing temporal HAII in time-series recommendation scenarios, bridging human factors research with data-driven decision-making in e-commerce.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/s11846-024-00748-y",
+    "title": [
+     "Consumer responses to human-AI collaboration at organizational frontlines: strategies to escape algorithm aversion in content creation"
+    ],
+    "container-title": [
+     "Review of Managerial Science"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       4,
+       4
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-1083-0388",
+      "authenticated-orcid": false,
+      "given": "Martin",
+      "family": "Haupt",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Jan",
+      "family": "Freidank",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Alexander",
+      "family": "Haas",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 47,
+    "abstract": "<jats:title>Abstract</jats:title>\n          <jats:p>Although Artificial Intelligence can offer significant business benefits, many consumers have negative perceptions of AI, leading to negative reactions when companies act ethically and disclose its use. Based on the pervasive example of content creation (e.g., via tools like ChatGPT), this research examines the potential for human-AI collaboration to preserve consumers' message credibility judgments and attitudes towards the company. The study compares two distinct forms of human-AI collaboration, namely AI-supported human authorship and human-controlled AI authorship, with traditional human authorship or full automation. Building on the compensatory control theory and the algorithm aversion concept, the study evaluates whether disclosing a high human input share (without explicit control) or human control over AI (with lower human input share) can mitigate negative consumer reactions. Moreover, this paper investigates the moderating role of consumers’ perceived morality of companies’ AI use. Results from two experiments in different contexts reveal that human-AI collaboration can alleviate negative consumer responses, but only when the collaboration indicates human control over AI. Furthermore, the effects of content authorship depend on consumers' moral acceptance of a company's AI use. AI authorship forms without human control lead to more negative consumer responses in case of low perceived morality (and no effects in case of high morality), whereas messages from AI with human control were not perceived differently to human authorship, irrespective of the morality level. These findings provide guidance for managers on how to effectively integrate human-AI collaboration into consumer-facing applications and advises to take consumers' ethical concerns into account.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.4992/pacjpa.89.0_459",
+    "title": [
+     "Algorithm Aversion in Social Context: Group-Based Human Decisions and the Role of Trust"
+    ],
+    "container-title": [
+     "The Proceedings of the Annual Convention of the Japanese Psychological Association"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Yoko",
+      "family": "Sugitani",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Sophia University"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1016/j.accinf.2023.100664",
+    "title": [
+     "Algorithm aversion, emotions, and investor reaction: Does disclosing the use of AI influence investment decisions?"
+    ],
+    "container-title": [
+     "International Journal of Accounting Information Systems"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       3
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Tom",
+      "family": "Downen",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Sarah",
+      "family": "Kim",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0001-5507-2819",
+      "authenticated-orcid": false,
+      "given": "Lorraine",
+      "family": "Lee",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 25,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/s00146-024-02066-z",
+    "title": [
+     "The end of algorithm aversion"
+    ],
+    "container-title": [
+     "AI &amp; SOCIETY"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       9,
+       10
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0001-6112-0098",
+      "authenticated-orcid": false,
+      "given": "Alvaro",
+      "family": "Chacon",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 4,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1108/jkm-06-2025-0870",
+    "title": [
+     "Dancing with the algorithm: a framework to navigate knowledge and autonomy in AI-assisted managerial decisions"
+    ],
+    "container-title": [
+     "Journal of Knowledge Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       12,
+       26
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Matteo",
+      "family": "Cristofaro",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "University of Rome Tor Vergata Department of Management and Law, , Rome,",
+        "place": [
+         "Italy"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Alexis J.",
+      "family": "Bañón-Gomis",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Universitat Politècnica de València Department of Management, , Valencia,",
+        "place": [
+         "Spain"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 8,
+    "abstract": "<jats:sec>\n                    <jats:title>Purpose</jats:title>\n                    <jats:p>While artificial intelligence (AI) systems (assistive, human-in-the-loop decision support systems) increasingly participate in complex organizational judgments, their integration into knowledge processes raises fundamental challenges for autonomy, trust, and epistemic agency. This study aims to develop a dynamic, phase-specific framework that explains how autonomy evolves in relation to the data–information–knowledge–wisdom (DIKW) hierarchy and foundational knowledge management concepts during AI-assisted managerial decision-making.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Design/methodology/approach</jats:title>\n                    <jats:p>The study draws on 122 in-depth interviews with senior professionals across diverse sectors, complemented by two expert focus groups. Data were analyzed using the Gioia Methodology to support inductive theory development and generate a grounded conceptual framework.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Findings</jats:title>\n                    <jats:p>The authors develop the Human–AI autonomy loop (HAIL) framework, mapping decision-making to four recursive phases (frame, evaluate, commit, enact) and DIKW layers, each linked to distinct DIKW layers and autonomy configurations. Autonomy is a situated, distributed practice: managers preserve discretion through interpretive buffers, overrides and moral authorship. Trust in AI is recalibrated by phase, especially as decisions move from information to judgment. HAIL shows that autonomy is sustained through reflexive knowledge practices.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Originality/value</jats:title>\n                    <jats:p>This study advances the knowledge management literature by integrating autonomy, trust and epistemic agency into a unified framework of AI-assisted decision-making. It reinterprets the DIKW model not as a linear information hierarchy, but as a socio-technical terrain where knowledge becomes actionable only when embedded in situated judgment and ethical authorship. The HAIL framework offers both theoretical insights and practical guidance for preserving human discretion and organizational wisdom in AI-assisted environments.</jats:p>\n                  </jats:sec>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.21275/sr26705230110",
+    "title": [
+     "Scoring the Score: An Empathy, Trust and Accountability Lens for Auditing AI-Assisted Hiring Decisions"
+    ],
+    "container-title": [
+     "International Journal of Science and Research (IJSR)"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       7,
+       8
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Joshua",
+      "family": "Fernandes",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.32743/unitech.2025.135.6.20431",
+    "title": [
+     "EXPLAINABLE AI METHODS AND THEIR APPLICATIONS IN FINANCIAL AND MANAGERIAL DECISIONS"
+    ],
+    "container-title": [
+     "Universum:Technical sciences"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       6,
+       28
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Andrei",
+      "family": "Chmelev",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.65114/aide.74mb6abq",
+    "title": [
+     "AI-Enabled People Analytics: A Review of Ethics, Skill Gaps, and Trust"
+    ],
+    "container-title": [
+     "AI DECISIONS"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       10
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0009-0003-6566-5476",
+      "authenticated-orcid": false,
+      "given": "Khadija",
+      "family": "Fraz",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-0630-1264",
+      "authenticated-orcid": false,
+      "given": "Asad Masood",
+      "family": "Khattak",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "College of Technological Innovation, Zayed University"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>People analytics (PA) – the data‑driven analysis of workforce data – promises to transform human resource (HR) management with artificial intelligence (AI). Organizations are increasingly using AI‑enabled PA for recruitment, performance management, and employee retention, driven by the potential for greater efficiency and objectivity [1]. Yet alongside this promise, recent literature (2019–2025) highlights critical challenges in three areas: (1) ethical, privacy and regulatory risks; (2) capability and skill gaps in HR teams; and (3) employee trust and acceptance of AI‑derived insights. This paper reviews high‑quality sources to synthesize the state of knowledge in these areas and translates recent findings into a practitioner‑ready framework with concrete actions HR leaders can apply immediately. We identify emerging governance practices to mitigate ethical risks, outline the competencies and upskilling strategies needed to realize PA’s value, and examine factors influencing employees’ trust in AI‑driven HR interventions. The article concludes with a concise checklist that organizations can use to implement AI‑enabled PA responsibly and effectively.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1002/mde.4153",
+    "title": [
+     "Timing and green decisions for competitive manufacturers under demand uncertainty and risk aversion"
+    ],
+    "container-title": [
+     "Managerial and Decision Economics"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       2,
+       23
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0003-3287-3984",
+      "authenticated-orcid": false,
+      "given": "Hongmei",
+      "family": "Li",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "School of Economics and Business Administration Chongqing University  Chongqing China"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-9205-9215",
+      "authenticated-orcid": false,
+      "given": "Yingshuang",
+      "family": "Tan",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Economics and Business Administration Chongqing University  Chongqing China"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 3,
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>Leveraging real options theory, we have constructed a utility‐based model to examine the influence of uncertainty, risk aversion, and competition on the optimal entry timing for green manufacturers and traditional manufacturers, as well as the degree of greenness for follower products. Our analysis reveals that increased uncertainty and risk aversion enhance the value of investment opportunities for manufacturers, thereby raising their investment thresholds. Even though competition reduces the value of market entry for the leader compared to monopoly, its investment thresholds are unaffected by competition. More interestingly, consumer green preferences exhibit a non‐monotonic impact on green enterprise's entry timing.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.37539/2949-1991.2025.28.5.011",
+    "title": [
+     "EXPLAINABILITY AND TRUST IN AI-DRIVEN FINANCIAL DECISIONS"
+    ],
+    "container-title": [
+     "Флагман науки"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       6,
+       10
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "O.O.",
+      "family": "Ogunniyi",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Financial University under the Government of the Russian Federation"
+       },
+       {
+        "name": "Financial University under the Government of the Russian Federation"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>Artificial Intelligence (AI) plays a key role in decision-making in the international financial market. However, its lack of transparency often called the “black box” problem raises concerns. Explainable AI (XAI) addresses this by making AI's logic, processes, and decision factors understandable. This article explores XAI’s role in enhancing transparency, fairness, and trust in finance. It examines its technical aspects, applications, ethical considerations, and future outlook. The goal is to promote responsible and accountable AI-driven innovation in financial institutions.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.2139/ssrn.5363415",
+    "title": [
+     "&lt;p&gt;&lt;b&gt;&lt;i&gt;Algorithm Aversion, Emotions, And Investor Reaction: Does Disclosing the Use of AI Influence Investment Decisions?&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;"
+    ],
+    "container-title": [
+     "SSRN Electronic Journal"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Tom",
+      "family": "Downen",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Sarah",
+      "family": "Kim",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Lorraine",
+      "family": "Lee",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1080/10447318.2026.2651345",
+    "title": [
+     "Beyond Algorithm Aversion: The Role of Power Relationships in Shaping Mutual Trust in Human-AI Team"
+    ],
+    "container-title": [
+     "International Journal of Human–Computer Interaction"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       4,
+       17
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0001-8001-3343",
+      "authenticated-orcid": false,
+      "given": "Yubin",
+      "family": "Xie",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "School of Economics and Management, Beihang University",
+        "place": [
+         "Beijing, China"
+        ]
+       },
+       {
+        "name": "Department of Systems Engineering, City University of Hong Kong",
+        "place": [
+         "Hong Kong, China"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Zuhong",
+      "family": "Liu",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Economics and Management, Beihang University",
+        "place": [
+         "Beijing, China"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Ronggang",
+      "family": "Zhou",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Economics and Management, Beihang University",
+        "place": [
+         "Beijing, China"
+        ]
+       },
+       {
+        "name": "Key Laboratory of Data Intelligence and Management, Beihang University",
+        "place": [
+         "Beijing, China"
+        ]
+       },
+       {
+        "name": "Laboratory for Low-Carbon Intelligent Governance, Beihang University",
+        "place": [
+         "Beijing, China"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-7541-3163",
+      "authenticated-orcid": false,
+      "given": "Alan Hoi Shou",
+      "family": "Chan",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Department of Systems Engineering, City University of Hong Kong",
+        "place": [
+         "Hong Kong, China"
+        ]
+       },
+       {
+        "name": "College of Engineering, City University of Hong Kong (Dongguan)",
+        "place": [
+         "Dong Guan, China"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0009-0002-5009-0692",
+      "authenticated-orcid": false,
+      "given": "Beiping",
+      "family": "Tan",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Beijing Mininglamp Software System Co., Ltd.",
+        "place": [
+         "Beijing, China"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.70937/itej.v2i01.53",
+    "title": [
+     "Explainable AI In E-Commerce: Enhancing Trust And Transparency In AI-Driven Decisions"
+    ],
+    "container-title": [
+     "Innovatech Engineering Journal"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       1,
+       8
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Malay",
+      "family": "Sarkar",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 16,
+    "abstract": "<jats:p>This study explores the transformative role of Explainable Artificial Intelligence (XAI) in e-commerce, focusing on its potential to enhance consumer trust, transparency, and regulatory compliance. Through a systematic review of 42 peer-reviewed articles, this research examines the applications, challenges, and limitations of XAI techniques such as SHAP (Shapley Additive Explanations), LIME (Local Interpretable Model-Agnostic Explanations), and other interpretability frameworks in consumer-facing AI systems. The findings reveal that XAI significantly improves user trust and satisfaction by providing interpretable explanations for AI-driven decisions in areas like recommendation engines, fraud detection, and dynamic pricing. However, critical gaps remain, including the scalability of XAI methods for handling large datasets, their limited capacity to address systemic biases, and the need for personalized, user-centric explanations tailored to diverse audiences. The study also highlights the role of XAI in ensuring compliance with regulations such as GDPR and CCPA, showcasing its dual impact on operational transparency and legal adherence. By identifying these strengths and gaps, this research contributes to a deeper understanding of XAI’s potential and provides valuable insights for its effective integration into e-commerce platforms. These findings underscore the necessity of advancing XAI methodologies to meet the evolving demands of the digital marketplace.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.5465/amproc.2026.11481abstract",
+    "title": [
+     "Gendered Sensemaking in AI-Supported Managerial Decisions"
+    ],
+    "container-title": [
+     "Academy of Management Proceedings"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       7
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Mehdi",
+      "family": "Roopaei",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "University of Wisconsin-Platteville"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Afrooz",
+      "family": "Ketabchi",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Rite-Hite"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.4018/irmj.414355",
+    "title": [
+     "The More You Know, the Less You Trust"
+    ],
+    "container-title": [
+     "Information Resources Management Journal"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       7,
+       6
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0001-7657-9184",
+      "authenticated-orcid": true,
+      "given": "Jungmin",
+      "family": "Lee",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Marquette University, USA"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0001-9203-2277",
+      "authenticated-orcid": true,
+      "given": "Mark",
+      "family": "Keil",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Georgia State University, USA"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-9849-2466",
+      "authenticated-orcid": true,
+      "given": "Jong Seok",
+      "family": "Lee",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "University of Tennessee at Knoxville, USA"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<p>One possible explanation for algorithm aversion is that people's general understanding of algorithms is poor. According to this logic, greater algorithm literacy would be expected to reduce such aversion. This paper argues, however, that algorithm literacy might generate unintended consequences by making the flaws and limitations of algorithms more salient to users. Using a laboratory experiment, this study examines the relationship between algorithm literacy and algorithm aversion in medical decision making. Contrary to what many people might assume, higher algorithm literacy was associated with greater algorithm aversion. The study's findings extend research on algorithm aversion by showing that algorithm literacy may amplify rather than reduce algorithm aversion, calling into question its role as a mitigation strategy.</p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.36348/sjef.2026.v10i04.001",
+    "title": [
+     "Cognitive Biases in Managerial Pricing Decisions: Anchoring, Loss Aversion, and Overconfidence Effects on Pricing Accuracy"
+    ],
+    "container-title": [
+     "Saudi Journal of Economics and Finance"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       4,
+       1
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Savanam Chandra",
+      "family": "Sekhar",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>Managerial pricing decisions are central to organizational profitability but are often compromised by systematic cognitive biases. This study investigates how anchoring, loss aversion, and overconfidence distort managerial pricing judgments and identifies the psychological mechanisms through which these effects occur. The study pursues four objectives: first, to quantify the individual effects of anchoring, loss aversion, and overconfidence on pricing accuracy; second, to examine their joint and interactive influence on pricing distortions; third, to develop and empirically test a bias-corrected managerial pricing framework integrating behavioral factors; and fourth, to generate robust empirical evidence that advances the fragmented behavioral pricing literature and informs debiased pricing practices. Using a between-subjects experimental design, 240 experienced managers were randomly assigned to anchoring, loss-aversion, overconfidence, or control conditions and completed a realistic pricing simulation. Pricing error was measured as deviation from optimal benchmarks, alongside assessments of cognitive distortion and confidence bias. Results show that all three biases significantly increased pricing errors, with anchoring and loss aversion exerting the strongest direct effects. Mediation and structural equation modeling reveal that cognitive distortion is the primary pathway through which bias-inducing conditions translate into pricing errors, while confidence bias plays a secondary but reinforcing role, particularly under overconfidence. When multiple biases co-occur, their effects compound, producing larger deviations from optimal prices. The findings make a theoretical contribution by providing an integrated, pricing-specific account of multiple managerial biases and empirically validating a dual-mediation framework linking bias, cognition, and pricing outcomes. Practically, the results highlight the value of structured decision protocols, calibration training, and decision-support systems as effective interventions for improving pricing accuracy and managerial decision quality.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1177/0272989x261467775",
+    "title": [
+     "AI Aversion: Do People Trust and Accept Artificial Intelligence Risk Calculator Recommendations?"
+    ],
+    "container-title": [
+     "Medical Decision Making"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       7,
+       31
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-4176-984X",
+      "authenticated-orcid": false,
+      "given": "Madhuri",
+      "family": "Ramasubramanian",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Department of Psychological Sciences, Texas Tech University, Lubbock, TX, USA"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-1637-4176",
+      "authenticated-orcid": false,
+      "given": "Brian J.",
+      "family": "Zikmund-Fisher",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Department of Health Behavior and Health Equity, University of Michigan, Ann Arbor, MI, USA"
+       },
+       {
+        "name": "Department of Internal Medicine, University of Michigan, Ann Arbor, MI, USA"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:sec>\n                    <jats:title>Introduction:</jats:title>\n                    <jats:p>Although medical risk calculators are increasingly being used for risk prediction in various contexts, prior research in this area suggests that people may be averse to recommendations from these tools. Moreover, given the rise of artificial intelligence in health care, aversion toward AI may manifest toward risk calculators that use AI/machine learning models. Recent work has suggested that one potential way to combat AI aversion is through explainable AI (XAI), which can make underlying models more transparent.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Methods:</jats:title>\n                    <jats:p>The current study investigated whether these factors would affect public trust, acceptance, and comfort related to recommendations from a risk calculator. Participants were randomized into a 2 (calculator type: statistical vs AI) × 2(model explanation: explained vs not explained) × 2(evaluability: risk reference table vs no table) between-subjects experimental design. They read a hypothetical scenario and received a calculator output with a risk estimate and recommendation before completing measures of trust, comfort, and acceptance.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Results:</jats:title>\n                    <jats:p>Analyses revealed main effects of calculator type and explanation: participants who received the AI-based calculator outputs were less likely to trust and be comfortable with the calculator recommendation. Participants who received an explanation of the underlying model were more likely to trust and accept the calculator recommendation. However, there was no effect of XAI on trust, acceptance, and comfort or any other significant interactions.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Conclusion:</jats:title>\n                    <jats:p>The current study serves as a starting point for research on trust and acceptance of AI-based risk calculators. Our findings support the AI aversion hypothesis and suggest that there needs to be more work to identify how best to explain AI-based calculators to foster trust and comfort more specifically.</jats:p>\n                  </jats:sec>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.29119/1641-3466.2025.239.1",
+    "title": [
+     "Trust and responsibility in AI-driven leadership: accountability for ai decisions"
+    ],
+    "container-title": [
+     "Scientific Papers of Silesian University of Technology Organization and Management Series"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025
+      ]
+     ]
+    },
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.29119/1641-3466.2026.239.1",
+    "title": [
+     "Trust and responsibility in AI-driven leadership: accountability for ai decisions"
+    ],
+    "container-title": [
+     "Scientific Papers of Silesian University of Technology Organization and Management Series"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026
+      ]
+     ]
+    },
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.5465/amproc.2026.274bp",
+    "title": [
+     "Experience With AI Algorithms And Algorithm Aversion In AI-Supported Medical Care "
+    ],
+    "container-title": [
+     "Academy of Management Proceedings"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       7
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Luigi",
+      "family": "Preti",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Bocconi University"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Amelia",
+      "family": "Compagni",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Bocconi University"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Giulia",
+      "family": "Cappellaro",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Bocconi University"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Bart",
+      "family": "Vanneste",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "University College London"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1016/j.agsy.2025.104630",
+    "title": [
+     "Algorithm aversion in agricultural decision-making: Trust dynamics, barriers, and fertiliser-related decision support"
+    ],
+    "container-title": [
+     "Agricultural Systems"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       3
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Jack H.",
+      "family": "Grant",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Dorothee",
+      "family": "Scharpenberg",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Louise",
+      "family": "Manning",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 4,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.3390/admsci15080308",
+    "title": [
+     "Trusting Humans or Bots? Examining Trust Transfer and Algorithm Aversion in China’s E-Government Services"
+    ],
+    "container-title": [
+     "Administrative Sciences"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       8,
+       6
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Yifan",
+      "family": "Song",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Graduate School of Technology Management, Ritsumeikan University, Osaka 567-8570, Japan"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Takashi",
+      "family": "Natori",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Graduate School of Technology Management, Ritsumeikan University, Osaka 567-8570, Japan"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Xintao",
+      "family": "Yu",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Economics and Management, Liaoning University of Technology, Jinzhou 211189, China"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 5,
+    "abstract": "<jats:p>Despite the increasing integration of government chatbots (GCs) into digital public service delivery, their real-world effectiveness remains limited. Drawing on the literature on algorithm aversion, trust-transfer theory, and perceived risk theory, this study investigates how the type of service agent (human vs. GCs) influences citizens’ trust of e-government services (TOE) and e-government service adoption intention (EGA). Furthermore, it explores whether the effect of trust of government (TOG) on TOE differs across agent types, and whether perceived risk (PR) serves as a boundary condition in this trust-transfer process. An online scenario-based experiment was conducted with a sample of 318 Chinese citizens. Data were analyzed using the Mann–Whitney U test and partial least squares structural equation modeling (PLS-SEM). The results reveal that, within the Chinese e-government context, citizens perceive higher risk (PR) and report lower adoption intention (EGA) when interacting with GCs compared to human agents—an indication of algorithm aversion. However, high levels of TOG mitigate this aversion by enhancing TOE. Importantly, PR moderates the strength of this trust-transfer effect, serving as a critical boundary condition.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1057/s41599-025-05116-z",
+    "title": [
+     "AI algorithm transparency, pipelines for trust not prisms: mitigating general negative attitudes and enhancing trust toward AI"
+    ],
+    "container-title": [
+     "Humanities and Social Sciences Communications"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       7,
+       23
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Keonyoung",
+      "family": "Park",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Ho Young",
+      "family": "Yoon",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 35,
+    "type": "journal-article"
+   }
+  ],
+  "items-per-page": 25,
+  "query": {
+   "start-index": 0,
+   "search-terms": null
+  }
+ }
+}

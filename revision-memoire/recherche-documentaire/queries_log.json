@@ -1,0 +1,218 @@
+[
+ {
+  "date": "2026-08-07T13:12:11.014589Z",
+  "base": "Crossref REST API",
+  "axe": "A1",
+  "url": "https://api.crossref.org/works?query.bibliographic=artificial+intelligence+adoption+human+resource+management+acceptance+UTAUT+TAM&filter=from-pub-date%3A2023-01-01%2Cuntil-pub-date%3A2026-08-07%2Ctype%3Ajournal-article&rows=25&select=DOI%2Ctitle%2Ccontainer-title%2Cissued%2Cauthor%2Cis-referenced-by-count%2Cabstract%2Ctype",
+  "n_total": 1568030,
+  "n_exportes": 25,
+  "fichier": "crossref_A1_q1.json"
+ },
+ {
+  "date": "2026-08-07T13:12:13.017218Z",
+  "base": "Crossref REST API",
+  "axe": "A1",
+  "url": "https://api.crossref.org/works?query.bibliographic=artificial+intelligence+adoption+human+resource+management+technology+acceptance&filter=from-pub-date%3A2023-01-01%2Cuntil-pub-date%3A2026-08-07%2Ctype%3Ajournal-article&rows=25&select=DOI%2Ctitle%2Ccontainer-title%2Cissued%2Cauthor%2Cis-referenced-by-count%2Cabstract%2Ctype",
+  "n_total": 2234445,
+  "n_exportes": 25,
+  "fichier": "crossref_A1_q2.json"
+ },
+ {
+  "date": "2026-08-07T13:12:47.789245Z",
+  "base": "Semantic Scholar",
+  "axe": "A1",
+  "url": "https://api.semanticscholar.org/graph/v1/paper/search?query=artificial+intelligence+adoption+human+resource+management+acceptance+UTAUT+TAM&limit=25&fields=title%2Cabstract%2Cyear%2Cvenue%2CexternalIds%2CcitationCount%2CpublicationTypes&year=2023-2026",
+  "n_total": null,
+  "n_exportes": 0,
+  "erreur": "HTTP Error 429: "
+ },
+ {
+  "date": "2026-08-07T13:12:56.381235Z",
+  "base": "Crossref REST API",
+  "axe": "A2",
+  "url": "https://api.crossref.org/works?query.bibliographic=generative+artificial+intelligence+ChatGPT+human+resource+management+recruitment&filter=from-pub-date%3A2023-01-01%2Cuntil-pub-date%3A2026-08-07%2Ctype%3Ajournal-article&rows=25&select=DOI%2Ctitle%2Ccontainer-title%2Cissued%2Cauthor%2Cis-referenced-by-count%2Cabstract%2Ctype",
+  "n_total": 1564245,
+  "n_exportes": 25,
+  "fichier": "crossref_A2_q1.json"
+ },
+ {
+  "date": "2026-08-07T13:12:58.745027Z",
+  "base": "Crossref REST API",
+  "axe": "A2",
+  "url": "https://api.crossref.org/works?query.bibliographic=generative+AI+large+language+models+human+resources+HR&filter=from-pub-date%3A2023-01-01%2Cuntil-pub-date%3A2026-08-07%2Ctype%3Ajournal-article&rows=25&select=DOI%2Ctitle%2Ccontainer-title%2Cissued%2Cauthor%2Cis-referenced-by-count%2Cabstract%2Ctype",
+  "n_total": 1079719,
+  "n_exportes": 25,
+  "fichier": "crossref_A2_q2.json"
+ },
+ {
+  "date": "2026-08-07T13:13:05.078564Z",
+  "base": "Semantic Scholar Graph API",
+  "axe": "A2",
+  "url": "https://api.semanticscholar.org/graph/v1/paper/search?query=generative+artificial+intelligence+ChatGPT+human+resource+management+recruitment&limit=25&fields=title%2Cabstract%2Cyear%2Cvenue%2CexternalIds%2CcitationCount%2CpublicationTypes&year=2023-2026",
+  "n_total": 1312,
+  "n_exportes": 25,
+  "fichier": "s2_A2.json"
+ },
+ {
+  "date": "2026-08-07T13:13:07.719802Z",
+  "base": "Crossref REST API",
+  "axe": "A3",
+  "url": "https://api.crossref.org/works?query.bibliographic=algorithmic+management+people+analytics+HR+analytics+employees&filter=from-pub-date%3A2023-01-01%2Cuntil-pub-date%3A2026-08-07%2Ctype%3Ajournal-article&rows=25&select=DOI%2Ctitle%2Ccontainer-title%2Cissued%2Cauthor%2Cis-referenced-by-count%2Cabstract%2Ctype",
+  "n_total": 1020394,
+  "n_exportes": 25,
+  "fichier": "crossref_A3_q1.json"
+ },
+ {
+  "date": "2026-08-07T13:13:10.030056Z",
+  "base": "Crossref REST API",
+  "axe": "A3",
+  "url": "https://api.crossref.org/works?query.bibliographic=algorithmic+human+resource+management+workers&filter=from-pub-date%3A2023-01-01%2Cuntil-pub-date%3A2026-08-07%2Ctype%3Ajournal-article&rows=25&select=DOI%2Ctitle%2Ccontainer-title%2Cissued%2Cauthor%2Cis-referenced-by-count%2Cabstract%2Ctype",
+  "n_total": 1290148,
+  "n_exportes": 25,
+  "fichier": "crossref_A3_q2.json"
+ },
+ {
+  "date": "2026-08-07T13:13:44.613938Z",
+  "base": "Semantic Scholar",
+  "axe": "A3",
+  "url": "https://api.semanticscholar.org/graph/v1/paper/search?query=algorithmic+management+people+analytics+HR+analytics+employees&limit=25&fields=title%2Cabstract%2Cyear%2Cvenue%2CexternalIds%2CcitationCount%2CpublicationTypes&year=2023-2026",
+  "n_total": null,
+  "n_exportes": 0,
+  "erreur": "HTTP Error 429: "
+ },
+ {
+  "date": "2026-08-07T13:13:46.701186Z",
+  "base": "Crossref REST API",
+  "axe": "A4",
+  "url": "https://api.crossref.org/works?query.bibliographic=trust+transparency+explainable+artificial+intelligence+hiring+recruitment+decisions&filter=from-pub-date%3A2023-01-01%2Cuntil-pub-date%3A2026-08-07%2Ctype%3Ajournal-article&rows=25&select=DOI%2Ctitle%2Ccontainer-title%2Cissued%2Cauthor%2Cis-referenced-by-count%2Cabstract%2Ctype",
+  "n_total": 391153,
+  "n_exportes": 25,
+  "fichier": "crossref_A4_q1.json"
+ },
+ {
+  "date": "2026-08-07T13:13:48.393298Z",
+  "base": "Crossref REST API",
+  "axe": "A4",
+  "url": "https://api.crossref.org/works?query.bibliographic=algorithm+aversion+trust+AI+managerial+decisions&filter=from-pub-date%3A2023-01-01%2Cuntil-pub-date%3A2026-08-07%2Ctype%3Ajournal-article&rows=25&select=DOI%2Ctitle%2Ccontainer-title%2Cissued%2Cauthor%2Cis-referenced-by-count%2Cabstract%2Ctype",
+  "n_total": 382730,
+  "n_exportes": 25,
+  "fichier": "crossref_A4_q2.json"
+ },
+ {
+  "date": "2026-08-07T13:13:54.597158Z",
+  "base": "Semantic Scholar Graph API",
+  "axe": "A4",
+  "url": "https://api.semanticscholar.org/graph/v1/paper/search?query=trust+transparency+explainable+artificial+intelligence+hiring+recruitment+decisions&limit=25&fields=title%2Cabstract%2Cyear%2Cvenue%2CexternalIds%2CcitationCount%2CpublicationTypes&year=2023-2026",
+  "n_total": 1963,
+  "n_exportes": 25,
+  "fichier": "s2_A4.json"
+ },
+ {
+  "date": "2026-08-07T13:13:56.880182Z",
+  "base": "Crossref REST API",
+  "axe": "A5",
+  "url": "https://api.crossref.org/works?query.bibliographic=artificial+intelligence+job+insecurity+fear+replacement+employees&filter=from-pub-date%3A2023-01-01%2Cuntil-pub-date%3A2026-08-07%2Ctype%3Ajournal-article&rows=25&select=DOI%2Ctitle%2Ccontainer-title%2Cissued%2Cauthor%2Cis-referenced-by-count%2Cabstract%2Ctype",
+  "n_total": 404118,
+  "n_exportes": 25,
+  "fichier": "crossref_A5_q1.json"
+ },
+ {
+  "date": "2026-08-07T13:13:58.470808Z",
+  "base": "Crossref REST API",
+  "axe": "A5",
+  "url": "https://api.crossref.org/works?query.bibliographic=AI+anxiety+technological+unemployment+perception+workers&filter=from-pub-date%3A2023-01-01%2Cuntil-pub-date%3A2026-08-07%2Ctype%3Ajournal-article&rows=25&select=DOI%2Ctitle%2Ccontainer-title%2Cissued%2Cauthor%2Cis-referenced-by-count%2Cabstract%2Ctype",
+  "n_total": 408311,
+  "n_exportes": 25,
+  "fichier": "crossref_A5_q2.json"
+ },
+ {
+  "date": "2026-08-07T13:14:19.879449Z",
+  "base": "Semantic Scholar Graph API",
+  "axe": "A5",
+  "url": "https://api.semanticscholar.org/graph/v1/paper/search?query=artificial+intelligence+job+insecurity+fear+replacement+employees&limit=25&fields=title%2Cabstract%2Cyear%2Cvenue%2CexternalIds%2CcitationCount%2CpublicationTypes&year=2023-2026",
+  "n_total": 290,
+  "n_exportes": 25,
+  "fichier": "s2_A5.json"
+ },
+ {
+  "date": "2026-08-07T13:14:21.876395Z",
+  "base": "Crossref REST API",
+  "axe": "A6",
+  "url": "https://api.crossref.org/works?query.bibliographic=artificial+intelligence+human+resource+management+Morocco+North+Africa&filter=from-pub-date%3A2023-01-01%2Cuntil-pub-date%3A2026-08-07%2Ctype%3Ajournal-article&rows=25&select=DOI%2Ctitle%2Ccontainer-title%2Cissued%2Cauthor%2Cis-referenced-by-count%2Cabstract%2Ctype",
+  "n_total": 1660932,
+  "n_exportes": 25,
+  "fichier": "crossref_A6_q1.json"
+ },
+ {
+  "date": "2026-08-07T13:14:23.611775Z",
+  "base": "Crossref REST API",
+  "axe": "A6",
+  "url": "https://api.crossref.org/works?query.bibliographic=digital+HRM+emerging+economies+developing+countries+adoption&filter=from-pub-date%3A2023-01-01%2Cuntil-pub-date%3A2026-08-07%2Ctype%3Ajournal-article&rows=25&select=DOI%2Ctitle%2Ccontainer-title%2Cissued%2Cauthor%2Cis-referenced-by-count%2Cabstract%2Ctype",
+  "n_total": 606786,
+  "n_exportes": 25,
+  "fichier": "crossref_A6_q2.json"
+ },
+ {
+  "date": "2026-08-07T13:14:44.982386Z",
+  "base": "Semantic Scholar Graph API",
+  "axe": "A6",
+  "url": "https://api.semanticscholar.org/graph/v1/paper/search?query=artificial+intelligence+human+resource+management+Morocco+North+Africa&limit=25&fields=title%2Cabstract%2Cyear%2Cvenue%2CexternalIds%2CcitationCount%2CpublicationTypes&year=2023-2026",
+  "n_total": 84,
+  "n_exportes": 25,
+  "fichier": "s2_A6.json"
+ },
+ {
+  "date": "2026-08-07T13:14:47.371257Z",
+  "base": "Crossref REST API",
+  "axe": "A7",
+  "url": "https://api.crossref.org/works?query.bibliographic=algorithmic+bias+fairness+recruitment+hiring+discrimination+artificial+intelligence&filter=from-pub-date%3A2023-01-01%2Cuntil-pub-date%3A2026-08-07%2Ctype%3Ajournal-article&rows=25&select=DOI%2Ctitle%2Ccontainer-title%2Cissued%2Cauthor%2Cis-referenced-by-count%2Cabstract%2Ctype",
+  "n_total": 357188,
+  "n_exportes": 25,
+  "fichier": "crossref_A7_q1.json"
+ },
+ {
+  "date": "2026-08-07T13:14:49.228215Z",
+  "base": "Crossref REST API",
+  "axe": "A7",
+  "url": "https://api.crossref.org/works?query.bibliographic=ethics+AI+personnel+selection+hiring+bias&filter=from-pub-date%3A2023-01-01%2Cuntil-pub-date%3A2026-08-07%2Ctype%3Ajournal-article&rows=25&select=DOI%2Ctitle%2Ccontainer-title%2Cissued%2Cauthor%2Cis-referenced-by-count%2Cabstract%2Ctype",
+  "n_total": 332221,
+  "n_exportes": 25,
+  "fichier": "crossref_A7_q2.json"
+ },
+ {
+  "date": "2026-08-07T13:15:11.490690Z",
+  "base": "Semantic Scholar Graph API",
+  "axe": "A7",
+  "url": "https://api.semanticscholar.org/graph/v1/paper/search?query=algorithmic+bias+fairness+recruitment+hiring+discrimination+artificial+intelligence&limit=25&fields=title%2Cabstract%2Cyear%2Cvenue%2CexternalIds%2CcitationCount%2CpublicationTypes&year=2023-2026",
+  "n_total": 652,
+  "n_exportes": 25,
+  "fichier": "s2_A7.json"
+ },
+ {
+  "date": "2026-08-07T13:16:10.963930Z",
+  "base": "Crossref REST API",
+  "axe": "A4",
+  "url": "https://api.crossref.org/works?query.bibliographic=trust+artificial+intelligence+recruitment+selection+applicants+employees+reactions&filter=from-pub-date%3A2023-01-01%2Cuntil-pub-date%3A2026-08-07%2Ctype%3Ajournal-article&rows=25&select=DOI%2Ctitle%2Ccontainer-title%2Cissued%2Cauthor%2Cis-referenced-by-count%2Cabstract%2Ctype",
+  "n_total": 517519,
+  "n_exportes": 25,
+  "fichier": "crossref_A4_S1.json"
+ },
+ {
+  "date": "2026-08-07T13:16:12.864115Z",
+  "base": "Crossref REST API",
+  "axe": "A6",
+  "url": "https://api.crossref.org/works?query.bibliographic=artificial+intelligence+adoption+Morocco+organizations+technology&filter=from-pub-date%3A2023-01-01%2Cuntil-pub-date%3A2026-08-07%2Ctype%3Ajournal-article&rows=25&select=DOI%2Ctitle%2Ccontainer-title%2Cissued%2Cauthor%2Cis-referenced-by-count%2Cabstract%2Ctype",
+  "n_total": 1105562,
+  "n_exportes": 25,
+  "fichier": "crossref_A6_S2.json"
+ },
+ {
+  "date": "2026-08-07T13:16:14.950701Z",
+  "base": "Crossref REST API",
+  "axe": "A6",
+  "url": "https://api.crossref.org/works?query.bibliographic=human+resource+management+digital+transformation+Maghreb+Morocco+Tunisia&filter=from-pub-date%3A2023-01-01%2Cuntil-pub-date%3A2026-08-07%2Ctype%3Ajournal-article&rows=25&select=DOI%2Ctitle%2Ccontainer-title%2Cissued%2Cauthor%2Cis-referenced-by-count%2Cabstract%2Ctype",
+  "n_total": 1628673,
+  "n_exportes": 25,
+  "fichier": "crossref_A6_S3.json"
+ }
+]

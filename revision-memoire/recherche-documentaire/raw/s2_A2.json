@@ -1,0 +1,902 @@
+{
+ "total": 1312,
+ "offset": 0,
+ "next": 25,
+ "data": [
+  {
+   "paperId": "85ef7786ab0c34d4754596577fb4b2701988f87c",
+   "externalIds": {
+    "DOI": "10.47772/ijriss.2025.9010189",
+    "CorpusId": 276300483
+   },
+   "title": "Harnessing Generative AI in Human Resources: A Strategic Approach to Cost Reduction and Workforce Optimization",
+   "venue": "International journal of research and innovation in social science",
+   "year": 2025,
+   "citationCount": 3,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.47772/ijriss.2025.9010189?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.47772/ijriss.2025.9010189, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2088141",
+     "name": "M. N. Masrek"
+    },
+    {
+     "authorId": "2345073726",
+     "name": "Muhammad Asyraf Wahi Anuar"
+    },
+    {
+     "authorId": "118239281",
+     "name": "Nurul Hijja Mazlan"
+    }
+   ],
+   "abstract": "Generative Artificial Intelligence (GenAI) has emerged as a transformative technology in human resource management, offering significant opportunities for cost reduction and operational efficiency. By automating and optimizing Human Resources (HR) processes such as recruitment, employee training, compensation management, and performance monitoring, GenAI empowers HR teams to focus on strategic initiatives. Tools like ChatGPT, Lumen5, and DeepL enhance efficiency by generating job descriptions, creating personalized training materials, and translating content, while also fostering inclusivity and adaptability in global contexts. Despite its potential, the adoption of GenAI poses challenges, including data privacy concerns, integration with existing systems, ethical considerations, and resistance to change among HR professionals and employees. This article outlines strategic pathways for successfully integrating GenAI into HR functions, emphasizing phased implementation, cross-departmental collaboration, and continuous professional development. It also advocates for promoting an inclusive organizational culture to build trust and acceptance of AI technologies. While this discussion highlights the potential and challenges of GenAI in HR, it underscores the need for empirical research to validate its effectiveness and guide its ethical application. Future studies are essential to establish evidence-based insights that will enable organizations to leverage GenAI for sustainable and responsible HR transformation.\n\n"
+  },
+  {
+   "paperId": "25a77b019fdd6d80b465b4c89ac91c2faeaa2174",
+   "externalIds": {
+    "DOI": "10.21070/jbmp.v11i2.2192",
+    "CorpusId": 281369042
+   },
+   "title": "Bibliometric Mapping Of The Literature On Ai In Workforce Recruitment: Visualization Of Trends And Scientific Collaborations",
+   "venue": "JBMP (Jurnal Bisnis Manajemen dan Perbankan)",
+   "year": 2025,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "https://jbmp.umsida.ac.id/index.php/jbmp/article/download/2192/1906",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.21070/jbmp.v11i2.2192?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.21070/jbmp.v11i2.2192, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "authors": [
+    {
+     "authorId": "2380898621",
+     "name": "Rizky Kurnia Manggala"
+    },
+    {
+     "authorId": "2380898969",
+     "name": "Priyo Yulianto"
+    },
+    {
+     "authorId": "2082244719",
+     "name": "Dhyah Setyorini"
+    }
+   ],
+   "abstract": "This study aims to explore the research landscape of artificial intelligence (AI) in recruitment and selection within human resource management by mapping publication trends, intellectual structures, and emerging themes. Using a bibliometric analysis of 404 Scopus-indexed documents and tools such as Bibliometrix and VOSviewer, the study examines scholarly output, collaboration networks, and thematic clusters from global research. Results show a rapid increase in publications since 2018, with a peak in 2024, driven by key technologies including machine learning, natural language processing, and predictive analytics. Emerging areas such as generative AI (e.g., ChatGPT), blockchain, and virtual reality are gaining traction, while ethical concerns around fairness, transparency, and algorithmic bias are becoming increasingly prominent. The research highlights South Asia, particularly India, as a leading contributor, though the field remains globally diverse. These findings provide a comprehensive overview of the evolving AI in recruitment domain, offering theoretical insights and practical guidance for HR professionals and policymakers. The study underscores the need for multidisciplinary, ethically informed approaches to ensure AI-driven recruitment is both efficient and equitable."
+  },
+  {
+   "paperId": "21c6ccffad2cf969aa3b74570fd50405ad700e90",
+   "externalIds": {
+    "DOI": "10.37745/gjhrm.2013/vol12n51929",
+    "CorpusId": 271588379
+   },
+   "title": "Human Resource Management and Generative Artificial Intelligence (ChatGPT): Nexus, Perspectives and Praxis",
+   "venue": "Global journal of human resource management",
+   "year": 2024,
+   "citationCount": 3,
+   "openAccessPdf": {
+    "url": "https://eajournals.org/gjhrm/wp-content/uploads/sites/34/2024/07/Human-Resource-Management.pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.37745/gjhrm.2013/vol12n51929?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.37745/gjhrm.2013/vol12n51929, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "authors": [
+    {
+     "authorId": "2314041457",
+     "name": "Onyinyechi Ajaero"
+    },
+    {
+     "authorId": "2157280944",
+     "name": "Julius Bolade Anjorin"
+    }
+   ],
+   "abstract": "The workplace is changing, ChatGPT and other AI technologies are leading the way. ChatGPT is a cutting-edge chatbot created by OpenAI that uses natural language processing to respond to user requests with \"human-like\" speech. Businesses all over the world are taking notice of it because of its robust capabilities, which have the possibility of helping automate a multitude of company procedures. The aim of the study is to identify the ChatGPT - Nexus, Perspectives and Praxis and investigate the concept’s applicability to generative AI and HRM. This is to underscore and device remediation strategies with respect to likely difficulties in the broad use of ChatGPT in HRM. To stop unfair behaviors and ensure that employees are treated fairly, ethical issues like algorithmic bias and data privacy must be thoroughly examined. The methodology employed involves the use of qualitative paradigm involving the review of literature such as books, journals, publications, articles, online resources among others. The integrative literature review approach enables the researcher to conduct a critical assessment of AI technology vis-à-vis HRM. The study is anchored by one of the most widely accepted theories in human resource management – The Resource-Based View. The study predicts a significant decline in the likelihood of attaining a long-term competitive advantage through strategic Human Resource Management when considering the effects of widely used ChatGPT. The study's findings indicate that ChatGPT help team members communicate and work together more effectively by simplifying the understanding and tracking of project progress, processing and analyzing large amounts of text-based data, facilitating cross-cultural communication, and giving prompt, accurate answers to frequently asked questions. Hiring and recruiting are two critical HR processes towhich generative AI impacts immediate benefits."
+  },
+  {
+   "paperId": "6ffa080bcc387f4b090c059006e90fa654a1de84",
+   "externalIds": {
+    "DOI": "10.47191/ijmei/v12i3.01",
+    "CorpusId": 286336850
+   },
+   "title": "Role of Generative Artificial Intelligence (ChatGPT) in Human Resource Development: Opportunities, Challenges, and Strategic Implications",
+   "venue": "International Journal of Management and Economics Invention",
+   "year": 2026,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "http://rajournals.in/index.php/ijmei/article/download/1942/1543",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.47191/ijmei/v12i3.01?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.47191/ijmei/v12i3.01, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "authors": [
+    {
+     "authorId": "2242092026",
+     "name": "Ruchi Verma"
+    },
+    {
+     "authorId": "2422438869",
+     "name": "A. Thakur"
+    },
+    {
+     "authorId": "2261249777",
+     "name": "Abhijeet Kumar"
+    },
+    {
+     "authorId": "2422437516",
+     "name": "Salima Barwa"
+    }
+   ],
+   "abstract": "The rapid development of generative artificial intelligence, especially ChatGPT, is bringing noticeable changes to Human Resource Development (HRD) practices. Organizations are increasingly using AI-based tools to improve training programs, employee learning, and performance support systems. This study examines how ChatGPT can assist HR professionals in creating learning content, supporting personalized skill development, and enhancing employee engagement. The research is conceptual in nature and is based on a review of existing academic and industry literature. The findings suggest that ChatGPT improves access to learning resources and reduces the administrative burden of HR teams. However, concerns related to information accuracy, ethical use, data privacy, and over-dependence on technology must be carefully managed. The study highlights the importance of combining AI capabilities with human supervision to ensure responsible and effective implementation. Overall, ChatGPT can strengthen HRD practices when used as a supportive tool rather than a replacement for human expertise."
+  },
+  {
+   "paperId": "9965eccf40eed7cfd7147f0f8aabd115b7ea70f8",
+   "externalIds": {
+    "DOI": "10.1111/1748-8583.12524",
+    "CorpusId": 259839316
+   },
+   "title": "Human resource management in the age of generative artificial intelligence: Perspectives and research directions on ChatGPT",
+   "venue": "Human Resource Management Journal",
+   "year": 2023,
+   "citationCount": 676,
+   "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1748-8583.12524",
+    "status": "HYBRID",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/1748-8583.12524?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/1748-8583.12524, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "101571892",
+     "name": "P. Budhwar"
+    },
+    {
+     "authorId": "40501980",
+     "name": "Soumyadeb Chowdhury"
+    },
+    {
+     "authorId": "2130841627",
+     "name": "Geoffrey Wood"
+    },
+    {
+     "authorId": "5504864",
+     "name": "Herman Aguinis"
+    },
+    {
+     "authorId": "27527218",
+     "name": "Greg J. Bamber"
+    },
+    {
+     "authorId": "2179048709",
+     "name": "J. R. Beltran"
+    },
+    {
+     "authorId": "83367346",
+     "name": "Paul Boselie"
+    },
+    {
+     "authorId": "1749205647",
+     "name": "Fang Lee Cooke"
+    },
+    {
+     "authorId": "2223128683",
+     "name": "Stephanie Decker"
+    },
+    {
+     "authorId": "2440108",
+     "name": "A. Denisi"
+    },
+    {
+     "authorId": "2729569",
+     "name": "P. Dey"
+    },
+    {
+     "authorId": "48951527",
+     "name": "D. Guest"
+    },
+    {
+     "authorId": "1644674709",
+     "name": "Andrew J. Knoblich"
+    },
+    {
+     "authorId": "50522980",
+     "name": "A. Malik"
+    },
+    {
+     "authorId": "3939537",
+     "name": "J. Paauwe"
+    },
+    {
+     "authorId": "3301904",
+     "name": "S. Papagiannidis"
+    },
+    {
+     "authorId": "47480071",
+     "name": "Charmi Patel"
+    },
+    {
+     "authorId": "50367941",
+     "name": "V. Pereira"
+    },
+    {
+     "authorId": "2192095418",
+     "name": "Shuang Ren"
+    },
+    {
+     "authorId": "2071990047",
+     "name": "Steven C. Rogelberg"
+    },
+    {
+     "authorId": "97716121",
+     "name": "Marc N. K. Saunders"
+    },
+    {
+     "authorId": "78606306",
+     "name": "Rosalie L. Tung"
+    },
+    {
+     "authorId": "21636114",
+     "name": "A. Varma"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "56f2e4662cd6bdfb6b1337aa727e01a05ebbb65e",
+   "externalIds": {
+    "DOI": "10.1108/ijchm-01-2025-0159",
+    "CorpusId": 280721747
+   },
+   "title": "Generative artificial intelligence in human resource management: a critical reflection on impacts, resilience and roles",
+   "venue": "International Journal of Contemporary Hospitality Management",
+   "year": 2025,
+   "citationCount": 18,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1108/ijchm-01-2025-0159?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1108/ijchm-01-2025-0159, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "authors": [
+    {
+     "authorId": "2268042836",
+     "name": "R. Garcia"
+    },
+    {
+     "authorId": "3214234",
+     "name": "Linchi Kwok"
+    }
+   ],
+   "abstract": "\n \n This study aims to address three questions: RQ1 – What significant changes has generative artificial intelligence (GenAI) brought to human resource (HR) functions? RQ2 – How can HR professionals sustain a critical role in an organization when GenAI is transforming traditional HR functions? RQ3 – What research questions can be addressed to support organizations and HR professionals in a new GenAI-empowered work environment?\n \n \n \n As a critical reflection of the authors’ corporate HR experience and research expertise, a narrative review of purposefully selective relevant literature, industry white papers and news updates across the six stages of the employee lifecycle was carried out to answer RQ1. A provoking reflection was further synthesized to answer RQ2 and RQ3.\n \n \n \n Three categories of HR duties (those likely and unlikely to be replaced by GenAI and those likely to emerge due to GenAI implications) were synthesized, leading to the advancement of three propositions. Recommendations for HR professionals, organizations and future research were summarized.\n \n \n \n This paper presents a series of specific research questions, inspiring new research ideas that help organizations improve HR work with GenAI-empowered tools while mitigating its negative impacts.\n \n \n \n This paper proposes detailed recommendations to help HR professionals maintain their critical roles within the organization. In addition to hospitality and tourism businesses, for-profit or nonprofit organizations across all sectors can refer to the answers to RQ1 to restructure their HR departments.\n \n \n \n Beyond the HR profession, this work signals a broader societal shift in job functions and structures, urging individuals and organizations to rethink what is needed in the new GenAI-empowered work environments. It also raises awareness of the need for human oversight and responsible AI governance in redesigning future work and organizational structures.\n \n \n \n This paper synthesizes GenAI’s significant impact on various HR functions across the six stages of the employee lifecycle. It offers specific practical recommendations and research ideas to help organizations leverage GenAI’s power in HR operations.\n"
+  },
+  {
+   "paperId": "326b9ad69a7e60e84fbff2b1d2d2c858952b17fd",
+   "externalIds": {
+    "DOI": "10.1111/1467-8551.12824",
+    "CorpusId": 269130037
+   },
+   "title": "Generative Artificial Intelligence in Business: Towards a Strategic Human Resource Management Framework",
+   "venue": "British Journal of Management",
+   "year": 2024,
+   "citationCount": 170,
+   "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1467-8551.12824",
+    "status": "HYBRID",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/1467-8551.12824?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/1467-8551.12824, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2260936969",
+     "name": "Soumyadeb Chowdhury"
+    },
+    {
+     "authorId": "101571892",
+     "name": "P. Budhwar"
+    },
+    {
+     "authorId": "2242817508",
+     "name": "Geoffrey Wood"
+    }
+   ],
+   "abstract": "As businesses and society navigate the potentials of generative artificial intelligence (GAI), the integration of these technologies introduces unique challenges and opportunities for human resources, requiring a re‐evaluation of human resource management (HRM) frameworks. The existing frameworks may often fall short of capturing the novel attributes, complexities and impacts of GAI on workforce dynamics and organizational operations. This paper proposes a strategic HRM framework, underpinned by the theory of institutional entrepreneurship for sustainable organizations, for integrating GAI within HRM practices to boost operational efficiency, foster innovation and secure a competitive advantage through responsible practices and workforce development. Central to this framework is the alignment with existing business objectives, seizing opportunities, strategic resource assessment and orchestration, re‐institutionalization, realignment and embracing a culture of continuous learning and adaptation. This approach provides a detailed roadmap for organizations to navigate successfully the complexities of a GAI‐enhanced business environment. Additionally, this paper significantly contributes to the theoretical discourse by bridging the gap between HRM and GAI adoption, the proposed framework accounting for GAI–human capital symbiosis, setting the stage for future research to empirically test its applicability, explore its implications on HRM practices and understand its broader economic and societal consequences through diverse multi‐disciplinary and multi‐level research methodologies."
+  },
+  {
+   "paperId": "2b8bcea813e938d0cb6e0772c03d6fbe0da94e3b",
+   "externalIds": {
+    "DOI": "10.51244/ijrsi.2026.1303000049",
+    "CorpusId": 286957076
+   },
+   "title": "Artificial Intelligence and Automation in Indian Human Resource Practices: Ethical Recruitment, Generative AI Integration, Predictive Workforce Planning, and AI-Enabled Leadership Succession",
+   "venue": "International journal of research and scientific innovation",
+   "year": 2026,
+   "citationCount": 2,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.51244/ijrsi.2026.1303000049?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.51244/ijrsi.2026.1303000049, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2413522097",
+     "name": "Dr. Amit Bijon Dutta"
+    }
+   ],
+   "abstract": "This paper looks at the growing impact of Artificial Intelligence on human resource management, focusing specifically on the Indian context. Human resource functions, which once cantered on personnel administration and compliance, are now evolving into strategic areas of managing human capital. This change is supported by data analytics, machine learning, and predictive systems. In this shift, AI plays a key role in improving operational efficiency, workforce intelligence, and leadership continuity. The paper examines this change across four main areas: ethical AI in recruitment, generative AI as an operational helper, predictive workforce planning, and AI-supported leadership identification and succession planning.\nThe study suggests that AI in HR should not be seen just as a tool for automation; rather, it signals a major change in how we manage talent, organizational capabilities, and future leadership. In recruitment, AI speeds up screening and improves candidate matching, but it also raises concerns about algorithmic bias and fairness, especially within India's diverse socio-economic landscape. In HR operations, generative AI aids in documentation, policy drafting, training content, and communication processes. This reduces the administrative burden and allows HR professionals to focus on more important strategic tasks. Predictive analytics enhances workforce planning by helping identify attrition risks, skill gaps, and future talent needs early on. Similarly, AI-supported leadership analytics helps systematically identify high-potential employees, although these systems often struggle to capture deeper human traits like ethical judgment, emotional maturity, and crisis leadership.\nThe paper concludes that while India shows relatively strong AI adoption in HR compared to global averages, responsible use is crucial. Transparency, fairness audits, explainability, data protection, and human oversight should be central to AI governance. The future of HR depends not on replacing human judgment but on enhancing it through responsible and strategically targeted technology integration."
+  },
+  {
+   "paperId": "8994044075783c1bff759d7f2aecf062d558ab5e",
+   "externalIds": {
+    "DOI": "10.21825/ewopinpractice.94697",
+    "CorpusId": 278738301
+   },
+   "title": "Promise or peril? Sentiments shaping the adoption of Generative Artificial Intelligence in Human Resource Management",
+   "venue": "EWOP in Practice",
+   "year": 2025,
+   "citationCount": 1,
+   "openAccessPdf": {
+    "url": "https://openjournals.ugent.be/ewopinpractice/article/id/94697/download/pdf/",
+    "status": "HYBRID",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.21825/ewopinpractice.94697?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.21825/ewopinpractice.94697, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2262357541",
+     "name": "Marna van der Merwe"
+    },
+    {
+     "authorId": "2336671645",
+     "name": "Dieter Veldsman"
+    }
+   ],
+   "abstract": "This study examines the perceptions and sentiments of Human Resource (HR) Management professionals regarding the adoption and application of Generative AI (GenAI) technologies. Findings reveal that individual and organizational factors significantly influence HR professionals’ attitudes toward GenAI and their behaviours when utilizing these tools. Exposure to GenAI tools fosters an appreciation for their potential, particularly in automating routine tasks and enabling a shift toward more human-centric, value-added activities such as employee engagement, strategic talent management, and personalized employee experiences. However, skills deficits and organizational barriers, including data security and ethical use concerns, remain significant challenges to sustained adoption. While exposure to GenAI tools builds confidence, a lack of organizational support and opportunities to practice using these tools limits their integration into daily HR practices. The study highlights the critical need for robust governance frameworks, clear guidelines, and hands-on opportunities to build technical competence and confidence in AI utilization. Addressing these systemic issues is essential for enabling HR professionals to fully leverage the transformative potential of GenAI and contribute to more impactful and human-centred HR practices."
+  },
+  {
+   "paperId": "21f3c83662806fb6aa321f98773634a3d01f518a",
+   "externalIds": {
+    "DOI": "10.2139/ssrn.4603230",
+    "CorpusId": 264983421
+   },
+   "title": "Role and Challenges of ChatGPT and Similar Generative Artificial Intelligence in Human Resource Management",
+   "venue": "Social Science Research Network",
+   "year": 2023,
+   "citationCount": 18,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.2139/ssrn.4603230?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.2139/ssrn.4603230, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2260723903",
+     "name": "N. Rane"
+    }
+   ],
+   "abstract": null
+  },
+  {
+   "paperId": "b032b11cfac626b0b4149951e1e8cd9490540cbc",
+   "externalIds": {
+    "DOI": "10.1109/ICFTS62006.2025.11031918",
+    "CorpusId": 279454391
+   },
+   "title": "Analysis of Green Human Resource Management Recruitment Multidisciplinary Approach Artificial Intelligence Systems",
+   "venue": "2025 International Conference on Frontier Technologies and Solutions (ICFTS)",
+   "year": 2025,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICFTS62006.2025.11031918?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICFTS62006.2025.11031918, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference"
+   ],
+   "authors": [
+    {
+     "authorId": "2286797794",
+     "name": "S. Usha"
+    },
+    {
+     "authorId": "2327234227",
+     "name": "L. Manjunath"
+    },
+    {
+     "authorId": "2367610530",
+     "name": "S. Kumaresh"
+    },
+    {
+     "authorId": "2283499157",
+     "name": "P. R. Kumuda"
+    },
+    {
+     "authorId": "2367610947",
+     "name": "M. Yasotha"
+    },
+    {
+     "authorId": "2283499466",
+     "name": "V. Revathi"
+    }
+   ],
+   "abstract": "One of the main socioeconomic problems has been unemployment. Many nations are dealing with issues like open unemployment, in which people actively look for work but are unsuccessful. Diversity in education and employment dynamics in the modern period necessitates the development of numerous creative concepts, instruments, and approaches for resource allocation and talent matching. The demands of both individuals and businesses are not adequately satisfied by the traditional placement process approaches, which frequently rely on manual evaluations. This report outlines the factors that contribute to the increasing demand for placement assessments based on machine learning. It guarantees effective talent matching while cutting expenses and saving time. e. The study illustrates how technology might take the place of traditional employment practices by highlighting the benefits of flexible and remote assessments. The ways that businesses hire new staff have been significantly impacted by the Internet's explosive expansion. Employers used to have a smaller pool of candidates to choose from, but e-recruitment has increased employment chances for individuals from across the world. Even though firms benefit greatly from this new approach to hiring, there are still challenges in locating competent applicants. The use of digital tools to streamline the hiring process is known as recruitment. Businesses have been able to save time and money during the hiring process by communicating with candidates worldwide via the Internet."
+  },
+  {
+   "paperId": "387b5d8ec8dc0a337139e67d2311749a5a6c63e0",
+   "externalIds": {
+    "DOI": "10.1111/1748-8583.12531",
+    "CorpusId": 261479235
+   },
+   "title": "Correction to “Human resource management in the age of generative artificial intelligence: Perspectives and research directions on ChatGPT”",
+   "venue": "Human Resource Management Journal",
+   "year": 2023,
+   "citationCount": 6,
+   "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1748-8583.12531",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1111/1748-8583.12531?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1111/1748-8583.12531, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [],
+   "abstract": null
+  },
+  {
+   "paperId": "144bdc0ceb94cd339aad201eaf73be557e9cf9e9",
+   "externalIds": {
+    "DOI": "10.47772/ijriss.2025.908000437",
+    "CorpusId": 281346027
+   },
+   "title": "Transforming Human Resource Management: The Role of Artificial Intelligence in Recruitment, Performance Management and Learning and Development",
+   "venue": "International journal of research and innovation in social science",
+   "year": 2025,
+   "citationCount": 1,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.47772/ijriss.2025.908000437?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.47772/ijriss.2025.908000437, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2367563045",
+     "name": "Mohamed A. Mohamed"
+    }
+   ],
+   "abstract": "This paper will discuss how Artificial Intelligence (AI) is transforming core HR practices of Human Resource Management (HRM), such as recruitment and selection, performance management, and employee learning and development. As more and more organizations embrace the use of AI tools, the HR processes continue to become more effective, data-based and personalized. The literature adopted by the paper goes ahead to evidence how AI can enhance talent attainment, performance tracking, and appraisal tools and offer custom-made training services. The paper also addresses the practical applications, which are also informed by the recent research findings, to illustrate how AI is aiding the closing of the skill gap, optimizing the productivity of the involved workforce, and aiding the employees in their respective growth. On the definitions of said findings, reasonable recommendations are provided to help HR departments integrate AI in a way that complements human perception and long-term organizational goals."
+  },
+  {
+   "paperId": "a90b682bd46374703f0c1cc1e30e02f76ce12c5c",
+   "externalIds": {
+    "DOI": "10.1109/ICAICCIT68829.2025.11434434",
+    "CorpusId": 286684605
+   },
+   "title": "Artificial Intelligence for Strategic Human Resource Management: A Study on AI-Driven Recruitment in IT Companies of Chennai",
+   "venue": "2025 3rd International Conference on Advances in Computation, Communication and Information Technology (ICAICCIT)",
+   "year": 2025,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICAICCIT68829.2025.11434434?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICAICCIT68829.2025.11434434, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference"
+   ],
+   "authors": [
+    {
+     "authorId": "2238938648",
+     "name": "S. S"
+    },
+    {
+     "authorId": "2424801325",
+     "name": "Subburaj P"
+    }
+   ],
+   "abstract": "Human Resource Management (HRM) systems that incorporate artificial intelligence (AI) can now do the same things that traditional hiring methods do. Artificial intelligence is a terrific tool for the field of information technology because it is growing swiftly and there is a significant demand for skilled personnel, especially in big cities like Chennai. Typical hiring processes might be slow, unfair, and not very good when there are a lot of applications. Many IT companies still have a lot of work to do before they can make their hiring procedures more efficient. This makes it tougher for the companies to keep their employees since they hire the incorrect people. Hiring new workers is one of the most important things to do while managing people in Chennai's IT companies. This study looks at how these organizations have changed the way they hire individuals since they started using AI-powered technologies. Chatbot screeners, resume parsers, and predictive analytics are some of the technologies that belong to this group. The mixedmethods approach includes structured interviews with HR professionals and quantitative comparisons of recruiting key performance indicators (KPIs) before and after AI is used. When you use artificial intelligence (AI) to hire people, it takes 35% less time, the match between candidates and jobs is 25% better, and recruiters are generally happier."
+  },
+  {
+   "paperId": "f0bde02072e7acbbd47725f8fc414a4528f63696",
+   "externalIds": {
+    "DOI": "10.1109/ICDISS68238.2025.11320597",
+    "CorpusId": 284728779
+   },
+   "title": "Artificial Intelligence in Human Resource Management: Transforming Workforce Optimization, Recruitment, and Employee Engagement",
+   "venue": "2025 International Conference on Digital Innovations for Sustainable Solutions (ICDISS)",
+   "year": 2025,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICDISS68238.2025.11320597?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICDISS68238.2025.11320597, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference",
+    "Review"
+   ],
+   "authors": [
+    {
+     "authorId": "96009985",
+     "name": "S. Arora"
+    },
+    {
+     "authorId": "2389537966",
+     "name": "Ruchi Srivastava"
+    },
+    {
+     "authorId": "2110652297",
+     "name": "V. Gupta"
+    }
+   ],
+   "abstract": "Artificial intelligence (AI), which enhances workforce optimization, decision-making, and process automation, is transforming human resource management (HRM). This paper explores how AI can be used in HRM, with a focus on important functions, including hiring, employee engagement, training and development, performance review, and retention. Chatbots, machine learning, natural language processing (NLP), and predictive analytics are examples of AIpowered technologies that increase productivity, reduce biases, and streamline HR operations. Despite the numerous benefits of artificial intelligence, issues such as algorithmic bias, data privacy, transparency, and resistance by employees still prevail. To assess AI's impact on HRM, the research employs a qualitative approach, analysing secondary data from scholarly articles, industry reports, and case studies. Findings indicate that while AI significantly enhances workforce management, ethical use and regulatory oversight are required. The research also considers possible future growth, with an emphasis on growth in AI, generative AI, and people analytics. Companies will achieve a competitive advantage in the evolving HR space if they thoroughly implement AI while maintaining human authority."
+  },
+  {
+   "paperId": "16e03b8b50b761a2a6be5158a0976317655b12dc",
+   "externalIds": {
+    "DOI": "10.21744/ijbem.v8n2.2468",
+    "CorpusId": 285840358
+   },
+   "title": "Human resource management transformation in the digital age: A literature review on the application of artificial intelligence and data analytics in recruitment, training, and employee performance evaluation",
+   "venue": "International Journal of Business, Economics and Management",
+   "year": 2025,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "https://sloap.org/journal/index.php/ijbem/article/download/2468/1214",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.21744/ijbem.v8n2.2468?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.21744/ijbem.v8n2.2468, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "authors": [
+    {
+     "authorId": "2271443978",
+     "name": "N. Nurmala"
+    }
+   ],
+   "abstract": "The transformation of human resource management in the digital era has encouraged the application of Artificial Intelligence (AI) and data analytics as key pillars in the recruitment, training, and performance evaluation processes. Through a systematic literature review, this article analyses how AI and data analytics are changing HR practices from an administrative-subjective approach to a more strategic, objective, and data-driven model. In recruitment, this technology improves selection efficiency, enhances candidate quality, and reduces human bias, despite raising ethical and data privacy issues. In training and development, AI-based systems enable personalised learning, more accurate measurement of training impact, and increased employee engagement and productivity. In performance evaluation, data analytics integration supports a shift towards real-time, transparent, and measurable continuous performance management, but still requires strong AI ethics governance. This article concludes that the success of HR management transformation in the digital era depends on a combination of technological sophistication, human-centred process design, and HR professionals' capacity in data literacy and digital ethics."
+  },
+  {
+   "paperId": "e7edcf39fa44ff22dc8225edcfcde6359101960f",
+   "externalIds": {
+    "DOI": "10.64252/rb2x2888",
+    "CorpusId": 281732143
+   },
+   "title": "Leveraging Artificial Intelligence In Recruitment: Challenges And Opportunities For Human Resource Management",
+   "venue": "International Journal of Environmental Science",
+   "year": 2025,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "https://theaspd.com/index.php/ijes/article/download/10506/7538",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.64252/rb2x2888?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.64252/rb2x2888, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2373230505",
+     "name": "D. Rani K"
+    },
+    {
+     "authorId": "2383361603",
+     "name": "Dr. Ekta Verma"
+    },
+    {
+     "authorId": "2383362570",
+     "name": "Dr Sayanika Deka Sarma"
+    },
+    {
+     "authorId": "2306659951",
+     "name": "D. Madhani"
+    },
+    {
+     "authorId": "2082454105",
+     "name": "Bipasha Sharma"
+    },
+    {
+     "authorId": "2383361830",
+     "name": "D. Shrivastav"
+    }
+   ],
+   "abstract": "Leveraging Artificial Intelligence in Recruitment: Challenges and Opportunities for Human Resource Management Introduction AI is definitely changing how people get jobs in a lot of fields. The first ATS was the beginning of HR tech, but it is still evolving to include a wide range of options. Machine literacy (ML), natural language processing (NLP), and predictive analytics are all examples of tools. AI will help people find jobs by opening up new markets, like smart automation (or IVA, if you want). When it comes to AI, this is very clear. Improve your resume AI Weaving When you hire smartly, you get rid of things that slow down production, make people work harder, and come up with a whole new way to do HRM (Personnel operation). AI helps HR people go through a lot of information, do a lot of work over again, and then guess which applicants are most likely to get the job. Things have changed a little because of AI. People's thoughts, feelings, and the rules they made up were all that mattered."
+  },
+  {
+   "paperId": "fd3b330bd5808d69fbf15a7e08b5f58cc828ba08",
+   "externalIds": {
+    "DOI": "10.66512/jcai.1.2.2025.22",
+    "CorpusId": 287067364
+   },
+   "title": "Artificial Intelligence and Predictive Analytics in Human Resource Management: Redefining Recruitment, Retention, and Performance Evaluation",
+   "venue": "Journal of Cognition and Artificial Intelligence",
+   "year": 2025,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "https://jccair.org/index.php/jcai/article/download/22/7",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.66512/jcai.1.2.2025.22?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.66512/jcai.1.2.2025.22, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2058964342",
+     "name": "Abdul Khaliq"
+    }
+   ],
+   "abstract": "The integration of Artificial Intelligence (AI) and predictive analytics changes the paradigm of Human Resource Management (HRM). The utilization data-driven approaches of AI in HRM make the whole process automated as compare to the traditional HR practices that are heavily relied on the intuition and manual analysis. AI empowers organizations to investigate hefty datasets and on the basis of analysis performed forecast employee behavior, and optimize HR strategies across performance evaluation, retention, and recruitment. AI-driven HR observes significantly improve productivity, reduce biases, and permit strategic workforce planning. However, resistance to technological adoption, ethical issues along with the data privacy concerns, are the major challenges associated with the AI HRM implementation"
+  },
+  {
+   "paperId": "5934fefdee4b3cefd3224085ea07bb8f20157da9",
+   "externalIds": {
+    "DOI": "10.66106/kyyyau.20250302",
+    "CorpusId": 286804415
+   },
+   "title": "The application effect and optimization strategy of artificial intelligence in human resource recruitment and talent evaluation from the perspective of business management (工商管理视域下人工智能在人力资源招聘与人才测评中的应用效果及优化策略)",
+   "venue": "Scientific Research and Application",
+   "year": 2025,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.66106/kyyyau.20250302?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.66106/kyyyau.20250302, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2425713535",
+     "name": "李冉冉 Ranran Li"
+    },
+    {
+     "authorId": "2134496037",
+     "name": "王文杰 Wenjie Wang"
+    }
+   ],
+   "abstract": "Abstract: Driven by the dual transformation of digital economy and modern business management, artificial intelligence technology has deeply penetrated the field of human resource management, becoming the core engine for reconstructing recruitment processes and improving the accuracy of talent assessment. This article is based on the perspective of business management, combined with human resource management theory and the characteristics of artificial intelligence technology. It systematically analyzes the application scenarios and practical effects of artificial intelligence in recruitment channel expansion, resume screening, interview assessment, and talent evaluation. It analyzes the problems of insufficient technological adaptation, data security risks, and lack of humanistic care in current applications, and proposes targeted optimization strategies from four dimensions: technological iteration, process optimization, risk prevention and control, and talent cultivation. It provides theoretical reference and practical path for enterprises to use artificial intelligence to improve the quality and efficiency of human resource management and strengthen core competitiveness."
+  },
+  {
+   "paperId": "681e95d9df8bee32447db41f77ed0acc9a0a5f85",
+   "externalIds": {
+    "DOI": "10.1109/CE2CT64011.2025.10939253",
+    "CorpusId": 277498501
+   },
+   "title": "Artificial Intelligence in Electronic-Human Resource Management: Transforming Recruitment and Employee Engagement",
+   "venue": "2025 First International Conference on Advances in Computer Science, Electrical, Electronics, and Communication Technologies (CE2CT)",
+   "year": 2025,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/CE2CT64011.2025.10939253?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/CE2CT64011.2025.10939253, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference"
+   ],
+   "authors": [
+    {
+     "authorId": "2212330118",
+     "name": "Dinh Cong Tuan"
+    },
+    {
+     "authorId": "2212631917",
+     "name": "Dinh Cong Hoang"
+    }
+   ],
+   "abstract": "The growth of global company activities pushes companies to diversify their activities and encourages human resource management (HRM) to make certain qualified candidates are recruited and staff retained. As a result, businesses have been finding it difficult to assign competent individuals to pertinent positions and offer sufficient training. This research used technological advances to address these issues by employing an electronic-based platform to link the procedures, collect data from candidates employing an electronic-based connection, and match them with relevant work. Initially, the suggested framework demonstrated an integrated approach of Convolutional Neural Network (CNN) and Long Short Term Memory (LSTM) Cloud E-HRM System by identifying unique characteristics and predicting the applicant's capability beneath different categorization activities. Various programs for creating databases and websites, such as those for image editing, were employed in this research. Employing 248 applications' worth of real-time data gathered via a digital database, the mixed approach was run to confirm the overall effectiveness of the created electronic-based system in terms of performance measures. Even though each methodology had identical accuracy, the CNN-LSTM method outperformed conventional approaches with 91 percent sensitivity and 92 percent accuracy. This CNN-LSTM algorithm helps businesses streamline and improve the hiring procedure by autonomously estimating an employment applicant's appropriateness and projecting his or her employment."
+  },
+  {
+   "paperId": "fe7425f72230f98b58568f23ac63a7f50237411d",
+   "externalIds": {
+    "DOI": "10.1177/10525629241294075",
+    "CorpusId": 274143681
+   },
+   "title": "Leveraging Generative Artificial Intelligence (AI) for Human Resource Management: The AI Job Description Assignment",
+   "venue": "Journal of Management Education",
+   "year": 2024,
+   "citationCount": 11,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1177/10525629241294075?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1177/10525629241294075, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "authors": [
+    {
+     "authorId": "13213251",
+     "name": "Dayna O. H. Walker"
+    },
+    {
+     "authorId": "50093222",
+     "name": "Milan D. Larson"
+    }
+   ],
+   "abstract": "The introduction of generative artificial intelligence (AI) technology is rapidly changing the field of human resource management (HRM). Management educators are called to prepare students for the opportunities and challenges this new technology will bring. Thus, our aim is to provide management educators with an assignment to introduce students to the opportunities and limitations of using generative AI for writing job descriptions. The AI Job Description Assignment invites students to leverage generative AI to write a first draft job description and then refine that initial draft using information obtained from a mini-job analysis conducted with real people. The assignment exposes students to a new technology while simultaneously reinforcing the age-old importance of including job incumbents in the process through job analysis interviews or surveys. Students learn both the benefits and limitations of generative AI while re-imagining a traditional HRM method. A how-to guide is provided for instructors along with quantitative and qualitative evidence of effectiveness."
+  },
+  {
+   "paperId": "ce7413efb782ec5f040af4cbdbdbb38d334a4358",
+   "externalIds": {
+    "DOI": "10.51386/25815946/ijsms-v9i2p125",
+    "CorpusId": 288228232
+   },
+   "title": "The Use of Artificial Intelligence in Human Resource Management Recruitment: A Bibliometric Analysis and Systematic Literature Review of Information Systems Industry",
+   "venue": "International journal of science and management studies",
+   "year": 2026,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.51386/25815946/ijsms-v9i2p125?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.51386/25815946/ijsms-v9i2p125, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "authors": [
+    {
+     "authorId": "2296502105",
+     "name": "Fred Konneh Songa Monson"
+    },
+    {
+     "authorId": "2398291637",
+     "name": "Eric Komba Foyoh Mani"
+    },
+    {
+     "authorId": "2422777951",
+     "name": "Michael Nicol Samai"
+    }
+   ],
+   "abstract": "This study explore the use of artificial intelligence (AI) within recruitment in the Information Systems (IS) industry between 2019 and 2025. While research into AI is growing, the available literature remains fragmented. Its lacks a cohesive theoretical foundation to explain how technological, organisational, and human factors interact within the high-stakes technology-driver context of recruitment within the IS industry. The study takes a two-methodological approach, combining a PRISMA- based bibliometric analysis of the Web of Science Core Collection using the R-Bibliometrix package to map the macro level and a PRISMA-based systematic literature review of 31 core articles to synthesise qualitative instances at the micro level. The findings reveal a steady increase in annual scientific production, with significant surge in 2023. Notably, research themes have shifted from purely technical perspectives toward issues of user acceptance, management and ethics. The Chinese Academy of Sciences is a leading contributor while established motor themes like HR and people analytics now sits alongside emerging discussions regarding algorithmic bias and machine learning. Based on these insights, the study presents a conceptual model to synthesise four future AI capabilities in recruitment: improved decision-making and candidate matching, operational efficiency, enhanced fairness, and long-term HRM transformation. However, the research also identifies five critical challenges, including the problem of algorithmic biases, data protection issues, skills gaps, complexities of integration, and the necessity of balancing automation with human judgement. Consequently, the study suggests that policymakers should implement reliable regulation for AI bias and data privacy in AI-mediated labour markets, create multilateral collaboration in AI regulation, invest in institutional capacity to regulate, and create education and training programmes that prepare workers with the skills required in an AI-mediated labour market. This research presents a fresh contribution by combining bibliometric and systematic review through the Technology, Organisation and People (TOP) framework."
+  },
+  {
+   "paperId": "1c6d526a7fce4aaffac8385ef90cb717f5a2805f",
+   "externalIds": {
+    "DOI": "10.36713/epra24247",
+    "CorpusId": 281779768
+   },
+   "title": "THE ROLE OF ARTIFICIAL INTELLIGENCE AND DATA ANALYTICS IN ENHANCING HUMAN RESOURCE (HR) RECRUITMENT MANAGEMENT IN U.S. HOSPITALITY MANAGEMENT",
+   "venue": "EPRA International Journal of Economics, Business and Management Studies",
+   "year": 2025,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.36713/epra24247",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.36713/epra24247?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.36713/epra24247, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "authors": [
+    {
+     "authorId": "2383669122",
+     "name": "Esther Ompong"
+    },
+    {
+     "authorId": "2383669144",
+     "name": "Clement Aryee"
+    }
+   ],
+   "abstract": "This narrative literature review explores the role of artificial intelligence (AI) and data analytics in enhancing recruitment management within the U.S. hospitality industry. Amid persistent labor shortages and high turnover, hospitality employers are increasingly adopting AI-enabled tools to streamline hiring processes, improve candidate engagement, and support data-driven decision-making. Drawing on peer-reviewed studies, industry reports, and policy documents published between 2018 and 2025, this review synthesizes empirical and conceptual insights across key thematic areas: AI-driven sourcing and screening, chatbot-enabled candidate engagement, predictive and prescriptive analytics, algorithmic fairness, implementation barriers, and regulatory compliance. Findings indicate that AI tools significantly improve recruitment speed and efficiency, particularly for high-volume, low-complexity roles. Chatbots enhance candidate experience and reduce recruiter workload, while predictive models offer potential for workforce planning and attrition forecasting. However, the benefits are unevenly distributed, with larger firms achieving greater returns due to superior data infrastructure and vendor partnerships. Critical concerns persist around algorithmic bias, transparency, and auditability, especially in decentralized hiring environments. The review offers practical recommendations for Human Resource (HR) leaders, including rigorous vendor evaluation, pilot testing with measurable Key Performance Indicators (KPIs), and alignment with ethical and legal standards such as the NIST AI Risk Management Framework. Theoretically, it contributes to bridging strategic human resource management with digital technology adoption frameworks. Limitations include reliance on published sources and the rapid pace of technological change. Future research should prioritize longitudinal case studies, independent audits, and exploration of candidate perceptions to inform responsible and effective AI integration in hospitality recruitment.\nKeywords: AI in recruitment, data analytics in HR, hospitality hiring, predictive hiring tools, chatbots in recruitment, algorithmic bias in hiring."
+  },
+  {
+   "paperId": "59b263175daa5640789237f6576e7f550a6b4fff",
+   "externalIds": {
+    "DOI": "10.36676/jams.v2.i3.76",
+    "CorpusId": 281530456
+   },
+   "title": "Transforming Human Resource Management with Artificial Intelligence: Impacts on Recruitment, Employee Engagement, and Organizational Performance",
+   "venue": "Journal of Advanced Management Studies",
+   "year": 2025,
+   "citationCount": 1,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.36676/jams.v2.i3.76?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.36676/jams.v2.i3.76, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2382054059",
+     "name": "Dr. Yogesh Prabhakar Deshmukh"
+    }
+   ],
+   "abstract": "Traditional HR methods are undergoing a change as a result of the incorporation of AI into HRM, which opens up new possibilities for enhancing accuracy, efficiency, and decision-making. Key human resources tasks, such as recruitment, employee engagement, and overall organizational success, are examined in this article in light of the revolutionary effects of AI. The recruiting process is being transformed by AI-powered tools like chatbots, predictive analytics, and applicant tracking systems (ATS). These tools automate candidate screening, decrease bias, and improve talent matching. Through sentiment analysis, real-time feedback, and automated support systems, AI-driven solutions in employee engagement create a more responsive and adaptive work environment by enabling tailored experiences for employees. The use of AI in data-driven decision-making also improves strategic alignment with organizational goals, performance management, and workforce planning. Organizations may enhance employee happiness and retention, optimize HR procedures, and cut operating costs by embracing AI technologies. There are a number of obstacles that come with this change, such as the fact that HR automation raises ethical questions, worries about data protection, and the requirement for a workforce capable of utilizing AI tools. This paper explores ways in which firms might incorporate AI into HRM while still keeping a human-centric approach to workforce management in mind. It also addresses the possible advantages and disadvantages of AI in HRM."
+  },
+  {
+   "paperId": "ecbc956981cb6ecc77c4a9e0b8a6923cf2a587ae",
+   "externalIds": {
+    "DOI": "10.1007/s44282-025-00175-8",
+    "CorpusId": 278550649
+   },
+   "title": "Potential benefits and challenges of artificial intelligence in human resource management in public institutions",
+   "venue": "Discover Global Society",
+   "year": 2025,
+   "citationCount": 32,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1007/s44282-025-00175-8",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1007/s44282-025-00175-8?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/s44282-025-00175-8, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "105053450",
+     "name": "Kelvin M Mwita"
+    },
+    {
+     "authorId": "2182989570",
+     "name": "F. Kitole"
+    }
+   ],
+   "abstract": "This study explores the benefits and challenges of implementing artificial intelligence (AI) in human resource management (HRM) among public institutions in Tanzania. Using a cross-sectional research design, data was collected from 217 HR practitioners through random sampling and questionnaires. The descriptive approach assessed participants’ understanding of AI, its perceived benefits, challenges, and risks in HRM. The findings on the perceived benefits of AI in HRM show that increased efficiency, better decision-making, and cost reduction are the top advantages, while ease of use ranks the lowest. However, challenges such as lack of expertise, data privacy concerns, high costs, and resistance to change remain significant barriers. Most respondents strongly agree that AI enhances recruitment, training, performance management, and compliance, but concerns persist over bias, transparency, and emotional intelligence limitations in areas like employee relations and compensation. Additionally, results on risks of using AI on HRM indicate that high-risk components like Human Resource Information System (HRIS), Recruitment, Compensation, and Performance Management face serious concerns such as bias and implementation complexity. Moderate-risk areas like succession planning and compliance show manageable challenges, while low-risk components like health and safety and employee relations reflect minimal issues. Statistical analysis confirms significant associations between risk levels and several HRM components, especially HRIS and Recruitment (p < 0.01), highlighting the need for targeted interventions. The study emphasizes the need for public institutions to establish robust ethical frameworks, invest in capacity-building for HR practitioners, and ensure human oversight in AI-driven processes. By addressing these concerns, public institutions can mitigate risks, improve AI adoption, and optimize the potential of AI to enhance HR practices, offering a roadmap for equitable, effective, and ethical implementation of AI technologies in workforce management."
+  }
+ ]
+}

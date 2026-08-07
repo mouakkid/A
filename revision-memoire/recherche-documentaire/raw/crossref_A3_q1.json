@@ -1,0 +1,1128 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message-version": "1.0.0",
+ "message": {
+  "facets": {},
+  "total-results": 1020394,
+  "items": [
+   {
+    "DOI": "10.23925/recape.v16i1.63019",
+    "title": [
+     "Percepção de profissionais de recursos humanos sobre People Analytics",
+     "Perceptions that HR professional have over People Analytics",
+     "Percepción de los profesionales de recursos humanos sobre People Analytics"
+    ],
+    "container-title": [
+     "Revista de Carreiras e Pessoas"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       1,
+       3
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-0087-1792",
+      "authenticated-orcid": false,
+      "given": "Taciana Maria Lemes de",
+      "family": "Luccas",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>O uso de dados é atividade importante para a tomada de decisão das organizações. Este estudo objetiva apresentar a percepção de profissionais da área de recursos humanos sobre a adoção de People Analytics nos processos sob sua condução. Para isso, realizou-se a coleta de dados por meio de questionário misto enviado a profissionais da área de recursos humanos de empresas de diversos setores, localizadas no Estado de São Paulo, Brasil que retornou 32 respostas válidas. As respostas às questões fechadas foram analisadas por meio de abordagem quantitativa, enquanto as respostas às questões abertas foram analisadas de forma quantitativa e qualitativa, por meio de análise de conteúdo. Os resultados mostram que fatores relacionados à cultura, tecnologia e comunicação devem ser trabalhados para possibilitar a utilização de People Analitycs pelas organizações.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.52340/eeu.2024.01.02",
+    "title": [
+     "HR ANALYTICS AND DATA-DRIVEN HR MANAGEMENT"
+    ],
+    "container-title": [
+     "Collection of Scientific Papers"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       8,
+       1
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Lia",
+      "family": "Kvirchishvili",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.37745/gjhrm.2013/vol12n290111",
+    "title": [
+     "Measuring HR Analytics Application and HR Analytics Competencies of HR Professionals: Towards Operationalization from Conceptualization"
+    ],
+    "container-title": [
+     "Global Journal of Human Resource Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       2,
+       15
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Opatha",
+      "family": "H.H.D.P.J.",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Dayarathna",
+      "family": "N.W.K.D.K.",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 1,
+    "abstract": "<jats:p>Human Resource (HR) analytics plays a crucial role in bridging the gap between subjective and objective HR practices, revealing that HR decisions are not solely based on theory and applications but also on numerical evidence. Assessing the extent of HR analytics applications helps management understand \"where we are\" and \"where to go\" in terms of HR analytics practices. However, the adoption of HR analytics doesn't happen automatically; there must be internal motivating factors within the organization. One key factor is the HR analytics competency of HR professionals, which significantly boosts the application of HR analytics. Therefore, evaluating the competencies of HR professionals helps them gauge \"where am I\" and \"what areas should I focus on mastering\" in terms of HR analytics competencies. This article introduces two instruments for measuring HR analytics applications in the organization and the HR analytics competency of HR professionals, utilizing a 5-point Likert scale measurement. The validity and reliability of these instruments are ensured, and the measurements are developed based on a combination of literature findings and the researchers' insights. These two sets of instruments are anticipated to assist organizations and HR professionals in gauging their respective levels of HR analytics application and competencies.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1108/shr-09-2024-0072",
+    "title": [
+     "Leveraging HR analytics for employee development: good for employees, organizations, and society"
+    ],
+    "container-title": [
+     "Strategic HR Review"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       10,
+       17
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Jiarui",
+      "family": "Yin",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 2,
+    "abstract": "<jats:sec>\n<jats:title content-type=\"abstract-subheading\">Purpose</jats:title>\n<jats:p>This paper aims to provide a new perspective on HR analytics that moves beyond the current narrative of its strategic value for organizations yet oftentimes at the cost of employee well-being. The paper argues that analytics-enabled employee development can unleash the positive impact of HR analytics on employees, organizations, and society.</jats:p>\n</jats:sec>\n<jats:sec>\n<jats:title content-type=\"abstract-subheading\">Design/methodology/approach</jats:title>\n<jats:p>This is a conceptual paper drawing on relevant literature and HR analytics applications.</jats:p>\n</jats:sec>\n<jats:sec>\n<jats:title content-type=\"abstract-subheading\">Findings</jats:title>\n<jats:p>Analytics-enabled employee development can help organizations gain employee buy-in by demonstrating the direct positive impact of HR analytics on employees. It contributes to social sustainability by focusing on developing employees' current and future skills, which benefits individuals, communities, and society. Moreover, it enhances organizations' human capital by aligning employees' skills and knowledge with business goals, creating a competitive edge.</jats:p>\n</jats:sec>\n<jats:sec>\n<jats:title content-type=\"abstract-subheading\">Originality/value</jats:title>\n<jats:p>This paper affords a new perspective on HR analytics implementation by focusing on the positive impact of analytics-enabled employee development. It provides three rationales for why organizations should invest in analytics-enabled employee development: gaining employee buy-in, contributing to social sustainability, and enhancing human capital.</jats:p>\n</jats:sec>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/s12176-024-1400-5",
+    "title": [
+     "HR-Transformation durch People Analytics"
+    ],
+    "container-title": [
+     "Controlling &amp; Management Review"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       4
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Robert",
+      "family": "Weller",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Sarah",
+      "family": "Zelt",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.31510/infa.v21i2.2060",
+    "title": [
+     "DATA SCIENCE EM PEOPLE ANALYTICS",
+     "DATA SCIENCE IN PEOPLE ANALYTICS"
+    ],
+    "container-title": [
+     "Revista Interface Tecnológica"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       9,
+       17
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Liriane Soares",
+      "family": "Araújo",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Fatec de Catanduva"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0009-0002-5206-3583",
+      "authenticated-orcid": false,
+      "given": "Daiane Iolanda",
+      "family": "Ravazi",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Fatec Catanduva"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>With technological advancements, the complexity of human resource management and the competitiveness of the job market, it has become crucial to adopt a more strategic approach to understand the immense volume of data generated today and to use it practically within organizations. In this scenario, the use of Data Science (DS), applied in People Analytics, emerges as an essential tool in the context of HR 5.0, which combines advanced technologies with people management. HR 5.0, a concept developed from Industry 5.0, places the human being at the center of decisions, using data analysis to improve both efficiency and employee experience. Therefore, this study aims to explore the concepts mentioned, their relationships and the benefits generated in real companies. The methodology includes bibliographic and documentary research, as well as the analysis of practical case studies that demonstrate how the application of these technologies can generate valuable insights for organizations, making them more competitive, innovative, and efficient. It is expected to contribute to the literature and to companies in the utilization of these concepts.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.51244/ijrsi.2026.1306000424",
+    "title": [
+     "HR Analytics and People Analytics: Applications, Challenges, and Future Research Directions"
+    ],
+    "container-title": [
+     "International Journal of Research and Scientific Innovation"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Samuel",
+      "family": "Asante",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "School of Business and Economics, Universiti Putra"
+       },
+       {
+        "name": "Malaysia"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>People analytics  the label has largely displaced the older “HR analytics,” though the two still get used interchangeably  is no longer a fringe interest within human resource management. It has become one of the field’s most argued-about developments. This narrative review works through peer-reviewed research published mostly between 2015 and 2025 to ask three things: where in the HR function analytics has actually taken hold, what keeps getting in its way, and what researchers still owe the field. Talent acquisition, retention modelling, and workforce planning show the clearest gains; engagement, wellbeing, and learning applications are newer and less settled. Adoption overall is patchy. Bad or fragmented data, thin analytical capability inside HR teams, internal resistance, and a set of escalating ethical and legal threats—among them algorithmic bias in automated CV and résumé screening, and worker-surveillance practices that breach employee privacy—together explain a familiar pattern in this literature  the field promises more than it has yet shown. The paper ends by laying out where research needs to go: firmer theory, causal evidence rather than correlational snapshots, governance frameworks built for algorithmic and AI-enabled HRM, more attention to how employees themselves experience being analysed, and work outside the usual large-firm, Western settings  small businesses and developing economies chief among them</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.57030/asci.25.3.as4",
+    "title": [
+     "HR Analytics: Leveraging Big Data for Talent Management and Decision Making"
+    ],
+    "container-title": [
+     "Acta Scientiae"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024
+      ]
+     ]
+    },
+    "is-referenced-by-count": 1,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.55463/issn.1674-2974.52.11.5",
+    "title": [
+     "HR Management Strategies in the Digital Era: Optimizing Performance and Productivity with Artificial Intelligence and People Analytics"
+    ],
+    "container-title": [
+     "Journal of Hunan University Natural Sciences"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025
+      ]
+     ]
+    },
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>This structured narrative review examines the challenges organizations face when adapting traditional human resource (HR) practices to the demands of the digital era, with a focus on improving performance and productivity. The study aims to synthesize evidence on HR management strategies that integrate artificial intelligence (AI) and people analytics to support workforce decision-making and development. A desk-based literature review was conducted using academic books and peer-reviewed journal articles on digital HR, AI applications in HR, and people analytics. The reviewed literature was analyzed qualitatively through content analysis to identify recurrent themes, proposed mechanisms, and implementation considerations. The findings suggest that AI-enabled analytics can strengthen data-informed HR planning, enable more targeted employee development, and support strategic interventions such as talent identification and performance management. However, the literature also highlights recurring constraints, including data quality, privacy and ethical risks, skills gaps, and change-management challenges. Overall, the evidence indicates that integrating AI and people analytics can enhance HR’s strategic role and support improvements in employee performance and organizational productivity when implemented with appropriate governance and capability development.\nKeywords: Artificial intelligence; people analytics; digital HR; HR strategy; workforce performance.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.52783/eel.v13i5.828",
+    "title": [
+     "A Case Study on HR Analytics Employee Attrition Using Predictive Analytics"
+    ],
+    "container-title": [
+     "European Economic Letters"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023
+      ]
+     ]
+    },
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.59613/hsg5f983",
+    "title": [
+     "Implementation of People Analytics in HR Management to Improve Employee Performance and Job Satisfaction"
+    ],
+    "container-title": [
+     "The Journal of Academic Science"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       2,
+       26
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Elmagondulfa Habu",
+      "family": "Lelo",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>The rapid development of technology and data analytics has transformed Human Resource (HR) management, particularly in improving employee performance and job satisfaction. This study explores the implementation of People Analytics in HR management using a qualitative approach through literature review and library research methods. People Analytics leverages data-driven insights to optimize recruitment, performance evaluation, employee engagement, and retention strategies. By systematically analyzing workforce data, organizations can make informed decisions that enhance productivity and job satisfaction. This study highlights the key benefits of People Analytics, including identifying performance gaps, predicting employee turnover, and fostering a more inclusive and engaging work environment. Findings from various academic sources suggest that organizations that integrate People Analytics experience improved decision-making processes and a more strategic HR function. However, challenges such as data privacy concerns, ethical considerations, and the need for skilled HR professionals to interpret data remain significant barriers to successful implementation. The study concludes that People Analytics can revolutionize HR management by promoting a data-driven culture that aligns employee needs with organizational goals. By adopting this approach, companies can create a more dynamic and responsive work environment that enhances employee satisfaction and overall business performance. Future research should focus on empirical case studies to further validate the impact of People Analytics in different organizational contexts.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1080/23270012.2025.2515112",
+    "title": [
+     "Unleashing the value of HR analytics: examining the competency influence on business performance in Sri Lanka"
+    ],
+    "container-title": [
+     "Journal of Management Analytics"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       7,
+       2
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-5243-0868",
+      "authenticated-orcid": false,
+      "given": "H.H.D.P.J.",
+      "family": "Opatha",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "University of Sri Jayewardenepura, Nugegoda",
+        "place": [
+         "Sri Lanka"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-6875-6133",
+      "authenticated-orcid": false,
+      "given": "N.W.K.D.K.",
+      "family": "Dayarathna",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "University of Sri Jayewardenepura, Nugegoda",
+        "place": [
+         "Sri Lanka"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-2940-0206",
+      "authenticated-orcid": false,
+      "given": "Peter J.",
+      "family": "Dowling",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Department of Management and Marketing, La Trobe University, Melbourne",
+        "place": [
+         "Australia"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0003-4496-7048",
+      "authenticated-orcid": false,
+      "given": "Timothy",
+      "family": "Bartram",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "RMIT University, Melbourne",
+        "place": [
+         "Australia"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 3,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.21917/ijms.2026.0358",
+    "title": [
+     "ALGORITHMIC FAIRNESS IN HR ANALYTICS: EXAMINING JUSTICE PERCEPTIONS, TRUST IN AI AND EMPLOYEE READINESS FOR INNOVATION"
+    ],
+    "container-title": [
+     "ICTACT Journal on Management Studies"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       5,
+       1
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Abhishek",
+      "family": "Suvarna",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "St. Philomena College, India"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "V. Radhakrishna",
+      "family": "Gowda",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "St. Philomena College, India"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>Artificial intelligence (AI) tools are now widely incorporated into HR functions, yet employees often remain uncertain about how fair and transparent these systems truly are. This study explores how professionals in the IT sector interpret fairness in AI-supported HR decisions and how these perceptions influence their trust in AI, readiness to use digital tools, and inclination toward innovation. Survey data from 258 employees in Karnataka were analysed using structural equation modelling, which showed that distributive, procedural, and interactional justice each contribute significantly to building trust in AI systems. Trust emerged as a complete mediator, linking fairness judgements to digital readiness and innovation behaviours. Organizational culture strengthened the trust–readiness link, suggesting that supportive work environments help employees engage more confidently with AI technologies. Latent profile analysis further revealed three distinct employee groups based on fairness and trust levels. The study highlights the importance of transparent communication, fair system design, and culture-building efforts to support human-centred AI adoption in HRM.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.34293/management.v11is1-mar.8098",
+    "title": [
+     "AI-Driven HR Analytics: Unleashing the Power of HR Data Management"
+    ],
+    "container-title": [
+     "Shanlax International Journal of Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       3,
+       22
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Harshita",
+      "family": "Dadheech",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>The quickly changing field of human resources (HR) starts by highlighting the importance of HR analytics, its development, and the benefits it provides for making data-driven decisions. The foundation for efficient HR analytics is laid out in this article, which also emphasizes the significance of employee data management, which includes the governance, quality assurance, and collection, storage, and collection of all types of employee data. AI’s revolutionary significance is highlighted, demonstrating how AI improves the processing and analysis of employee data. The AI-driven HR Analytics Workflow breaks down the crucial phases needed, while real-world best practices highlight the potential of this technology. A focus is placed on ethical issues, including bias, data privacy, and responsible AI governance. In addition, the study discusses future trends and how HR professionals will change in an AI-driven HR environment. It encourages organizations to embrace AI-driven HR analytics as a strategic tool for HR excellence, highlighting the importance of responsible data use in shaping the future of HR practices.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1177/22297561241295801",
+    "title": [
+     "HR Analytics in Human Resource Department: Role, Opportunities and Challenges Faced by Employees of Private Banks"
+    ],
+    "container-title": [
+     "Journal of Development Research"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       12,
+       11
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Angkita Borpatra",
+      "family": "Gohain",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Joyjit",
+      "family": "Sanyal",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 1,
+    "abstract": "<jats:p>In the modern era, overseeing employees within a company has evolved beyond traditional methods. With business expansion and technological advancements, managing employees and monitoring their performance can now be done online using human resource (HR) analytics tools. The utilisation of HR analytics leads to enhanced employee performance and improved business efficiency, including more effective recruitment, talent management, employee performance and decreased employee turnover. The assessment of different functions and the insights into employee performance provided by HR analytics are crucial for improving decision-making and giving the organisation a competitive advantage. This research seeks to investigate how HR analytics tools are used and highlight the benefits they provide to employees. Organisations can leverage existing data to address issues such as performance, employee turnover and employee attitudes using analytics tools. The motivation behind this research is the shortage of human resources in many organisations. Despite the challenges faced by human resources, the technological landscape has given rise to numerous analytical tools that are being adopted by large companies. The findings of the study underscore the pivotal role played by HR analytics in shaping office behaviour and the work environment.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.21608/msamsj.2026.489358.1172",
+    "title": [
+     "Examining the Effect of HR Analytics on Employee Decision-Making: The Role of Digital Competency among Government Employees in Public Institutions in Tanzania."
+    ],
+    "container-title": [
+     "MSA-Management Sciences Journal"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       8,
+       1
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Peter",
+      "family": "Thomas",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.55041/isjem08443",
+    "title": [
+     "Integrating Predictive Modeling, Algorithmic Fairness, and Explainable AI for Transparent Employee Performance Evaluation: An Empirical Illustration Using the IBM HR Analytics Dataset"
+    ],
+    "container-title": [
+     "International Scientific Journal of Engineering and Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       8,
+       3
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Soniya",
+      "family": "Narayan",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "[Department of Human Resource Management / Business Analytics]"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>Artificial intelligence is changing the way employees are evaluated, but the challenge of concurrently high predictive power, demographic fairness, and decision transparency is a burning issue. The paper suggests and empirically proves a combination of ensemble predictive modeling (Random Forest), algorithmic bias, and SHAP-based explainable AI framework based on the organizational justice theory and strategic management views. As an example, with the publicly available IBM HR Analytics Employee Attrition &amp; Performance dataset (1,470 records), Random Forest reached the maximum test accuracy (1.000), which is propelled largely by the job-related characteristic PercentSalaryHike. The analysis of fairness between gender groups presented a small difference, and the accuracy of the models was similar between employees both male and female. SHAP explanations affirmed that job-related predictors significantly dominate decisions whereas demographic attributes have very little effect on them- in line with employee perceptions of fairness. The results show that AI systems can provide high performance and transparency at a specific level when the relevant features of the job are prioritized. Theoretical implications of responsible AI in HRM, practical guidance to adopt AI in HR analytics, and implications to comply with regulatory requirements (e.g., EU AI Act) are addressed.\n\nKeywords: AI-driven performance evaluation; algorithmic fairness; explainable AI; SHAP; HR analytics; organizational justice; bias mitigation; IBM HR dataset</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.14254/jems.2026.11-1.9",
+    "title": [
+     "HR analytics for evidence-based people management: A structured synthesis of methods, decision interfaces, and governance principles for sustainable organizations"
+    ],
+    "container-title": [
+     "Economics, Management and Sustainability"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       5,
+       21
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0009-0006-7053-2071",
+      "authenticated-orcid": false,
+      "given": "Tetiana",
+      "family": "Boiaryn",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>Purpose. This study synthesizes empirical and methodological evidence on human resource data analytics to provide a practical, decision-oriented blueprint for people management aligned with the United Nations Sustainable Development Goals (SDGs).\nMethodology. An integrative, PRISMA-compliant systematic review of 20 highly relevant peer-reviewed sources published between 2021 and 2026 was conducted. The synthesis evaluates three core analytical workstreams – Employee Net Promoter Score (eNPS) monitoring, 360-degree feedback, and prescriptive recruitment optimization – mapping extracted evidence onto specific decision interfaces. Due to the methodological heterogeneity of the corpus, a structured narrative synthesis was utilized to evaluate the alignment of data-driven interventions with sustainability targets.\nResults. Descriptive metrics such as eNPS function most effectively as continuous early-warning signals for retention intention rather than isolated diagnostic tools. Multi-rater 360-degree feedback yields reliable developmental signals exclusively when embedded in structured programs and structurally decoupled from compensation decisions. Furthermore, prescriptive optimization in recruitment generates measurable operational gains, particularly when algorithmic fairness mandates, budget constraints, and organizational capacity limits actively constrain predictive algorithms.\nTheoretical contribution. The study advances a structured analytical pipeline that bridges the operational gap between technical predictive modeling and corporate social responsibility. It establishes ethical data governance and epistemic alignment as mandatory preconditions for deploying advanced people analytics, integrating previously fragmented literature on digital human resource transformation.\nPractical implications. Organizations can implement the proposed five-stage blueprint - defining business objectives, specifying decision points, selecting minimal viable data, validating on decision horizons, and embedding governance rails – to convert raw workforce data into traceable, repeatable interventions. This framework directly supports the promotion of decent work (SDG 8), the reduction of algorithmic inequalities (SDG 10), and the establishment of transparent, accountable institutional data governance (SDG 16).\nSDG 8: Decent Work and Economic Growth; SDG 10: Reduced Inequalities; SDG 16: Peace, Justice and Strong Institutions</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.34218/ijmhrm_17_02_002",
+    "title": [
+     "LEVERAGING PREDICTIVE HR ANALYTICS FOR TURNOVER AND RETENTION: EMPLOYEES’ READINESS FOR ORGANIZATION CHANGE"
+    ],
+    "container-title": [
+     "INTERNATIONAL JOURNAL OF MARKETING AND HUMAN RESOURCE MANAGEMENT"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       6,
+       12
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "R.",
+      "family": "Soundarya",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "K",
+      "family": "Kumar",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "P. Sami",
+      "family": "Muthusait",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.7176/ejbm/15-8-06",
+    "title": [
+     "HR Analytics: Concept, Application, and Impact on Talent Management, Branding, and Challenges"
+    ],
+    "container-title": [
+     "European Journal of Business and Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       4
+      ]
+     ]
+    },
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1108/joepp-06-2023-0246",
+    "title": [
+     "HR analytics and the data collection process: the role of attributions and perceived legitimacy in explaining employees’ fear of datafication"
+    ],
+    "container-title": [
+     "Journal of Organizational Effectiveness: People and Performance"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       5,
+       22
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0003-4336-7892",
+      "authenticated-orcid": true,
+      "given": "Elia",
+      "family": "Rigamonti",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Politecnico di Milano Department of Management Economics and Industrial Engineering, , ,",
+        "place": [
+         "Milan, Italy"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Benedetta",
+      "family": "Colaiacovo",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Universita degli Studi di Milano , ,",
+        "place": [
+         "Milan, Italy"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0003-1997-8423",
+      "authenticated-orcid": true,
+      "given": "Luca",
+      "family": "Gastaldi",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Politecnico di Milano Department of Management Economics and Industrial Engineering, , ,",
+        "place": [
+         "Milan, Italy"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Mariano",
+      "family": "Corso",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Politecnico di Milano Department of Management Economics and Industrial Engineering, , ,",
+        "place": [
+         "Milan, Italy"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 4,
+    "abstract": "<jats:sec>\n                    <jats:title>Purpose</jats:title>\n                    <jats:p>This paper analyzes employees’ perceptions of data collection processes for human resource analytics (HRA). More specifically, we study the effect that information sharing practices have on employees’ attributions (i.e. benevolent vs malevolent) through the perceived legitimacy of data collection and monitoring processes. Moreover, we investigate whether employees’ emotional reaction (i.e. fear of datafication) depends on their perceived legitimacy and attributions.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Design/methodology/approach</jats:title>\n                    <jats:p>The research is based on a sample of 259 employees operating for an Italian consulting firm that developed and implemented HRA processes in the last 3 years. The hypothesized model has been tested using structural equation modeling (SEM) on Stata 14.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Findings</jats:title>\n                    <jats:p>This paper demonstrates the mediating role of perceived legitimacy in the relationship between information sharing practices and employees’ benevolent and malevolent attributions about data collection and monitoring processes for HRA practices. Results also reveal that perceived legitimacy predicts employees’ fear of datafication, with benevolent attributions that partially mediate this relationship.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Practical implications</jats:title>\n                    <jats:p>This research indicates that employees perceive, try to make sense of and emotionally react to HRA processes. Moreover, we reveal the crucial role of information sharing practices and perceived legitimacy in determining employees’ attributions and emotional reactions to data collection and monitoring processes.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Originality/value</jats:title>\n                    <jats:p>Combining human resource (HR) attributions, HR system strength, information processing and signaling theories, this work explores employees’ perception, attributive processes and emotional reactions to data collection processes for HRA practices.</jats:p>\n                  </jats:sec>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.31891/2307-5740-2023-320-4-29",
+    "title": [
+     "ADVANTAGES OF THE IMPLEMENTATION OF HR-ANALYTICS IN ENTERPRISE MANAGEMENT"
+    ],
+    "container-title": [
+     "Herald of Khmelnytskyi National University. Economic sciences"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       6,
+       29
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-5557-2327",
+      "authenticated-orcid": false,
+      "given": "Olha",
+      "family": "BAKSALOVA",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-9747-686X",
+      "authenticated-orcid": false,
+      "given": "Tanya",
+      "family": "GLUSHKO",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-2450-6140",
+      "authenticated-orcid": false,
+      "given": "Oleksandr",
+      "family": "HORBATIUK",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-0062-5727",
+      "authenticated-orcid": false,
+      "given": "Olena",
+      "family": "KOSHONKO",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "name": "Khmelnytskyi National University",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 1,
+    "abstract": "<jats:p>The article substantiates the implementation of HR-analytics in the activities of modern enterprises in order to increase the efficiency of the work of structural divisions involved in personnel work. The role of HR analytics in the process of personnel management is considered, the use of HR indicators is proposed, which greatly simplifies the assessment of the performance of personnel departments at various levels and, ultimately, predicts and evaluates the results of their work. The issue of efficiency is one of the key issues in almost all business processes. If a choice needs to be made in conditions of limited resources: what is better to spend money on, then it is impossible to do this without measuring efficiency. This also applies to HR services. In connection with the growth of requirements for effective personnel management at enterprises, the question of how to evaluate the activities of the personnel service in order to determine the required number of its employees and evaluate the effectiveness of their activities is becoming relevant. At the same time, the evaluation of personnel management services should be related to the tasks of the enterprise and stimulate personnel specialists to perform their work in the most effective way. The article also analyzes the problems of applying HR metrics in the practice of modern domestic enterprises. The advantages of HR analytics for HR and business activities have been determined. It was found that the variety of functions and tasks of personnel work units, the lack of practice of accumulating primary data, which are adapted to the direction of the company’s industry, greatly complicate the metric analysis of the effectiveness of HR activities as a whole. That is why there is a need to describe and systematize indicators of HR activity in order to facilitate their integration into the work of a modern HR department. For the effective implementation of the HRM system at the enterprise, it is very important to use HR analytics tools. This practice will allow to more accurately determine the vectors of strategic response to achieve the goals of controlling business activity. Thus, HR analytics is the key to successful organizations that have the necessary resources to invest in complex information systems and are able to attract and develop effective skills for monitoring analytical data. Most of these organizations create opportunities for HR analytics in order to achieve a competitive advantage by analyzing data about their workforce. But the ability of human resources units to influence these processes is often limited, therefore the issue of the prospects for activating this function in Ukraine, taking into account the world experience in this field, is actualized.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.47941/jts.1513",
+    "title": [
+     "AI-Driven HR Analytics: Unleashing the Power of HR Data Management"
+    ],
+    "container-title": [
+     "Journal of Technology and Systems"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       11,
+       21
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Ramesh",
+      "family": "Nyathani",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 20,
+    "abstract": "<jats:p>The rapidly evolving landscape of Human Resources (HR), begins by emphasizing the significance of HR analytics, underlining its evolution and the advantages it offers through data-driven decision-making. The paper establishes the foundation of effective HR analytics, highlighting the importance of employee data management, including collection, storage, quality assurance, and governance of all kinds of employee data. AI's transformative role takes center stage, showcasing how AI enhances employee data processing and analysis. Real-world best practices illustrate the potential of AI-driven HR analytics, while the AI-driven HR Analytics Workflow dissects the essential steps involved. Ethical considerations are emphasized, addressing bias, data privacy, and responsible AI governance. The paper also looks to the future, discussing emerging trends and the evolving role of HR professionals in an AI-driven HR landscape. It encourages organizations to embrace AI-driven HR analytics as a strategic tool for HR excellence, highlighting the importance of responsible data use in shaping the future of HR practices.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.55041/ijsrem64007",
+    "title": [
+     "Employee Performance Enhancement Through Data Analytics: A Study on HR Analytics in Modern Organizations"
+    ],
+    "container-title": [
+     "International Journal of Scientific Research in Engineering and Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       5
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Anjali Kumari",
+      "family": "Anjali Kumari",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.34047/mmr.2020.7201",
+    "title": [
+     "Application of HR Analytics in Business"
+    ],
+    "container-title": [
+     "MET MANAGEMENT REVIEW"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Dr. Farida",
+      "family": "Virani",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 7,
+    "abstract": "<jats:p>In  the  ever-evolving  landscape  of  business  management,  Human  Resources  (HR) analytics  has  emerged  as  a  crucial  tool  for  optimizing  workforce  strategies  and enhancing  organizational  performance.  This  study  delves  into  the  application  of  HR analytics in the business context, investigating how data-driven insights from various HR processes and employee-related metrics can inform decision-making. By leveraging quantitative analysis and case studies, this research explores how HR analytics offers valuable   insights   into   employee   recruitment,   retention,   training,   performance evaluation, and overall workforce management. The abstract underscores the role of HR analytics in identifying trends, predicting future needs, and aligning human capital strategies with business objectives. Moreover, the study highlights challenges such as data  privacy,  technological  integration,  and  skill  gaps  that  organizations  encounter when implementing HR analytics. The findings emphasize the strategic significance of data-driven  HR  practices  in  enhancing  business  competitiveness  and  sustainability. This study provides actionable insights for HR professionals, managers, and business leaders aiming to harness the potential of HR analytics for informed decision-making and achieving organizational success.</jats:p>",
+    "type": "journal-article"
+   }
+  ],
+  "items-per-page": 25,
+  "query": {
+   "start-index": 0,
+   "search-terms": null
+  }
+ }
+}

@@ -1,0 +1,5179 @@
+{
+ "A1": {
+  "label": "Adoption de l'IA en GRH (TAM/UTAUT)",
+  "items": [
+   {
+    "doi": "10.3390/healthcare13030250",
+    "titre": "Understanding Psychosocial Barriers to Healthcare Technology Adoption: A Review of TAM Technology Acceptance Model and Unified Theory of Acceptance and Use of Technology and UTAUT Frameworks",
+    "revue": "Healthcare",
+    "annee": 2025,
+    "citations": 169,
+    "resume": true,
+    "auteurs": [
+     "Lee, A.",
+     "Ramasamy, R.",
+     "Subbarao, A."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1007/s11301-023-00367-z",
+    "titre": "Consolidating the theoretical foundations of digital human resource management acceptance and use research: a meta-analytic validation of UTAUT",
+    "revue": "Management Review Quarterly",
+    "annee": 2023,
+    "citations": 18,
+    "resume": true,
+    "auteurs": [
+     "Theres, C.",
+     "Strohmeier, S."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.3390/educsci15081044",
+    "titre": "Exploring Generation Z’s Acceptance of Artificial Intelligence in Higher Education: A TAM and UTAUT-Based PLS-SEM and Cluster Analysis",
+    "revue": "Education Sciences",
+    "annee": 2025,
+    "citations": 14,
+    "resume": true,
+    "auteurs": [
+     "Koteczki, R.",
+     "Balassa, B."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.52783/jes.5143",
+    "titre": "Exploring Emotional Intelligence in Jordan’s Artificial Intelligence (AI) Healthcare Adoption: A UTAUT Framework",
+    "revue": "Journal of Electrical Systems",
+    "annee": 2024,
+    "citations": 9,
+    "resume": true,
+    "auteurs": [
+     "Mahmoud Mohammad Ahmad Ibrahim, ?."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.48009/3_iis_2024_119",
+    "titre": "EXAMINING GENERATIVE ARTIFICIAL INTELLIGENCE ADOPTION IN ACADEMIA: A UTAUT PERSPECTIVE",
+    "revue": "Issues In Information Systems",
+    "annee": 2024,
+    "citations": 7,
+    "resume": false,
+    "auteurs": [],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.21511/ppm.22(2).2024.40",
+    "titre": "Role of artificial intelligence for strengthening human resource system via mediation of technology competence",
+    "revue": "Problems and Perspectives in Management",
+    "annee": 2024,
+    "citations": 5,
+    "resume": true,
+    "auteurs": [
+     "Al-Ayed, S."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1080/09537325.2025.2467928",
+    "titre": "The adoption of Artificial Intelligence (AI) in healthcare: a model of value assessment, human resource and health system factors",
+    "revue": "Technology Analysis &amp; Strategic Management",
+    "annee": 2025,
+    "citations": 4,
+    "resume": false,
+    "auteurs": [
+     "Chalutz-Ben Gal, H.",
+     "Margherita, A."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1080/09585192.2025.2510546",
+    "titre": "Synergetic legacy of organizational innovativeness, knowledge sharing, artificial intelligence adoption and big data analytic capability in human resource management",
+    "revue": "The International Journal of Human Resource Management",
+    "annee": 2025,
+    "citations": 3,
+    "resume": false,
+    "auteurs": [
+     "He, L.",
+     "Yousaf, Z.",
+     "Palazzo, M."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.33168/jsms.2023.0403",
+    "titre": "Examining the Employees’ Acceptance of Human Resource  Information Systems: An Empirical Study with UTAUT Model",
+    "revue": "Journal of System and Management Sciences",
+    "annee": 2023,
+    "citations": 3,
+    "resume": false,
+    "auteurs": [],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.52783/jier.v4i2.828",
+    "titre": "Determinants Influencing the Adoption of Artificial Intelligence in Driving Effective Human Resource Management",
+    "revue": "Journal of Informatics Education and Research",
+    "annee": 2024,
+    "citations": 1,
+    "resume": false,
+    "auteurs": [],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.55041/ijsrem32681",
+    "titre": "An Analysis of Artificial Intelligence Adoption in the Human Resource Management",
+    "revue": "INTERANTIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT",
+    "annee": 2024,
+    "citations": 1,
+    "resume": true,
+    "auteurs": [
+     "KUMAR, A."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.61725/abj.1786837",
+    "titre": "Artificial Intelligence in Human Resource Management: A Systematic Review of Adoption, Impact, and Challenges",
+    "revue": "AYBU Business Journal",
+    "annee": 2025,
+    "citations": 1,
+    "resume": true,
+    "auteurs": [
+     "Wagan, S.",
+     "Sidra, S."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.4102/sajhrm.v24i0.3315",
+    "titre": "Knowledge-sharing behaviour as a pathway to competitive advantage: The nexus of artificial intelligence adoption and human resource competence",
+    "revue": "SA Journal of Human Resource Management",
+    "annee": 2026,
+    "citations": 1,
+    "resume": true,
+    "auteurs": [
+     "Setyanti, S.",
+     "Khusna, K.",
+     "Seminari, N.",
+     "Jamillah, K."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.70593/deepsci.0202043",
+    "titre": "Acceptance of artificial intelligence in human resource management: Adoption factors, technology acceptance models, and HR analytics",
+    "revue": "International Journal of Applied Resilience and Sustainability",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Obizue, M."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.47191/jefms/v9-i2-48",
+    "titre": "Adoption of Artificial Intelligence in Human Resource Management and Employee Acceptance of Digital HR Systems in Nigerian Universities",
+    "revue": "Journal of Economics, Finance And Management Studies",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "?, ?.",
+     "AKINNIGBAGBE, M.",
+     "ADEGOKE, O.",
+     "?, ?.",
+     "-OGUNLEYE, I.",
+     "?, ?."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.55248/gengpi.6.0825.31124",
+    "titre": "Artificial Intelligence In Human Resource Management: A Case Study On Adoption And Challenges In Reliance Industry",
+    "revue": "International Journal of Research Publication and Reviews",
+    "annee": 2025,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "H.S, D."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1177/jiift.251398946",
+    "titre": "Adoption of Artificial Intelligence in Contemporary Human Resource Management",
+    "revue": "IIFT International Business and Management Review Journal",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Illangarathne, S."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.15864/ajbmr.5106",
+    "titre": "Application of Artificial Intelligence in the field of Human Resource Management: Acceptance or Denial?",
+    "revue": "American Journal of Business and Management Research",
+    "annee": 2024,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.21825/ewopinpractice.94697",
+    "titre": "Promise or peril? Sentiments shaping the adoption of Generative Artificial Intelligence in Human Resource Management",
+    "revue": "EWOP in Practice",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "van der Merwe, M.",
+     "Veldsman, D."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.21275/es24131185821",
+    "titre": "Revolutionizing Human Resource Management through Artificial Intelligence",
+    "revue": "International Journal of Science and Research (IJSR)",
+    "annee": 2024,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Deepa, P."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.61242/ijabo.25.621",
+    "titre": "Adoption of Artificial Intelligence Technology in Human Resource Management in  Digital Office Management",
+    "revue": "International Journal Administration, Business &amp; Organization",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Yuliana, M.",
+     "Mardianti, F."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.21608/aiis.2024.415848",
+    "titre": "Factors affecting the acceptance of faculty members in Saudi universities to use artificial intelligence technologies in light of the Unified Theory of Acceptance and Use of Technology (UTAUT)",
+    "revue": "Artificial Intelligence Information Security",
+    "annee": 2024,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Al-Ghamdi, F."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.31893/multirev.2026510",
+    "titre": "Adoption of artificial intelligence in human resource management: Systematic review and bibliometric analysis",
+    "revue": "Multidisciplinary Reviews",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Said, O.",
+     "Nahid, A."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.58806/ijsshmr.2026.v5i5n08",
+    "titre": "Factors Influencing University Students' Adoption of Generative AI Tools: An Integrated TAM-UTAUT Model in Vietnamese Higher Education",
+    "revue": "INTERNATIONAL JOURNAL OF SOCIAL SCIENCE HUMANITY &amp; MANAGEMENT RESEARCH",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Nghia, P."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.33545/26633213.2026.v8.i6a.502",
+    "titre": "Artificial intelligence (AI) adoption in human resource management (HRM) in India: Challenges, opportunities, and organisational impact",
+    "revue": "International Journal of Research in Human Resource Management",
+    "annee": 2026,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Gottumukkala, M.",
+     "Sundari, K."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.23977/jaip.2024.070204",
+    "titre": "The Application Research of Artificial Intelligence in Human Resource Management",
+    "revue": "Journal of Artificial Intelligence Practice",
+    "annee": 2024,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.55041/ijsrem66023",
+    "titre": "Artificial Intelligence and the Evolution of Skill Demand in Marketing: Implications for AI-Driven Talent Acquisition in Human Resource Management— An Extended UTAUT Analysis Using PLS-SEM",
+    "revue": "International Journal of Scientific Research in Engineering and Management",
+    "annee": 2026,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Mahesh Ambwani, M."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.2139/ssrn.4756845",
+    "titre": "Technology, Risk, Artificial Intelligence Acceptance, and the Adoption of Smart Devices",
+    "revue": "SSRN Electronic Journal",
+    "annee": 2024,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Vicci, D."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.71002/iecs.v5n2p1",
+    "titre": "Generative Artificial Intelligence in Higher Education: Understanding Faculty Adoption Through the Technology Acceptance Model",
+    "revue": "International Education and Culture Studies",
+    "annee": 2025,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.38193/ijrcms.2026.8162",
+    "titre": "ADOPTION OF ARTIFICIAL INTELLIGENCE IN HUMAN RESOURCE PRACTICES OF INFORMATION TECHNOLOGY COMPANIES IN CHENNAI",
+    "revue": "International Journal of Research in Commerce and Management Studies",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "I, A.",
+     "MUTHUKUMARAN, D."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.22214/ijraset.2026.77180",
+    "titre": "A Preliminary Study on the Adoption of Artificial Intelligence in Human Resource Management in Selected Automobile Companies",
+    "revue": "International Journal for Research in Applied Science and Engineering Technology",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Khandre, D."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.17261/pressacademia.2026.2047",
+    "titre": "From technology acceptance to artificial intelligence adoption: comparative insights from the United States, South Korea and Turkiye",
+    "revue": "Pressacademia",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Savaskan, E."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1155/2023/9803965",
+    "titre": "Retracted: Enterprise Human Resource Management Model by Artificial Intelligence Digital Technology",
+    "revue": "Computational Intelligence and Neuroscience",
+    "annee": 2023,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Intelligence and Neuroscience, C."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.63680/ijsate0426163.110",
+    "titre": "Ethical Challenges of Artificial Intelligence in Human Resource Management",
+    "revue": "International Journal of Science Architecture Technology and Environment",
+    "annee": 2026,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Dhyan, M."
+    ],
+    "source": "crossref"
+   }
+  ]
+ },
+ "A2": {
+  "label": "IA générative et RH",
+  "items": [
+   {
+    "doi": "10.1111/1748-8583.12524",
+    "titre": "Human resource management in the age of generative artificial intelligence: Perspectives and research directions on ChatGPT",
+    "revue": "Human Resource Management Journal",
+    "annee": 2023,
+    "citations": 676,
+    "resume": false,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.1007/s13347-023-00621-y",
+    "titre": "AI as Agency Without Intelligence: on ChatGPT, Large Language Models, and Other Generative Models",
+    "revue": "Philosophy &amp; Technology",
+    "annee": 2023,
+    "citations": 293,
+    "resume": false,
+    "auteurs": [
+     "Floridi, L."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1111/1467-8551.12824",
+    "titre": "Generative Artificial Intelligence in Business: Towards a Strategic Human Resource Management Framework",
+    "revue": "British Journal of Management",
+    "annee": 2024,
+    "citations": 158,
+    "resume": true,
+    "auteurs": [
+     "Chowdhury, S.",
+     "Budhwar, P.",
+     "Wood, G."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1016/j.ijme.2023.100857",
+    "titre": "Generative artificial intelligence (ChatGPT): Implications for management educators",
+    "revue": "The International Journal of Management Education",
+    "annee": 2023,
+    "citations": 156,
+    "resume": false,
+    "auteurs": [
+     "Ratten, V.",
+     "Jones, P."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.2139/ssrn.4603227",
+    "titre": "Role and Challenges of ChatGPT and Similar Generative Artificial Intelligence in Business Management",
+    "revue": "SSRN Electronic Journal",
+    "annee": 2023,
+    "citations": 46,
+    "resume": false,
+    "auteurs": [
+     "Rane, N."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1007/s44282-025-00175-8",
+    "titre": "Potential benefits and challenges of artificial intelligence in human resource management in public institutions",
+    "revue": "Discover Global Society",
+    "annee": 2025,
+    "citations": 32,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.1002/hrdq.21551",
+    "titre": "Bridging human resource development processes through generative Artificial Intelligence",
+    "revue": "Human Resource Development Quarterly",
+    "annee": 2024,
+    "citations": 29,
+    "resume": true,
+    "auteurs": [
+     "Korzynski, P.",
+     "Kim, S.",
+     "Egan, T."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.3390/buildings15060933",
+    "titre": "Generative AI, Large Language Models, and ChatGPT in Construction Education, Training, and Practice",
+    "revue": "Buildings",
+    "annee": 2025,
+    "citations": 29,
+    "resume": true,
+    "auteurs": [
+     "Jelodar, M."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.48185/sebr.v5i1.1001",
+    "titre": "Role and challenges of ChatGPT, Gemini, and similar generative artificial intelligence in human resource management",
+    "revue": "Studies in Economics and Business Relations",
+    "annee": 2024,
+    "citations": 28,
+    "resume": true,
+    "auteurs": [
+     "Rane, N."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.2139/ssrn.4358789",
+    "titre": "AI as Agency Without Intelligence: On ChatGPT, Large Language Models, and Other Generative Models",
+    "revue": "SSRN Electronic Journal",
+    "annee": 2023,
+    "citations": 28,
+    "resume": false,
+    "auteurs": [
+     "Floridi, L."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.2139/ssrn.4511540",
+    "titre": "Large Language Models and Generative AI in Finance: An Analysis of ChatGPT, Bard, and Bing AI",
+    "revue": "SSRN Electronic Journal",
+    "annee": 2023,
+    "citations": 24,
+    "resume": false,
+    "auteurs": [
+     "Krause, D."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1108/ijchm-01-2025-0159",
+    "titre": "Generative artificial intelligence in human resource management: a critical reflection on impacts, resilience and roles",
+    "revue": "International Journal of Contemporary Hospitality Management",
+    "annee": 2025,
+    "citations": 18,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.2139/ssrn.4603230",
+    "titre": "Role and Challenges of ChatGPT and Similar Generative Artificial Intelligence in Human Resource Management",
+    "revue": "SSRN Electronic Journal",
+    "annee": 2023,
+    "citations": 16,
+    "resume": false,
+    "auteurs": [
+     "Rane, N."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1215/2834703x-11205147",
+    "titre": "Beyond Chatbot-K: On Large Language Models, “Generative AI,” and Rise of Chatbots—An Introduction",
+    "revue": "Critical AI",
+    "annee": 2024,
+    "citations": 15,
+    "resume": true,
+    "auteurs": [
+     "Goodlad, L.",
+     "Stone, M."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.62441/nano-ntp.v20is10.6",
+    "titre": "\"Artificial Intelligence in Human Resource Management: Revolutionizing Recruitment, Performance, and Employee Development\"",
+    "revue": "Nanotechnology Perceptions",
+    "annee": 2024,
+    "citations": 11,
+    "resume": false,
+    "auteurs": [],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1109/mc.2024.3350290",
+    "titre": "Large Language Models and Generative AI, Oh My!",
+    "revue": "Computer",
+    "annee": 2024,
+    "citations": 11,
+    "resume": false,
+    "auteurs": [
+     "Zyda, M."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1177/10525629241294075",
+    "titre": "Leveraging Generative Artificial Intelligence (AI) for Human Resource Management: The AI Job Description Assignment",
+    "revue": "Journal of Management Education",
+    "annee": 2024,
+    "citations": 11,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.1111/1748-8583.12531",
+    "titre": "Correction to “Human resource management in the age of generative artificial intelligence: Perspectives and research directions on ChatGPT”",
+    "revue": "Human Resource Management Journal",
+    "annee": 2023,
+    "citations": 7,
+    "resume": false,
+    "auteurs": [],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1002/hrm.70018",
+    "titre": "Transforming Recruitment and Selection Practices in Organizations Through Discriminative and Generative\n                    <scp>AI</scp>\n                    Adoption: A Structuration Lens",
+    "revue": "Human Resource Management",
+    "annee": 2025,
+    "citations": 6,
+    "resume": true,
+    "auteurs": [
+     "Dutta, D.",
+     "Naveen, P."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.52783/jier.v4i2.767",
+    "titre": "Impacts and Implications of Generative AI and Large Language Models: Redefining Banking Sector",
+    "revue": "Journal of Informatics Education and Research",
+    "annee": 2024,
+    "citations": 5,
+    "resume": false,
+    "auteurs": [],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.37745/gjhrm.2013/vol12n51929",
+    "titre": "Human Resource Management and Generative Artificial Intelligence (ChatGPT): Nexus, Perspectives and Praxis",
+    "revue": "Global Journal of Human Resource Management",
+    "annee": 2024,
+    "citations": 3,
+    "resume": true,
+    "auteurs": [
+     "Ajaero, O.",
+     "Anjorin, J."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.3389/frai.2026.1718244",
+    "titre": "Artificial intelligence in human resource management: models for recruitment, training, performance, compensation, and retention",
+    "revue": "Frontiers in Artificial Intelligence",
+    "annee": 2026,
+    "citations": 3,
+    "resume": true,
+    "auteurs": [
+     "Safshekan, M.",
+     "Feili, A.",
+     "Shojaeifard, A.",
+     "Sorooshian, S."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1177/02655322261458364",
+    "titre": "Assessing Interactional Competence Through Generative AI: Comparing Large Language Models as AI Interlocutors in the Paired Oral Discussion Test",
+    "revue": "Language Testing",
+    "annee": 2026,
+    "citations": 3,
+    "resume": true,
+    "auteurs": [
+     "Na, I."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1016/j.drudis.2025.104593",
+    "titre": "Generative AI in pharmaceutical R&amp;D: From large language models to AI agents to regulation",
+    "revue": "Drug Discovery Today",
+    "annee": 2026,
+    "citations": 3,
+    "resume": false,
+    "auteurs": [],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.47772/ijriss.2025.9010189",
+    "titre": "Harnessing Generative AI in Human Resources: A Strategic Approach to Cost Reduction and Workforce Optimization",
+    "revue": "International journal of research and innovation in social science",
+    "annee": 2025,
+    "citations": 3,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.51244/ijrsi.2026.1303000049",
+    "titre": "Artificial Intelligence and Automation in Indian Human Resource Practices: Ethical Recruitment, Generative AI Integration, Predictive Workforce Planning, and AI-Enabled Leadership Succession",
+    "revue": "International journal of research and scientific innovation",
+    "annee": 2026,
+    "citations": 2,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.1007/s00117-025-01434-0",
+    "titre": "Große Sprachmodelle/Generative KI",
+    "revue": "Die Radiologie",
+    "annee": 2025,
+    "citations": 1,
+    "resume": false,
+    "auteurs": [
+     "Kotter, E.",
+     "Herold, C."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.47772/ijriss.2025.908000437",
+    "titre": "Transforming Human Resource Management: The Role of Artificial Intelligence in Recruitment, Performance Management and Learning and Development",
+    "revue": "International journal of research and innovation in social science",
+    "annee": 2025,
+    "citations": 1,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.47191/ijmei/v12i3.01",
+    "titre": "Role of Generative Artificial Intelligence (ChatGPT) in Human Resource Development: Opportunities, Challenges, and Strategic Implications",
+    "revue": "International Journal of Management and Economics Invention",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Verma, R.",
+     "Thakur, A.",
+     "Kumar, A.",
+     "Barwa, S."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.36719/2789-6919/61/42-58",
+    "titre": "Generative Artificial Intelligence in Human Resource Management: Transformation of Recruitment, Talent Management and Employee Experience",
+    "revue": "SCIENTIFIC RESEARCH",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "?, ?.",
+     "Teymurova, N."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.22381/pihrm11120233",
+    "titre": "Artificial Intelligence Human Resource Management Algorithms for Employee Recruitment, Engagement, and Retention",
+    "revue": "Psychosociological Issues in Human Resource Management",
+    "annee": 2023,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.66512/jcai.1.2.2025.22",
+    "titre": "Artificial Intelligence and Predictive Analytics in Human Resource Management: Redefining Recruitment, Retention, and Performance Evaluation",
+    "revue": "Journal of Cognition and Artificial Intelligence",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Abdul Khaliq, ?."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.64388/irev9i11-1718388",
+    "titre": "Utilization of Artificial Intelligence in Human Resource Management Recruitment: Its Opportunities and Challenges",
+    "revue": "Iconic Research and Engineering Journals",
+    "annee": 2026,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.34218/ijmhrm_16_03_010",
+    "titre": "ADAPTING ARTIFICIAL INTELLIGENCE METHODS FOR DIGITALIZING HUMAN RESOURCE RECRUITMENT",
+    "revue": "INTERNATIONAL JOURNAL OF MARKETING AND HUMAN RESOURCE MANAGEMENT",
+    "annee": 2025,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Palthy, R.",
+     "Tunguturi, S.",
+     "GV, A."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.21825/ewopinpractice.94697",
+    "titre": "Promise or peril? Sentiments shaping the adoption of Generative Artificial Intelligence in Human Resource Management",
+    "revue": "EWOP in Practice",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "van der Merwe, M.",
+     "Veldsman, D."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.21275/es24131185821",
+    "titre": "Revolutionizing Human Resource Management through Artificial Intelligence",
+    "revue": "International Journal of Science and Research (IJSR)",
+    "annee": 2024,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Deepa, P."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.18178/jaai.2024.2.1.79-95",
+    "titre": "Contribution of ChatGPT and Similar Generative Artificial Intelligence for Enhanced Climate Change Mitigation Strategies",
+    "revue": "Journal of Advances in Artificial Intelligence",
+    "annee": 2024,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.51583/ijltemas.2026.150600211",
+    "titre": "Artificial Intelligence in Human Resource Management: Transforming Recruitment, Performance Management, And Employee Retention",
+    "revue": "International Journal of Latest Technology in Engineering Management &amp; Applied Science",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Dr Gyan Prakash Mishra, ?."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.36676/jams.v2.i3.76",
+    "titre": "Transforming Human Resource Management with Artificial Intelligence: Impacts on Recruitment, Employee Engagement, and Organizational Performance",
+    "revue": "Journal of Advanced Management Studies",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Dr. Yogesh Prabhakar Deshmukh, ?."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.12677/ssem.2024.131010",
+    "titre": "Challenges and Countermeasures of Generative Artificial Intelligence ChatGPT in Digital Resource Construction",
+    "revue": "Service Science and Management",
+    "annee": 2024,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "张, 娟."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.56975/ijvra.v4i7.709234",
+    "titre": "A STUDY ON OF ARTIFICIAL INTELLIGENCE IN RECRUITMENT IN HUMAN RESOURCE MANAGEMENT",
+    "revue": "International Journal of Versatile Research and Analysis",
+    "annee": 2026,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Nichitha Manoghna Rao, J.",
+     "Sudha Sagi, M."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.36713/epra24247",
+    "titre": "THE ROLE OF ARTIFICIAL INTELLIGENCE AND DATA ANALYTICS IN ENHANCING HUMAN RESOURCE (HR) RECRUITMENT MANAGEMENT IN U.S. HOSPITALITY MANAGEMENT",
+    "revue": "EPRA International Journal of Economics, Business and Management Studies",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Esther Ompong, ?.",
+     "Clement Aryee, ?."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.3390/info17020150",
+    "titre": "AI-Driven Typography: A Human-Centered Framework for Generative Font Design Using Large Language Models",
+    "revue": "Information",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Dong, Y.",
+     "Gao, M."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.17951/ms.2025.9.11-26",
+    "titre": "Large Language Models as Revolutionary Media Objects: Rethinking Relationality, Agency, and Knowledge in the Age of Generative AI",
+    "revue": "Mediatization Studies",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Lungu, B."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1007/s00146-026-03070-1",
+    "titre": "Generative AI, large language models, and their agentic framing in news media",
+    "revue": "AI &amp; SOCIETY",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Nguyen, D.",
+     "Wischnewski, M."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.2139/ssrn.4761694",
+    "titre": "Exploring Mathematical Spaces using Generative AI and Large Language Models",
+    "revue": "SSRN Electronic Journal",
+    "annee": 2024,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Raeini, M."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1108/shr-03-2026-0026",
+    "titre": "Beyond automation: where AI agents and large language models add value across the HR lifecycle",
+    "revue": "Strategic HR Review",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Rajaeian, M.",
+     "Momtazi, F."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.55248/gengpi.6.0925.3460",
+    "titre": "Role of Large Language Models (LLMs) &amp; Generative AI in Marketing Strategy in current context",
+    "revue": "International Journal of Research Publication and Reviews",
+    "annee": 2025,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Mishra, D."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.63282/3050-9262.ijaidsml-v6i3p111",
+    "titre": "Adversarial AI Defense in Large Language Models &amp; Generative AI",
+    "revue": "International Journal of Artificial Intelligence, Data Science, and Machine Learning",
+    "annee": 2025,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.47191/etj/v10i04.09",
+    "titre": "AI-Driven Burnout Management System: A Novel Approach Using Generative AI, MongoDB Atlas, Python, And Training Large Language Models (LLMs) - Version 3",
+    "revue": "Engineering and Technology Journal",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "?, ?.",
+     "Chanthati, S."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.3390/bdcc10040127",
+    "titre": "Generative AI and Large Language Models",
+    "revue": "Big Data and Cognitive Computing",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Marozzo, F.",
+     "Cantini, R."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.33140/eoa.03.06.05",
+    "titre": "Harnessing Generative AI and Large Language Models for Revolutionizing Cybersecurity in the Internet of Things: Ethical and Privacy Implications",
+    "revue": "Engineering: Open Access",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "?, ?.",
+     "Sammangi, H."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.5007/2175-7968.2025.e108395",
+    "titre": "Large language models in translation quality assessment: The feasibility of human-AI collaboration",
+    "revue": "Cadernos de Tradução",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Wang, C."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.2139/ssrn.4927675",
+    "titre": "Generative Ai Large Language Models and Researching the Law \n&lt;br&gt;",
+    "revue": "SSRN Electronic Journal",
+    "annee": 2024,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Callister, P."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1007/s10579-026-09938-4",
+    "titre": "Hallucinations in generative artificial intelligence and large language models: tests, datasets, detection and correction methods",
+    "revue": "Language Resources and Evaluation",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Naser, M."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1093/humrep/deag083.894",
+    "titre": "L26/P-561 Preconception care meets Artificial Intelligence: evaluating the performance of Generative AI, Large Language Models",
+    "revue": "Human Reproduction",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Ma, Y.",
+     "Grace, B.",
+     "Schoenaker, D.",
+     "Nieroda, M."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.70528/ijlrp.v5.i12.1586",
+    "titre": "Enhancing Software Testing Efficiency with Generative AI and Large Language Models",
+    "revue": "International Journal of Leading Research Publication",
+    "annee": 2024,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "-, M."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.21070/jbmp.v11i2.2192",
+    "titre": "Bibliometric Mapping Of The Literature On Ai In Workforce Recruitment: Visualization Of Trends And Scientific Collaborations",
+    "revue": "JBMP (Jurnal Bisnis Manajemen dan Perbankan)",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.1109/icfts62006.2025.11031918",
+    "titre": "Analysis of Green Human Resource Management Recruitment Multidisciplinary Approach Artificial Intelligence Systems",
+    "revue": "2025 International Conference on Frontier Technologies and Solutions (ICFTS)",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.1109/icaiccit68829.2025.11434434",
+    "titre": "Artificial Intelligence for Strategic Human Resource Management: A Study on AI-Driven Recruitment in IT Companies of Chennai",
+    "revue": "2025 3rd International Conference on Advances in Computation, Communication and Information Technology (ICAICCIT)",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.1109/icdiss68238.2025.11320597",
+    "titre": "Artificial Intelligence in Human Resource Management: Transforming Workforce Optimization, Recruitment, and Employee Engagement",
+    "revue": "2025 International Conference on Digital Innovations for Sustainable Solutions (ICDISS)",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.21744/ijbem.v8n2.2468",
+    "titre": "Human resource management transformation in the digital age: A literature review on the application of artificial intelligence and data analytics in recruitment, training, and employee performance evaluation",
+    "revue": "International Journal of Business, Economics and Management",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.64252/rb2x2888",
+    "titre": "Leveraging Artificial Intelligence In Recruitment: Challenges And Opportunities For Human Resource Management",
+    "revue": "International Journal of Environmental Science",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.66106/kyyyau.20250302",
+    "titre": "The application effect and optimization strategy of artificial intelligence in human resource recruitment and talent evaluation from the perspective of business management (工商管理视域下人工智能在人力资源招聘与人才测评中的应用效果及优化策略)",
+    "revue": "Scientific Research and Application",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.1109/ce2ct64011.2025.10939253",
+    "titre": "Artificial Intelligence in Electronic-Human Resource Management: Transforming Recruitment and Employee Engagement",
+    "revue": "2025 First International Conference on Advances in Computer Science, Electrical, Electronics, and Communication Technologies (CE2CT)",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.51386/25815946/ijsms-v9i2p125",
+    "titre": "The Use of Artificial Intelligence in Human Resource Management Recruitment: A Bibliometric Analysis and Systematic Literature Review of Information Systems Industry",
+    "revue": "International journal of science and management studies",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   }
+  ]
+ },
+ "A3": {
+  "label": "Algorithmic HRM / people analytics",
+  "items": [
+   {
+    "doi": "10.1016/j.hrmr.2022.100925",
+    "titre": "An artificial intelligence algorithmic approach to ethical decision-making in human resource management processes",
+    "revue": "Human Resource Management Review",
+    "annee": 2023,
+    "citations": 328,
+    "resume": false,
+    "auteurs": [
+     "Rodgers, W.",
+     "Murray, J.",
+     "Stefanidis, A.",
+     "Degbey, W.",
+     "Tarba, S."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1016/j.hrmr.2021.100876",
+    "titre": "The duality of algorithmic management: Toward a research agenda on HRM algorithms, autonomy and value creation",
+    "revue": "Human Resource Management Review",
+    "annee": 2023,
+    "citations": 214,
+    "resume": false,
+    "auteurs": [
+     "Meijerink, J.",
+     "Bondarouk, T."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1002/hrm.22168",
+    "titre": "Algorithmic <scp>HRM</scp> control in the gig economy: The app‐worker perspective",
+    "revue": "Human Resource Management",
+    "annee": 2023,
+    "citations": 123,
+    "resume": true,
+    "auteurs": [
+     "Duggan, J.",
+     "Carbery, R.",
+     "McDonnell, A.",
+     "Sherman, U."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1002/hrm.22185",
+    "titre": "Creation of the algorithmic management questionnaire: A six‐phase scale development process",
+    "revue": "Human Resource Management",
+    "annee": 2023,
+    "citations": 99,
+    "resume": true,
+    "auteurs": [
+     "Parent‐Rocheleau, X.",
+     "Parker, S.",
+     "Bujold, A.",
+     "Gaudet, M."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1002/hrm.22211",
+    "titre": "Dark side of algorithmic management on platform worker behaviors: A mixed‐method study",
+    "revue": "Human Resource Management",
+    "annee": 2024,
+    "citations": 66,
+    "resume": true,
+    "auteurs": [
+     "Lu, Y.",
+     "Yang, M.",
+     "Zhu, J.",
+     "Wang, Y."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1002/hrm.22268",
+    "titre": "Strategic Human Resource Management in the Era of Algorithmic Technologies: Key Insights and Future Research Agenda",
+    "revue": "Human Resource Management",
+    "annee": 2024,
+    "citations": 62,
+    "resume": true,
+    "auteurs": [
+     "Kim, S.",
+     "Khoreva, V.",
+     "Vaiman, V."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1002/hrm.22204",
+    "titre": "Blinded by “algo economicus”: Reflecting on the assumptions of algorithmic management research to move forward",
+    "revue": "Human Resource Management",
+    "annee": 2024,
+    "citations": 43,
+    "resume": true,
+    "auteurs": [
+     "Lamers, L.",
+     "Meijerink, J.",
+     "Rettagliata, G."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1002/hrm.22263",
+    "titre": "Exploring the Duality of Perceptions: Insights into Uncertainties, Aversion and Appreciation Towards Algorithmic <scp>HRM</scp>",
+    "revue": "Human Resource Management",
+    "annee": 2024,
+    "citations": 34,
+    "resume": true,
+    "auteurs": [
+     "Tandon, A.",
+     "Dhir, A.",
+     "Malik, A.",
+     "Budhwar, P.",
+     "Kaur, P."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1002/hrm.22294",
+    "titre": "How the Interplay Between Algorithmic\n                    <scp>HRM</scp>\n                    Systems Promotes Gig Workers' Self‐Efficacy: The Role of Technostressors",
+    "revue": "Human Resource Management",
+    "annee": 2025,
+    "citations": 23,
+    "resume": true,
+    "auteurs": [
+     "Wang, C.",
+     "Cong, T.",
+     "Chen, J."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.47941/jts.1513",
+    "titre": "AI-Driven HR Analytics: Unleashing the Power of HR Data Management",
+    "revue": "Journal of Technology and Systems",
+    "annee": 2023,
+    "citations": 20,
+    "resume": true,
+    "auteurs": [
+     "Nyathani, R."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1002/hrm.70009",
+    "titre": "The Dual Effects of Algorithmic Management on Platform Workers: An Attribution Perspective",
+    "revue": "Human Resource Management",
+    "annee": 2025,
+    "citations": 17,
+    "resume": true,
+    "auteurs": [
+     "Zhou, L.",
+     "Lei, X.",
+     "Cooke, F.",
+     "Huang, X.",
+     "Zhang, J."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.5465/amd.2022.0091",
+    "titre": "The Future of HRM Incentivizing Strathern’s Paradox? Workers’ Responses to Algorithmic Human Resource Management",
+    "revue": "Academy of Management Discoveries",
+    "annee": 2024,
+    "citations": 9,
+    "resume": false,
+    "auteurs": [
+     "Scheibmayr, I.",
+     "Reichel, A."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.34047/mmr.2020.7201",
+    "titre": "Application of HR Analytics in Business",
+    "revue": "MET MANAGEMENT REVIEW",
+    "annee": 2023,
+    "citations": 7,
+    "resume": true,
+    "auteurs": [
+     "Virani, D."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1002/hrm.70033",
+    "titre": "Algorithmic Reliability at the Helm: Investigating the Relationship Between Experienced Algorithmic Reliability, Trust, and Work Engagement in the Gig Economy",
+    "revue": "Human Resource Management",
+    "annee": 2025,
+    "citations": 6,
+    "resume": true,
+    "auteurs": [
+     "Lu, Y.",
+     "Yang, M.",
+     "Mitchell, R.",
+     "Boyle, B.",
+     "Gu, J."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1080/09585192.2024.2444325",
+    "titre": "Navigating algorithmic paradox management: the role of workplace game engagement and regulatory focus",
+    "revue": "The International Journal of Human Resource Management",
+    "annee": 2025,
+    "citations": 6,
+    "resume": false,
+    "auteurs": [
+     "Zhang, Z.",
+     "Yin, K.",
+     "Cai, Z.",
+     "Liu, G."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1080/09585192.2024.2392830",
+    "titre": "A role perspective on flexible human resource practices and older workers’ early retirement intentions",
+    "revue": "The International Journal of Human Resource Management",
+    "annee": 2024,
+    "citations": 6,
+    "resume": false,
+    "auteurs": [
+     "Cui, G.",
+     "Sun, J.",
+     "Kooij, D."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1016/j.hrmr.2026.101135",
+    "titre": "A meta-analysis on reactions to algorithmic decision-making in human resource management",
+    "revue": "Human Resource Management Review",
+    "annee": 2026,
+    "citations": 5,
+    "resume": false,
+    "auteurs": [
+     "Moritz, J.",
+     "Pomrehn, L.",
+     "Steinmetz, H.",
+     "Wehner, M."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1108/joepp-06-2023-0246",
+    "titre": "HR analytics and the data collection process: the role of attributions and perceived legitimacy in explaining employees’ fear of datafication",
+    "revue": "Journal of Organizational Effectiveness: People and Performance",
+    "annee": 2024,
+    "citations": 4,
+    "resume": true,
+    "auteurs": [
+     "Rigamonti, E.",
+     "Colaiacovo, B.",
+     "Gastaldi, L.",
+     "Corso, M."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1080/23270012.2025.2515112",
+    "titre": "Unleashing the value of HR analytics: examining the competency influence on business performance in Sri Lanka",
+    "revue": "Journal of Management Analytics",
+    "annee": 2025,
+    "citations": 3,
+    "resume": false,
+    "auteurs": [
+     "Opatha, H.",
+     "Dayarathna, N.",
+     "Dowling, P.",
+     "Bartram, T."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1177/15344843251359149",
+    "titre": "The Competence Paradox: Rethinking Goal-Setting in the Age of Algorithmic Management",
+    "revue": "Human Resource Development Review",
+    "annee": 2025,
+    "citations": 3,
+    "resume": true,
+    "auteurs": [
+     "Ofem, O."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1108/shr-09-2024-0072",
+    "titre": "Leveraging HR analytics for employee development: good for employees, organizations, and society",
+    "revue": "Strategic HR Review",
+    "annee": 2024,
+    "citations": 2,
+    "resume": true,
+    "auteurs": [
+     "Yin, J."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1002/hrm.70073",
+    "titre": "Balancing Efficiency and Safety: How and When Algorithmic Management Induces Gig Workers' Unsafe Behavior",
+    "revue": "Human Resource Management",
+    "annee": 2026,
+    "citations": 2,
+    "resume": true,
+    "auteurs": [
+     "Zhu, Y.",
+     "Long, L.",
+     "Huang, S.",
+     "Zhang, Y.",
+     "Huang, Z."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1002/hrm.70019",
+    "titre": "Algorithmic Management in Limbo: Task‐Driven Interweaving of Hierarchy and Market Management",
+    "revue": "Human Resource Management",
+    "annee": 2025,
+    "citations": 2,
+    "resume": true,
+    "auteurs": [
+     "Robinson, A.",
+     "Jarrahi, M.",
+     "Keegan, A.",
+     "Meijerink, J."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1057/s41599-026-06989-4",
+    "titre": "Algorithmic human resource management as a mode of algorithmic governance: transparency, fairness, and human agency in the digital workplace",
+    "revue": "Humanities and Social Sciences Communications",
+    "annee": 2026,
+    "citations": 2,
+    "resume": false,
+    "auteurs": [
+     "Chen, Z."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.37745/gjhrm.2013/vol12n290111",
+    "titre": "Measuring HR Analytics Application and HR Analytics Competencies of HR Professionals: Towards Operationalization from Conceptualization",
+    "revue": "Global Journal of Human Resource Management",
+    "annee": 2024,
+    "citations": 1,
+    "resume": true,
+    "auteurs": [
+     "H.H.D.P.J., O.",
+     "N.W.K.D.K., D."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.57030/asci.25.3.as4",
+    "titre": "HR Analytics: Leveraging Big Data for Talent Management and Decision Making",
+    "revue": "Acta Scientiae",
+    "annee": 2024,
+    "citations": 1,
+    "resume": false,
+    "auteurs": [],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1177/22297561241295801",
+    "titre": "HR Analytics in Human Resource Department: Role, Opportunities and Challenges Faced by Employees of Private Banks",
+    "revue": "Journal of Development Research",
+    "annee": 2024,
+    "citations": 1,
+    "resume": true,
+    "auteurs": [
+     "Gohain, A.",
+     "Sanyal, J."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.31891/2307-5740-2023-320-4-29",
+    "titre": "ADVANTAGES OF THE IMPLEMENTATION OF HR-ANALYTICS IN ENTERPRISE MANAGEMENT",
+    "revue": "Herald of Khmelnytskyi National University. Economic sciences",
+    "annee": 2023,
+    "citations": 1,
+    "resume": true,
+    "auteurs": [
+     "BAKSALOVA, O.",
+     "GLUSHKO, T.",
+     "HORBATIUK, O.",
+     "KOSHONKO, O.",
+     "?, ?."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1002/hrm.70062",
+    "titre": "No One Is an Island: How Online Community Support Moderates the Dual Motivational Pathways From Perceived Algorithmic Management Practices to Service Performance",
+    "revue": "Human Resource Management",
+    "annee": 2026,
+    "citations": 1,
+    "resume": true,
+    "auteurs": [
+     "Zhang, Z.",
+     "Zhang, S.",
+     "Liu, C.",
+     "Zhang, H.",
+     "Liu, J."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1177/23970022251387667",
+    "titre": "Work from anywhere, but where? Understanding knowledge workers’ work location selection",
+    "revue": "German Journal of Human Resource Management: Zeitschrift für Personalforschung",
+    "annee": 2026,
+    "citations": 1,
+    "resume": true,
+    "auteurs": [
+     "Kuchenbauer, M.",
+     "Bešić, A."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.23925/recape.v16i1.63019",
+    "titre": "Percepção de profissionais de recursos humanos sobre People Analytics",
+    "revue": "Revista de Carreiras e Pessoas",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Luccas, T."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.52340/eeu.2024.01.02",
+    "titre": "HR ANALYTICS AND DATA-DRIVEN HR MANAGEMENT",
+    "revue": "Collection of Scientific Papers",
+    "annee": 2026,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Kvirchishvili, L."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1007/s12176-024-1400-5",
+    "titre": "HR-Transformation durch People Analytics",
+    "revue": "Controlling &amp; Management Review",
+    "annee": 2024,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Weller, R.",
+     "Zelt, S."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.31510/infa.v21i2.2060",
+    "titre": "DATA SCIENCE EM PEOPLE ANALYTICS",
+    "revue": "Revista Interface Tecnológica",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Araújo, L.",
+     "Ravazi, D."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.51244/ijrsi.2026.1306000424",
+    "titre": "HR Analytics and People Analytics: Applications, Challenges, and Future Research Directions",
+    "revue": "International Journal of Research and Scientific Innovation",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Asante, S."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.55463/issn.1674-2974.52.11.5",
+    "titre": "HR Management Strategies in the Digital Era: Optimizing Performance and Productivity with Artificial Intelligence and People Analytics",
+    "revue": "Journal of Hunan University Natural Sciences",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.52783/eel.v13i5.828",
+    "titre": "A Case Study on HR Analytics Employee Attrition Using Predictive Analytics",
+    "revue": "European Economic Letters",
+    "annee": 2023,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.59613/hsg5f983",
+    "titre": "Implementation of People Analytics in HR Management to Improve Employee Performance and Job Satisfaction",
+    "revue": "The Journal of Academic Science",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Lelo, E."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.21917/ijms.2026.0358",
+    "titre": "ALGORITHMIC FAIRNESS IN HR ANALYTICS: EXAMINING JUSTICE PERCEPTIONS, TRUST IN AI AND EMPLOYEE READINESS FOR INNOVATION",
+    "revue": "ICTACT Journal on Management Studies",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Suvarna, A.",
+     "Gowda, V."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.34293/management.v11is1-mar.8098",
+    "titre": "AI-Driven HR Analytics: Unleashing the Power of HR Data Management",
+    "revue": "Shanlax International Journal of Management",
+    "annee": 2024,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Dadheech, H."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.21608/msamsj.2026.489358.1172",
+    "titre": "Examining the Effect of HR Analytics on Employee Decision-Making: The Role of Digital Competency among Government Employees in Public Institutions in Tanzania.",
+    "revue": "MSA-Management Sciences Journal",
+    "annee": 2026,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Thomas, P."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.55041/isjem08443",
+    "titre": "Integrating Predictive Modeling, Algorithmic Fairness, and Explainable AI for Transparent Employee Performance Evaluation: An Empirical Illustration Using the IBM HR Analytics Dataset",
+    "revue": "International Scientific Journal of Engineering and Management",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Narayan, S."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.14254/jems.2026.11-1.9",
+    "titre": "HR analytics for evidence-based people management: A structured synthesis of methods, decision interfaces, and governance principles for sustainable organizations",
+    "revue": "Economics, Management and Sustainability",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Boiaryn, T."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.34218/ijmhrm_17_02_002",
+    "titre": "LEVERAGING PREDICTIVE HR ANALYTICS FOR TURNOVER AND RETENTION: EMPLOYEES’ READINESS FOR ORGANIZATION CHANGE",
+    "revue": "INTERNATIONAL JOURNAL OF MARKETING AND HUMAN RESOURCE MANAGEMENT",
+    "annee": 2026,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Soundarya, R.",
+     "Kumar, K.",
+     "Muthusait, P."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.7176/ejbm/15-8-06",
+    "titre": "HR Analytics: Concept, Application, and Impact on Talent Management, Branding, and Challenges",
+    "revue": "European Journal of Business and Management",
+    "annee": 2023,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.55041/ijsrem64007",
+    "titre": "Employee Performance Enhancement Through Data Analytics: A Study on HR Analytics in Modern Organizations",
+    "revue": "International Journal of Scientific Research in Engineering and Management",
+    "annee": 2026,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Anjali Kumari, A."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1080/09585192.2026.2632207",
+    "titre": "Enhancing gig workers’ acceptance and mitigating algorithm aversion: impact of algorithmic transparency from the cognitive appraisal theory perspective",
+    "revue": "The International Journal of Human Resource Management",
+    "annee": 2025,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Yang, Y.",
+     "Chen, K.",
+     "Dong, J."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.47392/irjaem.2026.0077",
+    "titre": "Human Resource Management in the Gig Economy: A study on sustainable HRM practices in Gig workers in the era of Algorithmic control.",
+    "revue": "International Research Journal on Advanced Engineering and Management (IRJAEM)",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Shilpa Sharma, ?."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.5465/amproc.2024.19675abstract",
+    "titre": "The Paradox of Algorithmic Human Resource Management: Based on Technology Affordance Theory",
+    "revue": "Academy of Management Proceedings",
+    "annee": 2024,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Zou, Y.",
+     "Zhou, Y."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.25236/ajbm.2026.080412",
+    "titre": "Unpacking the Trust Crisis in Human Resource Decision-Making under Algorithmic Management: Deep Causes and Optimization Paths",
+    "revue": "Academic Journal of Business &amp; Management",
+    "annee": 2026,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [],
+    "source": "crossref"
+   }
+  ]
+ },
+ "A4": {
+  "label": "Confiance, transparence, explicabilité",
+  "items": [
+   {
+    "doi": "10.1016/j.csbj.2024.08.005",
+    "titre": "Unveiling the black box: A systematic review of Explainable Artificial Intelligence in medical image analysis",
+    "revue": "Computational and Structural Biotechnology Journal",
+    "annee": 2024,
+    "citations": 193,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.3389/frai.2025.1526221",
+    "titre": "A systematic review on the integration of explainable artificial intelligence in intrusion detection systems to enhancing transparency and interpretability in cybersecurity",
+    "revue": "Frontiers Artif. Intell.",
+    "annee": 2025,
+    "citations": 102,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.33847/2712-8148.4.1_4",
+    "titre": "Unlocking the Black Box: Explainable Artificial Intelligence (XAI) for Trust and Transparency in AI Systems",
+    "revue": "Journal of Digital Art &amp; Humanities",
+    "annee": 2023,
+    "citations": 81,
+    "resume": true,
+    "auteurs": [
+     "Thalpage, N."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1371/journal.pone.0308758",
+    "titre": "Evaluating Explainable Artificial Intelligence (XAI) techniques in chest radiology imaging through a human-centered Lens",
+    "revue": "PLoS ONE",
+    "annee": 2024,
+    "citations": 62,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.1007/s11846-024-00748-y",
+    "titre": "Consumer responses to human-AI collaboration at organizational frontlines: strategies to escape algorithm aversion in content creation",
+    "revue": "Review of Managerial Science",
+    "annee": 2024,
+    "citations": 47,
+    "resume": true,
+    "auteurs": [
+     "Haupt, M.",
+     "Freidank, J.",
+     "Haas, A."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1057/s41599-025-05116-z",
+    "titre": "AI algorithm transparency, pipelines for trust not prisms: mitigating general negative attitudes and enhancing trust toward AI",
+    "revue": "Humanities and Social Sciences Communications",
+    "annee": 2025,
+    "citations": 35,
+    "resume": false,
+    "auteurs": [
+     "Park, K.",
+     "Yoon, H."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.3390/s25030854",
+    "titre": "Securing the 6G–IoT Environment: A Framework for Enhancing Transparency in Artificial Intelligence Decision-Making Through Explainable Artificial Intelligence",
+    "revue": "Sensors",
+    "annee": 2025,
+    "citations": 34,
+    "resume": true,
+    "auteurs": [
+     "Kaur, N.",
+     "Gupta, L."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1109/access.2025.3587114",
+    "titre": "A Comprehensive Survey of Explainable Artificial Intelligence Techniques for Malicious Insider Threat Detection",
+    "revue": "IEEE Access",
+    "annee": 2025,
+    "citations": 31,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.1016/j.engappai.2025.110427",
+    "titre": "A Multi-Module Explainable Artificial Intelligence Framework for Project Risk Management: Enhancing Transparency in Decision-making",
+    "revue": "Engineering Applications of Artificial Intelligence",
+    "annee": 2025,
+    "citations": 29,
+    "resume": false,
+    "auteurs": [
+     "Badhon, B.",
+     "Chakrabortty, R.",
+     "Anavatti, S.",
+     "Vanhoucke, M."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1016/j.accinf.2023.100664",
+    "titre": "Algorithm aversion, emotions, and investor reaction: Does disclosing the use of AI influence investment decisions?",
+    "revue": "International Journal of Accounting Information Systems",
+    "annee": 2024,
+    "citations": 25,
+    "resume": false,
+    "auteurs": [
+     "Downen, T.",
+     "Kim, S.",
+     "Lee, L."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1109/access.2025.3556245",
+    "titre": "Effect of Explainable Artificial Intelligence on Trust of Mental Health Professionals in an AI-Based System for Suicide Prevention",
+    "revue": "IEEE Access",
+    "annee": 2025,
+    "citations": 17,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.70937/itej.v2i01.53",
+    "titre": "Explainable AI In E-Commerce: Enhancing Trust And Transparency In AI-Driven Decisions",
+    "revue": "Innovatech Engineering Journal",
+    "annee": 2024,
+    "citations": 16,
+    "resume": true,
+    "auteurs": [
+     "Sarkar, M."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.36948/ijfmr.2024.v06i06.30010",
+    "titre": "Explainable Artificial Intelligence (XAI) in Healthcare: Enhancing Transparency and Trust",
+    "revue": "International Journal For Multidisciplinary Research",
+    "annee": 2024,
+    "citations": 14,
+    "resume": true,
+    "auteurs": [
+     "-, J.",
+     "-, V.",
+     "-, J."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.3390/fi16070241",
+    "titre": "Explainable Artificial Intelligence Methods to Enhance Transparency and Trust in Digital Deliberation Settings",
+    "revue": "Future Internet",
+    "annee": 2024,
+    "citations": 10,
+    "resume": true,
+    "auteurs": [
+     "Siachos, I.",
+     "Karacapilidis, N."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1108/jkm-06-2025-0870",
+    "titre": "Dancing with the algorithm: a framework to navigate knowledge and autonomy in AI-assisted managerial decisions",
+    "revue": "Journal of Knowledge Management",
+    "annee": 2025,
+    "citations": 8,
+    "resume": true,
+    "auteurs": [
+     "Cristofaro, M.",
+     "Bañón-Gomis, A."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1016/j.compbiomed.2024.109556",
+    "titre": "Exploring transparency: A comparative analysis of explainable artificial intelligence techniques in retinography images to support the diagnosis of glaucoma",
+    "revue": "Comput. Biol. Medicine",
+    "annee": 2024,
+    "citations": 7,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.51594/csitrj.v6i5.1934",
+    "titre": "Explainable Artificial Intelligence (Al) through human-AI collaborative frameworks: Quantifying trust and interpretability in high-stakes decisions",
+    "revue": "Computer Science &amp; IT Research Journal",
+    "annee": 2025,
+    "citations": 6,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.3390/admsci15080308",
+    "titre": "Trusting Humans or Bots? Examining Trust Transfer and Algorithm Aversion in China’s E-Government Services",
+    "revue": "Administrative Sciences",
+    "annee": 2025,
+    "citations": 5,
+    "resume": true,
+    "auteurs": [
+     "Song, Y.",
+     "Natori, T.",
+     "Yu, X."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.3390/su17041361",
+    "titre": "Improving Crowdfunding Decisions Using Explainable Artificial Intelligence",
+    "revue": "Sustainability",
+    "annee": 2025,
+    "citations": 4,
+    "resume": true,
+    "auteurs": [
+     "Gregoriades, A.",
+     "Themistocleous, C."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1007/s00146-024-02066-z",
+    "titre": "The end of algorithm aversion",
+    "revue": "AI &amp; SOCIETY",
+    "annee": 2024,
+    "citations": 4,
+    "resume": false,
+    "auteurs": [
+     "Chacon, A."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1016/j.agsy.2025.104630",
+    "titre": "Algorithm aversion in agricultural decision-making: Trust dynamics, barriers, and fertiliser-related decision support",
+    "revue": "Agricultural Systems",
+    "annee": 2026,
+    "citations": 4,
+    "resume": false,
+    "auteurs": [
+     "Grant, J.",
+     "Scharpenberg, D.",
+     "Manning, L."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1007/s10479-025-06575-y",
+    "titre": "A novel explainable artificial intelligence framework using knockoffs techniques with applications to sports analytics",
+    "revue": "Annals of Operations Research",
+    "annee": 2025,
+    "citations": 4,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.1002/mde.4153",
+    "titre": "Timing and green decisions for competitive manufacturers under demand uncertainty and risk aversion",
+    "revue": "Managerial and Decision Economics",
+    "annee": 2024,
+    "citations": 3,
+    "resume": true,
+    "auteurs": [
+     "Li, H.",
+     "Tan, Y."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.5220/0013289600003928",
+    "titre": "Towards an Evaluation Framework for Explainable Artificial Intelligence Systems for Health and Well-Being",
+    "revue": "International Conference on Evaluation of Novel Approaches to Software Engineering",
+    "annee": 2025,
+    "citations": 3,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.37547/tajet/volume07issue08-02",
+    "titre": "Explainable AI (XAI) in Business Intelligence: Enhancing Trust and Transparency in Enterprise Analytics",
+    "revue": "The American Journal of Engineering and Technology",
+    "annee": 2025,
+    "citations": 2,
+    "resume": true,
+    "auteurs": [
+     "?, ?.",
+     "Madabhushini, I."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.48161/qtj.v4n3a70",
+    "titre": "From Data to Pedagogy: Leveraging Explainable Artificial Intelligence to Enhance Trust, Transparency, and Effectiveness in Intelligent Learning Systems",
+    "revue": "Qubahan Techno Journal",
+    "annee": 2025,
+    "citations": 1,
+    "resume": true,
+    "auteurs": [
+     "Rauan N. Alibayeva, ?.",
+     "Sojida Umirzakovna Allayarova, ?."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.59982/18294359-24.2-bg-18",
+    "titre": "BALANCING TRANSPARENCY AND PERFORMANCE: A COMPARATIVE ANALYSIS OF EXPLAINABLE ARTIFICIAL INTELLIGENCE (XAI) TECHNIQUES ACROSS DOMAINS",
+    "revue": "\"European University\" Scientific Collection of Articles",
+    "annee": 2024,
+    "citations": 1,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.56726/irjmets97899",
+    "titre": "EXPLAINABLE ARTIFICIAL INTELLIGENCE (XAI): ENHANCING TRANSPARENCY AND TRUST IN AI SYSTEMS",
+    "revue": "International Research Journal of Modernization in Engineering Technology &amp; Science",
+    "annee": 2026,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.64643/ijirtv12i7-191723-459",
+    "titre": "Enhancing Transparency and Trust in Artificial Intelligence Systems Using Explainable AI (XAI) Techniques",
+    "revue": "International Journal of Innovative Research in Technology",
+    "annee": 2026,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.63282/3050-9262.ijaidsml-v4i1p106",
+    "titre": "Explainable AI in Healthcare: Ensuring Trust and Transparency in ML Clinical Decision Systems",
+    "revue": "International Journal of Artificial Intelligence, Data Science, and Machine Learning",
+    "annee": 2023,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.52783/eel.v15i3.3729",
+    "titre": "Artificial Intelligence in Hiring and Recruitment: A Comprehensive Bibliometric Analysis of Trends and Innovations",
+    "revue": "European Economic Letters",
+    "annee": 2025,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.58425/jpms.v2i1.570",
+    "titre": "Explainable Artificial Intelligence (XAI) for Project Governance: Improving Transparency and Stakeholder Trust in Automated Project Decision",
+    "revue": "Journal of Project Management Studies",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Philip, P."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.47738/ijrm.v3i2.48",
+    "titre": "Enhancing Trust and Transparency in Metaverse Financial Systems Through Explainable Artificial Intelligence for Risk Assessment",
+    "revue": "International Journal Research on Metaverse",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Mohammed, R."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.21474/jncs01/132",
+    "titre": "EXPLAINABLE ARTIFICIAL INTELLIGENCE FOR CYBERSECURITY THREAT DETECTION: IMPROVING TRUST AND TRANSPARENCY IN INTELLIGENT SECURITY SYSTEMS",
+    "revue": "Jana Nexus: Journal of Computer Science",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Hassan, Z.",
+     "Rodriguez, L.",
+     "Carter, E."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.18535/ijsrm/v14i03.em03",
+    "titre": "Perceptions of Online Recruitment in Bangladesh: Exploring Trust, Fairness, and Transparency in Digital Hiring",
+    "revue": "International Journal of Scientific Research and Management (IJSRM)",
+    "annee": 2026,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Arifuzzaman, M.",
+     "Ome, N."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1002/mar.70129",
+    "titre": "Transparency Matters: Psychological Ownership and Trust as Mediators of Explainable Artificial Intelligence Effectiveness",
+    "revue": "Psychology &amp; Marketing",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Malodia, S.",
+     "Shukla, Y.",
+     "Sharma, K.",
+     "Bilgihan, A."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.3390/fintech5030060",
+    "titre": "Explainable Artificial Intelligence in Financial Fraud Detection: A Systematic Review and FinTech-Oriented ADO–TCCM Meta-Framework for Trust, Governance, and Transparency",
+    "revue": "FinTech",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Gupta, D.",
+     "Chugh, P.",
+     "Sood, K.",
+     "Grima, S."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.64643/ijirtv12i11-198336-459",
+    "titre": "Explainable Artificial Intelligence (XAI) for Decision Transparency",
+    "revue": "International Journal of Innovative Research in Technology",
+    "annee": 2026,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1007/s44163-026-01219-x",
+    "titre": "Building trustworthy Artificial Intelligence through transparency explainability uncertainty and trust calibration",
+    "revue": "Discover Artificial Intelligence",
+    "annee": 2026,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Guo, H.",
+     "Polak, P."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.36349/fujpam.2026.v5i01.013",
+    "titre": "ARTIFICIAL INTELLIGENCE–ENABLED RECRUITMENT SYSTEMS AND TRANSPARENCY IN PUBLIC SECTOR HIRING: EVIDENCE FROM THE NATIONAL IDENTITY MANAGEMENT  COMMISSION (NIMC), NIGERIA",
+    "revue": "FUGUS Journal of Public Administration and Management",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Samuel, E."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1007/s13218-026-00911-5",
+    "titre": "Explainable AI is far more than an Additional Technical Feature: A Conversation with Philipp A. Toussaint about Transparency, Trust, and the Future of Artificial Intelligence in Healthcare",
+    "revue": "KI - Künstliche Intelligenz",
+    "annee": 2026,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Toussaint, P."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1142/s2424862225500095",
+    "titre": "Enhancing Project Management Decision-Making with Explainable Artificial Intelligence (XAI): A Model for Transparency and Trust",
+    "revue": "Journal of Industrial Integration and Management",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Wagan, S.",
+     "Sidra, S."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.21275/sr26705230110",
+    "titre": "Scoring the Score: An Empathy, Trust and Accountability Lens for Auditing AI-Assisted Hiring Decisions",
+    "revue": "International Journal of Science and Research (IJSR)",
+    "annee": 2026,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Fernandes, J."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.7206/cid.3071-7973.9",
+    "titre": "No Algorithm Aversion in Improving AI",
+    "revue": "Collective and Individual Decisions",
+    "annee": 2025,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Milczarski, W.",
+     "Borkowska, A.",
+     "Biesiada, E.",
+     "Russak, L.",
+     "Białek, M."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.3390/math13213528",
+    "titre": "Time-Series Recommendation Quality, Algorithm Aversion, and Data-Driven Decisions: A Temporal Human–AI Interaction Perspective",
+    "revue": "Mathematics",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Jiang, S.",
+     "Chen, T.",
+     "Tan, Y.",
+     "Gao, S.",
+     "Li, L."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.4992/pacjpa.89.0_459",
+    "titre": "Algorithm Aversion in Social Context: Group-Based Human Decisions and the Role of Trust",
+    "revue": "The Proceedings of the Annual Convention of the Japanese Psychological Association",
+    "annee": 2025,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Sugitani, Y."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.32743/unitech.2025.135.6.20431",
+    "titre": "EXPLAINABLE AI METHODS AND THEIR APPLICATIONS IN FINANCIAL AND MANAGERIAL DECISIONS",
+    "revue": "Universum:Technical sciences",
+    "annee": 2025,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Chmelev, A."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.65114/aide.74mb6abq",
+    "titre": "AI-Enabled People Analytics: A Review of Ethics, Skill Gaps, and Trust",
+    "revue": "AI DECISIONS",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Fraz, K.",
+     "Khattak, A."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.37539/2949-1991.2025.28.5.011",
+    "titre": "EXPLAINABILITY AND TRUST IN AI-DRIVEN FINANCIAL DECISIONS",
+    "revue": "Флагман науки",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Ogunniyi, O."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.2139/ssrn.5363415",
+    "titre": "&lt;p&gt;&lt;b&gt;&lt;i&gt;Algorithm Aversion, Emotions, And Investor Reaction: Does Disclosing the Use of AI Influence Investment Decisions?&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;",
+    "revue": "SSRN Electronic Journal",
+    "annee": 2025,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Downen, T.",
+     "Kim, S.",
+     "Lee, L."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1080/10447318.2026.2651345",
+    "titre": "Beyond Algorithm Aversion: The Role of Power Relationships in Shaping Mutual Trust in Human-AI Team",
+    "revue": "International Journal of Human–Computer Interaction",
+    "annee": 2026,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Xie, Y.",
+     "Liu, Z.",
+     "Zhou, R.",
+     "Chan, A.",
+     "Tan, B."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.5465/amproc.2026.11481abstract",
+    "titre": "Gendered Sensemaking in AI-Supported Managerial Decisions",
+    "revue": "Academy of Management Proceedings",
+    "annee": 2026,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Roopaei, M.",
+     "Ketabchi, A."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.4018/irmj.414355",
+    "titre": "The More You Know, the Less You Trust",
+    "revue": "Information Resources Management Journal",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Lee, J.",
+     "Keil, M.",
+     "Lee, J."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.36348/sjef.2026.v10i04.001",
+    "titre": "Cognitive Biases in Managerial Pricing Decisions: Anchoring, Loss Aversion, and Overconfidence Effects on Pricing Accuracy",
+    "revue": "Saudi Journal of Economics and Finance",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Sekhar, S."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1177/0272989x261467775",
+    "titre": "AI Aversion: Do People Trust and Accept Artificial Intelligence Risk Calculator Recommendations?",
+    "revue": "Medical Decision Making",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Ramasubramanian, M.",
+     "Zikmund-Fisher, B."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.29119/1641-3466.2025.239.1",
+    "titre": "Trust and responsibility in AI-driven leadership: accountability for ai decisions",
+    "revue": "Scientific Papers of Silesian University of Technology Organization and Management Series",
+    "annee": 2025,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.29119/1641-3466.2026.239.1",
+    "titre": "Trust and responsibility in AI-driven leadership: accountability for ai decisions",
+    "revue": "Scientific Papers of Silesian University of Technology Organization and Management Series",
+    "annee": 2026,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.5465/amproc.2026.274bp",
+    "titre": "Experience With AI Algorithms And Algorithm Aversion In AI-Supported Medical Care ",
+    "revue": "Academy of Management Proceedings",
+    "annee": 2026,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Preti, L.",
+     "Compagni, A.",
+     "Cappellaro, G.",
+     "Vanneste, B."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1109/icaiss68683.2026.11526676",
+    "titre": "Explainable AI Framework for Transparent and Fair Recruitment Decision-Making in Automated HR Systems",
+    "revue": "2026 Fourth International Conference on Augmented Intelligence and Sustainable Systems (ICAISS)",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.55041/ijsrem50733",
+    "titre": "Trust in Artificial Intelligence vs. Human Recruiters: Analyzing Candidate Perceptions of Credibility, Ethical Considerations and Decision-Making Transparency in Hiring Process",
+    "revue": "INTERNATIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.48550/arxiv.2604.16340",
+    "titre": "How Can Explainable Artificial Intelligence Improve Trust and Transparency in Medical Diagnosis Systems?",
+    "revue": "arXiv.org",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.31435/ijitss.1(49).2026.4676",
+    "titre": "EXPLAINABLE ARTIFICIAL INTELLIGENCE IN HEALTHCARE: FROM ALGORITHMIC TRANSPARENCY TO TRUST AND SOCIAL ACCEPTANCE IN CLINICAL PRACTICE",
+    "revue": "International Journal of Innovative Technologies in Social Science",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.35629/5252-07040105",
+    "titre": "Advancing Transparency and DecisionMaking in Job Scheduling through Explainable Artificial Intelligence (AI)",
+    "revue": "International Journal of Advances in Engineering and Management",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.56097/binhduonguniversityjournalofscienceandtechnology.v8i2.322",
+    "titre": "Fintech adoption in Vietnam: The moderating role of explainable artificial intelligence",
+    "revue": "Tập san Khoa học và kỹ thuật trường Đại học Bình Dương",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.1109/cbms65348.2025.00125",
+    "titre": "Explanation Supported Learning: Improving Prediction Performance with Explainable Artificial Intelligence",
+    "revue": "2025 IEEE 38th International Symposium on Computer-Based Medical Systems (CBMS)",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.30574/ijsra.2025.17.3.3376",
+    "titre": "Explainable Artificial Intelligence: Bridging the gap between deep learning and human interpretability",
+    "revue": "International Journal of Science and Research Archive",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   }
+  ]
+ },
+ "A5": {
+  "label": "Remplacement perçu, insécurité d'emploi",
+  "items": [
+   {
+    "doi": "10.1007/s10869-024-09963-6",
+    "titre": "The Buffering Role of Workplace Mindfulness: How Job Insecurity of Human-Artificial Intelligence Collaboration Impacts Employees’ Work–Life-Related Outcomes",
+    "revue": "Journal of Business and Psychology",
+    "annee": 2024,
+    "citations": 109,
+    "resume": false,
+    "auteurs": [
+     "Wu, T.",
+     "Liang, Y.",
+     "Wang, Y."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1016/j.jik.2024.100590",
+    "titre": "How artificial intelligence-induced job insecurity shapes knowledge dynamics: the mitigating role of artificial intelligence self-efficacy",
+    "revue": "Journal of Innovation &amp; Knowledge",
+    "annee": 2024,
+    "citations": 82,
+    "resume": false,
+    "auteurs": [
+     "Kim, B.",
+     "Kim, M."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1016/j.actpsy.2025.104733",
+    "titre": "Artificial intelligence and employee outcomes: Investigating the role of job insecurity and technostress in the hospitality industry.",
+    "revue": "Acta Psychologica",
+    "annee": 2025,
+    "citations": 79,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.1108/ijchm-01-2024-0051",
+    "titre": "The double-edged sword effect of artificial intelligence awareness among hotel employees",
+    "revue": "International Journal of Contemporary Hospitality Management",
+    "annee": 2025,
+    "citations": 36,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.3390/bs14100974",
+    "titre": "The Effect of Job Skill Demands Under Artificial Intelligence Embeddedness on Employees’ Job Performance: A Moderated Double-Edged Sword Model",
+    "revue": "Behavioral Sciences",
+    "annee": 2024,
+    "citations": 26,
+    "resume": true,
+    "auteurs": [
+     "Chen, N.",
+     "Zhao, X.",
+     "Wang, L."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1002/sd.3376",
+    "titre": "The Dark Sides of Artificial Intelligence Implementation: Examining How Corporate Social Responsibility Buffers the Impact of Artificial Intelligence‐Induced Job Insecurity on Pro‐Environmental Behavior Through Meaningfulness of Work",
+    "revue": "Sustainable Development",
+    "annee": 2025,
+    "citations": 23,
+    "resume": true,
+    "auteurs": [
+     "Kim, B.",
+     "Lee, J."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.3389/frai.2024.1337264",
+    "titre": "“Machine replacement” or “job creation”: How does artificial intelligence impact employment patterns in China's manufacturing industry?",
+    "revue": "Frontiers in Artificial Intelligence",
+    "annee": 2024,
+    "citations": 18,
+    "resume": true,
+    "auteurs": [
+     "Huo, Q.",
+     "Ruan, J.",
+     "Cui, Y."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.4018/jgim.372177",
+    "titre": "Unveiling the Impact of AI Technological Anxiety on the Marketers' Intention to Adopt Generative AI",
+    "revue": "Journal of Global Information Management",
+    "annee": 2025,
+    "citations": 18,
+    "resume": true,
+    "auteurs": [
+     "Tao, M.",
+     "Li, X.",
+     "Alam, F.",
+     "Yan, Y.",
+     "Chau, T."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1051/e3sconf/202338803021",
+    "titre": "The Association Between Smart Technology, Artificial Intelligence, Robotics, and Algorithms (STARA) Awareness, Job Stress, Job Insecurity, and Job Satisfaction Among Hotel Employees During COVID-19 Pandemic",
+    "revue": "E3S Web of Conferences",
+    "annee": 2023,
+    "citations": 16,
+    "resume": true,
+    "auteurs": [
+     "Lestari, N.",
+     "Rosman, D.",
+     "Millenia, E."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1016/j.techfore.2025.124326",
+    "titre": "The fear of being replaced by generative AI: An examination of influential factors among office workers",
+    "revue": "Technological Forecasting and Social Change",
+    "annee": 2025,
+    "citations": 14,
+    "resume": false,
+    "auteurs": [
+     "Jo, H.",
+     "Park, D."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.62019/abbdm.v3i1.35",
+    "titre": "Data-driven Artificial Intelligence at the Crossroads: Investigating the Role of Affective Job Insecurity in the relationship between Artificial Intelligence Identity Threat and Employee Well-Being",
+    "revue": "The Asian Bulletin of Big Data Management",
+    "annee": 2023,
+    "citations": 13,
+    "resume": true,
+    "auteurs": [
+     "Gull, A.",
+     "Dilawar, S.",
+     "Sher, F."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1016/j.techfore.2025.124407",
+    "titre": "Responsible AI for trustworthy tourism: A framework for mitigating ambiguity and anxiety with generative AI",
+    "revue": "Technological Forecasting and Social Change",
+    "annee": 2026,
+    "citations": 11,
+    "resume": false,
+    "auteurs": [
+     "Singu, H.",
+     "Chakraborty, D.",
+     "Troise, C.",
+     "Camilleri, M.",
+     "Bresciani, S."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1080/00049530.2025.2559910",
+    "titre": "Artificial intelligence awareness, career resilience, job insecurity and behavioural outcomes",
+    "revue": "Australian journal of psychology",
+    "annee": 2025,
+    "citations": 11,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.3724/sp.j.1042.2023.01359",
+    "titre": "Job replacement or job transformation? Definition, consequences, and sources of technology-driven job insecurity",
+    "revue": "Advances in Psychological Science",
+    "annee": 2023,
+    "citations": 10,
+    "resume": false,
+    "auteurs": [
+     "TU, Y.",
+     "HAO, P.",
+     "LONG, L."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1016/j.caeai.2024.100260",
+    "titre": "To fear or not to fear – Human resource development professionals’ positioning towards artificial intelligence with a focus on augmentation",
+    "revue": "Computers and Education: Artificial Intelligence",
+    "annee": 2024,
+    "citations": 10,
+    "resume": false,
+    "auteurs": [
+     "Guggemos, J."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1037/tra0001862",
+    "titre": "Anxiety induced by artificial intelligence (AI) painting: An investigation based on the fear acquisition theory.",
+    "revue": "Psychological Trauma",
+    "annee": 2025,
+    "citations": 10,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.3390/bs15040465",
+    "titre": "“Remaining Vigilant” While “Enjoying Prosperity”: How Artificial Intelligence Usage Impacts Employees’ Innovative Behavior and Proactive Skill Development",
+    "revue": "Behavioral Science",
+    "annee": 2025,
+    "citations": 10,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.1177/00218863251360852",
+    "titre": "Promoting or Preventing? The Influence of Artificial Intelligence Awareness on Employee Job Crafting",
+    "revue": "Journal of Applied Behavioral Science",
+    "annee": 2025,
+    "citations": 9,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.1007/s10551-025-06007-8",
+    "titre": "Self-Esteem and Technological Unemployment: Should We Halt AI to Protect Meaningful Work?",
+    "revue": "Journal of Business Ethics",
+    "annee": 2025,
+    "citations": 8,
+    "resume": true,
+    "auteurs": [
+     "Cordasco, C.",
+     "Véliz, C."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1002/hfm.70000",
+    "titre": "Understanding the Emergence and Trajectory of Job Insecurity Due to Smart Technology, Artificial Intelligence, Robotics, and Automation",
+    "revue": "Human Factors and Ergonomics in Manufacturing &amp; Service Industries",
+    "annee": 2025,
+    "citations": 8,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.1108/ebhrm-05-2024-0159",
+    "titre": "Breeding distrust during artificial intelligence (AI) era: how technological advancements, job insecurity and job stress fuel organizational cynicism?",
+    "revue": "Evidence-based HRM: a Global Forum for Empirical Scholarship",
+    "annee": 2024,
+    "citations": 7,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.58970/ijsb.2481",
+    "titre": "Artificial Intelligence (AI) and Fear of Job Displacement in Banks in Bangladesh",
+    "revue": "International journal of science and business",
+    "annee": 2024,
+    "citations": 7,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.3389/fpsyt.2025.1641546",
+    "titre": "The social anatomy of AI anxiety: gender, generations, and technological exposure",
+    "revue": "Frontiers in Psychiatry",
+    "annee": 2025,
+    "citations": 6,
+    "resume": true,
+    "auteurs": [
+     "Uğur, N.",
+     "Dursun, F."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1097/jom.0000000000003335",
+    "titre": "Artificial Intelligence Job Substitution Risks, Digital Self-efficacy, and Mental Health Among Employees",
+    "revue": "Journal of Occupational and Environmental Medicine",
+    "annee": 2025,
+    "citations": 5,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.1108/md-05-2025-1462",
+    "titre": "Artificial intelligence and organisational transformation: technical skills, job insecurity and adoption",
+    "revue": "Management Decision",
+    "annee": 2026,
+    "citations": 4,
+    "resume": true,
+    "auteurs": [
+     "Arranz Lahuerta, L.",
+     "López Ramajo, M.",
+     "Gandía, A."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1504/mejm.2024.139578",
+    "titre": "The effect of technological unemployment anxiety on employee burnout",
+    "revue": "Middle East J. of Management",
+    "annee": 2024,
+    "citations": 3,
+    "resume": false,
+    "auteurs": [
+     "Pehlivanoğlu, M.",
+     "Civelek, M.",
+     "Taşova, M."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.3389/fpsyg.2025.1474639",
+    "titre": "The relationship between proactive personality and migrant workers’ perception of technical unemployment risk under the impact of artificial intelligence in China",
+    "revue": "Frontiers in Psychology",
+    "annee": 2025,
+    "citations": 3,
+    "resume": true,
+    "auteurs": [
+     "Xu, G.",
+     "Xue, M."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1007/s00146-023-01763-5",
+    "titre": "Technology, the latent conqueror: an experimental study on the perception and awareness of technological determinism featuring select sci-fi films and AI literature",
+    "revue": "AI &amp; SOCIETY",
+    "annee": 2023,
+    "citations": 3,
+    "resume": false,
+    "auteurs": [
+     "Kumar, A.",
+     "Rukmini, S."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.33168/jliss.2024.0530",
+    "titre": "Engaging Hotel Employees in the Era of Artificial Intelligence:  The Interplay of Artificial Intelligence Awareness, Job Insecurity,  and Technical Self-Efficacy",
+    "revue": "Journal of Logistics, Informatics and Service Science",
+    "annee": 2024,
+    "citations": 2,
+    "resume": false,
+    "auteurs": [],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.56893/pajes2025v06i01.07",
+    "titre": "Utilization of Artificial Intelligence (AI) and Fear of Job Loss in the Banking Industry: Perspectives of Bank Employees",
+    "revue": "Pan-African Journal of Education and Social Sciences",
+    "annee": 2025,
+    "citations": 2,
+    "resume": true,
+    "auteurs": [
+     "Nwaomah, A."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.71364/ijiss.v1i5.12",
+    "titre": "Artificial Intelligence Adoption, Job Insecurity, and Psychological Resilience: Challenges for Employee Adaptation in Future Work Environments",
+    "revue": "International Journal of Issue Science",
+    "annee": 2025,
+    "citations": 2,
+    "resume": true,
+    "auteurs": [
+     "Komang Meydiana Hutama Putri, ?.",
+     "Yoessy Etna Werdini, ?."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.59188/eduvest.v5i8.52070",
+    "titre": "The Effect of Employee Adaptation to STARA (Smart Technology, Artificial Intelligence, Robotics and Algorithm) with Service Performance Mediated by Job Crafting, Job Insecurity, and Work Engagement",
+    "revue": "Eduvest - Journal Of Universal Studies",
+    "annee": 2025,
+    "citations": 2,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.21511/ppm.22(1).2024.52",
+    "titre": "Effect of COVID-19 fear on nurse performance through insecurity and job satisfaction",
+    "revue": "Problems and Perspectives in Management",
+    "annee": 2024,
+    "citations": 1,
+    "resume": true,
+    "auteurs": [
+     "Ayu Gusti, M.",
+     "Lukito, H.",
+     "Satrianto, A.",
+     "Marwan, ?.",
+     "Setya Prima, H."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.3389/fpsyg.2026.1788475",
+    "titre": "Could AI risk perception, AI learning anxiety and personal growth initiative influence university students’ AI usage capability? An empirical investigation based on the control-value theory",
+    "revue": "Frontiers in Psychology",
+    "annee": 2026,
+    "citations": 1,
+    "resume": true,
+    "auteurs": [
+     "Jiang, Y.",
+     "Chen, H."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.2224/sbp.14551",
+    "titre": "Rural-to-urban Chinese migrant workers’ perception of risk of unemployment and depression: Impact of artificial intelligence",
+    "revue": "Social Behavior and Personality: an international journal",
+    "annee": 2025,
+    "citations": 1,
+    "resume": true,
+    "auteurs": [
+     "Xu, G.",
+     "Huang, X.",
+     "Xue, M."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.3389/fpsyg.2026.1786588",
+    "titre": "The impact of artificial intelligence application on employees' job insecurity: the moderating roles of self-efficacy and transformational leadership",
+    "revue": "Frontiers in Psychology",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Fu, W.",
+     "Zhang, H."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.13088/jiis.2026.32.2.035",
+    "titre": "The Impact of Generative Artificial Intelligence Adoption on Job Insecurity and Job Engagement among White-Collar Employees",
+    "revue": "Journal of Intelligence and Information Systems",
+    "annee": 2026,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Park, J.",
+     "Kim, D.",
+     "Jeong, S.",
+     "Suh, J."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1057/s41599-026-08274-w",
+    "titre": "Artificial intelligence and robotics awareness among frontline employees in tourist hotels and its impact on service sabotage: the roles of job insecurity, organization-based self-esteem, and competitive psychological climate",
+    "revue": "Humanities and Social Sciences Communications",
+    "annee": 2026,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Chen, R.",
+     "Ying, Y.",
+     "Yang, H."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.3389/fsoc.2026.1782891",
+    "titre": "Techno-overload and employee outcomes: relationships with job insecurity, turnover intention, and occupation insecurity among Lithuanian employees",
+    "revue": "Frontiers in Sociology",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Okunevičiūtė Neverauskienė, L.",
+     "Bagdžiūnienė, D."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.18502/kss.v10i7.18329",
+    "titre": "The Influence of Job Satisfaction and Job Insecurity Towards Turnover Intention on Contract Employees",
+    "revue": "KnE Social Sciences",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "‎, I.",
+     "Anwar, R.",
+     "‎ ‎, S."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.56497/esj260608",
+    "titre": "The Role of Artificial Intelligence in Employee Motivation: Mediating Role of Work Efficiency, Skill Development, Job Autonomy, and Job Insecurity",
+    "revue": "Economic Studies (Ikonomicheski Izsledvania)",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Jusufi, G.",
+     "Islami, X.",
+     "Mulolli, E."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.29322/ijsrp.15.07.2025.p16322",
+    "titre": "Perceptions of Artificial Intelligence and Job Insecurity: Understanding Workforce Dynamics in AI Driven Industries",
+    "revue": "International Journal of Scientific and Research Publications",
+    "annee": 2025,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "JOSEPHSON, R."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.47191/jefms/v8-i8-31",
+    "titre": "The Influence of Job Insecurity on Psychological Utility Through Job Burnout Among Employees",
+    "revue": "Journal of Economics, Finance And Management Studies",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "?, ?.",
+     "Asj’ari, F.",
+     "Andreawan, A.",
+     "?, ?.",
+     "Rizki, R.",
+     "?, ?.",
+     "., H.",
+     "?, ?."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.21511/ppm.23(3).2025.05",
+    "titre": "Investigating the mediating role of self-efficacy on work stress and job insecurity among Indonesian startup employees",
+    "revue": "Problems and Perspectives in Management",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Harlianto, J.",
+     "Rudi, ?.",
+     "Qurota Ayun Hakim, A.",
+     "Lo, S."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.17323/2312-5942-2024-14-3-56-75",
+    "titre": "Employees’ mental fatigue: the role of perception of job insecurity",
+    "revue": "Organizational psychology",
+    "annee": 2024,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Уйсал, Х.",
+     "Темизкан, О."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.47297/wspchrmwsp2040-800502.20241501",
+    "titre": "Idiosyncratic Deals and Employees' Knowledge Hiding: Mediating Role of Job Insecurity",
+    "revue": "Journal of Chinese Human Resources Management",
+    "annee": 2024,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.2139/ssrn.4987855",
+    "titre": "Technological Unemployment in the Era of AI: Is Full Unemployment Worth Studying?",
+    "revue": "SSRN Electronic Journal",
+    "annee": 2024,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "D'Orlando, F."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.59670/ml.v20i5.2981",
+    "titre": "Does the Perception of Unemployment Risk Affect the Willingness of Urban Citizenship of Chinese New-Generation Migrant Workers?",
+    "revue": "Migration Letters",
+    "annee": 2023,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Ai-Xiang, A."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.47059/ml.v20i5.2981",
+    "titre": "Does the Perception of Unemployment Risk Affect the Willingness of Urban Citizenship of Chinese New-Generation Migrant Workers?",
+    "revue": "Migration Letters",
+    "annee": 2023,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Ai-Xiang, A."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.2139/ssrn.5286995",
+    "titre": "Managerial Implications Of Technological Unemployment Anxiety: A Dimensional Study",
+    "revue": "SSRN Electronic Journal",
+    "annee": 2025,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Civelek, M.",
+     "Pehlivanoğlu, M."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.3390/soc16030090",
+    "titre": "Technological Unemployment Anxiety in the Post-Digital Ecosystem: A Bibliometric Analysis",
+    "revue": "Societies",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Öz, S.",
+     "Pehlivanoğlu, M.",
+     "Civelek, M.",
+     "Ertemel, A."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.33976/iugjeps.34.2/2026/3",
+    "titre": "The Role of Technological Unemployment Anxiety in Predicting Psychological Stress among Female Graduates of Public Universities in Riyadh",
+    "revue": "مجلة الجامعة الإسلامية للدراسات التربوية والنفسية",
+    "annee": 2026,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Al-Dosari, H."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1504/mejm.2023.10055404",
+    "titre": "The effect of technological unemployment anxiety on employee burnout",
+    "revue": "Middle East J. of Management",
+    "annee": 2023,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Taşova, M.",
+     "Civelek, M.",
+     "Pehlivanoğlu, M."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1007/s12144-025-08989-0",
+    "titre": "The impact of information type on AI threat perception: evidence from AI unemployment scenarios",
+    "revue": "Current Psychology",
+    "annee": 2026,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Wu, J.",
+     "Zhang, Y.",
+     "Jin, W.",
+     "Yu, F.",
+     "Xu, L."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1007/s00146-026-02941-x",
+    "titre": "Is artificial intelligence a threat to meaningful work and living? Technological unemployment and the existential challenges of a transitional era",
+    "revue": "AI &amp; SOCIETY",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Scripter, L."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.26900/hsq.2696",
+    "titre": "On the way to the AI era: The view of health sciences faculty department students on AI and technological unemployment",
+    "revue": "HEALTH SCIENCES QUARTERLY",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Koca, M.",
+     "İnceoğlu, F.",
+     "Çıtlık Sarıtaş, S."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.17951/sil.2025.34.2.375-394",
+    "titre": "Human Right to Work and Humanlike AI at Work: Technological Unemployment as a Legal and Ethical Issue",
+    "revue": "Studia Iuridica Lublinensia",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Campa, R."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.29140/jct.v2n1.103464",
+    "titre": "\"Another type of nervousness\": Technological social presence anxiety in AI-mediated VR language learning",
+    "revue": "JALTCALL Trends",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Ijiri, A."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.15659/3.sektor-sosyal-ekonomi.23.08.2170",
+    "titre": "TEKNOLOJİK İŞSİZLİK KAYGISININ ÖRGÜTSEL SİNİZM ÜZERİNDEKİ ETKİSİ",
+    "revue": "3. SEKTÖR SOSYAL EKONOMİ DERGİSİ",
+    "annee": 2023,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "PEHLİVANOĞLU, M.",
+     "CİVELEK, M.",
+     "EYMÜR, E."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1007/s41347-026-00638-y",
+    "titre": "Intolerance of Uncertainty and Future Anxiety: The Serial Mediation Roles of Digital Risk Perception and AI Anxiety Among Turkish Adults",
+    "revue": "Journal of Technology in Behavioral Science",
+    "annee": 2026,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Kaya, B.",
+     "Cenkseven Önder, F."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.31269/csbwct77",
+    "titre": "\"The Industrial Scrap Heap\": Technological Unemployment, Obsolescence and Older Workers in the Early Twentieth Century US",
+    "revue": "tripleC: Communication, Capitalism &amp; Critique. Open Access Journal for a Global Sustainable Information Society",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Ciafone, A."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.32628/ijsrset25125418",
+    "titre": "Job Automation and Artificial Intelligence: Ethical Responsibility, Legal Safeguards, and Psychological Impact on Workers",
+    "revue": "International Journal of Scientific Research in Science Engineering and Technology",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.32479/irmm.23807",
+    "titre": "From Job Insecurity to Burnout in the Age of Artificial Intelligence: The Mediating Role of Work Engagement and the Moderating Role of Artificial Intelligence Self-Efficacy",
+    "revue": "International Review of Management and Marketing",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.59075/cmfvfb11",
+    "titre": "Artificial Intelligence Anxiety and Employee Job Insecurity: The Mediating Role of Perceived Organizational Support",
+    "revue": "The Critical Review of Social Sciences Studies",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   }
+  ]
+ },
+ "A6": {
+  "label": "Contextes émergents, Afrique du Nord, Maroc",
+  "items": [
+   {
+    "doi": "10.1016/j.hrmr.2022.100899",
+    "titre": "Unlocking the value of artificial intelligence in human resource management through AI capability framework",
+    "revue": "Human Resource Management Review",
+    "annee": 2023,
+    "citations": 699,
+    "resume": false,
+    "auteurs": [
+     "Chowdhury, S.",
+     "Dey, P.",
+     "Joel-Edgar, S.",
+     "Bhattacharya, S.",
+     "Rodriguez-Espindola, O.",
+     "Abadie, A.",
+     "Truong, L."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1016/j.hrmr.2022.100925",
+    "titre": "An artificial intelligence algorithmic approach to ethical decision-making in human resource management processes",
+    "revue": "Human Resource Management Review",
+    "annee": 2023,
+    "citations": 328,
+    "resume": false,
+    "auteurs": [
+     "Rodgers, W.",
+     "Murray, J.",
+     "Stefanidis, A.",
+     "Degbey, W.",
+     "Tarba, S."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1016/j.hrmr.2022.100940",
+    "titre": "Artificial intelligence (AI)-assisted HRM: Towards an extended strategic framework",
+    "revue": "Human Resource Management Review",
+    "annee": 2023,
+    "citations": 181,
+    "resume": false,
+    "auteurs": [
+     "Malik, A.",
+     "Budhwar, P.",
+     "Kazmi, B."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1016/j.hrmr.2022.100923",
+    "titre": "Artificial intelligence and people management: A critical assessment through the ethical lens",
+    "revue": "Human Resource Management Review",
+    "annee": 2023,
+    "citations": 114,
+    "resume": false,
+    "auteurs": [
+     "Varma, A.",
+     "Dawkins, C.",
+     "Chaudhuri, K."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1108/dprg-06-2023-0077",
+    "titre": "The adoption of digital payments in emerging economies: challenges and policy responses",
+    "revue": "Digital Policy, Regulation and Governance",
+    "annee": 2023,
+    "citations": 87,
+    "resume": true,
+    "auteurs": [
+     "Putrevu, J.",
+     "Mertzanis, C."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1080/09585192.2024.2440065",
+    "titre": "Integrating artificial intelligence and human resource management: a review and future research agenda",
+    "revue": "The International Journal of Human Resource Management",
+    "annee": 2024,
+    "citations": 72,
+    "resume": false,
+    "auteurs": [
+     "Gong, Q.",
+     "Fan, D.",
+     "Bartram, T."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1016/j.digbus.2023.100065",
+    "titre": "M-banking adoption from the developing countries perspective: A mediated model",
+    "revue": "Digital Business",
+    "annee": 2023,
+    "citations": 43,
+    "resume": false,
+    "auteurs": [
+     "Abdennebi, H."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.55248/gengpi.5.0124.0107",
+    "titre": "Artificial Intelligence and Machine Learning in Human Resource Management: Prospect and Future Trends",
+    "revue": "International Journal of Research Publication and Reviews",
+    "annee": 2024,
+    "citations": 33,
+    "resume": false,
+    "auteurs": [
+     "Basnet, S."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1108/bpmj-02-2024-0089",
+    "titre": "Do artificial intelligence system adoptions foster production management supply chain performance in pharmaceutical manufacturing firms? An empirical exploring study from the MENA region",
+    "revue": "Business Process Management Journal",
+    "annee": 2024,
+    "citations": 15,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.3390/w17030331",
+    "titre": "Assessment of a Groundwater Potential Zone Using Geospatial Artificial Intelligence (Geo-AI), Remote Sensing (RS), and GIS Tools in Majerda Transboundary Basin (North Africa)",
+    "revue": "Water",
+    "annee": 2025,
+    "citations": 12,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.1177/09749101231167447",
+    "titre": "Can the Belt and Road Initiative Promote the Industrialization of Developing Countries?",
+    "revue": "Global Journal of Emerging Market Economies",
+    "annee": 2023,
+    "citations": 9,
+    "resume": true,
+    "auteurs": [
+     "Zhang, K."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.4102/sajhrm.v23i0.2960",
+    "titre": "The impact of artificial intelligence on human resource management practices: An investigation",
+    "revue": "SA Journal of Human Resource Management",
+    "annee": 2025,
+    "citations": 8,
+    "resume": true,
+    "auteurs": [
+     "Ncube, T.",
+     "Sishi, K.",
+     "Skinner, J."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.20473/jde.v8i1.38361",
+    "titre": "Digital Financial Inclusion and Implications for Developing Countries Economic Growth",
+    "revue": "Journal of Developing Economies",
+    "annee": 2023,
+    "citations": 8,
+    "resume": true,
+    "auteurs": [
+     "Yaqin, M.",
+     "Safuan, S."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1111/1748-8583.12531",
+    "titre": "Correction to “Human resource management in the age of generative artificial intelligence: Perspectives and research directions on ChatGPT”",
+    "revue": "Human Resource Management Journal",
+    "annee": 2023,
+    "citations": 7,
+    "resume": false,
+    "auteurs": [],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1002/isd2.12325",
+    "titre": "Information technology adoption and small and medium enterprise performance: Does <scp>information technology</scp> adoption reduce rural penalty in emerging and developing countries?",
+    "revue": "THE ELECTRONIC JOURNAL OF INFORMATION SYSTEMS IN DEVELOPING COUNTRIES",
+    "annee": 2024,
+    "citations": 7,
+    "resume": true,
+    "auteurs": [
+     "Ekeoma, C."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1111/deve.12411",
+    "titre": "Global Value Chain Participation and Firm Exit During COVID‐19: Evidence from Emerging Countries",
+    "revue": "The Developing Economies",
+    "annee": 2024,
+    "citations": 5,
+    "resume": true,
+    "auteurs": [
+     "Doan, N."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1016/j.jcpo.2025.100626",
+    "titre": "Artificial Intelligence in Nigerian Oncology Practice: A Qualitative Exploration of Oncologists' Perspectives.",
+    "revue": "Journal of Cancer Policy",
+    "annee": 2025,
+    "citations": 5,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.1186/s43093-025-00515-9",
+    "titre": "Mapping the impacts of neural networks on human resource management research: a bibliometric analysis",
+    "revue": "Future Business Journal",
+    "annee": 2025,
+    "citations": 4,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.1108/jadee-04-2024-0130",
+    "titre": "Modelling the enablers of Industry 4.0 technology adoption in agricultural supply chains in emerging economies",
+    "revue": "Journal of Agribusiness in Developing and Emerging Economies",
+    "annee": 2025,
+    "citations": 3,
+    "resume": true,
+    "auteurs": [
+     "Chanchaichujit, J.",
+     "Balasubramanian, S.",
+     "Kaitheri, S.",
+     "Sreejith, S.",
+     "Chanchaichujit, K."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1002/hrm.70025",
+    "titre": "Can Legal and Professional Personnel Selection Principles be Met With Machine Learning (Artificial Intelligence)?",
+    "revue": "Human Resource Management",
+    "annee": 2025,
+    "citations": 2,
+    "resume": true,
+    "auteurs": [
+     "Campion, M."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.2139/ssrn.4558978",
+    "titre": "Adoption of Digital Payments in Emerging Economies: Challenges and Policy Responses",
+    "revue": "SSRN Electronic Journal",
+    "annee": 2023,
+    "citations": 2,
+    "resume": false,
+    "auteurs": [
+     "Putrevu, J.",
+     "Mertzanis, C."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1108/jadee-08-2025-0392",
+    "titre": "A sustainability-oriented KPI framework for digital twin adoption in the sugar industry: ISM–MICMAC approach",
+    "revue": "Journal of Agribusiness in Developing and Emerging Economies",
+    "annee": 2025,
+    "citations": 2,
+    "resume": true,
+    "auteurs": [
+     "Pandey, S.",
+     "Virmani, N.",
+     "Bhandari, D.",
+     "Jagtap, S."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.4102/ajlm.v13i1.2516",
+    "titre": "Impact of artificial intelligence and digital technology-based diagnostic tools for communicable and non-communicable diseases in Africa",
+    "revue": "African Journal of Laboratory Medicine",
+    "annee": 2024,
+    "citations": 2,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.1109/iraset64571.2025.11008050",
+    "titre": "Mapping AI Research in North Africa: A Bibliometric Analysis for Trends and Opportunities",
+    "revue": "2025 5th International Conference on Innovative Research in Applied Science, Engineering and Technology (IRASET)",
+    "annee": 2025,
+    "citations": 2,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.36948/ijfmr.2023.v05i06.10804",
+    "titre": "A Study of Digital Financial Inclusion in Developing Countries and Emerging Economies",
+    "revue": "International Journal For Multidisciplinary Research",
+    "annee": 2023,
+    "citations": 1,
+    "resume": true,
+    "auteurs": [
+     "-, M.",
+     "-, D."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1111/deve.12452",
+    "titre": "Foreign Investments and Energy Transformation: Impacts on Energy Poverty, Renewable Adoption, and Emission Reduction in Developing Countries",
+    "revue": "The Developing Economies",
+    "annee": 2025,
+    "citations": 1,
+    "resume": true,
+    "auteurs": [
+     "Nguyen, M.",
+     "Nguyen, H.",
+     "Pham, P.",
+     "Nguyen, T."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1108/jadee-07-2024-0221",
+    "titre": "Understanding factors influencing adoption of digital tools among extension agents of Nepal",
+    "revue": "Journal of Agribusiness in Developing and Emerging Economies",
+    "annee": 2025,
+    "citations": 1,
+    "resume": true,
+    "auteurs": [
+     "Thapa, M.",
+     "Signorini, G.",
+     "Specht, A."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1080/17520843.2024.2432722",
+    "titre": "Hand-to-mouth, habit formation, and intertemporal elasticity of substitution behaviours in Asian developing countries",
+    "revue": "Macroeconomics and Finance in Emerging Market Economies",
+    "annee": 2024,
+    "citations": 1,
+    "resume": false,
+    "auteurs": [
+     "Tran, H."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.24294/jipd10352",
+    "titre": "Artificial intelligence innovations in talent recruitment, retention, diversity mapping within South Africa: A meta narrative analysis",
+    "revue": "Journal of Infrastructure Policy and Development",
+    "annee": 2025,
+    "citations": 1,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.1109/iccsc66714.2025.11135414",
+    "titre": "Artificial Intelligence and Morocco's Education System: A Strategic Tool for Enhancing Public Management and Institutional Performance",
+    "revue": "IEEE International Conference on Circuits and Systems for Communications",
+    "annee": 2025,
+    "citations": 1,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.1002/eng2.70310",
+    "titre": "Resilience in Humanitarian Supply Chains: Addressing Artificial Intelligence and Big Data Hurdles Across Borders",
+    "revue": "Engineering Reports",
+    "annee": 2025,
+    "citations": 1,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.1155/japr/4929266",
+    "titre": "Leishmaniasis in Morocco: Epidemiology, Transmission Dynamics, and the Potential of Artificial Intelligence for Disease Management",
+    "revue": "Journal of Parasitology Research",
+    "annee": 2026,
+    "citations": 1,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.21275/es24131185821",
+    "titre": "Revolutionizing Human Resource Management through Artificial Intelligence",
+    "revue": "International Journal of Science and Research (IJSR)",
+    "annee": 2024,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Deepa, P."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.23977/jaip.2024.070204",
+    "titre": "The Application Research of Artificial Intelligence in Human Resource Management",
+    "revue": "Journal of Artificial Intelligence Practice",
+    "annee": 2024,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.55819/mrij.2026.21.1.67",
+    "titre": "Artificial Intelligence in 360-Degree Feedback Appraisal: Transformation in Performance Management of Human Resource Management",
+    "revue": "KINFORMS",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "?, ?.",
+     "Sheeba Asirvatham, S.",
+     "Nazarina Jamil, N."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.23977/jhrd.2026.080105",
+    "titre": "Applications, Opportunities, and Challenges of Artificial Intelligence in Human Resource Management",
+    "revue": "Journal of Human Resource Development",
+    "annee": 2026,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1002/hrm.70071",
+    "titre": "Equity by Design: A Positive Organizational Scholarship Approach to Human Resource‐Artificial Intelligence Systems Design",
+    "revue": "Human Resource Management",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Trzebiatowski, T.",
+     "Suh, E.",
+     "Hollie, L."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.4102/sajhrm.v24i0.3382",
+    "titre": "Impostor phenomenon in human resource management within the era of artificial intelligence",
+    "revue": "SA Journal of Human Resource Management",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Omar, F.",
+     "Beretu, T."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1108/hrmid-11-2023-0223",
+    "titre": "Using artificial intelligence in human resource management",
+    "revue": "Human Resource Management International Digest",
+    "annee": 2023,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1177/09728686261460509",
+    "titre": "Role of Artificial Intelligence in Human Resource Management",
+    "revue": "Review of Professional Management",
+    "annee": 2026,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Sharma, R."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.22381/pihrm11120233",
+    "titre": "Artificial Intelligence Human Resource Management Algorithms for Employee Recruitment, Engagement, and Retention",
+    "revue": "Psychosociological Issues in Human Resource Management",
+    "annee": 2023,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.36108/ljerhrm/5202.50.0211",
+    "titre": "Linking Artificial Intelligence Technologies to Human Resource Performance: A Review",
+    "revue": "LASU Journal of Employment Relations and Human Resource Management",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "AIYEOLA, A."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.52783/eel.v15i4.3775",
+    "titre": "Artificial Intelligence and Smart Workforce Development: A Transformative Approach to Human Resource Management",
+    "revue": "European Economic Letters",
+    "annee": 2025,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.52340/bal/2024.02.10",
+    "titre": "Artificial Intelligence (AI) in Human Resource Management (HRM) processes",
+    "revue": "Business and Legislation",
+    "annee": 2024,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Sumbadze, K.",
+     "Tavberidze, N."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.22381/pihrm11220234",
+    "titre": "Artificial Intelligence-assisted Human Resource Management Algorithms for Employee Motivation, Efficiency, and Productivity",
+    "revue": "Psychosociological Issues in Human Resource Management",
+    "annee": 2023,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.52783/eel.v15i3.3766",
+    "titre": "Integration of Artificial Intelligence in Human Resource Management: A Roadmap for Sustainable Organizational Growth",
+    "revue": "European Economic Letters",
+    "annee": 2025,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.7176/ejbm/17-4-14",
+    "titre": "The Role of Artificial Intelligence in supporting Human Resource Management Practices: Conceptual Framework",
+    "revue": "European Journal of Business and Management",
+    "annee": 2025,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.22381/pihrm11120236",
+    "titre": "Artificial Intelligence-enabled Human Resource Management Processes and Practices for Employee Engagement, Performance, and Productivity",
+    "revue": "Psychosociological Issues in Human Resource Management",
+    "annee": 2023,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1108/jadee-09-2025-0408",
+    "titre": "The digital seedbed: a comparative analysis of GenAI adoption and its socio-cultural implications in the rice seed economies",
+    "revue": "Journal of Agribusiness in Developing and Emerging Economies",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Sharma, A."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1108/jadee-10-2025-0486",
+    "titre": "Trust and risk for technology adoption: extending UTAUT for digital crowdfarming in rural India",
+    "revue": "Journal of Agribusiness in Developing and Emerging Economies",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Upadhyay, C.",
+     "Kaur, S."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1108/jadee-04-2025-0167",
+    "titre": "Analyzing farming analytics adoption challenges in developing economies: a fuzzy Delphi–Neutrosophic DEMATEL approach",
+    "revue": "Journal of Agribusiness in Developing and Emerging Economies",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Sharma, I.",
+     "Garza-Reyes, J."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.2139/ssrn.4380762",
+    "titre": "The Applicability of the Dutch Foreign Exchange in Developing Countries, Least Developed Countries and the Emerging Economies",
+    "revue": "SSRN Electronic Journal",
+    "annee": 2023,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Mazikana, A."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.47772/ijriss.2026.100300477",
+    "titre": "Modeling Digital Intention in Emerging Economies: A Comparative Discussion of TAM vs. UTAUT for Assessing BIM and AEC IT Adoption in Developing Countries (2020–2025)",
+    "revue": "International Journal of Research and Innovation in Social Science",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Sabri, M.",
+     "Ali, K.",
+     "Fauzi, A."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1155/hbe2/7801242",
+    "titre": "Technostress, Open Innovation, and Digital Ecosystems: A Data‐Driven Model of FinTech Adoption Among Gen Z in Developing Economies",
+    "revue": "Human Behavior and Emerging Technologies",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Saputra, M.",
+     "Santosa, P.",
+     "Bamrungsap, S.",
+     "Permanasari, A."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.34306/abdi.v7i1.1500",
+    "titre": "Digital Entrepreneurship as a Driver of Innovation Ecosystems in Developing Countries",
+    "revue": "ADI Bisnis Digital Interdisiplin Jurnal",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Gunawan, W.",
+     "Sari, N.",
+     "Syahputra, A.",
+     "Zikri, I.",
+     "Freeman, A."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.34306/hky16s83",
+    "titre": "Digital Entrepreneurship as a Driver of Innovation Ecosystems in Developing Countries",
+    "revue": "ADI Bisnis Digital Interdisiplin Jurnal",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Gunawan, W.",
+     "Sari, N.",
+     "Syahputra, A.",
+     "Zikri, I.",
+     "Freeman, A."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.64388/irev9i8-1714587",
+    "titre": "Digital Financial Services Adoption and Financial Inclusion in Emerging Economies: Evidence from Nigeria",
+    "revue": "Iconic Research and Engineering Journals",
+    "annee": 2026,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.66348/jefa.26.v1.n1.a19",
+    "titre": "Fiscal Policy and Economic Growth in Developing Countries: Evidence from 12 Emerging Economies",
+    "revue": "Journal of Economics and Financial Affairs",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Akter, T."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1080/17520843.2024.2363025",
+    "titre": "The anatomy of public debt reversals: new empirical insights from developing countries",
+    "revue": "Macroeconomics and Finance in Emerging Market Economies",
+    "annee": 2024,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Rafique, R.",
+     "Nisar, A.",
+     "Shah, S."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1108/jadee-12-2021-0311",
+    "titre": "Wine tourism in developing countries – the case of Armenia",
+    "revue": "Journal of Agribusiness in Developing and Emerging Economies",
+    "annee": 2024,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Bitsch, L.",
+     "Hanf, J.",
+     "Kottmann, I."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.47191/jefms/v9-i2-48",
+    "titre": "Adoption of Artificial Intelligence in Human Resource Management and Employee Acceptance of Digital HR Systems in Nigerian Universities",
+    "revue": "Journal of economics, finance and management studies",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.1017/dmp.2026.10420",
+    "titre": "Experts’ Opinion on Strategic Public Health CBRN Emergency Management Using Artificial Intelligence in the Middle East and North Africa Region",
+    "revue": "Disaster Medicine and Public Health Preparedness",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.11113/ijibs.v21.196",
+    "titre": "AI-DRIVEN INNOVATION AND HUMAN RESOURCE MANAGEMENT PERFORMANCE: A COMPARATIVE QUANTITATIVE STUDY BETWEEN MOROCCO AND MALAYSIA",
+    "revue": "International Journal of Innovation and Business Strategy (IJIBS)",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.36096/ijbes.v7i5.1030",
+    "titre": "Artificial intelligence, decoloniality and epistemic justice in the South African public sector: Implications for human resource management in Industry 5.0",
+    "revue": "International Journal of Business Ecosystem &amp; Strategy (2687-2293)",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.31893/multirev.2026510",
+    "titre": "Adoption of artificial intelligence in human resource management: Systematic review and bibliometric analysis",
+    "revue": "Multidisciplinary Reviews",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.23882/ijdam.26324",
+    "titre": "Artificial Intelligence and the Modernization of Public Spending : Towards an Augmented Contingency Model for Fiscal Governance in Morocco",
+    "revue": "International Journal of Digitalization and Applied Management",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.64943/jkc.2026.040103",
+    "titre": "Requirements for the Successful Implementation of Artificial Intelligence in Libyan Banks North Africa Bank – Abu Salim Branch as a Case Study",
+    "revue": "Taj Al-Ma'rifa journal",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.48047/ba1xbq35",
+    "titre": "Perceptions and Challenges of Artificial Intelligence Adoption in Healthcare Crisis Management: Insights from Hassan II regional hospital in Dakhla",
+    "revue": "Cuestiones de Fisioterapia",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.3389/fpubh.2026.1816634",
+    "titre": "Artificial intelligence for tuberculosis management in Africa: opportunities, challenges, and implementation",
+    "revue": "Frontiers in Public Health",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.9790/0837-3106036471",
+    "titre": "The Influence of Artificial Intelligence on Recruitment and Selection Practices: Evidence from KPMG East Africa",
+    "revue": "IOSR Journal of Humanities and Social Science",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.1158/1538-7445.sabcs22-p6-05-48",
+    "titre": "Abstract P6-05-48: Perceptions About Breast Cancer in North Africa: A Social Listening Project",
+    "revue": "Cancer Research",
+    "annee": 2023,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.3390/businesses6030039",
+    "titre": "The Role of Artificial Intelligence in Enhancing Customer Relationship Management Within the Tourism Sector in the Eastern Cape",
+    "revue": "Businesses",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.3389/frai.2026.1807550",
+    "titre": "Adoption of artificial intelligence in the HRM function within the South African telecommunication sector: a quantitative analysis using structural equation modelling",
+    "revue": "Frontiers in Artificial Intelligence",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.1109/iccsc66714.2025.11135178",
+    "titre": "The Integration of Artificial Intelligence in the Management of Organizational Change: A Moroccan Perspective",
+    "revue": "IEEE International Conference on Circuits and Systems for Communications",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   }
+  ]
+ },
+ "A7": {
+  "label": "Éthique, biais, équité du recrutement algorithmique",
+  "items": [
+   {
+    "doi": "10.1057/s41599-023-02079-x",
+    "titre": "Ethics and discrimination in artificial intelligence-enabled recruitment practices",
+    "revue": "Humanities and Social Sciences Communications",
+    "annee": 2023,
+    "citations": 362,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.3390/ai5010019",
+    "titre": "A Comprehensive Review of AI Techniques for Addressing Algorithmic Bias in Job Hiring",
+    "revue": "AI",
+    "annee": 2024,
+    "citations": 126,
+    "resume": true,
+    "auteurs": [
+     "Albaroudi, E.",
+     "Mansouri, T.",
+     "Alameer, A."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.3389/fpsyg.2023.1118723",
+    "titre": "Check the box! How to deal with automation bias in AI-based personnel selection",
+    "revue": "Frontiers in Psychology",
+    "annee": 2023,
+    "citations": 45,
+    "resume": true,
+    "auteurs": [
+     "Kupfer, C.",
+     "Prassl, R.",
+     "Fleiß, J.",
+     "Malin, C.",
+     "Thalmann, S.",
+     "Kubicek, B."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1007/s43681-025-00721-9",
+    "titre": "Systematic literature review on bias mitigation in generative AI",
+    "revue": "AI and Ethics",
+    "annee": 2025,
+    "citations": 41,
+    "resume": true,
+    "auteurs": [
+     "Afreen, J.",
+     "Mohaghegh, M.",
+     "Doborjeh, M."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.9781/ijimai.2023.11.001",
+    "titre": "A Review of Bias and Fairness in Artificial Intelligence",
+    "revue": "Int. J. Interact. Multim. Artif. Intell.",
+    "annee": 2024,
+    "citations": 38,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.1093/jamia/ocaf039",
+    "titre": "Emerging algorithmic bias: fairness drift as the next dimension of model maintenance and sustainability",
+    "revue": "J. Am. Medical Informatics Assoc.",
+    "annee": 2025,
+    "citations": 31,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.1007/s44282-025-00246-w",
+    "titre": "Role of artificial intelligence in employee recruitment: systematic review and future research directions",
+    "revue": "Discover Global Society",
+    "annee": 2025,
+    "citations": 16,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.1111/ijsa.12499",
+    "titre": "Sourcing algorithms: Rethinking fairness in hiring in the era of algorithmic recruitment",
+    "revue": "International Journal of Selection and Assessment",
+    "annee": 2024,
+    "citations": 15,
+    "resume": true,
+    "auteurs": [
+     "Alexander, L.",
+     "Song, Q.",
+     "Hickman, L.",
+     "Shin, H."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1007/s43681-023-00377-3",
+    "titre": "Navigating in the moral landscape: analysing bias and discrimination in AI through philosophical inquiry",
+    "revue": "AI and Ethics",
+    "annee": 2023,
+    "citations": 13,
+    "resume": false,
+    "auteurs": [
+     "Keles, S."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.22178/pos.116-10",
+    "titre": "Algorithmic Fairness in Recruitment: Designing AI-Powered Hiring Tools to Identify and Reduce Biases in Candidate Selection",
+    "revue": "Path of Science",
+    "annee": 2025,
+    "citations": 7,
+    "resume": true,
+    "auteurs": [
+     "Agbasiere, C.",
+     "Nze-Igwe, G."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.52783/eel.v14i1.1107",
+    "titre": "AI-powered Recruitment and Employee Selection: Evaluating Bias and Fairness in Hiring Practices",
+    "revue": "European Economic Letters (EEL)",
+    "annee": 2024,
+    "citations": 7,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.1177/00187267251403902",
+    "titre": "Problematizing the role of artificial intelligence in hiring and organizational inequalities: A multidisciplinary review",
+    "revue": "Human relations; studies towards the integration of the social sciences",
+    "annee": 2025,
+    "citations": 7,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.1109/access.2025.3599947",
+    "titre": "Mitigating Bias in AI Model Using eXplainable AI in Terms of Hiring Process in the Industry",
+    "revue": "IEEE Access",
+    "annee": 2025,
+    "citations": 6,
+    "resume": false,
+    "auteurs": [
+     "Alsubaie, N.",
+     "Aleisa, N."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1007/s43681-023-00329-x",
+    "titre": "Algorithmic bias, generalist models, and clinical medicine",
+    "revue": "AI and Ethics",
+    "annee": 2023,
+    "citations": 4,
+    "resume": false,
+    "auteurs": [
+     "Keeling, G."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1016/j.engappai.2024.109979",
+    "titre": "Quantifying algorithmic discrimination: A two-dimensional approach to fairness in artificial intelligence",
+    "revue": "Engineering Applications of Artificial Intelligence",
+    "annee": 2025,
+    "citations": 3,
+    "resume": false,
+    "auteurs": [
+     "González-Sendino, R.",
+     "Serrano, E.",
+     "Bajo, J."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.56442/ijble.v6i1.1106",
+    "titre": "Examining the Effect of Algorithmic Hiring, Perceived Fairness, and HR Tech Literacy on Recruitment Acceptance",
+    "revue": "International Journal of Business, Law, and Education",
+    "annee": 2025,
+    "citations": 3,
+    "resume": true,
+    "auteurs": [
+     "Ilham, R."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.55041/ijsrem31693",
+    "titre": "Ethical Considerations in Artificial Intelligence: Addressing Bias and Fairness in Algorithmic Decision-Making",
+    "revue": "INTERANTIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT",
+    "annee": 2024,
+    "citations": 3,
+    "resume": true,
+    "auteurs": [
+     "?, ?.",
+     "Morchhale, Y."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1108/jal-11-2024-0322",
+    "titre": "Data bias, algorithmic discrimination and the fairness issues of individual credit accessibility",
+    "revue": "Journal of Accounting Literature",
+    "annee": 2025,
+    "citations": 3,
+    "resume": true,
+    "auteurs": [
+     "Yang, S.",
+     "Ma, W.",
+     "Zhu, S.",
+     "Shu, A.",
+     "Zhou, Y."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1007/s43681-024-00445-2",
+    "titre": "Addressing diversity in hiring procedures: a generative adversarial network approach",
+    "revue": "AI and Ethics",
+    "annee": 2024,
+    "citations": 3,
+    "resume": false,
+    "auteurs": [
+     "Marra, T.",
+     "Kubiak, E."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1609/aies.v8i3.36703",
+    "titre": "Invisible Filters: Cultural Bias in Hiring Evaluations Using Large Language Models",
+    "revue": "Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society",
+    "annee": 2025,
+    "citations": 3,
+    "resume": true,
+    "auteurs": [
+     "Rao, P.",
+     "Nagarajan Venkatesan, L.",
+     "Cherubini, M.",
+     "Jayagopi, D."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1007/s43681-024-00651-y",
+    "titre": "Embryo selection, AI and reproductive choice",
+    "revue": "AI and Ethics",
+    "annee": 2024,
+    "citations": 3,
+    "resume": true,
+    "auteurs": [
+     "Halsband, A."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.63332/joph.v5i5.1316",
+    "titre": "Ethically Aligned Artificial Intelligence: Investigating Algorithmic Bias, Human Identity, and Posthuman Ethics through a Data-Driven Philosophical Lens",
+    "revue": "Journal of Posthumanism",
+    "annee": 2025,
+    "citations": 3,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.1007/s43681-024-00495-6",
+    "titre": "Manipulating Aggregate Societal values to Bias AI Social Choice Ethics",
+    "revue": "AI and Ethics",
+    "annee": 2024,
+    "citations": 2,
+    "resume": false,
+    "auteurs": [
+     "Baum, S."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.36948/ijfmr.2025.v07i01.34682",
+    "titre": "The Evolving Role of Artificial Intelligence in Recruitment: Efficiency, Bias Mitigation, and Ethical Challenges",
+    "revue": "International Journal For Multidisciplinary Research",
+    "annee": 2025,
+    "citations": 2,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.1007/s43681-025-00927-x",
+    "titre": "The ethical imperative of algorithmic fairness in AI-enabled hiring: a critical analysis of bias, accountability, and justice",
+    "revue": "AI and Ethics",
+    "annee": 2025,
+    "citations": 1,
+    "resume": false,
+    "auteurs": [
+     "Law, J."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.2139/ssrn.4370191",
+    "titre": "Algorithmic Bias in Artificial Intelligence Systems",
+    "revue": "SSRN Electronic Journal",
+    "annee": 2023,
+    "citations": 1,
+    "resume": false,
+    "auteurs": [
+     "Kura, K."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1007/s43681-025-00844-z",
+    "titre": "Addressing intersectional bias in AI recruitment using HITHIRE model: a fair, ethical, green AI and transparent hiring solution for Saudi Arabia’s diverse workforce in line with vision 2030",
+    "revue": "AI and Ethics",
+    "annee": 2025,
+    "citations": 1,
+    "resume": true,
+    "auteurs": [
+     "Albaroudi, E.",
+     "Mansouri, T.",
+     "Hatamleh, M.",
+     "Alameer, A."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.2139/ssrn.4678430",
+    "titre": "The Gatekeeper Effect: The Implications of Pre-Screening, Self-selection, and Bias for Hiring Processes.",
+    "revue": "SSRN Electronic Journal",
+    "annee": 2024,
+    "citations": 1,
+    "resume": false,
+    "auteurs": [
+     "Koren, M."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1007/s43681-022-00255-4",
+    "titre": "Apropos of “Speciesist bias in AI: how AI applications perpetuate discrimination and unfair outcomes against animals”",
+    "revue": "AI and Ethics",
+    "annee": 2023,
+    "citations": 1,
+    "resume": true,
+    "auteurs": [
+     "Arandjelović, O."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1007/s43681-023-00319-z",
+    "titre": "Speciesist bias in AI: a reply to Arandjelović",
+    "revue": "AI and Ethics",
+    "annee": 2023,
+    "citations": 1,
+    "resume": true,
+    "auteurs": [
+     "Hagendorff, T.",
+     "Bossert, L.",
+     "Fai, T.",
+     "Singer, P."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1109/icdici66477.2025.11134999",
+    "titre": "Artificial Intelligence Based Transparent Hiring Frameworks: Leveraging Technology for Recruitment Practices",
+    "revue": "2025 6th International Conference on Data Intelligence and Cognitive Informatics (ICDICI)",
+    "annee": 2025,
+    "citations": 1,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.52783/jier.v5i3.3262",
+    "titre": "AI and Bias in Recruitment: Ensuring Fairness in Algorithmic Hiring.",
+    "revue": "Journal of Informatics Education and Research",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Magnus Chukwuebuka Ahuchogu, ?."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.31031/cojra.2026.05.000608",
+    "titre": "Bias, Fairness, and Ethical Accountability in Artificial Intelligence: A Human Centered Perspective on Algorithmic DecisionMaking",
+    "revue": "COJ Robotics &amp; Artificial Intelligence",
+    "annee": 2026,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Jain, R."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1609/aaai.v40i46.41267",
+    "titre": "The Illusion of Fairness: Auditing Fairness Interventions in Algorithmic Hiring with Audit Studies",
+    "revue": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Sariola, D.",
+     "Button, P.",
+     "Culotta, A.",
+     "Mattei, N."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1177/30504554251328351",
+    "titre": "Automated Data Bias Mitigation Technique for Algorithmic Fairness",
+    "revue": "The European Journal on Artificial Intelligence",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Shi, J.",
+     "Rong, C."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.22271/27084515.2026.v7.i3c.1277",
+    "titre": "Algorithmic bias in AI-powered recruitment: Examining fairness, trust, and candidate experience in automated hiring systems",
+    "revue": "Asian Journal of Management and Commerce",
+    "annee": 2026,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Rajput, A.",
+     "Raj, A.",
+     "Madaan, L.",
+     "Haran, A."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1007/s43681-026-01238-5",
+    "titre": "Algorithmic fairness and bias mitigation in financial artificial intelligence: scoping review",
+    "revue": "AI and Ethics",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Wecchi, M.",
+     "Berton, L."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.66308/air.e2026026",
+    "titre": "Artificial Intelligence Adoption in Talent Acquisition: Effects on Recruitment Efficiency, Algorithmic Fairness Perceptions, and Employee Experience",
+    "revue": "American Impact Review",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Nuralieva, A."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.22381/pihrm12120242",
+    "titre": "Artificial Intelligence in Recruitment Processes and Its Impact on Candidate Experience, Diversity, and Fairness in Hiring Practices",
+    "revue": "Psychosociological Issues in Human Resource Management",
+    "annee": 2024,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.56726/irjmets91875",
+    "titre": "“AI-Driven Recruitment Systems: An Analysis of Bias, Ethical Concerns, and Fairness in Hiring Processes”",
+    "revue": "International Research Journal of Modernization in Engineering Technology &amp; Science",
+    "annee": 2026,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.64375/3wqvtt17",
+    "titre": "The Role of Artificial Intelligence in Recruitment: Addressing Bias and Discrimination",
+    "revue": "Namibia Journal of Managerial Sciences",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Phulu, T."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.52783/eel.v15i3.3729",
+    "titre": "Artificial Intelligence in Hiring and Recruitment: A Comprehensive Bibliometric Analysis of Trends and Innovations",
+    "revue": "European Economic Letters",
+    "annee": 2025,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.29121/shodhai.v3.i1.2026.89",
+    "titre": "ALGORITHMIC BIAS AND FAIRNESS IN AI SYSTEMS: CHALLENGES, IMPACTS, AND RESPONSIBLE AI SOLUTIONS",
+    "revue": "ShodhAI: Journal of Artificial Intelligence",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Ray, G.",
+     "Molla, N."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.64823/ijebm.2601008",
+    "titre": "Algorithmic Bias in AI-Based Recruitment Systems: Implications for Fair Hiring Practices",
+    "revue": "International Journal of Economics and Business Management",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Rakshitha M M, ?.",
+     "Dr. VijayKumar, ?."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.34277/1460-013-001-025",
+    "titre": "The Dangers Of Algorithmic Bias In Artificial Intelligence",
+    "revue": "مجلة الحكمة للدراسات الفلسفية",
+    "annee": 2025,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Timedjeghdine, N."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.2139/ssrn.4999271",
+    "titre": "Artificial Intelligence, Discrimination, Fairness, and Other Moral Concerns",
+    "revue": "SSRN Electronic Journal",
+    "annee": 2024,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Segev, R."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.2139/ssrn.5190953",
+    "titre": "&lt;span&gt;Hacia la equidad digital en la contratación con inteligencia artificial: patrones oscuros y discriminación&amp;nbsp;&lt;/span&gt;(Towards Digital Fairness in Artificial Intelligence Recruitment: Dark Patterns and Discrimination)",
+    "revue": "SSRN Electronic Journal",
+    "annee": 2025,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Argelich Comelles, C."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.55041/ijcope.v2i5.538",
+    "titre": "The Algorithmic Mirror: Can Artificial Intelligence Truly Mitigate Human Bias in Hiring and Performance Management",
+    "revue": "International Journal of Creative and Open Research in Engineering and Management",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Sonny B. Kollio, S.",
+     "Sam Siryon, S."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1007/s43681-026-01086-3",
+    "titre": "Human bias, machine bias: a cognitive lens on fair AI",
+    "revue": "AI and Ethics",
+    "annee": 2026,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Gyal, N."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1007/s43681-026-01283-0",
+    "titre": "Bias in AI: a framework for understanding the sources of bias in artificial intelligence",
+    "revue": "AI and Ethics",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Robinig, W.",
+     "Wallner, J."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.58840/ke81n154",
+    "titre": "Bias in AI Decision‑Making: Ethical Implications for Hiring and Healthcare Algorithms",
+    "revue": "OTS Canadian Journal",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Gutierrez, R."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1007/s11948-026-00612-0",
+    "titre": "Bias in the Machine? A Solution to the Isolationist Problem Through a Sociotechnical Understanding of Bias in AI Ethics",
+    "revue": "Science and Engineering Ethics",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Arriagada-Bruneau, G."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1109/access.2026.3719092",
+    "titre": "Corrections to “Mitigating Bias in AI Model Using eXplainable AI in Terms of Hiring Process in the Industry”",
+    "revue": "IEEE Access",
+    "annee": 2026,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [
+     "Alsubaie, N.",
+     "Aleisa, N."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.48047/resmil.v10i1.9",
+    "titre": "Ethics in AI: Bias, Fairness, and Accountability",
+    "revue": "resmilitaris",
+    "annee": 2024,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.59720/25-193",
+    "titre": "Algorithmic barriers: Investigating student perceptions of AI bias in subjective “culture fit” hiring",
+    "revue": "Journal of Emerging Investigators",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Mahatara, I.",
+     "Thagunna, K."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1007/s43681-026-01235-8",
+    "titre": "On the inevitability of left-leaning political bias in aligned language models",
+    "revue": "AI and Ethics",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Hagendorff, T."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.1111/gwao.70232",
+    "titre": "New Accelerants of Inequality Regimes: AI‐Hiring Tools and Algorithmic Bias",
+    "revue": "Gender, Work &amp; Organization",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [
+     "Yarrow, E."
+    ],
+    "source": "crossref"
+   },
+   {
+    "doi": "10.62311/nesx/rphcr19",
+    "titre": "Detecting and Mitigating Algorithmic Discrimination in Recruitment Platforms",
+    "revue": "International Journal of Academic and Industrial Research Innovations(IJAIRI)",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.55041/ijcope.v2i6.059",
+    "titre": "Bias in AI Recruitment Systems: Challenges, Impacts, and Mitigation Strategies",
+    "revue": "International Journal of Creative and Open Research in Engineering and Management",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.1109/ccic68129.2026.11486201",
+    "titre": "Bias-Free AI Recruitment with Automated Team Structuring (EquiHire)",
+    "revue": "2026 Contemporary Computing Innovations Conference (CCIC)",
+    "annee": 2026,
+    "citations": 0,
+    "resume": false,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.66931/jmb-365",
+    "titre": "Artificial Intelligence Integration in Recruitment: Enhancing Efficiency while Navigating Algorithmic Bias and Candidate Experience",
+    "revue": "Jurnal Manajemen Bisnis",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.59992/ijlrs.2026.v5n5p12",
+    "titre": "Legal Protection Against Algorithmic Bias in Artificial Intelligence Systems Used in Recruitment and Employment: An Analytical Study",
+    "revue": "International Journal of Law Research and Studies",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.1109/icmi68585.2026.11539889",
+    "titre": "Diagnosing Algorithmic Bias in AI-Powered Hiring: Toward a Fairness-Aware Framework",
+    "revue": "International Conference on Multimodal Interaction",
+    "annee": 2026,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.37082/ijirmps.v13.i4.232659",
+    "titre": "Algorithmic Bias and Discrimination: Legal Accountability of AI Systems",
+    "revue": "International Journal of Innovative Research in Engineering &amp; Multidisciplinary Physical Sciences",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.54254/2755-2721/2025.20842",
+    "titre": "AI and Employment Discrimination: AIHR's Algorithmic Bias",
+    "revue": "Applied and Computational Engineering",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.55735/wz4rnt53",
+    "titre": "Adoption and Role of Artificial Intelligence in Recruitment and Selection: Analytical Study in Pakistan",
+    "revue": "Strategic Leadership and Business Management Journal",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   },
+   {
+    "doi": "10.62823/ijarcmss/8.4(i).8207",
+    "titre": "Exploring the Implications of Artificial Intelligence in the Recruitment Process: A Systematic Literature Review",
+    "revue": "International Journal of Advanced Research in Commerce, Management &amp; Social Science",
+    "annee": 2025,
+    "citations": 0,
+    "resume": true,
+    "auteurs": [],
+    "source": "s2"
+   }
+  ]
+ }
+}

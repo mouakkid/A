@@ -1,0 +1,1045 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message-version": "1.0.0",
+ "message": {
+  "facets": {},
+  "total-results": 1079719,
+  "items": [
+   {
+    "DOI": "10.3390/info17020150",
+    "title": [
+     "AI-Driven Typography: A Human-Centered Framework for Generative Font Design Using Large Language Models"
+    ],
+    "container-title": [
+     "Information"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       2,
+       3
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0009-0008-6729-4679",
+      "authenticated-orcid": false,
+      "given": "Yuexi",
+      "family": "Dong",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "School of Architecture and Design, Beijing Jiaotong University, Beijing 100044, China"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Mingyong",
+      "family": "Gao",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Information Technology, University of Science and Technology of China, Hefei 230026, China"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>This paper presents a human-centered, AI-driven framework for font design that reimagines typography generation as a collaborative process between humans and large language models (LLMs). Unlike conventional pixel- or vector-based approaches, our method introduces a Continuous Style Projector that maps visual features from a pre-trained ResNet encoder into the LLM’s latent space, enabling zero-shot style interpolation and fine-grained control of stroke and serif attributes. To model handwriting trajectories more effectively, we employ a Mixture Density Network (MDN) head, allowing the system to capture multi-modal stroke distributions beyond deterministic regression. Experimental results show that users can interactively explore, mix, and generate new typefaces in real time, making the system accessible for both experts and non-experts. The approach reduces reliance on commercial font licenses and supports a wide range of applications in education, design, and digital communication. Overall, this work demonstrates how LLM-based generative models can enhance creativity, personalization, and cultural expression in typography, contributing to the broader field of AI-assisted design.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1177/02655322261458364",
+    "title": [
+     "Assessing Interactional Competence Through Generative AI: Comparing Large Language Models as AI Interlocutors in the Paired Oral Discussion Test"
+    ],
+    "container-title": [
+     "Language Testing"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       7,
+       8
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-5360-2772",
+      "authenticated-orcid": false,
+      "given": "Inyoung",
+      "family": "Na",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Iowa State University, Ames, USA"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 3,
+    "abstract": "<jats:p>Interactional competence (IC) is essential for oral communication assessment, yet human partner variability can introduce construct-irrelevant variance in paired speaking tests. As an alternative to a test with a human interlocutor, this study describes the development of a large language model (LLM)-driven Spoken Dialogue System and compares GPT-4o to Claude 3.5 Sonnet to inform model selection for IC assessment. Twelve international students completed paired discussion tasks with both LLMs in counterbalanced order. System performance was evaluated through breakdown activation consistency, stance maintenance, and persona adherence. Test-taker performances were analyzed using interactional discourse analysis to identify IC features across three dimensions: topic management, interactional management, and interactive listening. Semi-structured interviews explored test takers’ perceptions of the AI partners. Results showed Claude outperformed GPT-4o in eliciting IC features, successfully activating communication breakdown strategies and maintaining oppositional stance, thereby creating more opportunities for test takers to demonstrate key IC abilities. Test takers perceived Claude as more authentic and natural, while GPT was perceived as more artificial. These findings demonstrate that different LLMs create distinct interactional conditions affecting both IC elicitation and test-taker perceptions. The findings highlight the need for construct-driven evaluation criteria when selecting LLMs for language-assessment contexts.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.17951/ms.2025.9.11-26",
+    "title": [
+     "Large Language Models as Revolutionary Media Objects: Rethinking Relationality, Agency, and Knowledge in the Age of Generative AI"
+    ],
+    "container-title": [
+     "Mediatization Studies"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       1,
+       7
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0009-0004-5353-0184",
+      "authenticated-orcid": false,
+      "given": "Bogdan Andrei",
+      "family": "Lungu",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>The rise of generative AI, like large language models (LLMs), highlights a profound shift in the contemporary media landscape. LLMs produce deep mediatization effects, being part of the emerging generative infrastructure of contemporary digital capitalism. This paper conceptualizes LLMs as revolutionary media objects, drawing on theories from actor-network theory, object-oriented ontology, and critical AI studies to argue that their generative capacities enable new forms of non-human forms of machine semiosis, synthetic subjectivity, and recursive epistemologies. These generative models decenter anthropocentric frameworks and showcase a need for reevaluation of the relationship between humans, objects, and meaning and knowledge production via the phenomena of machine semiosis and digital habitus. Through a systematic literature review and theoretical synthesis, this work introduces concepts such as synthetic relationality, generative ecologies, and agentic co-entanglement to analyze how LLMs reconfigure sociality, power, and epistemology. The paper offers a novel framework for understanding the role of generative AI in reshaping contemporary platform infrastructures, with significant effects toward central concepts like agency, sociality, and knowledge production. This paper contributes to ongoing discussions within media theory and critical studies on AI about the role of LLMs in contemporary society.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/s00146-026-03070-1",
+    "title": [
+     "Generative AI, large language models, and their agentic framing in news media"
+    ],
+    "container-title": [
+     "AI &amp; SOCIETY"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       5,
+       11
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Dennis",
+      "family": "Nguyen",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Magdalena",
+      "family": "Wischnewski",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>News reporting on generative artificial intelligence (GenAI) and large language models (LLMs) plays a central role in shaping the public epistemology of these technologies, as journalism co-produces public agendas and narratives. Central to these debates are framing practices that portray LLM-based technologies as mentalistic, often through metaphors that attribute human-like cognitive capabilities or even experiences to AI systems (e.g. AI “thinks” or “feels”). While anthropomorphic framing has a long history in technology discourse, such practices carry particular social, cultural, and political weight when they contribute to inflated perceptions of AI capabilities. The present study analyses LLM-centric news framing with a focus on mentalistic representations, examining their thematic contexts, valence, and metaphorical patterns from a comparative, cross-cultural perspective. It combines computational text analysis with manual content analysis to critically explore 18,032 English-language news articles published between 2022 and 2024 across 15 outlets in Europe, Asia, and North America. The findings show that mentalistic framings are present but not uniformly dominant, varying across editorial cultures and journalistic styles. Situated against news media’s growing organisational and economic entanglement with GenAI, the study contributes to debates on AI imaginaries, public epistemology, and journalism’s role in fostering critical AI literacy.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.2139/ssrn.4761694",
+    "title": [
+     "Exploring Mathematical Spaces using Generative AI and Large Language Models"
+    ],
+    "container-title": [
+     "SSRN Electronic Journal"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Mohammad",
+      "family": "Raeini",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1108/shr-03-2026-0026",
+    "title": [
+     "Beyond automation: where AI agents and large language models add value across the HR lifecycle"
+    ],
+    "container-title": [
+     "Strategic HR Review"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       4,
+       16
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Mehdi",
+      "family": "Rajaeian",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Australian Catholic University Peter Faber Business School, , Melbourne,",
+        "place": [
+         "Australia"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Farideh",
+      "family": "Momtazi",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Tehran University Faculty of Management, , Tehran,",
+        "place": [
+         "Iran"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:sec>\n                    <jats:title>Purpose</jats:title>\n                    <jats:p>This paper aims to examine where large language models (LLMs) and AI agents create the most value across the broader HR cycle – from workforce planning and attraction to offboarding – and where human oversight remains essential in higher-stakes decisions.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Design/methodology/approach</jats:title>\n                    <jats:p>The paper is a selective narrative review of recent academic literature on AI-enabled HRM, with emphasis on studies published between 2021 and 2025 that describe concrete applications of LLMs or agentic systems across employee-lifecycle stages and related HR functions. The review synthesises evidence for a practitioner audience and translates it into a decision framework for HR leaders.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Findings</jats:title>\n                    <jats:p>Three patterns stand out. Firstly, LLMs are most useful where HR work is knowledge intensive and language heavy, such as onboarding, learning support, employee self-service and document-rich compensation queries. Secondly, AI agents add value when HR work requires orchestration across multiple steps, tools or rules, particularly in recruitment workflows, guided onboarding and case handling. Thirdly, a full-cycle view shows uneven evidence: recruitment, onboarding and learning are the most developed domains, whereas workforce planning, engagement and retention and offboarding remain promising but less mature. Across all stages, the main barriers to responsible adoption are fairness, privacy, explainability, data quality and employee trust. High-stakes decisions such as selection, pay and performance evaluation therefore require human review, documented controls and clear appeal paths.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Originality/value</jats:title>\n                    <jats:p>The paper moves beyond broad “AI in HR” claims by distinguishing between LLMs and AI agents, comparing their value across the HR cycle and offering practical guidance on where augmentation is more appropriate than automation. It also extends the discussion beyond the usual focus on recruitment and onboarding by mapping emerging use cases across the full employee lifecycle.</jats:p>\n                  </jats:sec>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.2139/ssrn.4358789",
+    "title": [
+     "AI as Agency Without Intelligence: On ChatGPT, Large Language Models, and Other Generative Models"
+    ],
+    "container-title": [
+     "SSRN Electronic Journal"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Luciano",
+      "family": "Floridi",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 28,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.52783/jier.v4i2.767",
+    "title": [
+     "Impacts and Implications of Generative AI and Large Language Models: Redefining Banking Sector"
+    ],
+    "container-title": [
+     "Journal of Informatics Education and Research"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024
+      ]
+     ]
+    },
+    "is-referenced-by-count": 5,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/s00117-025-01434-0",
+    "title": [
+     "Große Sprachmodelle/Generative KI",
+     "Large Language Models/Generative AI"
+    ],
+    "container-title": [
+     "Die Radiologie"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       3,
+       25
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Elmar",
+      "family": "Kotter",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Christian",
+      "family": "Herold",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 1,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.55248/gengpi.6.0925.3460",
+    "title": [
+     "Role of Large Language Models (LLMs) &amp; Generative AI in Marketing Strategy in current context"
+    ],
+    "container-title": [
+     "International Journal of Research Publication and Reviews"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       9
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Dr. Pradnyanand",
+      "family": "Mishra",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.63282/3050-9262.ijaidsml-v6i3p111",
+    "title": [
+     "Adversarial AI Defense in Large Language Models &amp; Generative AI"
+    ],
+    "container-title": [
+     "International Journal of Artificial Intelligence, Data Science, and Machine Learning"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025
+      ]
+     ]
+    },
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1109/mc.2024.3350290",
+    "title": [
+     "Large Language Models and Generative AI, Oh My!"
+    ],
+    "container-title": [
+     "Computer"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       3
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-7154-9231",
+      "authenticated-orcid": false,
+      "given": "Michael",
+      "family": "Zyda",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Department of Computer Science, University of Southern California, Los Angeles, CA, USA"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 11,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.2139/ssrn.4511540",
+    "title": [
+     "Large Language Models and Generative AI in Finance: An Analysis of ChatGPT, Bard, and Bing AI"
+    ],
+    "container-title": [
+     "SSRN Electronic Journal"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "David",
+      "family": "Krause",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 24,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.47191/etj/v10i04.09",
+    "title": [
+     "AI-Driven Burnout Management System: A Novel Approach Using Generative AI, MongoDB Atlas, Python, And Training Large Language Models (LLMs) - Version 3"
+    ],
+    "container-title": [
+     "Engineering and Technology Journal"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       4,
+       30
+      ]
+     ]
+    },
+    "author": [
+     {
+      "name": "11120 hollowbrook road, Owings Mills, MD, 21117, USA",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Sasibhushan Rao",
+      "family": "Chanthati",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>Burnout has become a significant concern in high-stress industries, impacting mental health and productivity. Traditional burnout management solutions lack real-time adaptability and personalized intervention strategies. This research explores an AI-driven burnout management mechanism leveraging Generative AI, MongoDB Atlas, Python, and Large Language Models (LLMs) to provide real-time detection, personalized coping strategies, and predictive analytics. The system collects and stores user responses, behavioral patterns, and sentiment data in MongoDB Atlas, while LLMs analyze and generate tailored burnout mitigation recommendations. Experimental results demonstrate the effectiveness of the proposed approach in early burnout detection, personalized intervention, and user engagement, showing improvements in stress reduction and work-life balance.\nThe proof of concept for AI-powered burnout detection and intervention demonstrates the technical feasibility of using Large Language Models (LLMs), Generative AI, MongoDB Atlas, and Python-based automation for real-time mental health support.\n\nThe system successfully classifies burnout severity using LLMs trained on sentiment analysis, achieving an accuracy of 91.2%, which significantly outperforms traditional rule-based sentiment models. The use of MongoDB Atlas for scalable data storage ensures real-time burnout tracking, while FastAPI-based backend automation allows for seamless integration across platforms. Furthermore, Generative AI provides personalized stress interventions, dynamically adapting to user feedback and improving engagement. These technical validations highlight how AI-driven burnout management can be scalable, real-time, and enterprise-ready, paving the way for AI-powered diagnostics in mental health applications across various industries.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.3390/bdcc10040127",
+    "title": [
+     "Generative AI and Large Language Models"
+    ],
+    "container-title": [
+     "Big Data and Cognitive Computing"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       4,
+       21
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0001-7887-1314",
+      "authenticated-orcid": false,
+      "given": "Fabrizio",
+      "family": "Marozzo",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Department of Informatics, Modeling, Electronics and Systems Engineering (DIMES), University of Calabria, 87036 Rende, Italy"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0003-3053-6132",
+      "authenticated-orcid": false,
+      "given": "Riccardo",
+      "family": "Cantini",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Department of Informatics, Modeling, Electronics and Systems Engineering (DIMES), University of Calabria, 87036 Rende, Italy"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>In recent years, generative artificial intelligence and, in particular, large language models (LLMs) have rapidly transformed the landscape of data analysis, knowledge extraction, content generation, and intelligent decision support [...]</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.33140/eoa.03.06.05",
+    "title": [
+     "Harnessing Generative AI and Large Language Models for Revolutionizing Cybersecurity in the Internet of Things: Ethical and Privacy Implications"
+    ],
+    "container-title": [
+     "Engineering: Open Access"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       6,
+       23
+      ]
+     ]
+    },
+    "author": [
+     {
+      "name": "Dakota State University, USA",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Harsha",
+      "family": "Sammangi",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>Generative artificial intelligence (AI) and large language models (LLMs) have in- troduced transformative capabilities\nin cybersecurity, particularly in securing Internet of Things (IoT) environments. These technologies can synthesize vast\ndatasets, support real-time anomaly detection, and generate predictive insights through simple prompts. However, their\ndeployment also presents ethical and privacy-related concerns, including algorithmic bias, data leakage, and misuse\nfor malicious content creation. This paper conducts a systematic literature review to evaluate how LLMs and generative\nAI contribute to IoT cybersecurity. We propose an ethical AI-IoT security framework, examine key challenges, and\noffer recommendations for integrating responsible AI governance. We aim to inform future research, journal editorial\npractices, and cybersecurity policy discussions around the dual promise and peril of these technologies</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.5007/2175-7968.2025.e108395",
+    "title": [
+     "Large language models in translation quality assessment: The feasibility of human-AI collaboration"
+    ],
+    "container-title": [
+     "Cadernos de Tradução"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       9,
+       30
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-8456-9426",
+      "authenticated-orcid": false,
+      "given": "Chengxu",
+      "family": "Wang",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p> .This research explores the potential application of Large Language Models (LLMs) in translation quality assessment within the Chinese Academic Translation Project (CATP), from a human-AI collaboration perspective. The study integrates the LISA QA Model and the Chinese standard GB/T 19682-2005 to develop a multidimensional translation quality assessment system, including typologies and weights of errors specific to Chinese academic works. Using this system, three LLMs (GPT-4, Claude-3.7, and Deepseek-R1) were employed to evaluate the Portuguese version of the work Introduction to Qing Dynasty Academic Thought, analyzing their performance and comparing it with the results of an assessment conducted by human experts, with the aim of exploring the feasibility of a collaborative model between humans and AI. Based on the experimental results, the research proposes a hierarchical assessment process of “AI screening-refined human judgment” and an inter-linguistic assessment mechanism of “Chinese prompt-multilingual verification”, constructing a translation quality assessment framework based on human-AI collaboration for the CATP. This study infuses elements of technological innovation into traditional translation quality assessment, providing a new technical support pathway for the strategy of “internationalization” of Chinese academic knowledge.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.2139/ssrn.4927675",
+    "title": [
+     "Generative Ai Large Language Models and Researching the Law \n&lt;br&gt;"
+    ],
+    "container-title": [
+     "SSRN Electronic Journal"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Paul D.",
+      "family": "Callister",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1215/2834703x-11205147",
+    "title": [
+     "Beyond Chatbot-K: On Large Language Models, “Generative AI,” and Rise of Chatbots—An Introduction"
+    ],
+    "container-title": [
+     "Critical AI"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       4,
+       1
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Lauren M. E.",
+      "family": "Goodlad",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Matthew",
+      "family": "Stone",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 15,
+    "abstract": "<jats:title>Abstract</jats:title>\n               <jats:p>This essay introduces the history of the “generative AI” paradigm, including its underlying political economy, key technical developments, and sociocultural and environmental effects. In concert with this framing it discusses the articles, thinkpieces, and reviews that make up part 1 of this two-part special issue (along with some of the content for part 2). Although large language models (LLMs) are marketed as scientific wonders, they were not designed to function as either reliable interactive systems or robust tools for supporting human communication or information access. Their development and deployment as commercial tools in a climate of reductive data positivism and underregulated corporate power overturned a long history in which researchers regarded chatbots as “misaligned” affordances for safe or reliable public use. While the technical underpinnings of these much-hyped systems are guarded as proprietary secrets that cannot be shared with researchers, regulators, or the public at large, there is ample evidence to show that their development depends on the expropriation and privatization of human-generated content (much of it under copyright); the expenditure of enormous computing resources (including energy, water, and scarce materials); and the hidden exploitation of armies of human workers whose low-paid and high-stress labor makes “AI” seem more like human “intelligence” or communication. At the same time, the marketing of chatbots propagates a deceptive ideology of “frictionless knowing” that conflates a person's ability to leverage a tool for producing an output with that person's active understanding and awareness of the relevant information or truth claims therein. By contrast, the best digital infrastructures for human writing enable human users by amplifying and concretizing their interactive role in crafting trains of contemplation and rendering this situated experience in shareable form. The essay concludes with reflections on alternative pathways for developing AI—including communicative tools—in the public interest.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/s10579-026-09938-4",
+    "title": [
+     "Hallucinations in generative artificial intelligence and large language models: tests, datasets, detection and correction methods"
+    ],
+    "container-title": [
+     "Language Resources and Evaluation"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       8,
+       7
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "M. Z.",
+      "family": "Naser",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:p>\n                    Generative Artificial Intelligence (GAI) and Large Language Models (LLMs) have demonstrated significant capabilities in generating human-like content; however, they exhibit a propensity to fabricate spurious information, a phenomenon often termed\n                    <jats:italic>hallucination</jats:italic>\n                    . This review paper provides a comprehensive overview of hallucinations in GAI and LLMs. More specifically, this review encompasses their definitions, underlying mechanisms, taxonomies, commonly used tests, and datasets for evaluating hallucinations. In addition, this review dives into intrinsic and extrinsic factors contributing to these inaccuracies, including limitations in model architectures, training data biases, and inference algorithms, as well as examines various detection strategies [e.g., post-hoc consistency checks, external fact-checking, contrastive learning, uncertainty calibration methods, and Retrieval-Augmented Generation (RAG)]. The review also synthesizes a range of correction and mitigation techniques, from proactive measures during training to hybrid approaches that combine detection and intervention. Finally, this review integrates qualitative assessments and comparative insights to delineate the impact of hallucinations on user trust and acceptability, and to shed light on current challenges and future research trends.\n                  </jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1016/j.drudis.2025.104593",
+    "title": [
+     "Generative AI in pharmaceutical R&amp;D: From large language models to AI agents to regulation"
+    ],
+    "container-title": [
+     "Drug Discovery Today"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       1
+      ]
+     ]
+    },
+    "is-referenced-by-count": 3,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.3390/buildings15060933",
+    "title": [
+     "Generative AI, Large Language Models, and ChatGPT in Construction Education, Training, and Practice"
+    ],
+    "container-title": [
+     "Buildings"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       3,
+       15
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0003-1956-7384",
+      "authenticated-orcid": false,
+      "given": "Mostafa Babaeian",
+      "family": "Jelodar",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "School of Built Environment, Massey University, Auckland 0745, New Zealand"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 29,
+    "abstract": "<jats:p>The rapid advancement of generative AI, large language models (LLMs), and ChatGPT presents transformative opportunities for the construction industry. This study investigates their integration across education, training, and professional practice to address skill gaps and inefficiencies. While AI’s potential in construction has been highlighted, limited attention has been given to synchronising academic curricula, workforce development, and industry practices. This research seeks to fill that gap by evaluating AI adoption through a mixed and multi-stage methodology, including theoretical conceptualisation, case studies, content analysis and application of strategic frameworks such as scenario planning, SWOT analysis, and PESTEL frameworks. The findings show AI tools enhance foundational learning and critical thinking in education but often fail to develop job-ready skills. Training programmes improve task-specific competencies with immersive simulations and predictive analytics but neglect strategic leadership skills. Professional practice benefits from AI-driven resource optimisation and collaboration tools but faces barriers like regulatory and interoperability challenges. By aligning theoretical education with practical training and strategic professional development, this research highlights the potential to create a future-ready workforce. The study provides actionable recommendations for integrating AI across domains. These findings contribute to understanding AI’s transformative role in construction, offering a baseline for effective and responsible adoption.</jats:p>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1007/s13347-023-00621-y",
+    "title": [
+     "AI as Agency Without Intelligence: on ChatGPT, Large Language Models, and Other Generative Models"
+    ],
+    "container-title": [
+     "Philosophy &amp; Technology"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       3
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Luciano",
+      "family": "Floridi",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 293,
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.1093/humrep/deag083.894",
+    "title": [
+     "L26/P-561 Preconception care meets Artificial Intelligence: evaluating the performance of Generative AI, Large Language Models"
+    ],
+    "container-title": [
+     "Human Reproduction"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       7,
+       1
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Y.",
+      "family": "Ma",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "UCL Global Business School for Health, Faculty of Population Health Sciences- University College London , London,",
+        "place": [
+         "United Kingdom"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "B.",
+      "family": "Grace",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "UCL Global Business School for Health, Faculty of Population Health Sciences- University College London , London,",
+        "place": [
+         "United Kingdom"
+        ]
+       },
+       {
+        "name": "UCL Institute for Women’s Health, Faculty of Population Health Sciences- University College London , London,",
+        "place": [
+         "United Kingdom"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "D.",
+      "family": "Schoenaker",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Human Development and Health, Faculty of Medicine- University of Southampton , Southampton,",
+        "place": [
+         "United Kingdom"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "M.",
+      "family": "Nieroda",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "UCL Global Business School for Health, Faculty of Population Health Sciences- University College London , London,",
+        "place": [
+         "United Kingdom"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:title>Abstract</jats:title>\n                  <jats:sec>\n                    <jats:title>Study question</jats:title>\n                    <jats:p>How do Generative AI (Gen AI) large language models (LLMs) perform when providing preconception health information compared with evidence-based clinical guidelines?</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Summary answer</jats:title>\n                    <jats:p>Across all LLM models, general health behaviors and mental health topics were addressed clearly and coherently, while medication, supplementation and vaccination-related responses lacked clinical specificity.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>What is known already</jats:title>\n                    <jats:p>ESHRE recently published its key research priorities in infertility to maximise impact on science, people and society; listing better preconception and reproductive care and education as the #1 topic for prioritisation[1].Preconception health is critical for optimising maternal and child outcomes, yet public knowledge of key risk factors and recommendations remains limited. Since the launch of ChatGPT, Gen AI, LLMs are increasingly used as sources of health information and advice[2] by the public and healthcare-professionals, especially nurses[3]. This study aimed to comparatively assess preconception health information generated via LLM platforms to explore their potential as useful tools in reproductive health education.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Study design, size, duration</jats:title>\n                    <jats:p>Twenty user-like prompts were developed from international guidance by WHO, NHS, NICE, ACOG, and FIGO across 13 domains such as: supplements, BMI, chronic disease management, vaccination, mental health, intimate partner violence. For each prompt, a consensus reference answer was constructed from relevant recommendations across at least three organizations. LLM outputs were independently assessed on three dimensions: concordance with guidelines, comprehensibility, and conciseness using a 5-point Likert scale where 5 is high and 1 is low[4].</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Participants/materials, setting, methods</jats:title>\n                    <jats:p>Free versions of four publicly available Gen AI LLM platforms: ChatGPT (GPT-4), Claude (v4), Gemini (2.5), and Perplexity were selected for analysis based on popularity and access. A comparative analysis of the responses from these LLM platforms was conducted. Each platform’s responses were collected once in a non-logged-in web environment and benchmarked against reference answers derived from international guidelines.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Main results and the role of chance</jats:title>\n                    <jats:p>LLM platforms generally provided concordant answers for general health behaviours and mental health topics. Content related to diet, mental health conditions, and depression was typically presented with clear structure and coherent responses. In contrast, topics involving medication use, supplementation and vaccination were less concordant. These lacked specific clinical technical components, including dosage considerations, contraindications, or timing-related details. In summary, behavioural and psychosocial topics were communicated clearly, whereas aforementioned clinically technical topics produced less concise responses. Differences were also observed across topic groups that contained multiple sub-topics. For example, weight-related topics showed uneven patterns, with general advice commonly addressed, but more specific guidance related to BMI thresholds or overweight status varying in clarity and depth. ChatGPT provided the strongest concordance. Conciseness was poorest for Gemini. Comprehensibility was similar across platforms. Perplexity responses consistently included cited sources with footnotes or links to evidence.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Limitations, reasons for caution</jats:title>\n                    <jats:p>The prompts, although varied, may not fully capture the complexity of real-world preconception health queries, especially by the general public. The evaluation was also completed by experts which has implications for generalisability. Findings reflect a snapshot at the time of study, in reality LLM outputs continue to evolve rapidly[5].</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Wider implications of the findings</jats:title>\n                    <jats:p>Gen AI shows promise as a tool for improving reproductive health education for individuals and for increasing clinician awareness. However, attention must be paid to information quality, in order to ensure that individuals obtain accurate, reliable and understandable information to help them achieve their desired reproductive health and family-building intentions.</jats:p>\n                  </jats:sec>\n                  <jats:sec>\n                    <jats:title>Trial registration number</jats:title>\n                    <jats:p>No</jats:p>\n                  </jats:sec>",
+    "type": "journal-article"
+   },
+   {
+    "DOI": "10.70528/ijlrp.v5.i12.1586",
+    "title": [
+     "Enhancing Software Testing Efficiency with Generative AI and Large Language Models"
+    ],
+    "container-title": [
+     "International Journal of Leading Research Publication"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       12,
+       7
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Mohnish Neelapu",
+      "family": "-",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "is-referenced-by-count": 0,
+    "abstract": "<jats:p>This research introduces a Generative AI-powered software testing framework for improving the efficiency, precision, and speed of software quality assurance activities. Utilizing Large Language Models(LLMs) like GPT-4, CodeT5, and StarCoder, the framework streamlines test case generation, document analysis, and code rationalization through increased contextual understanding. Some of the key capabilities built into the system are intelligent test planning, memory-based prompt expansion, and service orchestration for smooth interfacing with code bases and test environments. Methods like Retrieval-Augmented Generation (RAG), prompt tuning, and hallucination removal further increase output dependability and traceability. The architecture introduced here minimizes human effort by a large extent, increases test coverage correctness, and shortens total testing cycles, providing a scalable solution to contemporary software development pipe.</jats:p>",
+    "type": "journal-article"
+   }
+  ],
+  "items-per-page": 25,
+  "query": {
+   "start-index": 0,
+   "search-terms": null
+  }
+ }
+}

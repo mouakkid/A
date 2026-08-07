@@ -1,0 +1,999 @@
+{
+ "total": 84,
+ "offset": 0,
+ "next": 25,
+ "data": [
+  {
+   "paperId": "209db1783af76f5fa498930c0095b082a46eab4d",
+   "externalIds": {
+    "DOI": "10.4102/sajhrm.v24i0.3382",
+    "CorpusId": 289892432
+   },
+   "title": "Impostor phenomenon in human resource management within the era of artificial intelligence",
+   "venue": "Sa Journal of Human Resource Management",
+   "year": 2026,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.4102/sajhrm.v24i0.3382",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.4102/sajhrm.v24i0.3382?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.4102/sajhrm.v24i0.3382, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2183960860",
+     "name": "Faraaz Omar"
+    },
+    {
+     "authorId": "1393841672",
+     "name": "Tendency Beretu"
+    }
+   ],
+   "abstract": "Orientation: The global adoption of artificial intelligence (AI) is transforming organisations, including in South Africa, where human resource management (HRM) professionals increasingly use AI-enabled systems. While AI offers efficiency, it creates psychological challenges, notably the impostor phenomenon (IP), where professionals doubt their competence and credit success to external factors like AI.\nResearch purpose: This study explored how AI adoption is perceived by HRM practitioners to relate to experiences of the IP and examined the implications of IP for practitioners’ perceived professional confidence in AI-driven contexts.\nMotivation for the study: Despite growing research on AI-in-HRM, its psychological impact remains understudied. Addressing this gap is vital to ensure AI adoption enhances performance without undermining professional confidence.\nResearch approach/design and method: A qualitative design was employed. Semi-structured online interviews were conducted with HR managers in South Africa (n = 15). Data were transcribed verbatim and analysed using thematic analysis to generate key themes.\nMain findings: Participant accounts suggest that AI adoption heightened feelings of self-doubt among HRM professionals, with many attributing workplace achievements to AI systems, luck or external support. Participants described IP as eroding their confidence, reducing ownership of achievements and affecting work engagement.\nPractical/managerial implications: HR leaders should embed AI training within human resource development (HRD) programmes, implement performance appraisal systems that recognise both human and AI contributions, and design interventions to strengthen self-efficacy.\nContribution/value-add: This study offers interpretive insights into how IP is experienced in AI-driven contexts and offers actionable insights for fostering resilience and adaptability among HRM professionals in South Africa."
+  },
+  {
+   "paperId": "067275ed087816bf1c215bfebf93c50a60d8daf6",
+   "externalIds": {
+    "DOI": "10.47191/jefms/v9-i2-48",
+    "CorpusId": 286247812
+   },
+   "title": "Adoption of Artificial Intelligence in Human Resource Management and Employee Acceptance of Digital HR Systems in Nigerian Universities",
+   "venue": "Journal of economics, finance and management studies",
+   "year": 2026,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "https://ijefm.co.in/v9i2/Doc/48.pdf",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.47191/jefms/v9-i2-48?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.47191/jefms/v9-i2-48, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "authors": [
+    {
+     "authorId": "2421870295",
+     "name": "M. Akinnigbagbe"
+    },
+    {
+     "authorId": "2398444724",
+     "name": "O. Adegoke"
+    },
+    {
+     "authorId": "2421873412",
+     "name": "Itunu Olu -OGUNLEYE"
+    }
+   ],
+   "abstract": "The adoption of Artificial Intelligence (AI) in human resource management (HRM) and the acceptance of digital HR systems by employees in higher education institutions have become important factors in the management of the workforce in these institutions. This study aims to present a systematic literature review on the available research on the adoption of AI in HRM in higher education institutions and the factors that influence employee acceptance of digital HR systems. The available literature on the adoption of AI in HRM in higher education institutions was identified using the PRISMA approach, and relevant literature was identified from Scopus, Web of Science, Google Scholar, and Africa Journals Online (AJOL) databases, with the publication dates ranging from 2019 to 2026. The literature review indicates that the adoption of AI in HRM in higher education institutions is mainly in administrative functions, not in strategic functions, and that the adoption is influenced by technological, organisational, and environmental factors, while the barriers to adoption include infrastructural, cost, skill, and ethical factors. Employee acceptance is influenced by perceived usefulness, ease of use, trust, and organisational support, but resistance is driven by fear, ethics, and threats to professional autonomy. These findings are discussed using the Technology Acceptance Model (TAM), the Unified Theory of Acceptance and Use of Technology (UTAUT), and the Diffusion of Innovation (DOI) theory, which offer a comprehensive understanding of the technology and socio-organisational factors that influence AI adoption in HE HRM. In the final section, recommendations are offered for policy, practice, and further research, which highlight the importance of strategic alignment, capacity building, ethics, and contextual approaches to AI adoption and employee engagement with HR technology."
+  },
+  {
+   "paperId": "e5b0db72cb87698dba4dcf2b42ebf3eb9b2c5b2c",
+   "externalIds": {
+    "DOI": "10.1017/dmp.2026.10420",
+    "CorpusId": 290837376,
+    "PubMed": "42553006"
+   },
+   "title": "Experts’ Opinion on Strategic Public Health CBRN Emergency Management Using Artificial Intelligence in the Middle East and North Africa Region",
+   "venue": "Disaster Medicine and Public Health Preparedness",
+   "year": 2026,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1017/dmp.2026.10420",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1017/dmp.2026.10420?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1017/dmp.2026.10420, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "144086097",
+     "name": "Hassan Farhat"
+    },
+    {
+     "authorId": "1974624844",
+     "name": "D. Tin"
+    },
+    {
+     "authorId": "2328359631",
+     "name": "Heejun Shin"
+    },
+    {
+     "authorId": "2286758976",
+     "name": "S. Al-Ali"
+    },
+    {
+     "authorId": "2455496324",
+     "name": "Daren Mochrie"
+    },
+    {
+     "authorId": "144487897",
+     "name": "Brendon Morris"
+    },
+    {
+     "authorId": "2273344954",
+     "name": "Gregory Ciottone"
+    }
+   ],
+   "abstract": "Abstract Chemical, biological, radiological, and nuclear (CBRN) incidents present escalating risks across the Middle East and North Africa (MENA) amid geopolitical instability, cross-border threats, and evolving non-state actor capabilities. This policy analysis examines why prevailing case-level and ministry-siloed governance is insufficient for population-level CBRN readiness, weighs alternative coordination models, and outlines an artificial intelligence (AI)-enabled, centrally coordinated public-health strategy adapted to the region’s heterogeneity and resource constraints. We propose a National Emergency Management Advisory Council to provide statutory inter-ministerial authority and stewardship for a National CBRN Dashboard that delivers decision support, inventory tracking, simulation, and rapid triage. We situate this within existing backgrounds and analyze legal authority, financing, data governance, and feasibility in low-resource settings. While prototype AI models report high accuracy for antidote optimization, agent classification, and triage, we argue these metrics reflect controlled research, not operational readiness, and require external validation, robustness testing, and cybersecurity safeguards. A phased, evidence-graded roadmap is proposed to move MENA CBRN management from reactive to predictive and adaptive models."
+  },
+  {
+   "paperId": "c0970f804cb2f699c41804aa657db3a1e4063917",
+   "externalIds": {
+    "DOI": "10.11113/ijibs.v21.196",
+    "CorpusId": 289724359
+   },
+   "title": "AI-DRIVEN INNOVATION AND HUMAN RESOURCE MANAGEMENT PERFORMANCE: A COMPARATIVE QUANTITATIVE STUDY BETWEEN MOROCCO AND MALAYSIA",
+   "venue": "International Journal of Innovation and Business Strategy (IJIBS)",
+   "year": 2026,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.11113/ijibs.v21.196",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.11113/ijibs.v21.196?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.11113/ijibs.v21.196, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "authors": [
+    {
+     "authorId": "2351181945",
+     "name": "Samah Fifani"
+    },
+    {
+     "authorId": "2082202048",
+     "name": "D. Rabhi"
+    },
+    {
+     "authorId": "2351189166",
+     "name": "Abdelhakim Qachar"
+    }
+   ],
+   "abstract": "The rapid integration of Artificial Intelligence (AI) in organizational processes is fundamentally reshaping Human Resource Management (HRM) practices and innovation ecosystems. This study examines the impact of AI adoption on HRM performance and organizational innovation, drawing a comparative analysis between Morocco and Malaysia — two emerging economies at different stages of digital transformation. Using a quantitative, survey-based approach with Partial Least Squares Structural Equation Modeling (PLS-SEM) implemented via SmartPLS 4, data were collected from 312 HR professionals and managers (154 Moroccan, 158 Malaysian). Findings reveal that AI adoption positively and significantly influences HRM effectiveness (β = 0.487, p < 0.001) and organizational innovation (β = 0.563, p < 0.001) in both contexts. However, Malaysian firms exhibit stronger AI–innovation relationships (β = 0.621) compared to Moroccan firms (β = 0.412), attributed to more mature digital infrastructure and supportive institutional environments. The model demonstrates strong predictive validity (R² HRM = 0.531; R² Innovation = 0.612). Multi-group analysis (MGA) confirms significant cross-country moderating differences (p < 0.05). These findings offer actionable insights for HR strategists and policymakers in digitally transitioning economies."
+  },
+  {
+   "paperId": "c14c991fa9f12dc712269631ed12c1ed6b7a1bba",
+   "externalIds": {
+    "DOI": "10.36096/ijbes.v7i5.1030",
+    "CorpusId": 283799065
+   },
+   "title": "Artificial intelligence, decoloniality and epistemic justice in the South African public sector: Implications for human resource management in Industry 5.0",
+   "venue": "International Journal of Business Ecosystem &amp; Strategy (2687-2293)",
+   "year": 2025,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "https://bussecon.com/ojs/index.php/ijbes/article/download/1030/572",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.36096/ijbes.v7i5.1030?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.36096/ijbes.v7i5.1030, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2233190425",
+     "name": "M. T. B. Makhanya"
+    }
+   ],
+   "abstract": "In the context of Industry 5.0, the convergence of Artificial Intelligence (AI), decoloniality, and epistemic justice presents both opportunities and challenges for Human Resource Management (HRM) in the South African public sector. This paper emanates because of the possibility that AI-driven HRM practices could reinforce colonial legacies, repeat systemic bias, and prolong epistemic exclusion if not led by justice-oriented perspectives. This paper aims to explore how concepts of ethical, decolonial, and epistemic justice might inform the use of AI in HRM to promote inclusivity and fairness. This paper employs bibliometric analysis to map and evaluate scholarly discourse on AI, decoloniality, and HRM, aiming to uncover research trends, gaps, and theoretical intersections. Findings indicate that although AI can be efficient and predictive, its application in HRM frequently ignores ethical requirements and local knowledge systems. To protect equity, the study recommends integrating decolonial ideas, participatory methods, and epistemic justice frameworks into HRM technology. This paper concludes that the South African public sector may reconcile technological innovation with transformation and social justice imperatives by ethically aligning AI in Industry 5.0."
+  },
+  {
+   "paperId": "bd13bc10d3451282df5f4145543297d363b5b79f",
+   "externalIds": {
+    "DOI": "10.31893/multirev.2026510",
+    "CorpusId": 287231244
+   },
+   "title": "Adoption of artificial intelligence in human resource management: Systematic review and bibliometric analysis",
+   "venue": "Multidisciplinary Reviews",
+   "year": 2026,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "https://malque.pub/ojs/index.php/mr/article/download/15377/6301",
+    "status": "GOLD",
+    "license": "CCBYNCND",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.31893/multirev.2026510?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.31893/multirev.2026510, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "authors": [
+    {
+     "authorId": "2428460690",
+     "name": "Outmane Said"
+    },
+    {
+     "authorId": "2428463883",
+     "name": "Abadi Nahid"
+    }
+   ],
+   "abstract": "This study presents a systematic and bibliometric review of academic research on the adoption of artificial intelligence (AI) in human resource management (HRM), with a specific focus on the paradoxical tensions arising from the integration of algorithmic systems into organizational decision-making. Based on a structured corpus of peer-reviewed publications indexed in the Scopus database and selected following the PRISMA protocol, the study combines systematic review procedures with bibliometric techniques to ensure methodological rigor and analytical transparency. Bibliometric mapping is used to examine the evolution of scientific production, identify influential authors and journals, and uncover dominant and emerging research themes through cooccurrence and network analyses. Adopting an interpretive perspective informed by Paradox Theory, the review moves beyond linear and deterministic approaches that frame AI in HRM as either beneficial or harmful, and instead highlights how the literature conceptualizes AI adoption as a set of persistent tensions between technological efficiency and human, organizational, and ethical considerations. The results reveal a sharp increase in scholarly output over the past decade, largely dominated by contributions from North America, Europe, and parts of Asia, thereby exposing a structural underrepresentation of studies conducted in emerging and non-Western contexts. Four major thematic clusters are identified: efficiency-oriented technological applications, strategic reconfiguration of the HR function, implications for employee experience, and paradoxical tensions related to algorithmic decision-making, particularly those involving autonomy versus control, standardization versus personalization, and efficiency versus fairness. A recurring issue highlighted in the literature is the gap between the technical promises of AI-enabled HR systems and the organizational, institutional, and cultural conditions shaping their implementation. By synthesizing fragmented research streams, this review contributes an integrative framework that connects technological, organizational, and ethical dimensions of AI adoption in HRM, and outlines avenues for future research emphasizing context-sensitive studies in developing economies, ethical governance of algorithmic tools, and the evolving professional role of HR actors."
+  },
+  {
+   "paperId": "7fac6edea5a36b12f25779eec00bf5a119254db1",
+   "externalIds": {
+    "DOI": "10.24294/jipd10352",
+    "CorpusId": 276818992
+   },
+   "title": "Artificial intelligence innovations in talent recruitment, retention, diversity mapping within South Africa: A meta narrative analysis",
+   "venue": "Journal of Infrastructure Policy and Development",
+   "year": 2025,
+   "citationCount": 1,
+   "openAccessPdf": {
+    "url": "https://systems.enpress-publisher.com/index.php/jipd/article/download/10352/5440",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.24294/jipd10352?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.24294/jipd10352, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "authors": [
+    {
+     "authorId": "2365829840",
+     "name": "A. Maharaj"
+    },
+    {
+     "authorId": "121670523",
+     "name": "Grace O. Obalade"
+    }
+   ],
+   "abstract": "This paper uses existing studies to explore how Artificial Intelligence (AI) advancements enhance recruitment, retention, and the effective management of a diverse workforce in South Africa. The extensive literature review revealed key themes used to contextualize the study. This study uses a meta-narrative approach to literature to review, critique and express what the literature says about the role of AI in talent recruitment, retention and diversity mapping within South Africa. An unobtrusive research technique, documentary analysis, is used to analyze literature. The findings reveal that South Africa’s Human Resource Management (HRM) landscape, marked by a combination of approaches, provides an opportunity to cultivate alternative methods attuned to contextual conditions in the global South. Consequently, adopting AI in recruiting, retaining, and managing a diverse workforce demands a critical examination of the colonial/apartheid past, integrating contemporary realities to explore the potential infusion of contextually relevant AI innovations in managing South Africa’s workforce."
+  },
+  {
+   "paperId": "e1967910490d7377cf4276f9e98295d0ac9c0ccd",
+   "externalIds": {
+    "DBLP": "journals/bpmj/ALShboul24",
+    "DOI": "10.1108/bpmj-02-2024-0089",
+    "CorpusId": 271265066
+   },
+   "title": "Do artificial intelligence system adoptions foster production management supply chain performance in pharmaceutical manufacturing firms? An empirical exploring study from the MENA region",
+   "venue": "Business Process Management Journal",
+   "year": 2024,
+   "citationCount": 15,
+   "openAccessPdf": {
+    "url": "",
+    "status": "CLOSED",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1108/bpmj-02-2024-0089?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1108/bpmj-02-2024-0089, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "authors": [
+    {
+     "authorId": "1404977409",
+     "name": "M. Al-Shboul"
+    }
+   ],
+   "abstract": "PurposeThe goal of this study is to better understand the driving force behind the use of artificial intelligence (AI) in pharmaceutical manufacturing firms (PMFs) that are recognized as developing countries in the Middle East and North Africa (MENA) region that are listed by the Chambers of the Industries of Jordan, the Kingdom of Saudi Arabia, Morocco, and Algeria. Furthermore, the effect of adopting and using AI in managing raw materials (RMs), products, parts, and components for PMFs through supply chains (SCs).Design/methodology/approachA self-administrated questionnaire survey was used to gather data from 95 out of 511 participating managers (e.g. manufacturing, supplying, IT, operational, and logistical managers) utilizing a quantitative technique with a random sample size. In fact, 18.8% of the 89 different manufacturing firms (MFs) in the MENA area responded, with five to six managers from each company. The raw data was analyzed using partial least squares structural equation modeling (PLS-SEM).FindingsThe study’s findings show that the readiness to embrace artificial intelligence (AI) in the production management supply chain performance (PMSCP) of pharmaceutical manufacturing firms in the Middle East and North Africa (MENA) is positively and significantly influenced directly and indirectly by sustainable strategic supplier reliability (SSSR), shipping process dependability (SPD), technological factors (TFs), and infrastructure transformational development capability (ITDC).Originality/valueAs the studied countries are growing economies, such study findings might offer insightful consequences for stakeholders and policymakers regarding the significance of using artificial intelligence system adoptions in pharmaceutical manufacturing enterprises in the MENA region. The managers may also concentrate on the strong positive direct and indirect links between SSSR, SPD, TFs, and ITDC preparedness to accept AI adoption and its applications and systems in supply chain and production management departments and the consequences of informational and product delivery."
+  },
+  {
+   "paperId": "59132ba463f0165b0a8fd046532b76032fb593a3",
+   "externalIds": {
+    "DOI": "10.23882/ijdam.26324",
+    "CorpusId": 289219477
+   },
+   "title": "Artificial Intelligence and the Modernization of Public Spending : Towards an Augmented Contingency Model for Fiscal Governance in Morocco",
+   "venue": "International Journal of Digitalization and Applied Management",
+   "year": 2026,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "https://ojs.nmdjournals.org/index.php/ijdam/article/download/324/225",
+    "status": "HYBRID",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.23882/ijdam.26324?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.23882/ijdam.26324, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "authors": [
+    {
+     "authorId": "116135144",
+     "name": "Mohamed Bazi"
+    },
+    {
+     "authorId": "118079712",
+     "name": "M. Adraoui"
+    },
+    {
+     "authorId": "2442393417",
+     "name": "Saad Boudraa"
+    }
+   ],
+   "abstract": "The current study examines the question of the possible influence of artificial intelligence on the future development of public finance management in the Middle East and North Africa region, in particular Morocco. In other words, the study seeks to investigate the possibility of using artificial intelligence technologies, including predictive analytics and simulation-based decision support, for shifting from static budgeting to dynamic budgeting. Our study is based on a conceptual framework, which is informed by an extensive review of the literature on public financial governance and application of AI in government. Using data from the World Bank, IMF, and OECD on institutions, we seek to compare fiscal inflexibility and readiness for AI in the region. Challenges include fluctuating oil prices and geopolitics of the Strait of Hormuz in 2025-2026. Our study suggests that there is indeed genuine potential for AI applications to improve the process of financial forecasting, enhance the allocation of available public funds, and contribute to the transition from crisis-driven governance to strategic budgetary management. In this paper, we have developed a theoretical framework for the role of AI as a mediating factor between budgetary restrictions and organizational agility."
+  },
+  {
+   "paperId": "30de5205df24d229228bf074f85b99eb56fb25de",
+   "externalIds": {
+    "DOI": "10.3390/w17030331",
+    "CorpusId": 275890531
+   },
+   "title": "Assessment of a Groundwater Potential Zone Using Geospatial Artificial Intelligence (Geo-AI), Remote Sensing (RS), and GIS Tools in Majerda Transboundary Basin (North Africa)",
+   "venue": "Water",
+   "year": 2025,
+   "citationCount": 12,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.3390/w17030331",
+    "status": "GOLD",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/w17030331?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/w17030331, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "108509652",
+     "name": "Y. Ayadi"
+    },
+    {
+     "authorId": "72092155",
+     "name": "Matteo Gentilucci"
+    },
+    {
+     "authorId": "95909924",
+     "name": "K. Ncibi"
+    },
+    {
+     "authorId": "3402957",
+     "name": "Riheb Hadji"
+    },
+    {
+     "authorId": "66549993",
+     "name": "Younes Hamed"
+    }
+   ],
+   "abstract": "Groundwater in northwest Tunisia plays a vital role in supporting the domestic, agriculture, industry, and tourism sectors. However, climate change and over-exploitation have led to significant degradation in groundwater quality and quantity. Traditional spatial analysis techniques such as Geographic Information Systems (GIS) and Remote Sensing (RS) are frequently used for assessing groundwater potential and water quality. Yet, these methods are limited by data availability. The integration of Geospatial Artificial Intelligence (Geo-AI) offers improved precision in groundwater potential zone (GWPZ) delineation. This study compares the effectiveness of the Analytical Hierarchy Process (AHP) and advanced Geo-AI techniques using deep learning to map GWPZ in the Majerda transboundary basin, shared between Tunisia and Algeria. By incorporating thematic layers such as rainfall, slope, drainage density, land use/land cover (LU/LC), lithology, and soil, a comprehensive analysis was conducted to assess groundwater recharge potential. The results revealed that both methods effectively delineated GWPZ; however, the Geo-AI approach demonstrated superior accuracy with a classification accuracy rate of approximately 92%, compared to 85% for the AHP method. This indicates that Geo-AI not only enhances the quality of groundwater potential assessments but also offers a reliable alternative to traditional methods. The findings underscore the importance of adopting innovative technologies in groundwater exploration efforts in this critical region, ultimately contributing to more effective and sustainable water resource management strategies."
+  },
+  {
+   "paperId": "42444c864c2fcb861e02a8727546e94c5cd9e3df",
+   "externalIds": {
+    "DOI": "10.1109/ICCSC66714.2025.11135414",
+    "CorpusId": 281151978
+   },
+   "title": "Artificial Intelligence and Morocco's Education System: A Strategic Tool for Enhancing Public Management and Institutional Performance",
+   "venue": "IEEE International Conference on Circuits and Systems for Communications",
+   "year": 2025,
+   "citationCount": 1,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICCSC66714.2025.11135414?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICCSC66714.2025.11135414, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference",
+    "Review"
+   ],
+   "authors": [
+    {
+     "authorId": "2379236192",
+     "name": "Samia Jirari"
+    },
+    {
+     "authorId": "2349730420",
+     "name": "Mustapha Khiati"
+    },
+    {
+     "authorId": "2379222031",
+     "name": "Asmaa Mabchour"
+    },
+    {
+     "authorId": "2379236616",
+     "name": "Elbachir Ouboujema"
+    },
+    {
+     "authorId": "2379236138",
+     "name": "Baite Mohammed"
+    },
+    {
+     "authorId": "2379234986",
+     "name": "Ouafa ElOmari"
+    },
+    {
+     "authorId": "96261865",
+     "name": "Tanane Omar"
+    }
+   ],
+   "abstract": "In the digital transformation age, AI is helping to optimize public management systems, including those in the field of education. In Morocco, one country that prioritizes education reform, the introduction of AI in school governance is perceived as a challenge and an opportunity to improving administrative efficiency and improving the learning process. This study therefore seeks to investigate the contribution of AI to enhance the management of public business in Moroccan schools, and more specifically the contribution of AI to decision making, performance management, and rationalizing resource use. And our research problematic is translated by: What are the effects and limits of the use of AI in Moroccan school governance and how this may contribute to more effective, transparent and equity-based public management? Methodology The study is based on qualitative research, using multiple case study approach. The data was gathered utilizing semi-structured interviews with education staff, school heads and IT experts with a review of an extensive literature and official government reports and policies. This triangulated approach gave a robust view of both the applications on the ground and institutional challenges of AI in education. The findings reveal that there are many administrative advantages of AI, such as facilitating the administrative processes, making the student data more traceable, bringing more transparency to the decision making, and supporting predictive analytics for better educational planning. Yet the study also exposes key weaknesses, such as a lack of digital infrastructure in public schools, a shortage of qualified human resources to run AI systems, and inertia on the part of traditional bureaucratic structures. This article is part of the academic and policy discussion about digital governance, and provides practical insights on how AI can responsibly and effectively be incorporated into Moroccan public education."
+  },
+  {
+   "paperId": "8bd96f14e16a96754ce03067993fe622624091ed",
+   "externalIds": {
+    "DOI": "10.1002/eng2.70310",
+    "CorpusId": 280354154
+   },
+   "title": "Resilience in Humanitarian Supply Chains: Addressing Artificial Intelligence and Big Data Hurdles Across Borders",
+   "venue": "Engineering Reports",
+   "year": 2025,
+   "citationCount": 1,
+   "openAccessPdf": {
+    "url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/eng2.70310",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1002/eng2.70310?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1002/eng2.70310, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "authors": [
+    {
+     "authorId": "2327824657",
+     "name": "Emmanuel Ahatsi"
+    },
+    {
+     "authorId": "145117017",
+     "name": "O. Olanrewaju"
+    }
+   ],
+   "abstract": "The study aimed to evaluate the key barriers and challenges hindering AI‐BDA adoption in humanitarian supply chains in Ghana and South Africa. Guided by the sociotechnical systems theory, a descriptive research design was employed, utilizing structured surveys to collect quantitative data from 200 supply chain professionals in Ghana and South Africa. SPSS was used to analyze trends and patterns in AI‐BDA adoption barriers. The findings revealed that resource‐related barriers, particularly skill gaps among staff and lack of technical expertise (mean = 3.09), represent the most significant challenges to AI‐BDA adoption. These were closely followed by technical barriers such as data integration complexity and limited data accessibility, while organizational barriers like management support and resistance to change were found to be relatively less prominent. The study concludes that human resource development and technical infrastructure enhancement are more critical than organizational change management in implementing AI‐BDA for humanitarian supply chains in these regions. It recommends targeted training programs, improved data governance frameworks, and increased policy support to facilitate AI‐BDA integration in humanitarian operations. [Correction added on 03 September 2025, after first online publication: The Abstract section has been corrected in this version.]"
+  },
+  {
+   "paperId": "20a1d6ace710b0b348684ebd2b70b4790b885943",
+   "externalIds": {
+    "DOI": "10.64943/jkc.2026.040103",
+    "CorpusId": 289271386
+   },
+   "title": "Requirements for the Successful Implementation of Artificial Intelligence in Libyan Banks North Africa Bank – Abu Salim Branch as a Case Study",
+   "venue": "Taj Al-Ma'rifa journal",
+   "year": 2026,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "https://histt.edu.ly/ojs/index.php/tajournal/article/download/138/119",
+    "status": "HYBRID",
+    "license": "CCBYNC",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.64943/jkc.2026.040103?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.64943/jkc.2026.040103, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2442670894",
+     "name": "Nadia Allafi Alosta"
+    }
+   ],
+   "abstract": "This research aimed to identify the requirements for the successful implementation of Artificial Intelligence (AI) at North Africa Bank, Abu Salim branch, using a descriptive-analytical approach. A questionnaire was designed for data collection and distributed to the bank's employees. Forty-seven (47) valid questionnaires were retrieved and analyzed using statistical methods, including percentages, mean, standard deviation, and T-test. The results revealed that the bank currently lacks the essential requirements for successful AI implementation across several areas, including customer biometrics, chatbots, fraud detection, risk management, and automated report generation, despite the presence of some analytical applications. Furthermore, the study identified significant obstacles hindering the adoption of AI applications. The research recommends bridging the digital gap by adopting AI technologies in security, customer service, risk management, and report automation, while maximizing the utility of existing analytical tools. This should be conducted alongside upgrading the technological and legislative infrastructure and investing in human capital training to overcome implementation obstacles and ensure the integration of modern banking operations."
+  },
+  {
+   "paperId": "10786db790bbb08328ca1afb65eee63764b98bbc",
+   "externalIds": {
+    "PubMedCentral": "13045284",
+    "DOI": "10.1155/japr/4929266",
+    "CorpusId": 287109973,
+    "PubMed": "41939980"
+   },
+   "title": "Leishmaniasis in Morocco: Epidemiology, Transmission Dynamics, and the Potential of Artificial Intelligence for Disease Management",
+   "venue": "Journal of Parasitology Research",
+   "year": 2026,
+   "citationCount": 1,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC13045284, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review",
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2381688840",
+     "name": "C. Harkat"
+    },
+    {
+     "authorId": "2341120579",
+     "name": "Denis Sereno"
+    },
+    {
+     "authorId": "90049052",
+     "name": "A. Aimrane"
+    },
+    {
+     "authorId": "50229908",
+     "name": "M. Hidan"
+    },
+    {
+     "authorId": "116341838",
+     "name": "M. Yamani"
+    },
+    {
+     "authorId": "6771478",
+     "name": "K. Kahime"
+    }
+   ],
+   "abstract": "Leishmaniases are neglected tropical diseases caused by Leishmania parasites and transmitted by infected phlebotomine sand flies, and they remain a major public health challenge in Morocco. The burden is dominated by cutaneous leishmaniasis (CL) and visceral leishmaniasis (VL), mainly associated with Leishmania major, Leishmania tropica, and L. infantum. Despite long‐standing national control efforts aligned with the Sustainable Development Goals and the national ambition to eliminate leishmaniasis as a public health problem by 2030, transmission persists and continues to expand in some areas. Climate change, urbanization, and socioeconomic inequities are reshaping vector and reservoir distributions and intensifying human exposure, whereas emerging insecticide resistance threatens the sustainability of current vector‐control approaches. In parallel, recent advances in artificial intelligence (AI) offer new opportunities to strengthen surveillance, diagnosis, and targeted interventions, yet their application to leishmaniasis control in Morocco remains limited. This narrative review synthesizes recent evidence on the epidemiology, transmission cycles, vectors, reservoirs, diagnostic approaches, and control strategies of leishmaniasis in Morocco, and critically discusses how AI‐enabled tools, such as predictive risk mapping, automated vector identification, and image‐based clinical decision support, could help address operational gaps. By integrating AI into existing public health frameworks and reinforcing data quality and capacity building, Morocco could improve early detection, optimize resource allocation, and accelerate progress toward the 2030 elimination goal."
+  },
+  {
+   "paperId": "5ed7cd97e30f4588c69c4e55be4091ea0e418d30",
+   "externalIds": {
+    "DOI": "10.48047/ba1xbq35",
+    "CorpusId": 280842964
+   },
+   "title": "Perceptions and Challenges of Artificial Intelligence Adoption in Healthcare Crisis Management: Insights from Hassan II regional hospital in Dakhla",
+   "venue": "Cuestiones de Fisioterapia",
+   "year": 2025,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "https://cuestionesdefisioterapia.com/index.php/es/article/download/3530/2602",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.48047/ba1xbq35?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.48047/ba1xbq35, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "authors": [
+    {
+     "authorId": "2214842481",
+     "name": "D. Haisoufi"
+    },
+    {
+     "authorId": "2089464905",
+     "name": "F. Elkhalloufi"
+    },
+    {
+     "authorId": "2283024227",
+     "name": "Abdeljabbar Rouani"
+    },
+    {
+     "authorId": "2234204196",
+     "name": "E. Bouaiti"
+    },
+    {
+     "authorId": "2087394013",
+     "name": "O. Erefai"
+    },
+    {
+     "authorId": "2278120263",
+     "name": "R. Fares"
+    }
+   ],
+   "abstract": "Introduction\nArtificial intelligence (AI) accelerates data processing, supports clinical decision-making, and optimizes resource allocation—capabilities that are especially critical during health crises. However, in Morocco, particularly in underserved regions like Dakhla, limited data exist on how frontline healthcare professionals perceive AI’s role in crisis response. This study explores the views of healthcare workers at Hassan II Regional Hospital in Dakhla to identify opportunities and barriers to AI adoption in emergency care.\nMethods and Materials\nWe conducted a cross-sectional quantitative survey involving 34 healthcare professionals—including physicians, nurses, and aides—from the hospital’s emergency department. The structured questionnaire, developed from recent literature, assessed participants’ awareness of AI, perceptions of its benefits, trust in autonomous decision-making, ethical concerns, and willingness to use AI-based tools. We collected data anonymously, with informed consent, and analyzed responses using descriptive statistics in SPSS Software.\nResults\nThe sample had a balanced gender distribution and a young age profile (mean age: 28.2). Most respondents (72%) were aware of AI in healthcare, and 77.8% believed it could improve care quality. Key expected benefits included improved diagnostic accuracy, optimized patient record management, and personalized treatments. However, 52.8% rejected AI-generated diagnoses or treatments without physician validation, highlighting limited trust in autonomous tools. Respondents were more receptive to AI in monitoring applications (55.6%). Their main concerns centered on diagnostic errors (44.4%), lack of algorithmic transparency (25%), and privacy risks (19.4%). They strongly supported human oversight (38.9%) and strict regulation (33.3%).\nConclusion\nOverall, healthcare professionals see AI as a valuable support for crisis response but insist on strong ethical frameworks, medical supervision, and increased trust-building measures for future integration."
+  },
+  {
+   "paperId": "dfc06bd7dca2587e43337577f0e33c1b02408870",
+   "externalIds": {
+    "PubMedCentral": "12242046",
+    "DOI": "10.4102/ajlm.v13i1.2516",
+    "CorpusId": 274195259,
+    "PubMed": "40642055"
+   },
+   "title": "Impact of artificial intelligence and digital technology-based diagnostic tools for communicable and non-communicable diseases in Africa",
+   "venue": "African Journal of Laboratory Medicine",
+   "year": 2024,
+   "citationCount": 2,
+   "openAccessPdf": {
+    "url": "https://ajlmonline.org/index.php/ajlm/article/download/2516/3013",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC12242046, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review",
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2308156495",
+     "name": "Chikwelu L Obi"
+    },
+    {
+     "authorId": "2088238300",
+     "name": "J. Olowoyo"
+    },
+    {
+     "authorId": "27028383",
+     "name": "T. Malevu"
+    },
+    {
+     "authorId": "1686348172",
+     "name": "L. L. Mugivhisa"
+    },
+    {
+     "authorId": "52246608",
+     "name": "T. Hungwe"
+    },
+    {
+     "authorId": "6610911",
+     "name": "M. Ogunrombi"
+    },
+    {
+     "authorId": "89313859",
+     "name": "N. Mkolo"
+    }
+   ],
+   "abstract": "Background Artificial intelligence (AI) and digital technology, as advanced human-created tools, are influencing the healthcare sector. Aim This review provides a comprehensive and structured exploration of the opportunities presented by AI and digital technology to laboratory diagnostics and management of communicable and non-communicable diseases in Africa. Methods The study employed the Preferred Reporting Items for Systematic Reviews, Meta-Analyses guidelines and Bibliometric analysis as its methodological approach. Peer-reviewed publications from 2000 to 2024 were retrieved from PubMed®, Web of Science™ and Google Scholar databases. Results The study incorporated a total of 1563 peer-reviewed scientific documents and, after filtration, 37 were utilised for systematic review. The findings revealed that AI and digital technology play a key role in patient management, quality assurance and laboratory operations, including healthcare decision-making, disease monitoring and prognosis. Metadata reflected the disproportionate research outputs distribution across Africa. In relation to non-communicable diseases, Egypt, South Africa, and Morocco lead in cardiovascular, diabetes and cancer research. Representing communicable diseases research, Algeria, Egypt, and South Africa were prominent in HIV/AIDS research. South Africa, Nigeria, Ghana, and Egypt lead in malaria and tuberculosis research. Conclusion Facilitation of widespread adoption of AI and digital technology in laboratory diagnostics across Africa is critical for maximising patient benefits. It is recommended that governments in Africa allocate more funding for infrastructure and research on AI to serve as a catalyst for innovation. What this study adds This review provides a comprehensive and context-specific analysis of AI’s application in African healthcare."
+  },
+  {
+   "paperId": "4c03fe101e7609ea271700f27113e3ca8cdd3cd6",
+   "externalIds": {
+    "PubMedCentral": "13229999",
+    "DOI": "10.3389/fpubh.2026.1816634",
+    "CorpusId": 288579660,
+    "PubMed": "42245342"
+   },
+   "title": "Artificial intelligence for tuberculosis management in Africa: opportunities, challenges, and implementation",
+   "venue": "Frontiers in Public Health",
+   "year": 2026,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1816634/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC13229999, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review",
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "5409346",
+     "name": "I. Chaoui"
+    },
+    {
+     "authorId": "2253174",
+     "name": "M. Koulali"
+    },
+    {
+     "authorId": "2403832423",
+     "name": "O. Mbulayi"
+    },
+    {
+     "authorId": "107831930",
+     "name": "S. Djungu"
+    },
+    {
+     "authorId": "8679796",
+     "name": "L. Aketi"
+    },
+    {
+     "authorId": "11288352",
+     "name": "A. Zouré"
+    },
+    {
+     "authorId": "2336277995",
+     "name": "Jamaleddine Bourkadi"
+    },
+    {
+     "authorId": "144195299",
+     "name": "Y. Tayalati"
+    },
+    {
+     "authorId": "2250763932",
+     "name": "Mohammed El Mzibri"
+    }
+   ],
+   "abstract": "Objectives Worldwide, tuberculosis (TB) continues to be an important cause of human morbidity and mortality, particularly in developing countries where drug surveillance and rapid detection of resistance to anti-TB drugs is uncommon and the lack of proper healthcare systems often leads to incomplete treatment and spread of MTB strains. The present paper discusses the potential role of artificial intelligence (AI) in improving TB diagnosis, management, and control in African countries, where conventional diagnostic approaches remain predominant and often insufficient. Methods A narrative review of current challenges in TB management in African settings was conducted, focusing on limitations of existing diagnostic tools and the emerging contributions of AI-based technologies in healthcare. The review demonstrates how machine learning algorithms and computer-aided systems could be integrated into TB programs to enhance clinical decision-making and surveillance. Results Conventional TB diagnostic methods such as the tuberculin test, radiography, and microscopic examination show limited accuracy and efficiency, contributing to ongoing transmission and poor treatment outcomes in many African countries. AI innovations have demonstrated improved performance in disease detection and prediction across various health domains, offering time-saving, resource-efficient, and scalable solutions. Applied to TB, AI could support clinicians in diagnosis, forecast treatment outcomes, and strengthen public health strategies aimed at controlling MTB spread. Conclusion AI holds significant promise for enhancing TB control efforts in African countries by improving diagnostic precision, clinical decision-making, and surveillance capacities. Integrating AI into national TB programs could promote more effective and efficient disease management, ultimately contributing to reduced morbidity and mortality."
+  },
+  {
+   "paperId": "3b3bc64df8f68c0c72e1ed51df977d2758d46f0d",
+   "externalIds": {
+    "DOI": "10.9790/0837-3106036471",
+    "CorpusId": 289989586
+   },
+   "title": "The Influence of Artificial Intelligence on Recruitment and Selection Practices: Evidence from KPMG East Africa",
+   "venue": "IOSR Journal of Humanities and Social Science",
+   "year": 2026,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.9790/0837-3106036471",
+    "status": "BRONZE",
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.9790/0837-3106036471?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.9790/0837-3106036471, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "2292941541",
+     "name": "Deborah Kariuki"
+    }
+   ],
+   "abstract": "This study examines the influence of artificial intelligence (AI) technologies on recruitment and selection\nprocesses at KPMG East Africa, focusing on their impact on efficiency, candidate experience, and ethical and\nregulatory considerations. Employing a case study design, data were collected from 50 human resource (HR)\nprofessionals using structured questionnaires. Descriptive statistics, Pearson correlation, and multiple linear\nregression analyses were conducted using SPSS. The findings indicate that AI technologies exert a strong,\nstatistically significant positive effect on recruitment outcomes (r = 0.695, p < 0.01), while candidate experience\nalso contributes significantly (r = 0.340, p < 0.05). Regulatory and ethical considerations, however, exhibited a\nnon-significant relationship with recruitment outcomes (r = 0.277, p = 0.052). The regression model explained\n54% of the variance in recruitment and selection outcomes (R² = 0.54, F = 17.985, p < 0.001). These results\nsuggest that while AI substantially enhances hiring efficiency and candidate satisfaction, ethical governance\nframeworks remain underdeveloped in the Kenyan professional services context. The study contributes to the\ngrowing body of knowledge on technology-driven human resource management in sub-Saharan Africa and\nprovides practical recommendations for responsible AI integration in recruitment."
+  },
+  {
+   "paperId": "5325059eb1e6f5f001d52eb441e310938f81083d",
+   "externalIds": {
+    "DOI": "10.1109/IRASET64571.2025.11008050",
+    "CorpusId": 278930036
+   },
+   "title": "Mapping AI Research in North Africa: A Bibliometric Analysis for Trends and Opportunities",
+   "venue": "2025 5th International Conference on Innovative Research in Applied Science, Engineering and Technology (IRASET)",
+   "year": 2025,
+   "citationCount": 2,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/IRASET64571.2025.11008050?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/IRASET64571.2025.11008050, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference"
+   ],
+   "authors": [
+    {
+     "authorId": "2266472389",
+     "name": "Hicham Boutracheh"
+    },
+    {
+     "authorId": "2306335421",
+     "name": "Yassine Mouhssine"
+    },
+    {
+     "authorId": "48590418",
+     "name": "A. Moumen"
+    }
+   ],
+   "abstract": "The rapid advancements in Artificial Intelligence (AI) offer transformative opportunities to address global challenges. For North African countries, sharing common contexts and facing compounded challenges from climate change and resource limitations, AI provides a unique opportunity for North African countries to overcome scientific and technological barriers, potentially narrowing the gap with global leaders.By analysing Scopus data, this bibliometric study reveals that AI research is a dynamic and rapidly evolving field, with 61% of publications appearing since 2019. Focusing on the 2019-2024 period and the dominant publication types, the analysis identifies 1.6 million publications, heavily concentrated in \"Computer Science\" (62%), \"Engineering\" (42%), and \"Mathematics\" (20%), reflecting both the foundational development of the discipline and its expanding application across diverse fields. A few countries also dominate AI research, with China, the USA, and India collectively accounting for over 60% of publications. North African countries have a modest presence, led by Egypt (0.8% of global publications, ranked 28th), followed by Morocco (0.6%, 39th), Algeria (0.4%, 49th), Tunisia (0.4%, 50th), and Libya (0.03%, 92nd). SciVal analysis reveals key disparities in AI research outputs, collaboration patterns, and thematic priorities across North African countries. Egypt excels in collaboration, patent citations, and impactful contributions to global topics, particularly in materials science, energy, and medicine, reflecting its strong AI focus. Morocco shows dynamism in decision sciences, agriculture, and management, emphasising sustainable growth, but struggles with limited collaboration and industrial ties. Algeria benefits from international and industrial partnerships for prioritising materials science, energy, and earth sciences, reflecting industrial and environmental goals. Tunisia, despite similar output, has scattered contributions and demonstrates specialisation in molecular biology, social sciences, and medicine, with notable transfer to industry. Though low output, Libya benefits from advanced collaborations and focuses on mathematics and decision sciences, focusing on academic bases of AI. These disparities in AI research outputs and strategic orientations highlight the need for targeted regional cooperation. North African countries could establish collaborative research networks that leverage their collective strengths in areas like renewable energy, agriculture, and e-learning. Policy frameworks should focus on fostering cross-border partnerships, encouraging joint ventures between academia, industry, and government, and promoting AI collaboration in priority sectors such as climate change and resource management. Additionally, Egypt's leadership in AI could serve as a model for scaling up efforts in other countries. Morocco's growing expertise in sustainable development presents an opportunity for deeper collaboration in decision sciences and management. By aligning AI efforts with shared regional challenges, such as climate change, North African countries can create a more integrated and resilient research ecosystem, fostering innovation that benefits the whole region."
+  },
+  {
+   "paperId": "2052c6969723ebeddb1aaac72a93f3af12a40964",
+   "externalIds": {
+    "DOI": "10.1158/1538-7445.sabcs22-p6-05-48",
+    "CorpusId": 257315004
+   },
+   "title": "Abstract P6-05-48: Perceptions About Breast Cancer in North Africa: A Social Listening Project",
+   "venue": "Cancer Research",
+   "year": 2023,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1158/1538-7445.sabcs22-p6-05-48?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1158/1538-7445.sabcs22-p6-05-48, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Review"
+   ],
+   "authors": [
+    {
+     "authorId": "2372755976",
+     "name": "A. Ladjeroud"
+    },
+    {
+     "authorId": "2210522021",
+     "name": "Ahlem El Ghoul"
+    },
+    {
+     "authorId": "145628609",
+     "name": "M. Mohamed"
+    }
+   ],
+   "abstract": "\n Background Social media platforms are a versatile platform used for exchange of information. It is increasingly being used by patients, caregivers, and physicians to interact and engage among themselves and with healthcare organizations. Breast cancer is the most commonly diagnosed cancer in the world, with ~2.3 million cases in 2020 alone. Hence, it is vital to understand the perceptions about breast cancer from a wider lookout to bridge the gaps in patient management. The objective of this study was to understand the trends in social media conversations and current perceptions about breast cancer in the North African countries.\n Methods Artificial Intelligence (AI) technologies hosted by Brandwatch (a social analytics tool) were used to scan 100M websites to analyze publicly visible online conversations about cancer between November 1, 2018 and October 31, 2021. Conversations from 6 North African countries i.e. Algeria, Egypt, Morocco, Sudan, Tunisia, and Western Sahara were analyzed in 3 languages (Arabic, English, and French). Conversations were filtered to isolate breast cancer and related mentions. To isolate the voice of breast cancer patients and their caregivers, manual review of all non-news content in which pronouns appeared within 7 words proximity of disease terms was carried out.\n Results A total volume of 53,354 conversations (43,785 Arabic, 6,161 English, and 3,408 French) on breast cancer were analyzed. Breast cancer was the most discussed cancer type, contributing to 63% of Arabic, 61% of English, and 66% of French conversations among total cancer related conversations. Egypt led the volume of breast cancer related conversations in Arabic and English, followed by Sudan. Morocco led the volume of conversations in French, followed by Tunisia. For all 3 languages, the proportion of male authors dominated the volume of conversations as compared to female authors (60% of Arabic, 54% of English, and 56% of French). A total volume of 590 (347 Arabic, 158 English, and 85 French) conversations about breast cancer were identified as patient related. Twitter was the most popular platform for Arabic and English-speaking populations. The most discussed topic about breast cancer was identified to be ‘Pink October’ or ‘Breast Cancer Awareness Month’. Across all languages, impact on mental health and financial security was a significant patient concern. Many people reached out directly to the online community for financial support. In Arabic conversations, female patients expressed concern about impact on their relationship with their spouse (or future spouse) due to their condition. Patient conversations about the BReast CAncer gene (BRCA) were also observed. However, there is little evidence about the extent of awareness among patients or their caregivers. There were scarce mentions about male/transgender breast cancer among conversations. Discussions about raising awareness, early detection, and self-checking of breast cancer were also identified.\n Conclusion Breast cancer was the most discussed type of cancer in North African countries. Patients and caregivers sought financial support on social media platforms. Based on types of conversations identified, it can be inferred that patients do not actively seek information about treatments and cancer management on social media. These insights can be utilized to engage patients, caregivers, patient advocacy groups, and influencers to address concerns and disseminate accurate and simplified information for mass consumption.\n Table 1. Types of Patient Conversations*.\n Citation Format: Amel Ladjeroud, Ahlem El Ghoul, Magdy Mohamed. Perceptions About Breast Cancer in North Africa: A Social Listening Project [abstract]. In: Proceedings of the 2022 San Antonio Breast Cancer Symposium; 2022 Dec 6-10; San Antonio, TX. Philadelphia (PA): AACR; Cancer Res 2023;83(5 Suppl):Abstract nr P6-05-48."
+  },
+  {
+   "paperId": "af45b0d58a00c0d214d71dc30a3d34b2e263d071",
+   "externalIds": {
+    "DOI": "10.1186/s43093-025-00515-9",
+    "CorpusId": 278140262
+   },
+   "title": "Mapping the impacts of neural networks on human resource management research: a bibliometric analysis",
+   "venue": "Future Business Journal",
+   "year": 2025,
+   "citationCount": 4,
+   "openAccessPdf": {
+    "url": "https://fbj.springeropen.com/counter/pdf/10.1186/s43093-025-00515-9",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1186/s43093-025-00515-9?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1186/s43093-025-00515-9, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "authors": [
+    {
+     "authorId": "35072955",
+     "name": "Md. Nazmus Sakib"
+    },
+    {
+     "authorId": "2188944921",
+     "name": "Mohammad Abdul Jabber"
+    },
+    {
+     "authorId": "2303368032",
+     "name": "Mohammad Younus"
+    },
+    {
+     "authorId": "2349900587",
+     "name": "Mst. Mafruha Bithee"
+    },
+    {
+     "authorId": "2357806959",
+     "name": "Md. Manir Sannyamat"
+    },
+    {
+     "authorId": "2357817025",
+     "name": "Adri Saha"
+    },
+    {
+     "authorId": "2357807104",
+     "name": "Anuvab Guha"
+    }
+   ],
+   "abstract": "Neural network has emerged as a transformative force reshaping various domains in response to the rapidly evolving technological landscape. This study aims to address the literature gap, delving into the current state of development, identifying key contributors, influential countries, and journals, and understanding publication trends. This bibliometrics literature review analysis comprehensively explores the cooperation between neural networks and human resource management (HRM). Through a bibliometric examination of 86 relevant articles from the Scopus database, this study employs bibliometric methodologies, network analysis, and content analysis to reveal research clusters and knowledge gaps though the use of R studio, Vosviewer, biblioshiney. The findings of this bibliometric analysis suggest that neural networks are a vital concept for HRM in recent years, with a large number of articles produced in the last 5 years, totaling 62 articles. This topic is a global concern, as contributions have come from countries across Europe, America, Asia, and Africa. The citation impact analysis and country collaboration analysis highlight the significant role played by Chinese and Indian researchers and institutions in advancing this research area. Thematic evaluation over time reveals the evolution of research themes, shifting from convolutional neural networks and forecasting to machine learning and artificial intelligence in the field of HRM. By bridging the gap between theory and practice, this research contributes to advancing HRM scholarship and facilitating the adoption of innovative HRM practices in organizations worldwide. These findings underscore the dynamic nature of the neural networks and HRM field and its potential for further scientific enrichment."
+  },
+  {
+   "paperId": "97b3738755993576120d13756508839b405c42b6",
+   "externalIds": {
+    "DOI": "10.3390/businesses6030039",
+    "CorpusId": 290118078
+   },
+   "title": "The Role of Artificial Intelligence in Enhancing Customer Relationship Management Within the Tourism Sector in the Eastern Cape",
+   "venue": "Businesses",
+   "year": 2026,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "https://www.mdpi.com/2673-7116/6/3/39/pdf?version=1783682430",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.3390/businesses6030039?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.3390/businesses6030039, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle",
+    "Review"
+   ],
+   "authors": [
+    {
+     "authorId": "2449425370",
+     "name": "Anele Pakkies"
+    },
+    {
+     "authorId": "108368032",
+     "name": "I. Mbukanma"
+    },
+    {
+     "authorId": "2305431165",
+     "name": "O. Shemfe"
+    }
+   ],
+   "abstract": "Artificial Intelligence (AI) is increasingly reshaping customer relationship management (CRM) practices in service industries, yet its perceived effectiveness within emerging regional tourism economies remains underexplored. This study examined respondents’ perceptions of how AI-enabled capabilities influence CRM effectiveness within the tourism sector in Mthatha, in the Eastern Cape, South Africa. Existing AI–CRM research is largely concentrated in developed economies, limiting contextual understanding of its strategic value in resource-constrained and relational tourism environments. A positivist, quantitative explanatory design was adopted, and data were collected through a structured survey administered to managers and staff of tourism enterprises across the Eastern Cape (n = 121). Partial Least Squares Structural Equation Modelling was employed to assess the measurement model and test the hypothesized relationships. The model explained 63.2% of the variance in perceived CRM effectiveness. Sales forecasting and lead scoring exerted the strongest positive influence, followed by sentiment and feedback analysis, while personalization and automation showed positive but statistically insignificant effects. The findings suggest that tourism enterprises may achieve stronger relationship outcomes by prioritizing predictive and analytical AI tools while integrating automation within human-centered service strategies. The study extends AI–CRM theory to an emerging African tourism context and demonstrates that AI effectiveness is context dependent rather than universally transferable."
+  },
+  {
+   "paperId": "04d175cd5613fc30bc1d3cd75f1cc4e9e41ac008",
+   "externalIds": {
+    "PubMedCentral": "13183841",
+    "DOI": "10.3389/frai.2026.1807550",
+    "CorpusId": 288019654,
+    "PubMed": "42164280"
+   },
+   "title": "Adoption of artificial intelligence in the HRM function within the South African telecommunication sector: a quantitative analysis using structural equation modelling",
+   "venue": "Frontiers in Artificial Intelligence",
+   "year": 2026,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1807550/pdf",
+    "status": "GOLD",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://pmc.ncbi.nlm.nih.gov/articles/PMC13183841, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "101541160",
+     "name": "William Makumbe"
+    },
+    {
+     "authorId": "122347543",
+     "name": "Lungile Ntsizwane"
+    },
+    {
+     "authorId": "2327476101",
+     "name": "Ntseliseng Khumalo"
+    }
+   ],
+   "abstract": "Introduction The rapid emergence of the digital workplace has accelerated the integration of artificial intelligence (AI) into human resource management (HRM). However, empirical research on the determinants of AI adoption in organisational contexts remains limited, particularly in emerging economies. This study examines the factors influencing AI adoption in HRM within the South African telecommunications sector. Methods A quantitative approach was adopted, with data collected from 500 HR managers selected systematically. Structural equation modelling (SEM) was used to test relationships between performance expectancy, effort expectancy, facilitating conditions, attitudes, behavioural intention, and actual AI adoption. Results and discussion Performance expectancy and effort expectancy significantly and positively influenced attitudes towards AI adoption. Facilitating conditions and attitudes were significant predictors of behavioural intention to use AI technologies. Behavioural intention, in turn, had a strong positive effect on actual AI adoption in the workplace. The findings extend existing literature on technology adoption in HRM, particularly in emerging economy contexts. They underscore the importance of perceived usefulness, ease of use, and organisational support in driving AI adoption. For practitioners, the results highlight the need to strengthen enabling conditions and foster positive attitudes to support the successful implementation of AI-driven HR practices."
+  },
+  {
+   "paperId": "20f84e810fe183250ac98ad6a127192a7cf76dee",
+   "externalIds": {
+    "DOI": "10.1016/j.jcpo.2025.100626",
+    "CorpusId": 280369720,
+    "PubMed": "40738477"
+   },
+   "title": "Artificial Intelligence in Nigerian Oncology Practice: A Qualitative Exploration of Oncologists' Perspectives.",
+   "venue": "Journal of Cancer Policy",
+   "year": 2025,
+   "citationCount": 5,
+   "openAccessPdf": {
+    "url": "https://doi.org/10.1016/j.jcpo.2025.100626",
+    "status": "HYBRID",
+    "license": "CCBY",
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.jcpo.2025.100626?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.jcpo.2025.100626, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "JournalArticle"
+   ],
+   "authors": [
+    {
+     "authorId": "1582736975",
+     "name": "D. Olawade"
+    },
+    {
+     "authorId": "1573627850",
+     "name": "I. Ojo"
+    },
+    {
+     "authorId": "2372003604",
+     "name": "Emmanuel O. Oisakede"
+    },
+    {
+     "authorId": "1413249238",
+     "name": "V. Joel-Medewase"
+    },
+    {
+     "authorId": "2000633111",
+     "name": "O. Z. Wada"
+    }
+   ],
+   "abstract": "BACKGROUND\nArtificial intelligence (AI) offers potential solutions to address critical challenges in oncology practice, particularly in resource-constrained settings like Nigeria. However, successful implementation requires understanding healthcare providers' perspectives, which remain largely unexplored in the Nigerian context.\n\n\nAIM\nTo explore Nigerian oncologists' perspectives on AI applications in oncology practice, identifying knowledge levels, perceived benefits, implementation barriers, and priority areas for AI integration.\n\n\nMETHODS\nThis qualitative study employed a descriptive exploratory design. Semi-structured interviews were conducted with 15 oncologists from nine major Nigerian healthcare institutions. All interviews were conducted in English. These institutions represent tertiary referral centres predominantly located in urbanised areas across different Nigerian geopolitical zones, including Southwest (OAUTH, LUTH, UCH, LASUTH, LAUTH), South-South (ISTH, UBTH), North-Central (UATH), and North-Central (BSUTH). Participants represented various oncology specialties with experience ranging from 1-20+ years. Data were analysed using Braun and Clarke's six-phase thematic analysis approach with independent coding by multiple researchers to ensure inter-coder reliability.\n\n\nRESULTS\nNine key themes emerged: (1) Current Knowledge and Awareness of AI in Oncology; (2) Perceived Benefits of AI in Oncology Practice; (3) Perceived Barriers to AI Implementation; (4) AI in Oncology Research; (5) Data Management and Ethical Concerns; (6) Trust and Adoption Readiness; (7) Human-AI Interaction and Patient Dynamics; (8) Future Directions and Knowledge Requirements; and (9) Resource Allocation and Infrastructure Development. Participants demonstrated limited theoretical knowledge of AI applications, with most lacking practical implementation experience. Participants recognised AI's potential to address workforce shortages and improve diagnostic accuracy but identified significant barriers including financial constraints, infrastructure limitations, and insufficient technical expertise.\n\n\nCONCLUSION\nNigerian oncologists expressed cautious optimism about AI's potential to transform cancer care delivery despite substantial implementation challenges. Successful AI integration requires addressing infrastructure deficits, developing appropriate regulatory frameworks, and building technical capacity. A phased implementation approach focusing initially on diagnostic support applications is recommended, alongside sustained investment in digital infrastructure and workforce development."
+  },
+  {
+   "paperId": "25a10ae4613e700740d7efa436297eda611d9c4a",
+   "externalIds": {
+    "DOI": "10.1109/ICCSC66714.2025.11135178",
+    "CorpusId": 281151252
+   },
+   "title": "The Integration of Artificial Intelligence in the Management of Organizational Change: A Moroccan Perspective",
+   "venue": "IEEE International Conference on Circuits and Systems for Communications",
+   "year": 2025,
+   "citationCount": 0,
+   "openAccessPdf": {
+    "url": "",
+    "status": null,
+    "license": null,
+    "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1109/ICCSC66714.2025.11135178?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1109/ICCSC66714.2025.11135178, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+   },
+   "publicationTypes": [
+    "Conference"
+   ],
+   "authors": [
+    {
+     "authorId": "2326237419",
+     "name": "Bennacer Mohamed Karim"
+    },
+    {
+     "authorId": "2334491257",
+     "name": "El massaoudi El mahdi"
+    },
+    {
+     "authorId": "2379234309",
+     "name": "Lamrhary Mohamed alae"
+    },
+    {
+     "authorId": "2379235839",
+     "name": "Yassine El khatibi"
+    },
+    {
+     "authorId": "2379239845",
+     "name": "El hammoumi Ahmed"
+    },
+    {
+     "authorId": "2339119709",
+     "name": "Elkhoyaali Adil"
+    }
+   ],
+   "abstract": "This study explores the integration of artificial intelligence (AI) in organizational change management, particularly its role in reducing resistance to change and strengthening employee engagement. At a time when transformation processes are increasingly influenced by digitalization, this research questions how AI can optimize the management of change in companies. Using a quantitative research model, this study explores the effect of AI on resistance to change and strengthening employee engagement in transformation processes. Five research hypotheses were tested using a regression analysis on a sample of 68 Moroccan companies engaged or likely to be engaged in organizational transformation processes and using or considering using tools artificial intelligence. Findings suggest that AI enables predicting resistance and adjusting support programs through behavioral analysis and intervening personalization. Smart platforms also support targeted and transparent communication by automating repetitive change processes. However, there still exists some uncertainty regarding data confidentiality and the need for training on these tools. At the theoretical level, this research enhances understanding of the link between digital technologies and human resource management. At a practical level, it gives advice for the embedding of AI into the processes of organizational transformation within the wider field of ethical and human considerations."
+  }
+ ]
+}

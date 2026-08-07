@@ -20,6 +20,9 @@
 | `09-registre-references-verifiees.md` | Registre des 39 références 2023–2026 vérifiées via Crossref (0 échec) |
 | `10-modeles-confidentialite-et-declaration-IA.md` | Modèles d'engagements de confidentialité (second codeur, contrôleur de traduction) et de déclaration d'usage d'outils d'IA |
 | `recherche-documentaire/` | Audit trail de la passe documentaire : scripts rejouables, log des requêtes (URLs exactes), réponses brutes, sélection vérifiée (JSON) |
+| `11-proposition-problematique-objectifs.md` | Proposition de reformulation du chapitre 1 : question centrale (2 variantes), OG/OS1–OS5, échelle d'états d'usage E0–E5, population, périmètre IA, territoire, conversion des formulations causales (décisions DEC‑01 à DEC‑08) |
+| `12-plan-echantillonnage-previsionnel.md` | Plan d'échantillonnage opérationnalisé : critères obligatoires vs cibles souhaitables, cible prévisionnelle 14 étiquetée, saturation, cadre plan/réalisé (DEC‑09 à DEC‑12) |
+| `13-outils-transversaux.md` | Lexique FR/EN, liste d'abréviations (squelette), grille d'extraction de lecture, versionnage du guide, notes de source APA 7, règles typographiques |
 | `Diagnostic_initial_GEMBA_EL-HASSOUNY_v1.docx` | Instantané Word du diagnostic (v1.0 du 07/08/2026) pour lecture et partage |
 | `Preparation_a_blanc_GEMBA_EL-HASSOUNY_v1.docx` | Instantané Word des documents 03 à 07 (v1.0 du 07/08/2026) |
 
@@ -36,5 +39,5 @@ Chapitre par chapitre : diagnostic → propositions → application des correcti
 
 ## Statut courant
 
-**Phase : diagnostic (v1.0) + préparation à blanc (03–07) + première passe documentaire exécutée (08–10) — 07/08/2026.**
-Corrections de texte non commencées : le fichier source du mémoire n'a pas encore été fourni dans l'environnement de travail (voir N01 et AF-01). Aucune donnée empirique rédigée : les gabarits de la Partie III restent vides jusqu'à réception de données authentiques (AF-03). Actualisation bibliographique : 39 références candidates vérifiées, en attente de lecture intégrale et d'intégration dès réception du fichier source.
+**Phase : diagnostic (v1.0) + préparation à blanc (03–07) + première passe documentaire (08–10) + propositions chapitre 1, échantillonnage et outils (11–13) — 07/08/2026.**
+Corrections de texte non commencées : le fichier source du mémoire n'a pas encore été fourni dans l'environnement de travail (voir N01 et AF-01). Aucune donnée empirique rédigée : les gabarits de la Partie III restent vides jusqu'à réception de données authentiques (AF-03). Actualisation bibliographique : 39 références candidates vérifiées, en attente de lecture intégrale. **Le flux préparable sans les pièces de l'auteur est épuisé** : la suite exige AF-01 (fichier du mémoire), AF-02 (guide TBS), AF-03 (statut du terrain) et les décisions DEC-01 à DEC-12 / AF-07.

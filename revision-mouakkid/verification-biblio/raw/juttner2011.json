@@ -1,0 +1,276 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message-version": "1.0.0",
+ "message": {
+  "facets": {},
+  "total-results": 15,
+  "items": [
+   {
+    "DOI": "10.1080/13675560050006646",
+    "title": [
+     "Supply Chain Relationships: Making the Transition to Closer Integration"
+    ],
+    "container-title": [
+     "International Journal of Logistics Research and Applications"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2000,
+       4
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Martin",
+      "family": "Christopher",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Uta",
+      "family": "Juttner",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "3",
+    "issue": "1",
+    "page": "5-23"
+   },
+   {
+    "DOI": "10.1088/0305-4470/26/13/015",
+    "title": [
+     "New solutions of the Bethe ansatz equations for the isotropic and anisotropic spin-<sup>1</sup>/<sub>2</sub>Heisenberg chain"
+    ],
+    "container-title": [
+     "Journal of Physics A: Mathematical and General"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1993,
+       7,
+       7
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "G",
+      "family": "Juttner",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "B -D",
+      "family": "Dorfel",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "volume": "26",
+    "issue": "13",
+    "page": "3105-3120"
+   },
+   {
+    "DOI": "10.1109/isdeiv.2002.1027391",
+    "title": [
+     "Time resolved imaging study of liquid metal behaviour at a cathode of low-current vacuum arc"
+    ],
+    "container-title": [
+     "20th International Symposium on Discharges and Electrical Insulation in Vacuum"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "D.I.",
+      "family": "Proskurovsky",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "B.",
+      "family": "Juttner",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "page": "392-395"
+   },
+   {
+    "DOI": "10.22323/1.396.0133",
+    "title": [
+     "A numerical and theoretical study of multilevel performance for two-point correlator calculations"
+    ],
+    "container-title": [
+     "Proceedings of The 38th International Symposium on Lattice Field Theory — PoS(LATTICE2021)"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2022,
+       5,
+       16
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Ben",
+      "family": "Kitching-Morley",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Andreas",
+      "family": "Juttner",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "page": "133"
+   },
+   {
+    "DOI": "10.1109/glocom.2001.965071",
+    "title": [
+     "Topological design of MPLS networks"
+    ],
+    "container-title": [
+     "GLOBECOM'01. IEEE Global Telecommunications Conference (Cat. No.01CH37270)"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "M.",
+      "family": "Pioro",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "A.",
+      "family": "Myslek",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "A.",
+      "family": "Juttner",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "J.",
+      "family": "Harmatos",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "A.",
+      "family": "Szentesi",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "page": "12-16"
+   }
+  ],
+  "items-per-page": 5,
+  "query": {
+   "start-index": 0,
+   "search-terms": null
+  }
+ }
+}

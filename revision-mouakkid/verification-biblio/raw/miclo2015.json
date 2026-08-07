@@ -1,0 +1,431 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message-version": "1.0.0",
+ "message": {
+  "facets": {},
+  "total-results": 8,
+  "items": [
+   {
+    "DOI": "10.70675/30bc5c5az0894z486cz9fefzcca312f9943b",
+    "title": [
+     "Challenging the \"Demand Driven MRP\" Promises : a Discrete Event Simulation Approach"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Romain",
+      "family": "Miclo",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "id": [
+         {
+          "id": "https://ror.org/00bq8vv83",
+          "id-type": "ROR",
+          "asserted-by": "publisher"
+         }
+        ],
+        "name": "Ecole nationale des Mines d'Albi-Carmaux"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "DOI": "10.1109/iesm.2015.7380288",
+    "title": [
+     "MRP vs. demand-driven MRP: Towards an objective comparison"
+    ],
+    "container-title": [
+     "2015 International Conference on Industrial Engineering and Systems Management (IESM)"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2015,
+       10
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Romain",
+      "family": "Miclo",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Franck",
+      "family": "Fontanili",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Matthieu",
+      "family": "Lauras",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Jacques",
+      "family": "Lamothe",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Bernard",
+      "family": "Milian",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "page": "1072-1080"
+   },
+   {
+    "DOI": "10.1080/00207543.2018.1464230",
+    "title": [
+     "Demand Driven MRP: assessment of a new approach to materials management"
+    ],
+    "container-title": [
+     "International Journal of Production Research"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2018,
+       4,
+       24
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Romain",
+      "family": "Miclo",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": ",",
+        "place": [
+         "France"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Matthieu",
+      "family": "Lauras",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": ",",
+        "place": [
+         "France"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Franck",
+      "family": "Fontanili",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": ",",
+        "place": [
+         "France"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Jacques",
+      "family": "Lamothe",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": ",",
+        "place": [
+         "France"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Steven A.",
+      "family": "Melnyk",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": ",",
+        "place": [
+         "USA"
+        ]
+       },
+       {
+        "name": ",",
+        "place": [
+         "Australia"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "57",
+    "issue": "1",
+    "page": "166-181"
+   },
+   {
+    "DOI": "10.1016/j.ifacol.2016.07.831",
+    "title": [
+     "An empirical comparison of MRPII and Demand-Driven MRP"
+    ],
+    "container-title": [
+     "IFAC-PapersOnLine"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2016
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "R.",
+      "family": "Miclo",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "F.",
+      "family": "Fontanili",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "M.",
+      "family": "Lauras",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "J.",
+      "family": "Lamothe",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "B.",
+      "family": "Milian",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "volume": "49",
+    "issue": "12",
+    "page": "1725-1730"
+   },
+   {
+    "DOI": "10.1109/iesm45758.2019.8948077",
+    "title": [
+     "Process control and decision-making for Demand Driven Sales and Operations Planning"
+    ],
+    "container-title": [
+     "2019 International Conference on Industrial Engineering and Systems Management (IESM)"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2019,
+       9
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Guillaume",
+      "family": "Martin",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Matthieu",
+      "family": "Lauras",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Pierre",
+      "family": "Baptiste",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Jacques",
+      "family": "Lamothe",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Anthony",
+      "family": "Fouqu",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Romain",
+      "family": "Miclo",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "page": "1-6"
+   }
+  ],
+  "items-per-page": 5,
+  "query": {
+   "start-index": 0,
+   "search-terms": null
+  }
+ }
+}

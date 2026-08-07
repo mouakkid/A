@@ -1,0 +1,303 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message-version": "1.0.0",
+ "message": {
+  "facets": {},
+  "total-results": 71,
+  "items": [
+   {
+    "DOI": "10.1038/nature14539",
+    "title": [
+     "Deep learning"
+    ],
+    "container-title": [
+     "Nature"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2015,
+       5,
+       27
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Yann",
+      "family": "LeCun",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Yoshua",
+      "family": "Bengio",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Geoffrey",
+      "family": "Hinton",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "521",
+    "page": "436-444"
+   },
+   {
+    "DOI": "10.1109/hotchips.2015.7477328",
+    "title": [
+     "Deep learning &amp; convolutional networks"
+    ],
+    "container-title": [
+     "2015 IEEE Hot Chips 27 Symposium (HCS)"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2015,
+       8
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Yann",
+      "family": "LeCun",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "page": "1-95"
+   },
+   {
+    "DOI": "10.1109/isscc.2019.8662396",
+    "title": [
+     "1.1 Deep Learning Hardware: Past, Present, and Future"
+    ],
+    "container-title": [
+     "2019 IEEE International Solid- State Circuits Conference - (ISSCC)"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2019,
+       2
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Yann",
+      "family": "LeCun",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "page": "12-19"
+   },
+   {
+    "DOI": "10.1080/08956308.2018.1516928",
+    "title": [
+     "The Power and Limits of Deep Learning"
+    ],
+    "container-title": [
+     "Research-Technology Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2018,
+       11,
+       2
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Yann",
+      "family": "LeCun",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "61",
+    "page": "22-27"
+   },
+   {
+    "DOI": "10.18653/v1/2021.deelio-1.1",
+    "title": [
+     "Transformer visualization via dictionary learning: contextualized embedding as a linear superposition of transformer factors"
+    ],
+    "container-title": [
+     "Proceedings of Deep Learning Inside Out (DeeLIO): The 2nd Workshop on Knowledge Extraction and Integration for Deep Learning Architectures"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2021
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Zeyu",
+      "family": "Yun",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Yubei",
+      "family": "Chen",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Bruno",
+      "family": "Olshausen",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Yann",
+      "family": "LeCun",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "page": "1-10"
+   },
+   {
+    "DOI": "10.1109/msp.2026.3659059",
+    "title": [
+     "Spectral Graph Theory: The mathematics of self-supervised learning [Special Issue on the Mathematics of Deep Learning]"
+    ],
+    "container-title": [
+     "IEEE Signal Processing Magazine"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       5
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-5692-4187",
+      "authenticated-orcid": false,
+      "given": "Randall",
+      "family": "Balestriero",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Brown University",
+        "place": [
+         "Providence, RI, USA"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Yann",
+      "family": "LeCun",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "New York University",
+        "place": [
+         "New York, NY, USA"
+        ],
+        "department": [
+         "NYU Center for Data Science, Courant Institute of Mathematical Sciences"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "43",
+    "page": "8-20"
+   }
+  ],
+  "items-per-page": 6,
+  "query": {
+   "start-index": 0,
+   "search-terms": null
+  }
+ }
+}

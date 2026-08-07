@@ -1,0 +1,425 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message-version": "1.0.0",
+ "message": {
+  "facets": {},
+  "total-results": 847,
+  "items": [
+   {
+    "DOI": "10.1016/j.jbusres.2016.08.004",
+    "title": [
+     "Big data and predictive analytics for supply chain and organizational performance"
+    ],
+    "container-title": [
+     "Journal of Business Research"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2017,
+       1
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Angappa",
+      "family": "Gunasekaran",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Thanos",
+      "family": "Papadopoulos",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Rameshwar",
+      "family": "Dubey",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Samuel Fosso",
+      "family": "Wamba",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Stephen J.",
+      "family": "Childe",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Benjamin",
+      "family": "Hazen",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Shahriar",
+      "family": "Akter",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "70",
+    "page": "308-317"
+   },
+   {
+    "DOI": "10.1108/md-01-2018-0119",
+    "title": [
+     "Big data analytics capability in supply chain agility"
+    ],
+    "container-title": [
+     "Management Decision"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2019,
+       9,
+       12
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-3913-030X",
+      "authenticated-orcid": false,
+      "given": "Rameshwar",
+      "family": "Dubey",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Angappa",
+      "family": "Gunasekaran",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Stephen J.",
+      "family": "Childe",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "57",
+    "issue": "8",
+    "page": "2092-2112"
+   },
+   {
+    "DOI": "10.1016/j.cie.2016.10.020",
+    "title": [
+     "Big data and predictive analytics applications in supply chain management"
+    ],
+    "container-title": [
+     "Computers &amp; Industrial Engineering"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2016,
+       11
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Angappa",
+      "family": "Gunasekaran",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Manoj",
+      "family": "Kumar Tiwari",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Rameshwar",
+      "family": "Dubey",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Samuel",
+      "family": "Fosso Wamba",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "101",
+    "page": "525-527"
+   },
+   {
+    "DOI": "10.1016/j.ijpe.2019.01.023",
+    "title": [
+     "Big data analytics and organizational culture as complements to swift trust and collaborative performance in the humanitarian supply chain"
+    ],
+    "container-title": [
+     "International Journal of Production Economics"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2019,
+       4
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Rameshwar",
+      "family": "Dubey",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Angappa",
+      "family": "Gunasekaran",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Stephen J.",
+      "family": "Childe",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "David",
+      "family": "Roubaud",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Samuel",
+      "family": "Fosso Wamba",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Mihalis",
+      "family": "Giannakis",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Cyril",
+      "family": "Foropon",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "210",
+    "page": "120-136"
+   },
+   {
+    "DOI": "10.1016/j.ijpe.2019.09.019",
+    "title": [
+     "The performance effects of big data analytics and supply chain ambidexterity: The moderating effect of environmental dynamism"
+    ],
+    "container-title": [
+     "International Journal of Production Economics"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2020,
+       4
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Samuel Fosso",
+      "family": "Wamba",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Rameshwar",
+      "family": "Dubey",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Angappa",
+      "family": "Gunasekaran",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Shahriar",
+      "family": "Akter",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "222",
+    "page": "107498"
+   }
+  ],
+  "items-per-page": 5,
+  "query": {
+   "start-index": 0,
+   "search-terms": null
+  }
+ }
+}

@@ -1,0 +1,229 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message-version": "1.0.0",
+ "message": {
+  "facets": {},
+  "total-results": 257,
+  "items": [
+   {
+    "DOI": "10.1108/09600030510599904",
+    "title": [
+     "Drivers of supply chain vulnerability: an integrated framework"
+    ],
+    "container-title": [
+     "International Journal of Physical Distribution &amp; Logistics Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2005,
+       4,
+       1
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Helen",
+      "family": "Peck",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "35",
+    "issue": "4",
+    "page": "210-232"
+   },
+   {
+    "DOI": "10.1080/13675560600673578",
+    "title": [
+     "Reconciling supply chain vulnerability, risk and supply chain management"
+    ],
+    "container-title": [
+     "International Journal of Logistics Research and Applications"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2006,
+       6
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "H.",
+      "family": "Peck",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "a   The Resilience Centre, Department of Defence Management and Security Analysis , Cranfield University , Shrivenham SN6 8LA,  UK"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "9",
+    "issue": "2",
+    "page": "127-142"
+   },
+   {
+    "DOI": "10.6007/ijarems/v15-i1/27911",
+    "title": [
+     "Performance Impacts and Research Gaps in Sustainable Supply Chain Management Under a Triple Bottom Line Framework: A Systematic Review Based on Web of Science Literature"
+    ],
+    "container-title": [
+     "International Journal of Academic Research in Economics and Management Sciences"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       3,
+       14
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Ren",
+      "family": "Fangtao",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Cheang Peck",
+      "family": "Yeng Sharon",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "volume": "15",
+    "issue": "1"
+   },
+   {
+    "DOI": "10.1108/09574090410700275",
+    "title": [
+     "Building the Resilient Supply Chain"
+    ],
+    "container-title": [
+     "The International Journal of Logistics Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2004,
+       7,
+       1
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Martin",
+      "family": "Christopher",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Helen",
+      "family": "Peck",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "15",
+    "issue": "2",
+    "page": "1-14"
+   },
+   {
+    "DOI": "10.1108/09574090010806146",
+    "title": [
+     "Strategy and Relationships: Defining the Interface in Supply Chain Contexts"
+    ],
+    "container-title": [
+     "The International Journal of Logistics Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2000,
+       7,
+       1
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Helen",
+      "family": "Peck",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Uta",
+      "family": "Jüttner",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "volume": "11",
+    "issue": "2",
+    "page": "33-44"
+   }
+  ],
+  "items-per-page": 5,
+  "query": {
+   "start-index": 0,
+   "search-terms": null
+  }
+ }
+}

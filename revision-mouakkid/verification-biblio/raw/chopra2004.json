@@ -1,0 +1,250 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message-version": "1.0.0",
+ "message": {
+  "facets": {},
+  "total-results": 521,
+  "items": [
+   {
+    "DOI": "10.1093/oxfordhb/9780199782956.013.0005",
+    "title": [
+     "Supply Chain Design for Managing Disruptive Risks"
+    ],
+    "container-title": [
+     "The Oxford Handbook of Managerial Economics"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2013,
+       7,
+       1
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Sunil",
+      "family": "Chopra",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "ManMohan S.",
+      "family": "Sodhi",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "page": "88-107"
+   },
+   {
+    "DOI": "10.2139/ssrn.3866213",
+    "title": [
+     "Managing Disruption Risk When Supply Drives Future Demand"
+    ],
+    "container-title": [
+     "SSRN Electronic Journal"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2021
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Vadim",
+      "family": "Glinsky",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Sunil",
+      "family": "Chopra",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Florian",
+      "family": "Lücker",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "DOI": "10.1108/case.kellogg.2025.000046",
+    "title": [
+     "Seven-Eleven Japan Co.: Supply Chain Strategy and\n                    Structure"
+    ],
+    "container-title": [
+     "Kellogg School of Management Cases"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2022,
+       5,
+       27
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Sunil",
+      "family": "Chopra",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "page": "1-10"
+   },
+   {
+    "DOI": "10.1007/978-3-8349-9320-5_22",
+    "title": [
+     "Supply Chain Management. Strategy, Planning &amp; Operation"
+    ],
+    "container-title": [
+     "Das Summa Summarum des Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Sunil",
+      "family": "Chopra",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Peter",
+      "family": "Meindl",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "page": "265-275"
+   },
+   {
+    "DOI": "10.35741/issn.0258-2724.57.1.33",
+    "title": [
+     "SCOR (SUPPLY CHAIN OPERATIONS REFERENCE) MODEL IN TEXTILE INDUSTRY"
+    ],
+    "container-title": [
+     "Journal of Southwest Jiaotong University"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2022,
+       2,
+       28
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Ashok",
+      "family": "Chopra",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Divyang",
+      "family": "Golwala",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Anita Rani",
+      "family": "Chopra",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "57",
+    "issue": "1",
+    "page": "368-378"
+   }
+  ],
+  "items-per-page": 5,
+  "query": {
+   "start-index": 0,
+   "search-terms": null
+  }
+ }
+}

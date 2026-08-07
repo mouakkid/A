@@ -1,0 +1,339 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message-version": "1.0.0",
+ "message": {
+  "facets": {},
+  "total-results": 120,
+  "items": [
+   {
+    "DOI": "10.1016/j.ijpe.2014.12.031",
+    "title": [
+     "How ‘big data’ can make big impact: Findings from a systematic review and a longitudinal case study"
+    ],
+    "container-title": [
+     "International Journal of Production Economics"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2015,
+       7
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-1073-058X",
+      "authenticated-orcid": false,
+      "given": "Samuel",
+      "family": "Fosso Wamba",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Shahriar",
+      "family": "Akter",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Andrew",
+      "family": "Edwards",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Geoffrey",
+      "family": "Chopin",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Denis",
+      "family": "Gnanzou",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "165",
+    "page": "234-246"
+   },
+   {
+    "DOI": "10.1007/s12525-016-0219-0",
+    "title": [
+     "Big data analytics in E-commerce: a systematic review and agenda for future research"
+    ],
+    "container-title": [
+     "Electronic Markets"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2016,
+       3,
+       16
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Shahriar",
+      "family": "Akter",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Samuel Fosso",
+      "family": "Wamba",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "26",
+    "issue": "2",
+    "page": "173-194"
+   },
+   {
+    "DOI": "10.1007/s10479-017-2584-2",
+    "title": [
+     "Big data and disaster management: a systematic review and agenda for future research"
+    ],
+    "container-title": [
+     "Annals of Operations Research"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2017,
+       8,
+       21
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Shahriar",
+      "family": "Akter",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Samuel Fosso",
+      "family": "Wamba",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "283",
+    "issue": "1-2",
+    "page": "939-959"
+   },
+   {
+    "DOI": "10.1080/0965254x.2018.1442364",
+    "title": [
+     "How talent capability can shape service analytics capability in the big data environment?"
+    ],
+    "container-title": [
+     "Journal of Strategic Marketing"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2018,
+       2,
+       22
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Shahriar",
+      "family": "Akter",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Sydney Business School, University of Wollongong, Sydney, Australia"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Samuel",
+      "family": "Fosso Wamba",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Toulouse Business School, Toulouse University, Toulouse, France"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Mary",
+      "family": "Barrett",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Management, Operations &amp; Marketing, University of Wollongong, Wollongong, Australia"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Kumar",
+      "family": "Biswas",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Management, Federation Business School, Federation University, Ballarat, Australia"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "27",
+    "issue": "6",
+    "page": "521-539"
+   },
+   {
+    "DOI": "10.3917/sim.202.0007",
+    "title": [
+     "Making big data analytics perform: the mediating effect of big data analytics dependent organizational agility"
+    ],
+    "container-title": [
+     "Systèmes d'information &amp; management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2020,
+       7,
+       27
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Samuel",
+      "family": "Fosso Wamba",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Shahriar",
+      "family": "Akter",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Cameron",
+      "family": "Guthrie",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "volume": "Volume 25",
+    "issue": "2",
+    "page": "7-31"
+   }
+  ],
+  "items-per-page": 5,
+  "query": {
+   "start-index": 0,
+   "search-terms": null
+  }
+ }
+}

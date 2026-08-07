@@ -1,0 +1,204 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message-version": "1.0.0",
+ "message": {
+  "facets": {},
+  "total-results": 11896,
+  "items": [
+   {
+    "DOI": "10.1201/9781003256755-7",
+    "title": [
+     "Blockchain for Product Traceability in the Supply Chain"
+    ],
+    "container-title": [
+     "Blockchain in Supply Chain Digital Transformation"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       2,
+       24
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Gary",
+      "family": "Lee",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "page": "143-160"
+   },
+   {
+    "DOI": "10.1080/16258312.2005.11517148",
+    "title": [
+     "Measuring Supply Chain Integration: A Social Network Approach"
+    ],
+    "container-title": [
+     "Supply Chain Forum: An International Journal"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2005,
+       1
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Peggy D.",
+      "family": "Lee",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Assistant Professor of Management and Organization Penn State Great Valley, School of Graduate Professional Studies"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "6",
+    "issue": "2",
+    "page": "58-67"
+   },
+   {
+    "DOI": "10.1007/978-3-030-95401-7_12",
+    "title": [
+     "Managing Supply Chain Resilience for Sustainability in an Uncertain World: Challenges and Solutions"
+    ],
+    "container-title": [
+     "Springer Series in Supply Chain Management",
+     "Supply Chain Resilience"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2022
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Ki-Hoon",
+      "family": "Lee",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "page": "139-147"
+   },
+   {
+    "DOI": "10.1111/j.1745-493x.2009.03167.x",
+    "title": [
+     "Development and Analysis of a Supply Chain Strategy Taxonomy"
+    ],
+    "container-title": [
+     "Journal of Supply Chain Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2009,
+       7
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "KATHLEEN",
+      "family": "MCKONE‐SWEET",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "YOO‐TAEK",
+      "family": "LEE",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "45",
+    "issue": "3",
+    "page": "3-24"
+   },
+   {
+    "DOI": "10.6028/nist.ir.7146",
+    "title": [
+     "Integrated supply chain simulation system - a design specification for a generic supply chain simulator"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2004
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Shigeki",
+      "family": "Umeda",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Y Tina",
+      "family": "Lee",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "items-per-page": 5,
+  "query": {
+   "start-index": 0,
+   "search-terms": null
+  }
+ }
+}

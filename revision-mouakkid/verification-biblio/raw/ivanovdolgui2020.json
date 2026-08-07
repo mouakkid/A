@@ -1,0 +1,205 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message-version": "1.0.0",
+ "message": {
+  "facets": {},
+  "total-results": 540,
+  "items": [
+   {
+    "DOI": "10.1080/00207543.2020.1750727",
+    "title": [
+     "Viability of intertwined supply networks: extending the supply chain resilience angles towards survivability. A position paper motivated by COVID-19 outbreak"
+    ],
+    "container-title": [
+     "International Journal of Production Research"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2020,
+       4,
+       15
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0003-4932-9627",
+      "authenticated-orcid": false,
+      "given": "Dmitry",
+      "family": "Ivanov",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Berlin School of Economics and Law, Supply Chain and Operations Management, Berlin, Germany"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0003-0527-4716",
+      "authenticated-orcid": false,
+      "given": "Alexandre",
+      "family": "Dolgui",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "IMT Atlantique, LS2N - CNRS, Nantes, France"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "58",
+    "issue": "10",
+    "page": "2904-2915"
+   },
+   {
+    "DOI": "10.1007/s10479-026-07266-y",
+    "title": [
+     "Analytical and agent-based extensions of supply chain viability modeling in intertwined supply networks"
+    ],
+    "container-title": [
+     "Annals of Operations Research"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       5,
+       14
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0003-4932-9627",
+      "authenticated-orcid": false,
+      "given": "Dmitry",
+      "family": "Ivanov",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "DOI": "10.1007/978-3-032-00059-0_5",
+    "title": [
+     "Supply Chain Viability"
+    ],
+    "container-title": [
+     "Classroom Companion: Business",
+     "Introduction to Supply Chain Resilience and Viability"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Dmitry",
+      "family": "Ivanov",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "page": "131-155"
+   },
+   {
+    "DOI": "10.1007/978-3-032-00059-0_3",
+    "title": [
+     "Modeling Supply Chain Resilience"
+    ],
+    "container-title": [
+     "Classroom Companion: Business",
+     "Introduction to Supply Chain Resilience and Viability"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Dmitry",
+      "family": "Ivanov",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "page": "57-89"
+   },
+   {
+    "DOI": "10.1007/978-3-032-00059-0_2",
+    "title": [
+     "Managing Supply Chain Resilience"
+    ],
+    "container-title": [
+     "Classroom Companion: Business",
+     "Introduction to Supply Chain Resilience and Viability"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Dmitry",
+      "family": "Ivanov",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "page": "27-55"
+   }
+  ],
+  "items-per-page": 5,
+  "query": {
+   "start-index": 0,
+   "search-terms": null
+  }
+ }
+}

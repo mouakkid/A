@@ -1,0 +1,276 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message-version": "1.0.0",
+ "message": {
+  "facets": {},
+  "total-results": 249,
+  "items": [
+   {
+    "DOI": "10.1287/msom.2.1.68.23267",
+    "title": [
+     "Optimizing Strategic Safety Stock Placement in Supply Chains"
+    ],
+    "container-title": [
+     "Manufacturing &amp; Service Operations Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2000,
+       1
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Stephen C.",
+      "family": "Graves",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Leaders for Manufacturing Program and A. P. Sloan School of Management, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139-4307"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Sean P.",
+      "family": "Willems",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "College of Business Administration, University of Cincinnati, Cincinnati, Ohio 45221-0130"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "2",
+    "issue": "1",
+    "page": "68-83"
+   },
+   {
+    "DOI": "10.1287/msom.5.2.176.16074",
+    "title": [
+     "Erratum: Optimizing Strategic Safety Stock Placement in Supply Chains"
+    ],
+    "container-title": [
+     "Manufacturing &amp; Service Operations Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2003,
+       4
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Stephen C.",
+      "family": "Graves",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Leaders for Manufacturing Program and A. P. Sloan School of Management, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139-4307"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Sean P.",
+      "family": "Willems",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Boston University, School of Management, Boston, Massachusetts 02215"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "volume": "5",
+    "issue": "2",
+    "page": "176-177"
+   },
+   {
+    "DOI": "10.1287/msom.2016.0577",
+    "title": [
+     "Strategic Safety-Stock Placement in Supply Chains with Capacity Constraints"
+    ],
+    "container-title": [
+     "Manufacturing &amp; Service Operations Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2016,
+       7
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Stephen C.",
+      "family": "Graves",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "A. P. Sloan School of Management, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Tor",
+      "family": "Schoenmeyr",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "A. P. Sloan School of Management, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "18",
+    "issue": "3",
+    "page": "445-460"
+   },
+   {
+    "DOI": "10.1016/s0927-0507(03)11003-1",
+    "title": [
+     "Supply Chain Design: Safety Stock Placement and Supply Chain Configuration"
+    ],
+    "container-title": [
+     "Handbooks in Operations Research and Management Science",
+     "Supply Chain Management: Design, Coordination and Operation"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2003
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Stephen C.",
+      "family": "Graves",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Sean P.",
+      "family": "Willems",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "page": "95-132"
+   },
+   {
+    "DOI": "10.1287/msom.1070.0175",
+    "title": [
+     "Strategic Inventory Placement in Supply Chains: Nonstationary Demand"
+    ],
+    "container-title": [
+     "Manufacturing &amp; Service Operations Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2008,
+       4
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Stephen C.",
+      "family": "Graves",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Leaders for Manufacturing Program and A. P. Sloan School of Management, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Sean P.",
+      "family": "Willems",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Management, Boston University, Boston, Massachusetts 02215"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "10",
+    "issue": "2",
+    "page": "278-287"
+   }
+  ],
+  "items-per-page": 5,
+  "query": {
+   "start-index": 0,
+   "search-terms": null
+  }
+ }
+}

@@ -1,0 +1,221 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message-version": "1.0.0",
+ "message": {
+  "facets": {},
+  "total-results": 86,
+  "items": [
+   {
+    "DOI": "10.1007/978-3-8349-9772-2_15",
+    "title": [
+     "The Concept of Information Overload - A Review of Literature from Organization Science, Accounting, Marketing, MIS, and Related Disciplines (2004)"
+    ],
+    "container-title": [
+     "Kommunikationsmanagement im Wandel"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Martin J.",
+      "family": "Eppler",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Jeanne",
+      "family": "Mengis",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "page": "271-305"
+   },
+   {
+    "DOI": "10.1080/01972240490507974",
+    "title": [
+     "The Concept of Information Overload: A Review of Literature from Organization Science, Accounting, Marketing, MIS, and Related Disciplines"
+    ],
+    "container-title": [
+     "The Information Society"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2004,
+       11
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Martin J.",
+      "family": "Eppler",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Jeanne",
+      "family": "Mengis",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "20",
+    "issue": "5",
+    "page": "325-344"
+   },
+   {
+    "DOI": "10.1515/9783110271355-013",
+    "title": [
+     "11. Information quality and information overload: The promises and perils of the information age"
+    ],
+    "container-title": [
+     "Communication and Technology"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2015,
+       8,
+       14
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Martin J.",
+      "family": "Eppler",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "page": "215-232"
+   },
+   {
+    "DOI": "10.1002/9781118360491.ch10",
+    "title": [
+     "Visualizing Instead of Overloading: Exploring the Promise and Problems of Visual Communication to Reduce Information Overload"
+    ],
+    "container-title": [
+     "Information Overload"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2012,
+       9,
+       28
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Jeanne",
+      "family": "Mengis",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Martin J.",
+      "family": "Eppler",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "page": "203-229"
+   },
+   {
+    "DOI": "10.1057/palgrave.ivs.9500131",
+    "title": [
+     "A Comparison between Concept Maps, Mind Maps, Conceptual Diagrams, and Visual Metaphors as Complementary Tools for Knowledge Construction and Sharing"
+    ],
+    "container-title": [
+     "Information Visualization"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2006,
+       9
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Martin J",
+      "family": "Eppler",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Faculty of Communication Sciences, University of Lugano (USI), Lugano, Switzerland"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "5",
+    "issue": "3",
+    "page": "202-210"
+   }
+  ],
+  "items-per-page": 5,
+  "query": {
+   "start-index": 0,
+   "search-terms": null
+  }
+ }
+}

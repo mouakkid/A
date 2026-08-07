@@ -1,0 +1,221 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message-version": "1.0.0",
+ "message": {
+  "facets": {},
+  "total-results": 685,
+  "items": [
+   {
+    "DOI": "10.1080/00207543.2018.1488086",
+    "title": [
+     "The impact of digital technology and Industry 4.0 on the ripple effect and supply chain risk analytics"
+    ],
+    "container-title": [
+     "International Journal of Production Research"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2018,
+       6,
+       28
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0003-4932-9627",
+      "authenticated-orcid": false,
+      "given": "Dmitry",
+      "family": "Ivanov",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Department of Business and Economics, Berlin School of Economics and Law, 10825 Berlin, Germany"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0003-0527-4716",
+      "authenticated-orcid": false,
+      "given": "Alexandre",
+      "family": "Dolgui",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "IMT Atlantique, LS2N, CNRS, La Chantrerie, 4, rue Alfred Kastler, 44300 Nantes, France"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Boris",
+      "family": "Sokolov",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Saint Petersburg Institute for Informatics and Automation of the RAS (SPIIRAS), V.O. 14 line, 39 199178, St. Petersburg, Russia"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "57",
+    "issue": "3",
+    "page": "829-846"
+   },
+   {
+    "DOI": "10.1007/978-3-319-69305-7_2",
+    "title": [
+     "Supply Chain Risk Management: Bullwhip Effect and Ripple Effect"
+    ],
+    "container-title": [
+     "International Series in Operations Research &amp; Management Science",
+     "Structural Dynamics and Resilience in Supply Chain Risk Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2017,
+       11,
+       8
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Dmitry",
+      "family": "Ivanov",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "page": "19-44"
+   },
+   {
+    "DOI": "10.1007/978-3-030-70490-2_1",
+    "title": [
+     "Supply Chain Risks, Disruptions, and Ripple Effect"
+    ],
+    "container-title": [
+     "Classroom Companion: Business",
+     "Introduction to Supply Chain Resilience"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2021
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Dmitry",
+      "family": "Ivanov",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "page": "1-28"
+   },
+   {
+    "DOI": "10.1007/978-3-032-00059-0_1",
+    "title": [
+     "Supply Chain Risks, Disruptions, and Ripple Effect"
+    ],
+    "container-title": [
+     "Classroom Companion: Business",
+     "Introduction to Supply Chain Resilience and Viability"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Dmitry",
+      "family": "Ivanov",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "page": "1-26"
+   },
+   {
+    "DOI": "10.1007/978-3-031-51241-4_5",
+    "title": [
+     "Supply Chain Risk and Resilience Analytics"
+    ],
+    "container-title": [
+     "Classroom Companion: Business",
+     "Introduction to Supply Chain Analytics"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Dmitry",
+      "family": "Ivanov",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "page": "133-164"
+   }
+  ],
+  "items-per-page": 5,
+  "query": {
+   "start-index": 0,
+   "search-terms": null
+  }
+ }
+}

@@ -1,0 +1,211 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message-version": "1.0.0",
+ "message": {
+  "facets": {},
+  "total-results": 30820,
+  "items": [
+   {
+    "DOI": "10.2139/ssrn.925274",
+    "title": [
+     "Perspectives in Supply Chain Risk Management: A Review"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2006
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0001-9597-7620",
+      "authenticated-orcid": true,
+      "given": "Christopher S.",
+      "family": "Tang",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "DOI": "10.1007/978-1-4614-3238-8_16",
+    "title": [
+     "Researchers’ Perspectives on Supply-Chain Risk Research"
+    ],
+    "container-title": [
+     "International Series in Operations Research &amp; Management Science",
+     "Managing Supply Chain Risk"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2012
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "ManMohan S.",
+      "family": "Sodhi",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Christopher S.",
+      "family": "Tang",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "page": "281-301"
+   },
+   {
+    "DOI": "10.1016/j.ijpe.2005.12.006",
+    "title": [
+     "Perspectives in supply chain risk management"
+    ],
+    "container-title": [
+     "International Journal of Production Economics"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2006,
+       10
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Christopher S.",
+      "family": "Tang",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "103",
+    "issue": "2",
+    "page": "451-488"
+   },
+   {
+    "DOI": "10.1007/978-1-4614-3238-8_1",
+    "title": [
+     "Supply Chain Risk Management"
+    ],
+    "container-title": [
+     "International Series in Operations Research &amp; Management Science",
+     "Managing Supply Chain Risk"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2012
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "ManMohan S.",
+      "family": "Sodhi",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Christopher S.",
+      "family": "Tang",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "page": "3-11"
+   },
+   {
+    "DOI": "10.1007/978-1-4614-3238-8_13",
+    "title": [
+     "Risk Models for Supply Chain Management"
+    ],
+    "container-title": [
+     "International Series in Operations Research &amp; Management Science",
+     "Managing Supply Chain Risk"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2012
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "ManMohan S.",
+      "family": "Sodhi",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Christopher S.",
+      "family": "Tang",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "page": "195-240"
+   }
+  ],
+  "items-per-page": 5,
+  "query": {
+   "start-index": 0,
+   "search-terms": null
+  }
+ }
+}

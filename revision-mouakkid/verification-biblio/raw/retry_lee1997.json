@@ -1,0 +1,357 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message-version": "1.0.0",
+ "message": {
+  "facets": {},
+  "total-results": 572,
+  "items": [
+   {
+    "DOI": "10.1287/mnsc.1040.0266",
+    "title": [
+     "Information Distortion in a Supply Chain: The Bullwhip Effect"
+    ],
+    "container-title": [
+     "Management Science"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2004,
+       12
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Hau L.",
+      "family": "Lee",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Department of Industrial Engineering and Engineering Management, Stanford University, Stanford, California 94305"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "V.",
+      "family": "Padmanabhan",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Graduate School of Business, Stanford University, Stanford, California 94305"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Seungjin",
+      "family": "Whang",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Graduate School of Business, Stanford University, Stanford, California 94305"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "50",
+    "page": "1875-1886"
+   },
+   {
+    "DOI": "10.1287/mnsc.43.4.546",
+    "title": [
+     "Information Distortion in a Supply Chain: The Bullwhip Effect"
+    ],
+    "container-title": [
+     "Management Science"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1997,
+       4
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Hau L.",
+      "family": "Lee",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Department of Industrial Engineering and Engineering Management, Stanford University, Stanford, California 94305"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "V.",
+      "family": "Padmanabhan",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Graduate School of Business, Stanford University, Stanford, California 94305"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Seungjin",
+      "family": "Whang",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Graduate School of Business, Stanford University, Stanford, California 94305"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "43",
+    "page": "546-558"
+   },
+   {
+    "DOI": "10.1287/mnsc.1040.0305",
+    "title": [
+     "Comments on “Information Distortion in a Supply Chain: The Bullwhip Effect”"
+    ],
+    "container-title": [
+     "Management Science"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2004,
+       12
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Hau L.",
+      "family": "Lee",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Graduate School of Business, Stanford University, Stanford, California 94305"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "V.",
+      "family": "Padmanabhan",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "INSEAD, 1 Ayer Rajah Avenue, 138676 Singapore"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Seungjin",
+      "family": "Whang",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Graduate School of Business, Stanford University, Stanford, California 94305"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "50",
+    "page": "1887-1893"
+   },
+   {
+    "DOI": "10.1109/emr.2015.7123235",
+    "title": [
+     "The bullwhip effect in supply chains"
+    ],
+    "container-title": [
+     "IEEE Engineering Management Review"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2015,
+       6
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Hau L.",
+      "family": "Lee",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "V.",
+      "family": "Padmanabhan",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Seungjin",
+      "family": "Whang",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "volume": "43",
+    "page": "108-117"
+   },
+   {
+    "DOI": "10.1109/globalsip.2013.6737109",
+    "title": [
+     "Adaptive digital pre-distortion for multiple antenna transmitters"
+    ],
+    "container-title": [
+     "2013 IEEE Global Conference on Signal and Information Processing"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2013,
+       12
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Padmanabhan",
+      "family": "Suryasarman",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Andreas",
+      "family": "Springer",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "page": "1146-1149"
+   },
+   {
+    "DOI": "10.33516/maj.v57i10.43-45p",
+    "title": [
+     "Vocal for Local Growth of Domestic Supply Chain"
+    ],
+    "container-title": [
+     "The Management Accountant Journal"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2022,
+       10,
+       1
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "CMA Padmanabhan",
+      "family": "Satyes Kumar",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "page": "43-45"
+   }
+  ],
+  "items-per-page": 6,
+  "query": {
+   "start-index": 0,
+   "search-terms": null
+  }
+ }
+}

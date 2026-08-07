@@ -1,0 +1,306 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message-version": "1.0.0",
+ "message": {
+  "facets": {},
+  "total-results": 133,
+  "items": [
+   {
+    "DOI": "10.1111/j.1937-5956.2000.tb00465.x",
+    "title": [
+     "COMBINED PRODUCTION AND MAINTENANCE SCHEDULING FOR A MULTIPLE‐PRODUCT, SINGLE‐ MACHINE PRODUCTION SYSTEM"
+    ],
+    "container-title": [
+     "Production and Operations Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2000,
+       12
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "THOMAS W.",
+      "family": "SLOAN",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Department of Management, School of Business Administration, University of Miami, Coral Gables, Florida 33124‐9145, USA"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "J. GEORGE",
+      "family": "SHANTHIKUMAR",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "University of California, Berkeley, Walter A. Haas School of Business, Berkeley, California 94720‐1900, USA"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "volume": "9",
+    "page": "379-399"
+   },
+   {
+    "DOI": "10.1016/0305-0548(83)90018-7",
+    "title": [
+     "Scheduling n jobs on one machine to minimize the maximum tardiness with minimum number"
+    ],
+    "container-title": [
+     "Computers &amp; Operations Research"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1983,
+       1
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "J.G.",
+      "family": "Shanthikumar",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "volume": "10",
+    "page": "255-266"
+   },
+   {
+    "DOI": "10.1111/poms.13868",
+    "title": [
+     "Developing operations management data analytics"
+    ],
+    "container-title": [
+     "Production and Operations Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2022,
+       12
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Qi",
+      "family": "Feng",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Krannert School of Management, Purdue University, West Lafayette, Indiana, USA"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "J. George",
+      "family": "Shanthikumar",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Krannert School of Management, Purdue University, West Lafayette, Indiana, USA"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "31",
+    "page": "4544-4557"
+   },
+   {
+    "DOI": "10.1111/poms.12836",
+    "title": [
+     "How Research in Production and Operations Management May Evolve in the Era of Big Data"
+    ],
+    "container-title": [
+     "Production and Operations Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2018,
+       9
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Qi",
+      "family": "Feng",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Krannert School of Management,  Purdue University,  Rawls 4024, 100 S. Grant Street,  West Lafayette,  Indiana, 47907, USA"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "J. George",
+      "family": "Shanthikumar",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Krannert School of Management,  Purdue University,  Rawls 4024, 100 S. Grant Street,  West Lafayette,  Indiana, 47907, USA"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "27",
+    "page": "1670-1684"
+   },
+   {
+    "DOI": "10.4324/9781315687803-27",
+    "title": [
+     "Not-for-Profit Operations Management"
+    ],
+    "container-title": [
+     "The Routledge Companion to Production and Operations Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2017,
+       3,
+       27
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Qi",
+      "family": "Feng",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "J. George",
+      "family": "Shanthikumar",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "page": "510-526"
+   },
+   {
+    "DOI": "10.1111/poms.13629",
+    "title": [
+     "Applications of Stochastic Orders and Stochastic Functions in Inventory and Pricing Problems"
+    ],
+    "container-title": [
+     "Production and Operations Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2022,
+       4
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Qi",
+      "family": "Feng",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Krannert School of Management,  Purdue University,  West Lafayette,  Indiana,  47907,  USA"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "J. George",
+      "family": "Shanthikumar",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Krannert School of Management,  Purdue University,  West Lafayette,  Indiana,  47907,  USA"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "volume": "31",
+    "page": "1433-1453"
+   }
+  ],
+  "items-per-page": 6,
+  "query": {
+   "start-index": 0,
+   "search-terms": null
+  }
+ }
+}

@@ -1,0 +1,266 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message-version": "1.0.0",
+ "message": {
+  "facets": {},
+  "total-results": 104,
+  "items": [
+   {
+    "DOI": "10.1108/ijpdlm-05-2013-0128",
+    "title": [
+     "Research on the phenomenon of supply chain resilience"
+    ],
+    "container-title": [
+     "International Journal of Physical Distribution &amp; Logistics Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2015,
+       3,
+       2
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Nils-Ole",
+      "family": "Hohenstein",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Edda",
+      "family": "Feisel",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Evi",
+      "family": "Hartmann",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Larry",
+      "family": "Giunipero",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "45",
+    "issue": "1/2",
+    "page": "90-117"
+   },
+   {
+    "DOI": "10.5465/amproc.2023.12087abstract",
+    "title": [
+     "Pressure Makes Diamonds: How Organizational Culture Bolsters Supply Chain Resilience"
+    ],
+    "container-title": [
+     "Academy of Management Proceedings"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       8
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Nils-Ole",
+      "family": "Hohenstein",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Cooperative State U. Mannheim, Baden-Wuerttemberg"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "volume": "2023",
+    "issue": "1"
+   },
+   {
+    "DOI": "10.5465/amproc.2024.10618abstract",
+    "title": [
+     "The Power of Learning and Agility for Strengthening Supply Chain Resilience"
+    ],
+    "container-title": [
+     "Academy of Management Proceedings"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       8
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Nils-Ole",
+      "family": "Hohenstein",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Cooperative State U. Mannheim"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "volume": "2024",
+    "issue": "1"
+   },
+   {
+    "DOI": "10.1108/ijpdlm-06-2013-0175",
+    "title": [
+     "Human resource management issues in supply chain management research"
+    ],
+    "container-title": [
+     "International Journal of Physical Distribution &amp; Logistics Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2014,
+       7,
+       1
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Nils-Ole",
+      "family": "Hohenstein",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Edda",
+      "family": "Feisel",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Evi",
+      "family": "Hartmann",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "44",
+    "issue": "6",
+    "page": "434-463"
+   },
+   {
+    "DOI": "10.30844/im_23-4_25-30",
+    "title": [
+     "The Power of People in Pandemic Times – Driving Supply Chain Resilience through Corporate Culture"
+    ],
+    "container-title": [
+     "Industrie 4.0 Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       8,
+       7
+      ]
+     ]
+    },
+    "author": [
+     {
+      "name": "Department of Supply Chain Management and Logistics, Cooperative State University (DHBW) Mannheim, Germany",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Nils-Ole",
+      "family": "Hohenstein",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "volume": "2023",
+    "issue": "04",
+    "page": "25-30"
+   }
+  ],
+  "items-per-page": 5,
+  "query": {
+   "start-index": 0,
+   "search-terms": null
+  }
+ }
+}

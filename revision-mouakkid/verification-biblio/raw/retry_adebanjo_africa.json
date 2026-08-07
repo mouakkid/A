@@ -1,0 +1,308 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message-version": "1.0.0",
+ "message": {
+  "facets": {},
+  "total-results": 250,
+  "items": [
+   {
+    "DOI": "10.1108/13598540910954566",
+    "title": [
+     "Understanding demand management challenges in intermediary food trading: a case study"
+    ],
+    "container-title": [
+     "Supply Chain Management: An International Journal"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2009,
+       5,
+       1
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Dotun",
+      "family": "Adebanjo",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "volume": "14",
+    "page": "224-233"
+   },
+   {
+    "DOI": "10.1108/13598541011018139",
+    "title": [
+     "The complexities of e‐reverse‐auction‐facilitated aggregated procurement in digitally clustered organisations"
+    ],
+    "container-title": [
+     "Supply Chain Management: An International Journal"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2010,
+       1,
+       26
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Dotun",
+      "family": "Adebanjo",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "volume": "15",
+    "page": "69-79"
+   },
+   {
+    "DOI": "10.1080/13675567.2011.642857",
+    "title": [
+     "Supply chain management in ASEAN automotive manufacturing industry"
+    ],
+    "container-title": [
+     "International Journal of Logistics Research and Applications"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2011,
+       10
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Tritos",
+      "family": "Laosirihongthong",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Thammasat University",
+        "place": [
+         "Thailand"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Keah-Choon",
+      "family": "Tan",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "University of Nevada",
+        "place": [
+         "USA"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Dotun",
+      "family": "Adebanjo",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "University of Liverpool Management School",
+        "place": [
+         "UK"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "volume": "14",
+    "page": "317-333"
+   },
+   {
+    "DOI": "10.1108/imds-04-2013-0164",
+    "title": [
+     "Green supply chain management practices and performance"
+    ],
+    "container-title": [
+     "Industrial Management &amp; Data Systems"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2013,
+       8,
+       23
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Tritos",
+      "family": "Laosirihongthong",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Dotun",
+      "family": "Adebanjo",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Keah",
+      "family": "Choon Tan",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "113",
+    "page": "1088-1109"
+   },
+   {
+    "DOI": "10.1109/ieem.2013.6962410",
+    "title": [
+     "Prioritizing lean supply chain management initiatives in healthcare service operations: A Fuzzy-AHP approach"
+    ],
+    "container-title": [
+     "2013 IEEE International Conference on Industrial Engineering and Engineering Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2013,
+       12
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Laosirihongthong",
+      "family": "Tritos",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Samaranayake",
+      "family": "Premaratne",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Adebanjo",
+      "family": "Dotun",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "page": "236-242"
+   },
+   {
+    "DOI": "10.1504/ijatm.2008.018767",
+    "title": [
+     "Intermediation in downstream automotive supply chains a review of the role of internet technology"
+    ],
+    "container-title": [
+     "International Journal of Automotive Technology and Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2008
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Dotun",
+      "family": "Adebanjo",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "volume": "8",
+    "page": "42"
+   }
+  ],
+  "items-per-page": 6,
+  "query": {
+   "start-index": 0,
+   "search-terms": null
+  }
+ }
+}

@@ -1,0 +1,590 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message-version": "1.0.0",
+ "message": {
+  "facets": {},
+  "total-results": 14244083,
+  "items": [
+   {
+    "DOI": "10.1287/msom.2022.0553",
+    "title": [
+     "OM Forum—The Best of Both Worlds: Machine Learning and Behavioral Science in Operations Management"
+    ],
+    "container-title": [
+     "Manufacturing &amp; Service Operations Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       9
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-1689-2299",
+      "authenticated-orcid": false,
+      "given": "Andrew M.",
+      "family": "Davis",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Samuel Curtis Johnson Graduate School of Management, SC Johnson College of Business, Cornell University, Ithaca, New York 14853;"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0001-7945-8556",
+      "authenticated-orcid": false,
+      "given": "Shawn",
+      "family": "Mankad",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Poole College of Management, North Carolina State University, Raleigh, North Carolina 27695;"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0003-1814-3977",
+      "authenticated-orcid": false,
+      "given": "Charles J.",
+      "family": "Corbett",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Anderson School of Management, University of California, Los Angeles, California 90095;"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-7037-7896",
+      "authenticated-orcid": false,
+      "given": "Elena",
+      "family": "Katok",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Naveen Jindal School of Management, University of Texas at Dallas, Richardson, Texas 75080"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "26",
+    "page": "1605-1621"
+   },
+   {
+    "DOI": "10.1287/msom.2022.0304",
+    "title": [
+     "Unmasking Human Trafficking Risk in Commercial Sex Supply Chains with Machine Learning"
+    ],
+    "container-title": [
+     "Manufacturing &amp; Service Operations Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       5
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-5505-6322",
+      "authenticated-orcid": false,
+      "given": "Pia",
+      "family": "Ramchandani",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Operations, Information and Decisions Department, Wharton School, University of Pennsylvania, Philadelphia, Pennsylvania 19104"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-8793-4732",
+      "authenticated-orcid": false,
+      "given": "Hamsa",
+      "family": "Bastani",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Operations, Information and Decisions Department, Wharton School, University of Pennsylvania, Philadelphia, Pennsylvania 19104"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Emily",
+      "family": "Wyatt",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "TellFinder Alliance, Uncharted Software, Toronto, Ontario M5A 4J5, Canada"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "volume": "27",
+    "page": "700-719"
+   },
+   {
+    "DOI": "10.1287/msom.2023.0462",
+    "title": [
+     "A Two-Part Machine Learning Approach to Characterizing Network Interference in A/B Testing"
+    ],
+    "container-title": [
+     "Manufacturing &amp; Service Operations Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       11
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0001-6681-5710",
+      "authenticated-orcid": false,
+      "given": "Yuan",
+      "family": "Yuan",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Graduate School of Management, University of California, Davis, California 95616"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Kristen M.",
+      "family": "Altenburger",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Meta Inc., Menlo Park, California 94025"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "volume": "27",
+    "page": "1832-1850"
+   },
+   {
+    "DOI": "10.1287/msom.2019.0805",
+    "title": [
+     "Data Analytics in Operations Management: A Review"
+    ],
+    "container-title": [
+     "Manufacturing &amp; Service Operations Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2020,
+       1
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-8952-5617",
+      "authenticated-orcid": false,
+      "given": "Velibor V.",
+      "family": "Mišić",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Anderson School of Management, University of California, Los Angeles, Los Angeles, California 90095;"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-0888-9030",
+      "authenticated-orcid": false,
+      "given": "Georgia",
+      "family": "Perakis",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Sloan School of Management, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "22",
+    "page": "158-169"
+   },
+   {
+    "DOI": "10.1287/msom.2021.0975",
+    "title": [
+     "Forecasting Airport Transfer Passenger Flow Using Real-Time Data and Machine Learning"
+    ],
+    "container-title": [
+     "Manufacturing &amp; Service Operations Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2022,
+       11
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0003-1792-7518",
+      "authenticated-orcid": false,
+      "given": "Xiaojia",
+      "family": "Guo",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Robert H. Smith School of Business, University of Maryland, College Park, Maryland 20742;"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-4781-9174",
+      "authenticated-orcid": false,
+      "given": "Yael",
+      "family": "Grushka-Cockayne",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Darden School of Business, University of Virginia, Charlottesville, Virginia 22903;"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0001-7991-6350",
+      "authenticated-orcid": false,
+      "given": "Bert",
+      "family": "De Reyck",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Lee Kong Chian School of Business, Singapore Management University, Singapore 178899"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "24",
+    "page": "3193-3214"
+   },
+   {
+    "DOI": "10.1287/msom.2020.0369",
+    "title": [
+     "Early Detection of Opioid Over-Procurement: A Semisupervised Machine Learning Approach"
+    ],
+    "container-title": [
+     "Manufacturing &amp; Service Operations Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       11
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-1985-1003",
+      "authenticated-orcid": false,
+      "given": "Dimitris",
+      "family": "Bertsimas",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "MIT Sloan School of Management, Massachusetts Institute of Technology, Cambridge, Massachusetts 02142"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-0038-4898",
+      "authenticated-orcid": false,
+      "given": "Mohammad M.",
+      "family": "Fazel-Zarandi",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "MIT Sloan School of Management, Massachusetts Institute of Technology, Cambridge, Massachusetts 02142"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Joshua",
+      "family": "Ivanhoe",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "MIT Sloan School of Management, Massachusetts Institute of Technology, Cambridge, Massachusetts 02142"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Periklis",
+      "family": "Petridis",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "MIT Sloan School of Management, Massachusetts Institute of Technology, Cambridge, Massachusetts 02142"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "volume": "27",
+    "page": "1889-1904"
+   },
+   {
+    "DOI": "10.1109/gol49479.2020.9314756",
+    "title": [
+     "A Systematic Literature Review of Machine Learning Applications for Port's Operations"
+    ],
+    "container-title": [
+     "2020 5th International Conference on Logistics Operations Management (GOL)"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2020,
+       10,
+       28
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Sara E",
+      "family": "Mekkaoui",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Loubna",
+      "family": "Benabbou",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Abdelaziz",
+      "family": "Berrado",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "page": "1-5"
+   },
+   {
+    "DOI": "10.1287/msom.2024.1317",
+    "title": [
+     "Machine Learning–Augmented Optimization of Large Bilevel and Two-Stage Stochastic Programs: Application to Cycling Network Design"
+    ],
+    "container-title": [
+     "Manufacturing &amp; Service Operations Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       11
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-4128-1692",
+      "authenticated-orcid": false,
+      "given": "Timothy C. Y.",
+      "family": "Chan",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Department of Mechanical & Industrial Engineering, University of Toronto, Toronto, Ontario M5S 3G8, Canada"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-4225-9171",
+      "authenticated-orcid": false,
+      "given": "Bo",
+      "family": "Lin",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Department of Mechanical & Industrial Engineering, University of Toronto, Toronto, Ontario M5S 3G8, Canada"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-4665-8890",
+      "authenticated-orcid": false,
+      "given": "Shoshanna",
+      "family": "Saxe",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Department of Civil & Mineral Engineering, University of Toronto, Toronto, Ontario M5S 1A4, Canada"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "27",
+    "page": "1851-1868"
+   }
+  ],
+  "items-per-page": 8,
+  "query": {
+   "start-index": 0,
+   "search-terms": null
+  }
+ }
+}

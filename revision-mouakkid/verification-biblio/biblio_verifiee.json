@@ -1,0 +1,366 @@
+{
+ "date": "2026-08-07",
+ "articles": [
+  {
+   "cle": "adebanjo2022",
+   "verdict": "ÉCARTS: année: biblio 2022 vs Crossref 2011 | revue: biblio « African Journal of Economic and Management Studies » vs Crossref « International Journal of Logistics Research and Applications » | volume: biblio 13 vs Crossref 14 | pages: biblio 217-235 vs Crossref 317-333",
+   "titre_crossref": "Supply chain management in ASEAN automotive manufacturing industry",
+   "score_titre": 0.55,
+   "doi": "10.1080/13675567.2011.642857",
+   "annee_cr": 2011,
+   "revue_cr": "International Journal of Logistics Research and Applications",
+   "vol_cr": "14",
+   "pages_cr": "317-333"
+  },
+  {
+   "cle": "carbonneau2008",
+   "verdict": "VÉRIFIÉE",
+   "titre_crossref": "Application of machine learning techniques for supply chain demand forecasting",
+   "score_titre": 1.0,
+   "doi": "10.1016/j.ejor.2006.12.004",
+   "annee_cr": 2008,
+   "revue_cr": "European Journal of Operational Research",
+   "vol_cr": "184",
+   "pages_cr": "1140-1154"
+  },
+  {
+   "cle": "chigwedere2024",
+   "verdict": "INTROUVABLE (score max 0.38)"
+  },
+  {
+   "cle": "chopra2004",
+   "verdict": "INTROUVABLE (score max 0.55)"
+  },
+  {
+   "cle": "christopherpeck2004",
+   "verdict": "ÉCARTS: pages: biblio 1-13 vs Crossref 1-14",
+   "titre_crossref": "Building the Resilient Supply Chain",
+   "score_titre": 1.0,
+   "doi": "10.1108/09574090410700275",
+   "annee_cr": 2004,
+   "revue_cr": "The International Journal of Logistics Management",
+   "vol_cr": "15",
+   "pages_cr": "1-14"
+  },
+  {
+   "cle": "eppler2004",
+   "verdict": "VÉRIFIÉE",
+   "titre_crossref": "The Concept of Information Overload: A Review of Literature from Organization Science, Accounting, Marketing, MIS, and Related Disciplines",
+   "score_titre": 0.59,
+   "doi": "10.1080/01972240490507974",
+   "annee_cr": 2004,
+   "revue_cr": "The Information Society",
+   "vol_cr": "20",
+   "pages_cr": "325-344"
+  },
+  {
+   "cle": "feng2022",
+   "verdict": "ÉCARTS: année: biblio 2022 vs Crossref 2026 | revue: biblio « Manufacturing & Service Operations Management » vs Crossref « Machine Learning for Data-Centric Geotechnics » | pages: biblio 1-13 vs Crossref 397-411",
+   "titre_crossref": "Leveraging Machine Learning for Optimizing TBM Tunneling Operations",
+   "score_titre": 0.56,
+   "doi": "10.1201/9781003539780-14",
+   "annee_cr": 2026,
+   "revue_cr": "Machine Learning for Data-Centric Geotechnics",
+   "vol_cr": null,
+   "pages_cr": "397-411"
+  },
+  {
+   "cle": "graves2000",
+   "verdict": "VÉRIFIÉE",
+   "titre_crossref": "Optimizing Strategic Safety Stock Placement in Supply Chains",
+   "score_titre": 1.0,
+   "doi": "10.1287/msom.2.1.68.23267",
+   "annee_cr": 2000,
+   "revue_cr": "Manufacturing &amp; Service Operations Management",
+   "vol_cr": "2",
+   "pages_cr": "68-83"
+  },
+  {
+   "cle": "gunasekaran2017",
+   "verdict": "VÉRIFIÉE",
+   "titre_crossref": "Big data and predictive analytics for supply chain and organizational performance",
+   "score_titre": 1.0,
+   "doi": "10.1016/j.jbusres.2016.08.004",
+   "annee_cr": 2017,
+   "revue_cr": "Journal of Business Research",
+   "vol_cr": "70",
+   "pages_cr": "308-317"
+  },
+  {
+   "cle": "hochreiter1997",
+   "verdict": "VÉRIFIÉE",
+   "titre_crossref": "Long Short-Term Memory",
+   "score_titre": 1.0,
+   "doi": "10.1162/neco.1997.9.8.1735",
+   "annee_cr": 1997,
+   "revue_cr": "Neural Computation",
+   "vol_cr": "9",
+   "pages_cr": "1735-1780"
+  },
+  {
+   "cle": "hohenstein2015",
+   "verdict": "VÉRIFIÉE",
+   "titre_crossref": "Research on the phenomenon of supply chain resilience",
+   "score_titre": 0.84,
+   "doi": "10.1108/ijpdlm-05-2013-0128",
+   "annee_cr": 2015,
+   "revue_cr": "International Journal of Physical Distribution &amp; Logistics Management",
+   "vol_cr": "45",
+   "pages_cr": "90-117"
+  },
+  {
+   "cle": "ivanov2022",
+   "verdict": "ÉCARTS: année: biblio 2022 vs Crossref 2020",
+   "titre_crossref": "Viable supply chain model: integrating agility, resilience and sustainability perspectives—lessons from and thinking beyond the COVID-19 pandemic",
+   "score_titre": 0.76,
+   "doi": "10.1007/s10479-020-03640-6",
+   "annee_cr": 2020,
+   "revue_cr": "Annals of Operations Research",
+   "vol_cr": "319",
+   "pages_cr": "1411-1431"
+  },
+  {
+   "cle": "ivanovdolgui2020",
+   "verdict": "VÉRIFIÉE",
+   "titre_crossref": "Viability of intertwined supply networks: extending the supply chain resilience angles towards survivability. A position paper motivated by COVID-19 outbreak",
+   "score_titre": 0.81,
+   "doi": "10.1080/00207543.2020.1750727",
+   "annee_cr": 2020,
+   "revue_cr": "International Journal of Production Research",
+   "vol_cr": "58",
+   "pages_cr": "2904-2915"
+  },
+  {
+   "cle": "ivanovdolgui2023",
+   "verdict": "ÉCARTS: année: biblio 2023 vs Crossref 2020",
+   "titre_crossref": "Viable supply chain model: integrating agility, resilience and sustainability perspectives—lessons from and thinking beyond the COVID-19 pandemic",
+   "score_titre": 0.86,
+   "doi": "10.1007/s10479-020-03640-6",
+   "annee_cr": 2020,
+   "revue_cr": "Annals of Operations Research",
+   "vol_cr": "319",
+   "pages_cr": "1411-1431"
+  },
+  {
+   "cle": "ivanov2019",
+   "verdict": "ÉCARTS: année: biblio 2019 vs Crossref 2018",
+   "titre_crossref": "The impact of digital technology and Industry 4.0 on the ripple effect and supply chain risk analytics",
+   "score_titre": 1.0,
+   "doi": "10.1080/00207543.2018.1488086",
+   "annee_cr": 2018,
+   "revue_cr": "International Journal of Production Research",
+   "vol_cr": "57",
+   "pages_cr": "829-846"
+  },
+  {
+   "cle": "juttner2011",
+   "verdict": "INTROUVABLE (score max 0.44)"
+  },
+  {
+   "cle": "lecun2015",
+   "verdict": "INTROUVABLE (score max 0.52)"
+  },
+  {
+   "cle": "lee2004",
+   "verdict": "INTROUVABLE (score max 0.40)"
+  },
+  {
+   "cle": "lee1997",
+   "verdict": "ÉCARTS: année: biblio 1997 vs Crossref 2004 | volume: biblio 43 vs Crossref 50 | pages: biblio 546-558 vs Crossref 1875-1886",
+   "titre_crossref": "Information Distortion in a Supply Chain: The Bullwhip Effect",
+   "score_titre": 0.99,
+   "doi": "10.1287/mnsc.1040.0266",
+   "annee_cr": 2004,
+   "revue_cr": "Management Science",
+   "vol_cr": "50",
+   "pages_cr": "1875-1886"
+  },
+  {
+   "cle": "makridakis2018",
+   "verdict": "VÉRIFIÉE",
+   "titre_crossref": "Statistical and Machine Learning forecasting methods: Concerns and ways forward",
+   "score_titre": 0.99,
+   "doi": "10.1371/journal.pone.0194889",
+   "annee_cr": 2018,
+   "revue_cr": "PLOS ONE",
+   "vol_cr": "13",
+   "pages_cr": "e0194889"
+  },
+  {
+   "cle": "miclo2015",
+   "verdict": "INTROUVABLE (score max 0.54)"
+  },
+  {
+   "cle": "nyaoga2020",
+   "verdict": "INTROUVABLE (score max 0.47)"
+  },
+  {
+   "cle": "peck2005",
+   "verdict": "VÉRIFIÉE",
+   "titre_crossref": "Drivers of supply chain vulnerability: an integrated framework",
+   "score_titre": 0.99,
+   "doi": "10.1108/09600030510599904",
+   "annee_cr": 2005,
+   "revue_cr": "International Journal of Physical Distribution &amp; Logistics Management",
+   "vol_cr": "35",
+   "pages_cr": "210-232"
+  },
+  {
+   "cle": "ponomarov2009",
+   "verdict": "VÉRIFIÉE",
+   "titre_crossref": "Understanding the concept of supply chain resilience",
+   "score_titre": 1.0,
+   "doi": "10.1108/09574090910954873",
+   "annee_cr": 2009,
+   "revue_cr": "The International Journal of Logistics Management",
+   "vol_cr": "20",
+   "pages_cr": "124-143"
+  },
+  {
+   "cle": "sodhi2012",
+   "verdict": "VÉRIFIÉE",
+   "titre_crossref": "Researchers' Perspectives on Supply Chain Risk Management",
+   "score_titre": 0.99,
+   "doi": "10.1111/j.1937-5956.2011.01251.x",
+   "annee_cr": 2012,
+   "revue_cr": "Production and Operations Management",
+   "vol_cr": "21",
+   "pages_cr": "1-13"
+  },
+  {
+   "cle": "tang2006",
+   "verdict": "VÉRIFIÉE",
+   "titre_crossref": "Perspectives in supply chain risk management",
+   "score_titre": 1.0,
+   "doi": "10.1016/j.ijpe.2005.12.006",
+   "annee_cr": 2006,
+   "revue_cr": "International Journal of Production Economics",
+   "vol_cr": "103",
+   "pages_cr": "451-488"
+  },
+  {
+   "cle": "tukamuhabwa2015",
+   "verdict": "VÉRIFIÉE",
+   "titre_crossref": "Supply chain resilience: definition, review and theoretical foundations for further study",
+   "score_titre": 0.99,
+   "doi": "10.1080/00207543.2015.1037934",
+   "annee_cr": 2015,
+   "revue_cr": "International Journal of Production Research",
+   "vol_cr": "53",
+   "pages_cr": "5592-5623"
+  },
+  {
+   "cle": "venkatesh2003",
+   "verdict": "VÉRIFIÉE",
+   "titre_crossref": "User Acceptance of Information Technology: Toward A Unified View1",
+   "score_titre": 0.98,
+   "doi": "10.2307/30036540",
+   "annee_cr": 2003,
+   "revue_cr": "MIS Quarterly",
+   "vol_cr": "27",
+   "pages_cr": "425-478"
+  },
+  {
+   "cle": "wamba2015",
+   "verdict": "VÉRIFIÉE",
+   "titre_crossref": "How ‘big data’ can make big impact: Findings from a systematic review and a longitudinal case study",
+   "score_titre": 0.98,
+   "doi": "10.1016/j.ijpe.2014.12.031",
+   "annee_cr": 2015,
+   "revue_cr": "International Journal of Production Economics",
+   "vol_cr": "165",
+   "pages_cr": "234-246"
+  },
+  {
+   "cle": "wanghajli2022",
+   "verdict": "ÉCARTS: année: biblio 2022 vs Crossref 2017 | revue: biblio « International Journal of Operations & Production Management » vs Crossref « Journal of Business Research » | volume: biblio 42 vs Crossref 70 | pages: biblio 873-898 vs Crossref 287-299",
+   "titre_crossref": "Exploring the path to big data analytics success in healthcare",
+   "score_titre": 0.71,
+   "doi": "10.1016/j.jbusres.2016.08.002",
+   "annee_cr": 2017,
+   "revue_cr": "Journal of Business Research",
+   "vol_cr": "70",
+   "pages_cr": "287-299"
+  }
+ ],
+ "non_articles": [
+  {
+   "cle": "berger1966",
+   "type": "ouvrage",
+   "notice": "Berger & Luckmann (1966), The social construction of reality, Doubleday",
+   "verdict": "à vérifier hors Crossref (ouvrage/rapport/acte)"
+  },
+  {
+   "cle": "christopher2016",
+   "type": "ouvrage",
+   "notice": "Christopher (2016), Logistics and Supply Chain Management, 5e éd., Pearson",
+   "verdict": "à vérifier hors Crossref (ouvrage/rapport/acte)"
+  },
+  {
+   "cle": "davenport2016",
+   "type": "ouvrage",
+   "notice": "Davenport & Kirby (2016), Only humans need apply, HarperBusiness",
+   "verdict": "à vérifier hors Crossref (ouvrage/rapport/acte)"
+  },
+  {
+   "cle": "glaser1967",
+   "type": "ouvrage",
+   "notice": "Glaser & Strauss (1967), The discovery of grounded theory, Aldine",
+   "verdict": "à vérifier hors Crossref (ouvrage/rapport/acte)"
+  },
+  {
+   "cle": "goldratt1992",
+   "type": "ouvrage",
+   "notice": "Goldratt & Cox (1992), The Goal, 2e éd., North River Press",
+   "verdict": "à vérifier hors Crossref (ouvrage/rapport/acte)"
+  },
+  {
+   "cle": "goodfellow2016",
+   "type": "ouvrage",
+   "notice": "Goodfellow, Bengio & Courville (2016), Deep learning, MIT Press",
+   "verdict": "à vérifier hors Crossref (ouvrage/rapport/acte)"
+  },
+  {
+   "cle": "perrow1984",
+   "type": "ouvrage",
+   "notice": "Perrow (1984), Normal accidents, Basic Books",
+   "verdict": "à vérifier hors Crossref (ouvrage/rapport/acte)"
+  },
+  {
+   "cle": "ptak2016",
+   "type": "ouvrage",
+   "notice": "Ptak & Smith (2016), Demand driven material requirements planning, Industrial Press",
+   "verdict": "à vérifier hors Crossref (ouvrage/rapport/acte)"
+  },
+  {
+   "cle": "rogers2003",
+   "type": "ouvrage",
+   "notice": "Rogers (2003), Diffusion of innovations, 5e éd., Free Press",
+   "verdict": "à vérifier hors Crossref (ouvrage/rapport/acte)"
+  },
+  {
+   "cle": "sheffi2005",
+   "type": "ouvrage",
+   "notice": "Sheffi (2005), The resilient enterprise, MIT Press",
+   "verdict": "à vérifier hors Crossref (ouvrage/rapport/acte)"
+  },
+  {
+   "cle": "strauss1998",
+   "type": "ouvrage",
+   "notice": "Strauss & Corbin (1998), Basics of qualitative research, 2e éd., SAGE",
+   "verdict": "à vérifier hors Crossref (ouvrage/rapport/acte)"
+  },
+  {
+   "cle": "mckinsey2024",
+   "type": "rapport",
+   "notice": "McKinsey & Company (2024), Generative AI and the future of supply chain operations",
+   "verdict": "à vérifier hors Crossref (ouvrage/rapport/acte)"
+  },
+  {
+   "cle": "smithptak2011",
+   "type": "acte",
+   "notice": "Smith & Ptak (2011), Exactly right..., APICS International Conference",
+   "verdict": "à vérifier hors Crossref (ouvrage/rapport/acte)"
+  }
+ ]
+}

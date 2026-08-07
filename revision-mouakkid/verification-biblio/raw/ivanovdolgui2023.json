@@ -1,0 +1,199 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message-version": "1.0.0",
+ "message": {
+  "facets": {},
+  "total-results": 653,
+  "items": [
+   {
+    "DOI": "10.1007/s10479-020-03640-6",
+    "title": [
+     "Viable supply chain model: integrating agility, resilience and sustainability perspectives—lessons from and thinking beyond the COVID-19 pandemic"
+    ],
+    "container-title": [
+     "Annals of Operations Research"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2020,
+       5,
+       22
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0003-4932-9627",
+      "authenticated-orcid": false,
+      "given": "Dmitry",
+      "family": "Ivanov",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "319",
+    "issue": "1",
+    "page": "1411-1431"
+   },
+   {
+    "DOI": "10.1007/s10479-021-04181-2",
+    "title": [
+     "Correction to: Viable supply chain model: integrating agility, resilience and sustainability perspectives—lessons from and thinking beyond the COVID-19 pandemic"
+    ],
+    "container-title": [
+     "Annals of Operations Research"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2021,
+       7,
+       26
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0003-4932-9627",
+      "authenticated-orcid": false,
+      "given": "Dmitry",
+      "family": "Ivanov",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "332",
+    "issue": "1-3",
+    "page": "1267-1268"
+   },
+   {
+    "DOI": "10.1504/ijism.2020.107780",
+    "title": [
+     "Coronavirus (COVID-19/SARS-CoV-2) and supply chain resilience: a research note"
+    ],
+    "container-title": [
+     "International Journal of Integrated Supply Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2020
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Dmitry",
+      "family": "Ivanov",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Ajay",
+      "family": "Das",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "13",
+    "issue": "1",
+    "page": "90"
+   },
+   {
+    "DOI": "10.1007/978-3-032-21838-4_1",
+    "title": [
+     "Supply Chain Resilience"
+    ],
+    "container-title": [
+     "Business Guides on the Go",
+     "The Viable Supply Chain"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Dmitry",
+      "family": "Ivanov",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "page": "1-17"
+   },
+   {
+    "DOI": "10.1007/978-3-032-21838-4_2",
+    "title": [
+     "How to Build Supply Chain Resilience"
+    ],
+    "container-title": [
+     "Business Guides on the Go",
+     "The Viable Supply Chain"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Dmitry",
+      "family": "Ivanov",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "page": "19-34"
+   }
+  ],
+  "items-per-page": 5,
+  "query": {
+   "start-index": 0,
+   "search-terms": null
+  }
+ }
+}

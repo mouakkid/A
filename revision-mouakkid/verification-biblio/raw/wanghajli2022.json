@@ -1,0 +1,244 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message-version": "1.0.0",
+ "message": {
+  "facets": {},
+  "total-results": 40524,
+  "items": [
+   {
+    "DOI": "10.1016/j.jbusres.2016.08.002",
+    "title": [
+     "Exploring the path to big data analytics success in healthcare"
+    ],
+    "container-title": [
+     "Journal of Business Research"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2017,
+       1
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Yichuan",
+      "family": "Wang",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Nick",
+      "family": "Hajli",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "70",
+    "page": "287-299"
+   },
+   {
+    "DOI": "10.1108/imds-04-2021-0209",
+    "title": [
+     "Exploring the paths to big data analytics implementation success in banking and financial service: an integrated approach"
+    ],
+    "container-title": [
+     "Industrial Management &amp; Data Systems"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2021,
+       8,
+       18
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0003-3663-5254",
+      "authenticated-orcid": false,
+      "given": "Nastaran",
+      "family": "Hajiheydari",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Mohammad Soltani",
+      "family": "Delgosha",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0003-1575-0245",
+      "authenticated-orcid": false,
+      "given": "Yichuan",
+      "family": "Wang",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Hossein",
+      "family": "Olya",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "121",
+    "issue": "12",
+    "page": "2498-2529"
+   },
+   {
+    "DOI": "10.22495/cbsrv7i1art16",
+    "title": [
+     "The role of big data analytics strategy in enhancing firm performance: A process-driven approach through supply chain efficiency"
+    ],
+    "container-title": [
+     "Corporate and Business Strategy Review"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       1,
+       23
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0009-0003-5932-0113",
+      "authenticated-orcid": false,
+      "given": "Lixuan",
+      "family": "Wang",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "id": [
+         {
+          "id": "https://ror.org/01wxh6v83",
+          "id-type": "ROR",
+          "asserted-by": "publisher"
+         }
+        ],
+        "name": "Singapore Institute of Management"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "7",
+    "issue": "1",
+    "page": "179"
+   },
+   {
+    "DOI": "10.2139/ssrn.6142796",
+    "title": [
+     "Unveiling data value: A configurational approach to big data and business model design"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Fengquan",
+      "family": "Wang",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "DOI": "10.21203/rs.3.rs-9062736/v1",
+    "title": [
+     "Unveiling data value: A configurational approach to big data and business model design"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       3,
+       24
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Fengquan",
+      "family": "Wang",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Chongqing Technology and Business University"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "items-per-page": 5,
+  "query": {
+   "start-index": 0,
+   "search-terms": null
+  }
+ }
+}

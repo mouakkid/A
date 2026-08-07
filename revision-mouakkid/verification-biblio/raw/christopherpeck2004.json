@@ -1,0 +1,221 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message-version": "1.0.0",
+ "message": {
+  "facets": {},
+  "total-results": 6179,
+  "items": [
+   {
+    "DOI": "10.1108/09574090410700275",
+    "title": [
+     "Building the Resilient Supply Chain"
+    ],
+    "container-title": [
+     "The International Journal of Logistics Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2004,
+       7,
+       1
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Martin",
+      "family": "Christopher",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Helen",
+      "family": "Peck",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "15",
+    "issue": "2",
+    "page": "1-14"
+   },
+   {
+    "DOI": "10.20545/isctj.v08.i10.01",
+    "title": [
+     "Resilient and Sustainable U.S. Supply Chain and Manufacturing Can Be Domestically Sourced with Critical Materials in the Mountain West"
+    ],
+    "container-title": [
+     "International Supply Chain Technology Journal"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2022,
+       10,
+       30
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Erick Christopher",
+      "family": "Jones",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "volume": "8",
+    "issue": "10"
+   },
+   {
+    "DOI": "10.1080/16258312.2012.11517288",
+    "title": [
+     "Managing Supply Chain Complexity: Identifying the Requisite Skills"
+    ],
+    "container-title": [
+     "Supply Chain Forum: An International Journal"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2012,
+       1
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Martin",
+      "family": "Christopher",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Emeritus Professor, Cranfield School of Management, UK"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "volume": "13",
+    "issue": "2",
+    "page": "4-9"
+   },
+   {
+    "DOI": "10.1007/978-3-540-74512-9_3",
+    "title": [
+     "Supply Chain Analysis"
+    ],
+    "container-title": [
+     "Supply Chain Management and Advanced Planning"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Christopher",
+      "family": "Sürie",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Michael",
+      "family": "Wagner",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "page": "37-63"
+   },
+   {
+    "DOI": "10.1007/3-540-24814-5_3",
+    "title": [
+     "Supply Chain Analysis"
+    ],
+    "container-title": [
+     "Supply Chain Management and Advanced Planning"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       null
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Christopher",
+      "family": "Sürie",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Michael",
+      "family": "Wagner",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "page": "37-63"
+   }
+  ],
+  "items-per-page": 5,
+  "query": {
+   "start-index": 0,
+   "search-terms": null
+  }
+ }
+}

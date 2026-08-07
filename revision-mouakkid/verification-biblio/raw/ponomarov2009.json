@@ -1,0 +1,332 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message-version": "1.0.0",
+ "message": {
+  "facets": {},
+  "total-results": 6,
+  "items": [
+   {
+    "DOI": "10.1108/09574090910954873",
+    "title": [
+     "Understanding the concept of supply chain resilience"
+    ],
+    "container-title": [
+     "The International Journal of Logistics Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2009,
+       5,
+       22
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Serhiy Y.",
+      "family": "Ponomarov",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Mary C.",
+      "family": "Holcomb",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "20",
+    "issue": "1",
+    "page": "124-143"
+   },
+   {
+    "DOI": "10.1080/09537325.2014.971003",
+    "title": [
+     "How does firm innovativeness enable supply chain resilience? The moderating role of supply uncertainty and interdependence"
+    ],
+    "container-title": [
+     "Technology Analysis &amp; Strategic Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2014,
+       10,
+       16
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Ismail",
+      "family": "Gölgeci",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Serhiy Y.",
+      "family": "Ponomarov",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "27",
+    "issue": "3",
+    "page": "267-282"
+   },
+   {
+    "DOI": "10.1108/scm-10-2012-0331",
+    "title": [
+     "Does firm innovativeness enable effective responses to supply chain disruptions? An empirical study"
+    ],
+    "container-title": [
+     "Supply Chain Management: An International Journal"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2013,
+       9,
+       23
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Ismail",
+      "family": "Golgeci",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Serhiy",
+      "family": "Y. Ponomarov",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "18",
+    "issue": "6",
+    "page": "604-617"
+   },
+   {
+    "DOI": "10.1080/16258312.2011.11517258",
+    "title": [
+     "The Relationship of Supply Chain Visibility to Firm Performance"
+    ],
+    "container-title": [
+     "Supply Chain Forum: An International Journal"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2011,
+       1
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Mary C.",
+      "family": "Holcomb",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "University of Tennessee, United States"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Serhiy Y.",
+      "family": "Ponomarov",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "University of Tennessee, United States"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Karl B.",
+      "family": "Manrodt",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Georgia Southern University, United States kmanrodt@georgiasouthern.edu"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "12",
+    "issue": "2",
+    "page": "32-45"
+   },
+   {
+    "DOI": "10.1002/kpm.1785",
+    "title": [
+     "An empirical examination on firm innovativeness and supply chain resilience: The role of information sharing from a dynamic capabilities view"
+    ],
+    "container-title": [
+     "Knowledge and Process Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       6,
+       2
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "John M.",
+      "family": "Dickens",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "The Citadel Tommy and Victoria Baker School of Business  Charleston SC USA"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Hasan",
+      "family": "Uvet",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Marketing and Supply Chain Management Georgia Gwinnett College  Lawrenceville Georgia USA"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-6718-7100",
+      "authenticated-orcid": false,
+      "given": "Jason R.",
+      "family": "Anderson",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "The Citadel Tommy and Victoria Baker School of Business  Charleston SC USA"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Sergey Y.",
+      "family": "Ponomarov",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Marketing, Supply Chain Management, and Economics The Citadel  Charleston South Carolina USA"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "David R.",
+      "family": "Nowicki",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Marketing and Supply Chain Management University of North Texas  Denton Texas USA"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "31",
+    "issue": "4",
+    "page": "295-308"
+   }
+  ],
+  "items-per-page": 5,
+  "query": {
+   "start-index": 0,
+   "search-terms": null
+  }
+ }
+}

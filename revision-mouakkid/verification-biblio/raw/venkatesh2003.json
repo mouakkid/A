@@ -1,0 +1,299 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message-version": "1.0.0",
+ "message": {
+  "facets": {},
+  "total-results": 2909,
+  "items": [
+   {
+    "DOI": "10.2307/30036540",
+    "title": [
+     "User Acceptance of Information Technology: Toward A Unified View1"
+    ],
+    "container-title": [
+     "MIS Quarterly"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2003,
+       9,
+       1
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Viswanath",
+      "family": "Venkatesh",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Robert H. Smith School of Business, University of Maryland, Van Munching Hall, College Park, MD 20742, U.S.A."
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Michael G.",
+      "family": "Morris",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "McIntire School of Commerce, University of Virginia, Monroe Hall, Charlottesville, VA 22903-2493, U.S.A."
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Gordon B.",
+      "family": "Davis",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Carlson School of Management, University of Minnesota, 321 19th Avenue South, Minneapolis, MN 55455, U.S.A."
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Fred D.",
+      "family": "Davis",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Sam M. Walton College of Business, University of Arkansas, Fayetteville, AR 72701-1201, U.S.A."
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "27",
+    "issue": "3",
+    "page": "425-478"
+   },
+   {
+    "DOI": "10.1002/9781118785317.weom070047",
+    "title": [
+     "Technology Acceptance Model And The Unified Theory Of Acceptance And Use Of Technology"
+    ],
+    "container-title": [
+     "Wiley Encyclopedia of Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2015,
+       1,
+       21
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Viswanath",
+      "family": "Venkatesh",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "page": "1-9"
+   },
+   {
+    "DOI": "10.1080/1097198x.2010.10856507",
+    "title": [
+     "Unified Theory of Acceptance and Use of Technology: U.S. Vs. China"
+    ],
+    "container-title": [
+     "Journal of Global Information Technology Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2010,
+       1
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Viswanath",
+      "family": "Venkatesh",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Xiaojun",
+      "family": "Zhang",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "13",
+    "issue": "1",
+    "page": "5-27"
+   },
+   {
+    "DOI": "10.1109/tem.2003.822468",
+    "title": [
+     "Toward Preprototype User Acceptance Testing of New Information Systems: Implications for Software Project Management"
+    ],
+    "container-title": [
+     "IEEE Transactions on Engineering Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2004,
+       2
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "F.D.",
+      "family": "Davis",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "V.",
+      "family": "Venkatesh",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "51",
+    "issue": "1",
+    "page": "31-46"
+   },
+   {
+    "DOI": "10.2307/41410412",
+    "title": [
+     "Consumer Acceptance and Use of Information Technology: Extending the Unified Theory of Acceptance and Use of Technology1"
+    ],
+    "container-title": [
+     "MIS Quarterly"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2012,
+       3,
+       1
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Viswanath",
+      "family": "Venkatesh",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Sam M. Walton College of Business, University of Arkansas, Fayetteville, AR 72701 U.S.A."
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "James Y. L.",
+      "family": "Thong",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Department of ISOM, Hong Kong University of Science and Technology, Clear Water Bay, Kowloon, Hong Kong"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Xin",
+      "family": "Xu",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Department of Management and Marketing, Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "36",
+    "issue": "1",
+    "page": "157-178"
+   }
+  ],
+  "items-per-page": 5,
+  "query": {
+   "start-index": 0,
+   "search-terms": null
+  }
+ }
+}

@@ -1,0 +1,356 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message-version": "1.0.0",
+ "message": {
+  "facets": {},
+  "total-results": 46482,
+  "items": [
+   {
+    "DOI": "10.1177/10591478251318885",
+    "title": [
+     "Analyzing Professional Ethics of Physicians Using Online Patient Reviews: A Machine Learning Approach"
+    ],
+    "container-title": [
+     "Production and Operations Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       1,
+       31
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0003-1355-577X",
+      "authenticated-orcid": false,
+      "given": "Kanix",
+      "family": "Wang",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Lindner College of Business, University of Cincinnati, Cincinnati, OH, USA"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0001-6897-8935",
+      "authenticated-orcid": false,
+      "given": "Feng",
+      "family": "Mai",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Tippie College of Business, University of Iowa, Iowa City, IA, USA"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Zhe",
+      "family": "Shan",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Farmer School of Business, Miami University, Oxford, OH, USA"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Dawei (David)",
+      "family": "Zhang",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "College of Business, Lehigh University, Bethlehem, PA, USA"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Xiaosong (David)",
+      "family": "Peng",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "College of Business, Lehigh University, Bethlehem, PA, USA"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "DOI": "10.1201/9781003539780-14",
+    "title": [
+     "Leveraging Machine Learning for Optimizing TBM Tunneling Operations"
+    ],
+    "container-title": [
+     "Machine Learning for Data-Centric Geotechnics"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026,
+       7,
+       30
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Feng",
+      "family": "Shan",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Xuzhen",
+      "family": "He",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Jidong",
+      "family": "Teng",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Sheng",
+      "family": "Zhang",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Daichao",
+      "family": "Sheng",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "page": "397-411"
+   },
+   {
+    "DOI": "10.1007/s12063-023-00427-3",
+    "title": [
+     "Find who is doing social good: using machine learning to predict corporate social responsibility performance"
+    ],
+    "container-title": [
+     "Operations Management Research"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       11,
+       15
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0003-3800-865X",
+      "authenticated-orcid": false,
+      "given": "Jing",
+      "family": "Zhang",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0001-7228-731X",
+      "authenticated-orcid": false,
+      "given": "Minghao",
+      "family": "Zhu",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0001-9367-049X",
+      "authenticated-orcid": false,
+      "given": "Feng",
+      "family": "Liu",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "17",
+    "issue": "1",
+    "page": "253-266"
+   },
+   {
+    "DOI": "10.5220/0014884800005130",
+    "title": [
+     "Machine Learning Models for Gold Price Prediction: A Comparative Study"
+    ],
+    "container-title": [
+     "Proceedings of the 2nd International Conference on Financial Management and the Digital Economy"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Yihang",
+      "family": "Feng",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "School of Economics, Huazhong University of Science and Technology, HuBei, China"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "page": "671-675"
+   },
+   {
+    "DOI": "10.2118/205480-pa",
+    "title": [
+     "Practical Machine-Learning Applications in Well-Drilling Operations"
+    ],
+    "container-title": [
+     "SPE Drilling &amp; Completion"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2021,
+       4,
+       20
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "T. A.",
+      "family": "Olukoga",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "University of Louisiana at Lafayette"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Y.",
+      "family": "Feng",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "University of Louisiana at Lafayette"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "36",
+    "issue": "04",
+    "page": "849-867"
+   }
+  ],
+  "items-per-page": 5,
+  "query": {
+   "start-index": 0,
+   "search-terms": null
+  }
+ }
+}

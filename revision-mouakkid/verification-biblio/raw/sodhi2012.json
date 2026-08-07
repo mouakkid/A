@@ -1,0 +1,261 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message-version": "1.0.0",
+ "message": {
+  "facets": {},
+  "total-results": 410,
+  "items": [
+   {
+    "DOI": "10.1007/978-1-4614-3238-8_16",
+    "title": [
+     "Researchers’ Perspectives on Supply-Chain Risk Research"
+    ],
+    "container-title": [
+     "International Series in Operations Research &amp; Management Science",
+     "Managing Supply Chain Risk"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2012
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "ManMohan S.",
+      "family": "Sodhi",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Christopher S.",
+      "family": "Tang",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "page": "281-301"
+   },
+   {
+    "DOI": "10.1111/j.1937-5956.2011.01251.x",
+    "title": [
+     "Researchers' Perspectives on Supply Chain Risk Management"
+    ],
+    "container-title": [
+     "Production and Operations Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2012,
+       1
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "ManMohan S.",
+      "family": "Sodhi",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Cass Business School, City University London, London EC1Y 8TZ, UK, ,"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Byung‐Gak",
+      "family": "Son",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Cass Business School, City University London, London EC1Y 8TZ, UK, ,"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Christopher S.",
+      "family": "Tang",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Anderson School of Management, University of California, Los Angeles, California 90095‐1481, USA,"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "21",
+    "issue": "1",
+    "page": "1-13"
+   },
+   {
+    "DOI": "10.1007/978-1-4614-3238-8_1",
+    "title": [
+     "Supply Chain Risk Management"
+    ],
+    "container-title": [
+     "International Series in Operations Research &amp; Management Science",
+     "Managing Supply Chain Risk"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2012
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "ManMohan S.",
+      "family": "Sodhi",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Christopher S.",
+      "family": "Tang",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "page": "3-11"
+   },
+   {
+    "DOI": "10.1007/978-1-4614-3238-8_13",
+    "title": [
+     "Risk Models for Supply Chain Management"
+    ],
+    "container-title": [
+     "International Series in Operations Research &amp; Management Science",
+     "Managing Supply Chain Risk"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2012
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "ManMohan S.",
+      "family": "Sodhi",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Christopher S.",
+      "family": "Tang",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "page": "195-240"
+   },
+   {
+    "DOI": "10.1007/978-1-84882-634-2_3",
+    "title": [
+     "Managing Supply Chain Disruptions via Time-Based Risk Management"
+    ],
+    "container-title": [
+     "Managing Supply Chain Risk and Vulnerability"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2009
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "ManMohan S.",
+      "family": "Sodhi",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Christopher S.",
+      "family": "Tang",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "page": "29-40"
+   }
+  ],
+  "items-per-page": 5,
+  "query": {
+   "start-index": 0,
+   "search-terms": null
+  }
+ }
+}

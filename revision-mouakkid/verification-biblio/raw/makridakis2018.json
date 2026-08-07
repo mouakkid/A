@@ -1,0 +1,351 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message-version": "1.0.0",
+ "message": {
+  "facets": {},
+  "total-results": 155,
+  "items": [
+   {
+    "DOI": "10.1371/journal.pone.0194889",
+    "title": [
+     "Statistical and Machine Learning forecasting methods: Concerns and ways forward"
+    ],
+    "container-title": [
+     "PLOS ONE"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2018,
+       3,
+       27
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Spyros",
+      "family": "Makridakis",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-1854-1206",
+      "authenticated-orcid": true,
+      "given": "Evangelos",
+      "family": "Spiliotis",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Vassilios",
+      "family": "Assimakopoulos",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "13",
+    "issue": "3",
+    "page": "e0194889"
+   },
+   {
+    "DOI": "10.1080/01605682.2022.2118629",
+    "title": [
+     "Statistical, machine learning and deep learning forecasting methods: Comparisons and ways forward"
+    ],
+    "container-title": [
+     "Journal of the Operational Research Society"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2022,
+       9,
+       5
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Spyros",
+      "family": "Makridakis",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "University of Nicosia, Nicosia, Cyprus"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-1854-1206",
+      "authenticated-orcid": false,
+      "given": "Evangelos",
+      "family": "Spiliotis",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "National Technical University of Athens, Athens, Greece"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Vassilios",
+      "family": "Assimakopoulos",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "National Technical University of Athens, Athens, Greece"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Artemios-Anargyros",
+      "family": "Semenoglou",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "University of Nicosia, Nicosia, Cyprus"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Gary",
+      "family": "Mulder",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "University of Nicosia, Nicosia, Cyprus"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Konstantinos",
+      "family": "Nikolopoulos",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Durham University Business School, Durham, UK"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "74",
+    "issue": "3",
+    "page": "840-859"
+   },
+   {
+    "DOI": "10.1007/s12351-020-00605-2",
+    "title": [
+     "Comparison of statistical and machine learning methods for daily SKU demand forecasting"
+    ],
+    "container-title": [
+     "Operational Research"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2020,
+       9,
+       16
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-1854-1206",
+      "authenticated-orcid": false,
+      "given": "Evangelos",
+      "family": "Spiliotis",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Spyros",
+      "family": "Makridakis",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Artemios-Anargyros",
+      "family": "Semenoglou",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Vassilios",
+      "family": "Assimakopoulos",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "22",
+    "issue": "3",
+    "page": "3037-3061"
+   },
+   {
+    "DOI": "10.1016/0169-2070(93)90079-3",
+    "title": [
+     "Accuracy measures: theoretical and practical concerns"
+    ],
+    "container-title": [
+     "International Journal of Forecasting"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1993,
+       12
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Spyros",
+      "family": "Makridakis",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "9",
+    "issue": "4",
+    "page": "527-529"
+   },
+   {
+    "DOI": "10.1016/j.ijforecast.2020.08.007",
+    "title": [
+     "Pandemics and forecasting: The way forward through the Taleb-Ioannidis debate"
+    ],
+    "container-title": [
+     "International Journal of Forecasting"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2022,
+       4
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Pierre",
+      "family": "Pinson",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Spyros",
+      "family": "Makridakis",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "volume": "38",
+    "issue": "2",
+    "page": "410-412"
+   }
+  ],
+  "items-per-page": 5,
+  "query": {
+   "start-index": 0,
+   "search-terms": null
+  }
+ }
+}

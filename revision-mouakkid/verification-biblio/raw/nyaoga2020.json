@@ -1,0 +1,300 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message-version": "1.0.0",
+ "message": {
+  "facets": {},
+  "total-results": 13,
+  "items": [
+   {
+    "DOI": "10.12660/joscmv8n2p1-22",
+    "title": [
+     "Is there a Link between Supply Chain Strategies and Firm Performance? Evidence from Large-Scale Manufacturing Firms in Kenya"
+    ],
+    "container-title": [
+     "Journal of Operations and Supply Chain Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2015,
+       12,
+       22
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Richard Bitange",
+      "family": "Nyaoga",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Peterson Obara",
+      "family": "Magutu",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Josiah",
+      "family": "Aduba",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "volume": "8",
+    "issue": "2",
+    "page": "1-22"
+   },
+   {
+    "DOI": "10.1016/j.ism.2015.07.002",
+    "title": [
+     "Does Supply Chain Technology Moderate the Relationship between Supply Chain Strategies and Firm Performance? Evidence from Large-Scale Manufacturing Firms in Kenya"
+    ],
+    "container-title": [
+     "International Strategic Management Review"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2015,
+       6
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Peterson Obara",
+      "family": "Magutu",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Josiah",
+      "family": "Aduda",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Richard Bitange",
+      "family": "Nyaoga",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "volume": "3",
+    "issue": "1-2",
+    "page": "43-65"
+   },
+   {
+    "DOI": "10.1504/emjm.2016.078848",
+    "title": [
+     "The relationship between supply chain strategies and supply chain performance among large-scale manufacturing firms: the moderating effect of supply chain technology"
+    ],
+    "container-title": [
+     "EuroMed J. of Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2016
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Peterson Obara",
+      "family": "Magutu",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Isaac Meroka",
+      "family": "Mbeche",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "James Muranga",
+      "family": "Njihia",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Richard Bitange",
+      "family": "Nyaoga",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "volume": "1",
+    "issue": "2",
+    "page": "123"
+   },
+   {
+    "DOI": "10.5267/j.msl.2015.12.007",
+    "title": [
+     "Procurement risk management practices and supply chain performance among mobile phone service providers in Kenya"
+    ],
+    "container-title": [
+     "Management Science Letters"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2016
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Emily Adhiambo",
+      "family": "Okonjo",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Peterson Obara",
+      "family": "Magutu",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Richard Bitange",
+      "family": "Nyaoga",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "page": "141-156"
+   },
+   {
+    "DOI": "10.5267/j.msl.2016.4.002",
+    "title": [
+     "Constraints management and value chain performance for sustainable development"
+    ],
+    "container-title": [
+     "Management Science Letters"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2016
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Richard Bitange",
+      "family": "Nyaoga",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Peterson Obara",
+      "family": "Magutu",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "page": "427-442"
+   }
+  ],
+  "items-per-page": 5,
+  "query": {
+   "start-index": 0,
+   "search-terms": null
+  }
+ }
+}

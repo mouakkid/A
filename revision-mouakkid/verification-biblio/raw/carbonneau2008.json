@@ -1,0 +1,382 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message-version": "1.0.0",
+ "message": {
+  "facets": {},
+  "total-results": 64,
+  "items": [
+   {
+    "DOI": "10.1016/j.ejor.2006.12.004",
+    "title": [
+     "Application of machine learning techniques for supply chain demand forecasting"
+    ],
+    "container-title": [
+     "European Journal of Operational Research"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2008,
+       2
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Real",
+      "family": "Carbonneau",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Kevin",
+      "family": "Laframboise",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Rustam",
+      "family": "Vahidov",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "184",
+    "issue": "3",
+    "page": "1140-1154"
+   },
+   {
+    "DOI": "10.4018/978-1-60960-818-7.ch609",
+    "title": [
+     "Forecasting Supply Chain Demand Using Machine Learning Algorithms"
+    ],
+    "container-title": [
+     "Machine Learning"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2012
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Réal",
+      "family": "Carbonneau",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Department of Management Sciences, HEC Montréal, Canada"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Rustam",
+      "family": "Vahidov",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "John Molson School of Business, Concorida University, Canada"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Kevin",
+      "family": "Laframboise",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "John Molson School of Business, Concorida University, Canada"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "page": "1652-1686"
+   },
+   {
+    "DOI": "10.4018/978-1-60566-144-5.ch018",
+    "title": [
+     "Forecasting Supply Chain Demand Using Machine Learning Algorithms"
+    ],
+    "container-title": [
+     "Advances in Intelligent Information Technologies",
+     "Distributed Artificial Intelligence, Agent Technology, and Collaborative Applications"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2009
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Réal",
+      "family": "Carbonneau",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Department of Management Sciences, HEC Montréal, Canada"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Rustam",
+      "family": "Vahidov",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "John Molson School of Business, Concorida University, Canada"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Kevin",
+      "family": "Laframboise",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "John Molson School of Business, Concorida University, Canada"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "page": "328-365"
+   },
+   {
+    "DOI": "10.4018/jiit.2007100103",
+    "title": [
+     "Machine Learning-Based Demand Forecasting in Supply Chains"
+    ],
+    "container-title": [
+     "International Journal of Intelligent Information Technologies"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2007,
+       10,
+       1
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Real",
+      "family": "Carbonneau",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Concordia University, Canada"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Rustam",
+      "family": "Vahidov",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Concordia University, Canada"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Kevin",
+      "family": "Laframboise",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Concordia University, Canada"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "3",
+    "issue": "4",
+    "page": "40-57"
+   },
+   {
+    "DOI": "10.1287/inte.1030.0068",
+    "title": [
+     "Inventory Decisions in Dell's Supply Chain"
+    ],
+    "container-title": [
+     "Interfaces"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2004,
+       6
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Roman",
+      "family": "Kapuscinski",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "University of Michigan Business School, Ann Arbor, Michigan 48109"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Rachel Q.",
+      "family": "Zhang",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Johnson Graduate School of Management, Cornell University, Ithaca, New York 14853"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Paul",
+      "family": "Carbonneau",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "McKinsey & Company, 3 Landmark Square, Stamford, Connecticut 06901"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Robert",
+      "family": "Moore",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Dell Inc., Mail Stop 6363, Austin, Texas 78682"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Bill",
+      "family": "Reeves",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Dell Inc., Mail Stop 6363, Austin, Texas 78682"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "volume": "34",
+    "issue": "3",
+    "page": "191-205"
+   }
+  ],
+  "items-per-page": 5,
+  "query": {
+   "start-index": 0,
+   "search-terms": null
+  }
+ }
+}

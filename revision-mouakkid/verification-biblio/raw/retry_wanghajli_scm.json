@@ -1,0 +1,409 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message-version": "1.0.0",
+ "message": {
+  "facets": {},
+  "total-results": 43,
+  "items": [
+   {
+    "DOI": "10.2139/ssrn.5080027",
+    "title": [
+     "From Data to Performance: How Big Data Analytics Enhances Innovation and Competitive Advantage"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Nick",
+      "family": "Hajli",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "ABDULLAH",
+      "family": "HAMADI",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "DOI": "10.2139/ssrn.4776280",
+    "title": [
+     "Unraveling the Nexus between Big Data Analytics Components, Innovation, and Financial Success"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "ABDULLAH",
+      "family": "HAMADI",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Nick",
+      "family": "Hajli",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "DOI": "10.1016/j.indmarman.2019.09.010",
+    "title": [
+     "Understanding market agility for new product success with big data analytics"
+    ],
+    "container-title": [
+     "Industrial Marketing Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2020,
+       4
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Nick",
+      "family": "Hajli",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Mina",
+      "family": "Tajvidi",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Ayantunji",
+      "family": "Gbadamosi",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Waqar",
+      "family": "Nadeem",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "86",
+    "page": "135-143"
+   },
+   {
+    "DOI": "10.1016/j.jbusres.2016.08.002",
+    "title": [
+     "Exploring the path to big data analytics success in healthcare"
+    ],
+    "container-title": [
+     "Journal of Business Research"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2017,
+       1
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Yichuan",
+      "family": "Wang",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Nick",
+      "family": "Hajli",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "70",
+    "page": "287-299"
+   },
+   {
+    "DOI": "10.1016/j.indmarman.2025.01.002",
+    "title": [
+     "Strategic integration of big data analytics in R&amp;D: Impact on new product success in turbulent markets"
+    ],
+    "container-title": [
+     "Industrial Marketing Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       2
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Farid",
+      "family": "Shirazi",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Mina",
+      "family": "Tajvidi",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Olu",
+      "family": "Adegbite",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Nick",
+      "family": "Hajli",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Philip",
+      "family": "Powell",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "volume": "125",
+    "page": "303-318"
+   },
+   {
+    "DOI": "10.1111/radm.12719",
+    "title": [
+     "Roles of big data analytics and organizational culture in developing innovation capabilities: a hybrid\n                    <scp>PLS</scp>\n                    ‐\n                    <scp>fsQCA</scp>\n                    approach"
+    ],
+    "container-title": [
+     "R&amp;D Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2024,
+       9,
+       16
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-0621-4814",
+      "authenticated-orcid": false,
+      "given": "Behzad",
+      "family": "Foroughi",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Program in International Business Administration I‐Shou University  Kaohsiung City Taiwan"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Mohammad",
+      "family": "Iranmanesh",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "La Trobe Business School La Trobe University  Melbourne Victoria Australia"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Nick",
+      "family": "Hajli",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Business and Economics Loughborough University  Loughborough UK"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Lee Shih",
+      "family": "Ling",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Graduate School of Business Universiti Sains Malaysia  Penang Malaysia"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Morteza",
+      "family": "Ghobakhloo",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Division of Industrial Engineering and Management Uppsala University  P.O. Box 534 Uppsala 75121 Sweden"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Davoud",
+      "family": "Nikbin",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "School of Business &amp; Law University of Brighton  Brighton UK"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "55",
+    "page": "736-754"
+   }
+  ],
+  "items-per-page": 6,
+  "query": {
+   "start-index": 0,
+   "search-terms": null
+  }
+ }
+}

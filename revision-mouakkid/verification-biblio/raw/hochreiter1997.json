@@ -1,0 +1,474 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message-version": "1.0.0",
+ "message": {
+  "facets": {},
+  "total-results": 34,
+  "items": [
+   {
+    "DOI": "10.1162/neco.1997.9.8.1735",
+    "title": [
+     "Long Short-Term Memory"
+    ],
+    "container-title": [
+     "Neural Computation"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1997,
+       11,
+       1
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Sepp",
+      "family": "Hochreiter",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Fakultät für Informatik, Technische Universität München, 80290 München, Germany"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Jürgen",
+      "family": "Schmidhuber",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "IDSIA, Corso Elvezia 36, 6900 Lugano, Switzerland"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "9",
+    "issue": "8",
+    "page": "1735-1780"
+   },
+   {
+    "DOI": "10.1007/s00506-021-00767-z",
+    "title": [
+     "Niederschlags-Abfluss-Modellierung mit Long Short-Term Memory (LSTM)",
+     "Rainfall-Runoff modeling with Long Short-Term Memory Networks (LSTM)—an overview"
+    ],
+    "container-title": [
+     "Österreichische Wasser- und Abfallwirtschaft"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2021,
+       5,
+       17
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Frederik",
+      "family": "Kratzert",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Martin",
+      "family": "Gauch",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Grey",
+      "family": "Nearing",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Sepp",
+      "family": "Hochreiter",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Daniel",
+      "family": "Klotz",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "volume": "73",
+    "issue": "7-8",
+    "page": "270-280"
+   },
+   {
+    "DOI": "10.5194/hess-2020-540",
+    "title": [
+     "Rainfall–Runoff Prediction at Multiple Timescales with a Single\nLong Short-Term Memory Network"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2020,
+       11,
+       17
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-4587-898X",
+      "authenticated-orcid": false,
+      "given": "Martin",
+      "family": "Gauch",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-8897-7689",
+      "authenticated-orcid": false,
+      "given": "Frederik",
+      "family": "Kratzert",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-9843-6798",
+      "authenticated-orcid": false,
+      "given": "Daniel",
+      "family": "Klotz",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0001-7031-6770",
+      "authenticated-orcid": false,
+      "given": "Grey",
+      "family": "Nearing",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Jimmy",
+      "family": "Lin",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Sepp",
+      "family": "Hochreiter",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "DOI": "10.3390/photonics8120535",
+    "title": [
+     "Quantum Optical Experiments Modeled by Long Short-Term Memory"
+    ],
+    "container-title": [
+     "Photonics"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2021,
+       11,
+       26
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Thomas",
+      "family": "Adler",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "ELLIS Unit Linz, LIT AI Lab, Institute for Machine Learning, Johannes Kepler University, 4040 Linz, Austria"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Manuel",
+      "family": "Erhard",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Institute for Quantum Optics and Quantum Information, Austrian Academy of Sciences & Vienna Center for Quantum Science & Technology, University of Vienna, 1090 Vienna, Austria"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Mario",
+      "family": "Krenn",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Department of Chemistry, University of Toronto & Vector Institute for Artificial Intelligence, Toronto, ON M5G 1M1, Canada"
+       },
+       {
+        "name": "Department of Computer Science, University of Toronto & Vector Institute for Artificial Intelligence, Toronto, ON M5G 1M1, Canada"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Johannes",
+      "family": "Brandstetter",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "ELLIS Unit Linz, LIT AI Lab, Institute for Machine Learning, Johannes Kepler University, 4040 Linz, Austria"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Johannes",
+      "family": "Kofler",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "ELLIS Unit Linz, LIT AI Lab, Institute for Machine Learning, Johannes Kepler University, 4040 Linz, Austria"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0001-7449-2528",
+      "authenticated-orcid": false,
+      "given": "Sepp",
+      "family": "Hochreiter",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "ELLIS Unit Linz, LIT AI Lab, Institute for Machine Learning, Johannes Kepler University, 4040 Linz, Austria"
+       },
+       {
+        "name": "Institute of Advanced Research in Artificial Intelligence (IARAI), Landstraßer Hauptstraße 5, 1030 Vienna, Austria"
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "volume": "8",
+    "issue": "12",
+    "page": "535"
+   },
+   {
+    "DOI": "10.5194/hess-2019-368",
+    "title": [
+     "Benchmarking a Catchment-Aware Long Short-Term Memory\nNetwork (LSTM) for Large-Scale Hydrological Modeling"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2019,
+       8,
+       2
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-8897-7689",
+      "authenticated-orcid": false,
+      "given": "Frederik",
+      "family": "Kratzert",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-9843-6798",
+      "authenticated-orcid": false,
+      "given": "Daniel",
+      "family": "Klotz",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Guy",
+      "family": "Shalev",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Günter",
+      "family": "Klambauer",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Sepp",
+      "family": "Hochreiter",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0001-7031-6770",
+      "authenticated-orcid": false,
+      "given": "Grey",
+      "family": "Nearing",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "items-per-page": 5,
+  "query": {
+   "start-index": 0,
+   "search-terms": null
+  }
+ }
+}

@@ -1,0 +1,247 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message-version": "1.0.0",
+ "message": {
+  "facets": {},
+  "total-results": 8,
+  "items": [
+   {
+    "DOI": "10.4135/9781446251973.n5",
+    "title": [
+     "Significant others: Impact on Client and Therapy"
+    ],
+    "container-title": [
+     "Overcoming Obstacles in CBT"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2012
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Craig",
+      "family": "Chigwedere",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "page": "73-92"
+   },
+   {
+    "DOI": "10.4314/jsda.v40i1.4",
+    "title": [
+     "Digital socialisation and self-identity: Psychosocial challenges faced by Generation Z adolescent girls while navigating social media platforms"
+    ],
+    "container-title": [
+     "Journal of Social Development in Africa"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       2,
+       5
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Itai H.",
+      "family": "Mafa",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Casper",
+      "family": "Chigwedere",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "volume": "40",
+    "issue": "1",
+    "page": "62-85"
+   },
+   {
+    "DOI": "10.4236/jss.2026.145002",
+    "title": [
+     "Strategic Digital Narratives? Analysis of a Zimbabwean Public Broadcaster&amp;#8217;s Gender Perspectives in the Coverage of the COVID-19 Pandemic on Facebook and X"
+    ],
+    "container-title": [
+     "Open Journal of Social Sciences"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2026
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Yuleth",
+      "family": "Chigwedere",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Unice",
+      "family": "Goshomi",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "volume": "14",
+    "issue": "05",
+    "page": "23-42"
+   },
+   {
+    "DOI": "10.1007/978-3-031-15688-5_15",
+    "title": [
+     "Regulatory Frameworks in Developing Countries: An Integrative Literature Review"
+    ],
+    "container-title": [
+     "IFIP Advances in Information and Communication Technology",
+     "Human Choice and Digital by Default: Autonomy vs Digital Determination"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2022
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0000-0002-1172-5539",
+      "authenticated-orcid": false,
+      "given": "Casper",
+      "family": "Chigwedere",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-0845-0677",
+      "authenticated-orcid": false,
+      "suffix": "Jr.",
+      "given": "Sam",
+      "family": "Takavarasha",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Bonface",
+      "family": "Chisaka",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "page": "170-185"
+   },
+   {
+    "DOI": "10.36892/ijlls.v7i6.2378",
+    "title": [
+     "Literature Review Related to Cultural Identity Challenges of ESL Learners in African Rural Contexts"
+    ],
+    "container-title": [
+     "International Journal of Language and Literary Studies"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       11,
+       1
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Maudy Precious",
+      "family": "Chikwaka-Mpezeni",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Yuleth",
+      "family": "Chigwedere",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "volume": "7",
+    "issue": "6",
+    "page": "1-15"
+   }
+  ],
+  "items-per-page": 5,
+  "query": {
+   "start-index": 0,
+   "search-terms": null
+  }
+ }
+}

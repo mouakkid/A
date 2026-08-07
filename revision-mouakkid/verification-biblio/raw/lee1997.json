@@ -1,0 +1,306 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message-version": "1.0.0",
+ "message": {
+  "facets": {},
+  "total-results": 128595,
+  "items": [
+   {
+    "DOI": "10.1287/mnsc.1040.0266",
+    "title": [
+     "Information Distortion in a Supply Chain: The Bullwhip Effect"
+    ],
+    "container-title": [
+     "Management Science"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2004,
+       12
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Hau L.",
+      "family": "Lee",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Department of Industrial Engineering and Engineering Management, Stanford University, Stanford, California 94305"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "V.",
+      "family": "Padmanabhan",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Graduate School of Business, Stanford University, Stanford, California 94305"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Seungjin",
+      "family": "Whang",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Graduate School of Business, Stanford University, Stanford, California 94305"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "50",
+    "issue": "12_supplement",
+    "page": "1875-1886"
+   },
+   {
+    "DOI": "10.1287/mnsc.43.4.546",
+    "title": [
+     "Information Distortion in a Supply Chain: The Bullwhip Effect"
+    ],
+    "container-title": [
+     "Management Science"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       1997,
+       4
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Hau L.",
+      "family": "Lee",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Department of Industrial Engineering and Engineering Management, Stanford University, Stanford, California 94305"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "V.",
+      "family": "Padmanabhan",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Graduate School of Business, Stanford University, Stanford, California 94305"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Seungjin",
+      "family": "Whang",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Graduate School of Business, Stanford University, Stanford, California 94305"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "43",
+    "issue": "4",
+    "page": "546-558"
+   },
+   {
+    "DOI": "10.1287/mnsc.1040.0305",
+    "title": [
+     "Comments on “Information Distortion in a Supply Chain: The Bullwhip Effect”"
+    ],
+    "container-title": [
+     "Management Science"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2004,
+       12
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Hau L.",
+      "family": "Lee",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Graduate School of Business, Stanford University, Stanford, California 94305"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "V.",
+      "family": "Padmanabhan",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "INSEAD, 1 Ayer Rajah Avenue, 138676 Singapore"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Seungjin",
+      "family": "Whang",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Graduate School of Business, Stanford University, Stanford, California 94305"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "50",
+    "issue": "12_supplement",
+    "page": "1887-1893"
+   },
+   {
+    "DOI": "10.1007/978-3-319-32441-8_1",
+    "title": [
+     "Modeling and Measuring the Bullwhip Effect"
+    ],
+    "container-title": [
+     "Springer Series in Supply Chain Management",
+     "Handbook of Information Exchange in Supply Chain Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2016,
+       10,
+       4
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Li",
+      "family": "Chen",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Hau L.",
+      "family": "Lee",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "page": "3-25"
+   },
+   {
+    "DOI": "10.1111/j.1745-493x.2009.03180.x",
+    "title": [
+     "TAMING THE BULLWHIP*"
+    ],
+    "container-title": [
+     "Journal of Supply Chain Management"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2010,
+       1
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "HAU L.",
+      "family": "LEE",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "46",
+    "issue": "1",
+    "page": "7-7"
+   }
+  ],
+  "items-per-page": 5,
+  "query": {
+   "start-index": 0,
+   "search-terms": null
+  }
+ }
+}

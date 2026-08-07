@@ -1,0 +1,448 @@
+{
+ "status": "ok",
+ "message-type": "work-list",
+ "message-version": "1.0.0",
+ "message": {
+  "facets": {},
+  "total-results": 33,
+  "items": [
+   {
+    "DOI": "10.1080/00207543.2015.1037934",
+    "title": [
+     "Supply chain resilience: definition, review and theoretical foundations for further study"
+    ],
+    "container-title": [
+     "International Journal of Production Research"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2015,
+       4,
+       30
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Benjamin R.",
+      "family": "Tukamuhabwa",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Department of Management Science, Lancaster University Management School, Lancaster University, Lancaster, UK"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Mark",
+      "family": "Stevenson",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Department of Management Science, Lancaster University Management School, Lancaster University, Lancaster, UK"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Jerry",
+      "family": "Busby",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Department of Management Science, Lancaster University Management School, Lancaster University, Lancaster, UK"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Marta",
+      "family": "Zorzini",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Department of Management Science, Lancaster University Management School, Lancaster University, Lancaster, UK"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "53",
+    "issue": "18",
+    "page": "5592-5623"
+   },
+   {
+    "DOI": "10.1108/crr-01-2025-0002",
+    "title": [
+     "Enhancing supply chain resilience in agro-food processing firms: investigating the mediating role of supply chain traceability on information technology capabilities in a developing country"
+    ],
+    "container-title": [
+     "Continuity &amp; Resilience Review"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2025,
+       10,
+       28
+      ]
+     ]
+    },
+    "author": [
+     {
+      "ORCID": "https://orcid.org/0009-0007-5696-3382",
+      "authenticated-orcid": true,
+      "given": "Aisha Azida",
+      "family": "Moya",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Makerere University Business School Department of Procurement and Supply Chain Management, , ,",
+        "place": [
+         "Kampala, Uganda"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-4352-8134",
+      "authenticated-orcid": true,
+      "given": "Benjamin R.",
+      "family": "Tukamuhabwa",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Makerere University Business School Department of Procurement and Supply Chain Management, , ,",
+        "place": [
+         "Kampala, Uganda"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0009-0002-5326-6518",
+      "authenticated-orcid": true,
+      "given": "Fred",
+      "family": "Kyagante",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Makerere University Business School Department of Accounting and Finance, , ,",
+        "place": [
+         "Kampala, Uganda"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "8",
+    "issue": "1",
+    "page": "54-74"
+   },
+   {
+    "DOI": "10.1108/scm-02-2017-0059",
+    "title": [
+     "Supply chain resilience in a developing country context: a case study on the interconnectedness of threats, strategies and outcomes"
+    ],
+    "container-title": [
+     "Supply Chain Management: An International Journal"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2017,
+       10,
+       12
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Benjamin",
+      "family": "Tukamuhabwa",
+      "sequence": "first",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Mark",
+      "family": "Stevenson",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     },
+     {
+      "given": "Jerry",
+      "family": "Busby",
+      "sequence": "additional",
+      "affiliation": [],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "22",
+    "issue": "6",
+    "page": "486-505"
+   },
+   {
+    "DOI": "10.1108/crr-12-2022-0034",
+    "title": [
+     "Supply chain information integration, supply chain innovativeness and supply chain resilience among manufacturing firms in a developing context"
+    ],
+    "container-title": [
+     "Continuity &amp; Resilience Review"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       6,
+       6
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Moses",
+      "family": "Muhwezi",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Department of Procurement and Supply Chain Management , , Kampala,",
+        "place": [
+         "Uganda"
+        ]
+       },
+       {
+        "name": "Makerere University Business School , , Kampala,",
+        "place": [
+         "Uganda"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-6215-4385",
+      "authenticated-orcid": false,
+      "given": "Henry",
+      "family": "Mutebi",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Department of Procurement and Supply Chain Management , , Kampala,",
+        "place": [
+         "Uganda"
+        ]
+       },
+       {
+        "name": "Makerere University Business School , , Kampala,",
+        "place": [
+         "Uganda"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0000-0002-4352-8134",
+      "authenticated-orcid": false,
+      "given": "Benjamin",
+      "family": "Tukamuhabwa",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Department of Procurement and Supply Chain Management , , Kampala,",
+        "place": [
+         "Uganda"
+        ]
+       },
+       {
+        "name": "Makerere University Business School , , Kampala,",
+        "place": [
+         "Uganda"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Samuel S.",
+      "family": "Mayanja",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Kyambogo University School of Entrepreneurship and Management, , Kampala,",
+        "place": [
+         "Uganda"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "ORCID": "https://orcid.org/0009-0007-5583-7659",
+      "authenticated-orcid": false,
+      "given": "Isabella",
+      "family": "Izimba Kasiko",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Makerere University Business School Department of Transport and Logistics Management, , Kampala,",
+        "place": [
+         "Uganda"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     },
+     {
+      "given": "Rashid",
+      "family": "Balunywa",
+      "sequence": "additional",
+      "affiliation": [
+       {
+        "name": "Makerere University Business School Accounts Section, Bursar's Office, , Kampala,",
+        "place": [
+         "Uganda"
+        ]
+       }
+      ],
+      "role": [
+       {
+        "role": "author",
+        "vocabulary": "crossref"
+       }
+      ]
+     }
+    ],
+    "volume": "5",
+    "issue": "3",
+    "page": "229-248"
+   },
+   {
+    "DOI": "10.1080/15228916.2023.2165894",
+    "title": [
+     "Supply Chain Orientation and Supply Chain Risk Management Capabilities: Mechanisms for Supply Chain Performance of Agro-Food Processing Firms in Uganda"
+    ],
+    "container-title": [
+     "Journal of African Business"
+    ],
+    "issued": {
+     "date-parts": [
+      [
+       2023,
+       1,
+       16
+      ]
+     ]
+    },
+    "author": [
+     {
+      "given": "Benjamin R",
+      "family": "Tukamuhabwa",
+      "sequence": "first",
+      "affiliation": [
+       {
+        "name": "Department of Procurement and Supply chain management, Makerere University Business School, Kampala, Uganda"
+       }
+      ],
+      "role": [
+       {
+        "vocabulary": "crossref",
+        "role": "author"
+       }
+      ]
+     }
+    ],
+    "volume": "24",
+    "issue": "4",
+    "page": "649-672"
+   }
+  ],
+  "items-per-page": 5,
+  "query": {
+   "start-index": 0,
+   "search-terms": null
+  }
+ }
+}

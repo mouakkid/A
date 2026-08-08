@@ -1,0 +1,380 @@
+{
+ "date": "2026-08-08",
+ "avec_doi": [
+  {
+   "entree": "Ajzen, I. (1991). The theory of planned behavior. *Organizational Behavior and Human Decision Proces",
+   "doi": "10.1016/0749-5978(91)90020-T",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "The theory of planned behavior",
+   "annee_crossref": 1991
+  },
+  {
+   "entree": "Bagozzi, R. P. (2007). The legacy of the technology acceptance model and a proposal for a paradigm s",
+   "doi": "10.17705/1jais.00122",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "The Legacy of the Technology Acceptance Model and a Proposal for a Paradigm Shift.",
+   "annee_crossref": 2007
+  },
+  {
+   "entree": "Benbasat, I., & Barki, H. (2007). Quo vadis, TAM ? *Journal of the Association for Information Syste",
+   "doi": "10.17705/1jais.00126",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "Quo vadis TAM?",
+   "annee_crossref": 2007
+  },
+  {
+   "entree": "Berente, N., Gu, B., Recker, J., & Santhanam, R. (2021). Managing artificial intelligence. *MIS Quar",
+   "doi": "10.25300/MISQ/2021/16274",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "Managing Artificial Intelligence",
+   "annee_crossref": 2021
+  },
+  {
+   "entree": "Black, J. S., & van Esch, P. (2020). AI-enabled recruiting: What is it and how should a manager use ",
+   "doi": "10.1016/j.bushor.2019.12.001",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "AI-enabled recruiting: What is it and how should a manager use it?",
+   "annee_crossref": 2020
+  },
+  {
+   "entree": "Bondarouk, T., Parry, E., & Furtmueller, E. (2017). Electronic HRM: Four decades of research on adop",
+   "doi": "10.1080/09585192.2016.1245672",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "Electronic HRM: four decades of research on adoption and consequences",
+   "annee_crossref": 2016
+  },
+  {
+   "entree": "Bondarouk, T., & Ruël, H. J. M. (2009). Electronic human resource management: Challenges in the digi",
+   "doi": "10.1080/09585190802707235",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "Electronic Human Resource Management: challenges in the digital era",
+   "annee_crossref": 2009
+  },
+  {
+   "entree": "Braun, V., & Clarke, V. (2006). Using thematic analysis in psychology. *Qualitative Research in Psyc",
+   "doi": "10.1191/1478088706qp063oa",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "Using thematic analysis in psychology",
+   "annee_crossref": 2006
+  },
+  {
+   "entree": "Budhwar, P., Malik, A., De Silva, M. T. T., & Thevisuthan, P. (2022). Artificial intelligence, chall",
+   "doi": "10.1080/09585192.2022.2035161",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "Artificial intelligence – challenges and opportunities for international HRM: a review and",
+   "annee_crossref": 2022
+  },
+  {
+   "entree": "Charlwood, A., & Guenole, N. (2022). Can HR adapt to the paradoxes of artificial intelligence? *Huma",
+   "doi": "10.1111/1748-8583.12433",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "Can HR adapt to the paradoxes of artificial intelligence?",
+   "annee_crossref": 2022
+  },
+  {
+   "entree": "Chen, H., Chiang, R. H. L., & Storey, V. C. (2012). Business intelligence and analytics: From big da",
+   "doi": "10.2307/41703503",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "Business Intelligence and Analytics: From Big Data to Big Impact",
+   "annee_crossref": 2012
+  },
+  {
+   "entree": "Cohen, J. (1960). A coefficient of agreement for nominal scales. *Educational and Psychological Meas",
+   "doi": "10.1177/001316446002000104",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "A Coefficient of Agreement for Nominal Scales",
+   "annee_crossref": 1960
+  },
+  {
+   "entree": "Compeau, D. R., & Higgins, C. A. (1995). Computer self-efficacy: Development of a measure and initia",
+   "doi": "10.2307/249688",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "Computer Self-Efficacy: Development of a Measure and Initial Test",
+   "annee_crossref": 1995
+  },
+  {
+   "entree": "Davis, F. D. (1989). Perceived usefulness, perceived ease of use, and user acceptance of information",
+   "doi": "10.2307/249008",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "Perceived Usefulness, Perceived Ease of Use, and User Acceptance of Information Technology",
+   "annee_crossref": 1989
+  },
+  {
+   "entree": "DeSanctis, G., & Poole, M. S. (1994). Capturing the complexity in advanced technology use: Adaptive ",
+   "doi": "10.1287/orsc.5.2.121",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "Capturing the Complexity in Advanced Technology Use: Adaptive Structuration Theory",
+   "annee_crossref": 1994
+  },
+  {
+   "entree": "Dietvorst, B. J., Simmons, J. P., & Massey, C. (2015). Algorithm aversion: People erroneously avoid ",
+   "doi": "10.1037/xge0000033",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "Algorithm aversion: People erroneously avoid algorithms after seeing them err.",
+   "annee_crossref": 2015
+  },
+  {
+   "entree": "Dwivedi, Y. K., Hughes, D. L., Coombs, C., Constantiou, I., Duan, Y., Edwards, J. S., Gupta, B., Lal",
+   "doi": "10.1016/j.ijinfomgt.2020.102211",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "Impact of COVID-19 pandemic on information management research and practice: Transforming ",
+   "annee_crossref": 2020
+  },
+  {
+   "entree": "Dwivedi, Y. K., Hughes, L., Ismagilova, E., Aarts, G., Coombs, C., Crick, T., Duan, Y., Dwivedi, R.,",
+   "doi": "10.1016/j.ijinfomgt.2019.08.002",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "Artificial Intelligence (AI): Multidisciplinary perspectives on emerging challenges, oppor",
+   "annee_crossref": 2021
+  },
+  {
+   "entree": "Dwivedi, Y. K., Rana, N. P., Jeyaraj, A., Clement, M., & Williams, M. D. (2019). Re-examining the un",
+   "doi": "10.1007/s10796-017-9774-y",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "Re-examining the Unified Theory of Acceptance and Use of Technology (UTAUT): Towards a Rev",
+   "annee_crossref": 2017
+  },
+  {
+   "entree": "Glikson, E., & Woolley, A. W. (2020). Human trust in artificial intelligence: Review of empirical re",
+   "doi": "10.5465/annals.2018.0057",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "Human Trust in Artificial Intelligence: Review of Empirical Research",
+   "annee_crossref": 2020
+  },
+  {
+   "entree": "Goodhue, D. L., & Thompson, R. L. (1995). Task-technology fit and individual performance. *MIS Quart",
+   "doi": "10.2307/249689",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "Task-Technology Fit and Individual Performance",
+   "annee_crossref": 1995
+  },
+  {
+   "entree": "Guest, G., Bunce, A., & Johnson, L. (2006). How many interviews are enough? An experiment with data ",
+   "doi": "10.1177/1525822X05279903",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "How Many Interviews Are Enough?",
+   "annee_crossref": 2006
+  },
+  {
+   "entree": "Janiesch, C., Zschech, P., & Heinrich, K. (2021). Machine learning and deep learning. *Electronic Ma",
+   "doi": "10.1007/s12525-021-00475-2",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "Machine learning and deep learning",
+   "annee_crossref": 2021
+  },
+  {
+   "entree": "Köchling, A., & Wehner, M. C. (2020). Discriminated by an algorithm: A systematic review of discrimi",
+   "doi": "10.1007/s40685-020-00134-w",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "Discriminated by an algorithm: a systematic review of discrimination and fairness by algor",
+   "annee_crossref": 2020
+  },
+  {
+   "entree": "Landis, J. R., & Koch, G. G. (1977). The measurement of observer agreement for categorical data. *Bi",
+   "doi": "10.2307/2529310",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "The Measurement of Observer Agreement for Categorical Data",
+   "annee_crossref": 1977
+  },
+  {
+   "entree": "Langer, M., & Landers, R. N. (2021). The future of artificial intelligence at work: A review on effe",
+   "doi": "10.1016/j.chb.2021.106878",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "The future of artificial intelligence at work: A review on effects of decision automation ",
+   "annee_crossref": 2021
+  },
+  {
+   "entree": "Lee, M. K. (2018). Understanding perception of algorithmic decisions: Fairness, trust, and emotion i",
+   "doi": "10.1177/2053951718756684",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "Understanding perception of algorithmic decisions: Fairness, trust, and emotion in respons",
+   "annee_crossref": 2018
+  },
+  {
+   "entree": "Lee, Y., Kozar, K. A., & Larsen, K. R. T. (2003). The technology acceptance model: Past, present, an",
+   "doi": "10.17705/1CAIS.01250",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "The Technology Acceptance Model: Past, Present, and Future",
+   "annee_crossref": 2003
+  },
+  {
+   "entree": "Logg, J. M., Minson, J. A., & Moore, D. A. (2019). Algorithm appreciation: People prefer algorithmic",
+   "doi": "10.1016/j.obhdp.2018.12.005",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "Algorithm appreciation: People prefer algorithmic to human judgment",
+   "annee_crossref": 2019
+  },
+  {
+   "entree": "Marler, J. H., & Boudreau, J. W. (2017). An evidence-based review of HR analytics. *The Internationa",
+   "doi": "10.1080/09585192.2016.1244699",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "An evidence-based review of HR Analytics",
+   "annee_crossref": 2016
+  },
+  {
+   "entree": "Marler, J. H., & Fisher, S. L. (2013). An evidence-based review of e-HRM and strategic human resourc",
+   "doi": "10.1016/j.hrmr.2012.06.002",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "An evidence-based review of e-HRM and strategic human resource management",
+   "annee_crossref": 2013
+  },
+  {
+   "entree": "Mayer, R. C., Davis, J. H., & Schoorman, F. D. (1995). An integrative model of organizational trust.",
+   "doi": "10.5465/amr.1995.9508080335",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "An Integrative Model of Organizational Trust",
+   "annee_crossref": 1995
+  },
+  {
+   "entree": "Meijerink, J., Boons, M., Keegan, A., & Marler, J. (2021). Algorithmic human resource management: Sy",
+   "doi": "10.1080/09585192.2021.1925326",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "Algorithmic human resource management: Synthesizing developments and cross-disciplinary in",
+   "annee_crossref": 2021
+  },
+  {
+   "entree": "Orlikowski, W. J. (1992). The duality of technology: Rethinking the concept of technology in organiz",
+   "doi": "10.1287/orsc.3.3.398",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "The Duality of Technology: Rethinking the Concept of Technology in Organizations",
+   "annee_crossref": 1992
+  },
+  {
+   "entree": "Parry, E., & Tyson, S. (2011). Desired goals and actual outcomes of e-HRM. *Human Resource Managemen",
+   "doi": "10.1111/j.1748-8583.2010.00149.x",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "Desired goals and actual outcomes of e-HRM",
+   "annee_crossref": 2010
+  },
+  {
+   "entree": "Pillai, R., & Sivathanu, B. (2020). Adoption of artificial intelligence (AI) for talent acquisition ",
+   "doi": "10.1108/BIJ-04-2020-0186",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "Adoption of artificial intelligence (AI) for talent acquisition in IT/ITeS organizations",
+   "annee_crossref": 2020
+  },
+  {
+   "entree": "Saunders, B., Sim, J., Kingstone, T., Baker, S., Waterfield, J., Bartlam, B., Burroughs, H., & Jinks",
+   "doi": "10.1007/s11135-017-0574-8",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "Saturation in qualitative research: exploring its conceptualization and operationalization",
+   "annee_crossref": 2017
+  },
+  {
+   "entree": "Shin, D. (2021). The effects of explainability and causability on perception, trust, and acceptance:",
+   "doi": "10.1016/j.ijhcs.2020.102551",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "The effects of explainability and causability on perception, trust, and acceptance: Implic",
+   "annee_crossref": 2021
+  },
+  {
+   "entree": "Stone, D. L., Deadrick, D. L., Lukaszewski, K. M., & Johnson, R. (2015). The influence of technology",
+   "doi": "10.1016/j.hrmr.2015.01.002",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "The influence of technology on the future of human resource management",
+   "annee_crossref": 2015
+  },
+  {
+   "entree": "Strohmeier, S. (2007). Research in e-HRM: Review and implications. *Human Resource Management Review",
+   "doi": "10.1016/j.hrmr.2006.11.002",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "Research in e-HRM: Review and implications",
+   "annee_crossref": 2007
+  },
+  {
+   "entree": "Suen, H.-Y., Chen, M. Y.-C., & Lu, S.-H. (2019). Does the use of synchrony and artificial intelligen",
+   "doi": "10.1016/j.chb.2019.04.012",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "Does the use of synchrony and artificial intelligence in video interviews affect interview",
+   "annee_crossref": 2019
+  },
+  {
+   "entree": "Tambe, P., Cappelli, P., & Yakubovich, V. (2019). Artificial intelligence in human resources managem",
+   "doi": "10.1177/0008125619867910",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "Artificial Intelligence in Human Resources Management: Challenges and a Path Forward",
+   "annee_crossref": 2019
+  },
+  {
+   "entree": "Taylor, S., & Todd, P. A. (1995). Understanding information technology usage: A test of competing mo",
+   "doi": "10.1287/isre.6.2.144",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "Understanding Information Technology Usage: A Test of Competing Models",
+   "annee_crossref": 1995
+  },
+  {
+   "entree": "Temple, B., & Young, A. (2004). Qualitative research and translation dilemmas. *Qualitative Research",
+   "doi": "10.1177/1468794104044430",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "Qualitative Research and Translation Dilemmas",
+   "annee_crossref": 2004
+  },
+  {
+   "entree": "Tursunbayeva, A., Pagliari, C., Di Lauro, S., & Antonelli, G. (2022). The ethics of people analytics",
+   "doi": "10.1108/PR-12-2019-0680",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "The ethics of people analytics: risks, opportunities and recommendations",
+   "annee_crossref": 2021
+  },
+  {
+   "entree": "Venkatesh, V., & Bala, H. (2008). Technology acceptance model 3 and a research agenda on interventio",
+   "doi": "10.1111/j.1540-5915.2008.00192.x",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "Technology Acceptance Model 3 and a Research Agenda on Interventions",
+   "annee_crossref": 2008
+  },
+  {
+   "entree": "Venkatesh, V., & Davis, F. D. (2000). A theoretical extension of the technology acceptance model: Fo",
+   "doi": "10.1287/mnsc.46.2.186.11926",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "A Theoretical Extension of the Technology Acceptance Model: Four Longitudinal Field Studie",
+   "annee_crossref": 2000
+  },
+  {
+   "entree": "Venkatesh, V., Morris, M. G., Davis, G. B., & Davis, F. D. (2003). User acceptance of information te",
+   "doi": "10.2307/30036540",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "User Acceptance of Information Technology: Toward A Unified View1",
+   "annee_crossref": 2003
+  },
+  {
+   "entree": "Venkatesh, V., Thong, J. Y. L., & Xu, X. (2012). Consumer acceptance and use of information technolo",
+   "doi": "10.2307/41410412",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "Consumer Acceptance and Use of Information Technology: Extending the Unified Theory of Acc",
+   "annee_crossref": 2012
+  },
+  {
+   "entree": "Vrontis, D., Christofi, M., Pereira, V., Tarba, S., Makrides, A., & Trichina, E. (2022). Artificial ",
+   "doi": "10.1080/09585192.2020.1871398",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "Artificial intelligence, robotics, advanced technologies and human resource management: a ",
+   "annee_crossref": 2021
+  },
+  {
+   "entree": "Williams, M. D., Rana, N. P., & Dwivedi, Y. K. (2015). The unified theory of acceptance and use of t",
+   "doi": "10.1108/JEIM-09-2014-0088",
+   "verdict": "VÉRIFIÉ",
+   "titre_crossref": "The unified theory of acceptance and use of technology (UTAUT): a literature review",
+   "annee_crossref": 2015
+  }
+ ],
+ "sans_doi": [
+  "Bardin, L. (2013). *L\\'analyse de contenu* (2e éd.). Presses Universitaires de France.",
+  "Bhaskar, R. (1975). *A realist theory of science*. Leeds Books.",
+  "Creswell, J. W., & Poth, C. N. (2018). *Qualitative inquiry and research design: Choosing among five approache",
+  "Fishbein, M., & Ajzen, I. (1975). *Belief, attitude, intention, and behavior: An introduction to theory and re",
+  "Glaser, B. G., & Strauss, A. L. (1967). *The discovery of grounded theory: Strategies for qualitative research",
+  "Guba, E. G., & Lincoln, Y. S. (1994). Competing paradigms in qualitative research. Dans N. K. Denzin & Y. S. L",
+  "Le Moigne, J.-L. (1995). *Les épistémologies constructivistes*. Presses Universitaires de France.",
+  "Lincoln, Y. S., & Guba, E. G. (1985). *Naturalistic inquiry*. SAGE.",
+  "Miles, M. B., Huberman, A. M., & Saldaña, J. (2014). *Qualitative data analysis: A methods sourcebook* (3e éd.",
+  "Paillé, P., & Mucchielli, A. (2016). *L\\'analyse qualitative en sciences humaines et sociales* (4e éd.). Arman",
+  "Patton, M. Q. (2002). *Qualitative research and evaluation methods* (3e éd.). SAGE.",
+  "Popper, K. R. (1959). *The logic of scientific discovery*. Hutchinson.",
+  "Rogers, E. M. (2003). *Diffusion of innovations* (5e éd.). Free Press.",
+  "Thiétart, R.-A. (Coord.). (2014). *Méthodes de recherche en management* (4e éd.). Dunod.",
+  "Loi n° 09-08 relative à la protection des personnes physiques à l\\'égard du traitement des données à caractère",
+  "Ministère délégué chargé de la Transition Numérique et de la Réforme de l\\'Administration. (2024). *Stratégie "
+ ]
+}

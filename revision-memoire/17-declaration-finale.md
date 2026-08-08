@@ -1,0 +1,40 @@
+# Déclaration finale de conformité — révision du mémoire EL HASSOUNY
+
+**Version :** 1.0 — 8 août 2026 · Livrable n° 7. Cette déclaration distingue, sans ambiguïté, ce qui est conforme, ce qui reste conditionnel, ce qui empêche encore le dépôt et les vérifications humaines ou institutionnelles encore nécessaires.
+
+## 1. Ce qui est conforme dans la version corrigée
+
+1. **Problématique et objectifs.** Question principale reformulée en termes d'association, synchronisée dans ses trois occurrences ; objectif général et cinq objectifs spécifiques formalisés et tracés vers les sous-questions et propositions ; sous-questions dé-causalisées ; étiquette interne « F2 » retirée.
+2. **Cadre conceptuel.** Collision d'acronyme résolue : la famille de codes « TRA » devient **CT (confiance et transparence)**, propagée dans le chapitre 4, les Tableaux 9 et 10 et les annexes A, D et E ; l'anxiété de prise en main (AX, P2) est séparée de l'anxiété générale et des résistances (**nouvelle famille RES**, P5) et de la crainte du remplacement (RMP) ; P6 est requalifiée en proposition-cadre décomposée en P6a à P6d ; l'« architecture causale » devient une architecture de lecture, les relations étant explorées et non testées ; les verdicts sont unifiés (soutenue, nuancée, non soutenue dans les limites du corpus) ; la double nomenclature du Tableau 6 est réconciliée avec les familles de codes.
+3. **Méthodologie.** Statut du test pilote harmonisé au futur (pré-test planifié, partout) ; critères du Tableau 7 requalifiés en seules conditions éliminatoires et cibles du Tableau 8 en objectifs souhaitables hiérarchisés, avec règle de consignation des écarts ; scénario prévisionnel de quatorze entretiens intégré comme tel (huit agricole et agro-industriel, trois tourisme-hôtellerie, deux bâtiment et travaux publics, un organisme semi-public), subordonné aux critères, au terrain réel et à la saturation ; secteur BTP ajouté à la matrice ; unité de codage définie (segment de sens, codage multiple, mention « hors grille ») ; sous-corpus de double codage stratifié ; kappa initial et post-révision rapportés l'un et l'autre ; second codeur défini comme pair chercheur extérieur à l'encadrement, sous engagement écrit de confidentialité.
+4. **Éthique et loi 09-08.** Formalité CNDP requalifiée en préalable ferme à toute collecte (récépissé ou autorisation exigé, pièces du dossier listées) ; « anonymisation » requalifiée en **pseudonymisation** dans le corps, la lettre et le consentement, avec table de correspondance chiffrée, séparée, détruite au plus tard un mois après la soutenance et point de non-retrait explicité ; captation audio locale exclusive, levant la contradiction avec l'engagement d'absence de transit par des services tiers ; liste unique des destinataires (chercheur, encadrante, second codeur sous confidentialité, jury) alignée entre le corps, la lettre et le formulaire ; durées de conservation définies par catégorie de données ; consentement écrit en deux exemplaires par défaut, avec procédure d'exception orale encadrée ; masquage des combinaisons rares contre la réidentification indirecte.
+5. **Revue de littérature et lacunes.** Affirmations d'absence d'études reformulées au périmètre des bases consultées et adossées à la nouvelle **Annexe F** (stratégie documentaire reproductible : recensement initial, protocole d'actualisation à sept axes, journal des vingt-quatre requêtes exécutées le 7 août 2026, trente-neuf références candidates vérifiées).
+6. **APA 7 et références.** Citations à trois auteurs et plus passées à « et al. » dès la première occurrence (65 mises en conformité) ; 51 DOI de la bibliographie tous vérifiés via Crossref sans écart ; réconciliation citations ↔ bibliographie faite dans les deux sens (0 orpheline, 0 citation sans notice) ; notes de source normalisées ajoutées sous les figures 3 et 4.
+7. **Forme et accessibilité.** Reconstruction en Word avec métadonnées correctes (titre, auteur Mohamed EL HASSOUNY, sujet, mots-clés, langue fr-FR), lignes de tableaux insécables et en-têtes répétés sur chaque page, textes alternatifs sur les huit figures, liste des abréviations complétée par les familles de codes ; PDF de contrôle généré et vérifié visuellement par échantillonnage de pages.
+
+## 2. Ce qui reste conditionnel
+
+1. **La Partie III n'existe pas** : résultats, discussion, recommandations et conclusion générale restent à produire à partir de données authentiques. Les gabarits sont prêts (`05`), le scénario de quatorze répondants est un plan prévisionnel, rien d'empirique n'a été rédigé ni ne devait l'être. Le document corrigé demeure ce qu'il est : la phase théorique et méthodologique d'un mémoire.
+2. **L'actualisation bibliographique 2023–2026** est préparée (39 références vérifiées, journal reproductible) mais non intégrée au texte : la règle de non-citation sans lecture intégrale l'interdit. Intégration à faire lors de la finalisation, avec les passes Scopus/WoS/EBSCO/PsycINFO/Cairn restantes.
+3. **Les durées de conservation et le rôle du second codeur** insérés dans le dispositif éthique sont des valeurs par défaut raisonnables (trois mois, un mois, cinq ans) : l'auteur et l'encadrante peuvent les ajuster, puis les faire figurer dans le dossier CNDP.
+4. **La correspondance citation-idée** des sources n'a été revérifiée que par sondage ; trois zones restent à confirmer par lecture ciblée (cas d'entreprise, affirmations contextuelles marocaines, sources institutionnelles avec URL et date d'accès à compléter).
+5. **Les tables générées** (sommaire, table des matières, listes des tableaux et figures) sont des champs Word à régénérer (F9) après toute retouche, avant l'export PDF de dépôt ; la pagination du PDF de contrôle produit ici diffère de celle d'un export Word final.
+
+## 3. Ce qui empêche encore le dépôt
+
+1. **L'absence de phase empirique** (bloquant B1 de l'audit, inchangé par nature) : le document ne peut être déposé comme mémoire final ; il peut l'être comme protocole si le règlement du programme l'admet.
+2. **La formalité CNDP** : le texte l'exige désormais, mais le récépissé ou l'autorisation n'existe pas encore ; aucune collecte ne peut commencer avant.
+3. **Le référentiel TBS** (guide du mémoire, grille d'évaluation, format de page, politique d'usage de l'IA) toujours non fourni : la conformité institutionnelle ne peut pas être certifiée.
+4. **Le rapport de similitude institutionnel** n'a pas été produit.
+
+## 4. Vérifications humaines et institutionnelles encore nécessaires
+
+1. Validation par l'auteur des décisions prises en son nom pendant la révision : captation locale exclusive, durées de conservation, profil du second codeur, décomposition P6a-P6d, famille RES, scénario prévisionnel de quatorze répondants.
+2. Validation par l'encadrante (Dr Salwa HANINE) du cadre reformulé et du dispositif éthique ; dépôt du dossier CNDP par le responsable du traitement désigné.
+3. Obtention du guide TBS et passe de conformité de forme finale (format de page, page de garde, déclaration d'usage d'outils d'IA selon la politique de l'école : la présente révision assistée devra y être déclarée, modèle fourni en `10`).
+4. Relecture orthotypographique humaine complète et régénération des tables sous Word ; contrôle visuel page à page de l'export PDF de dépôt définitif.
+5. Après la phase empirique réelle : rédaction de la Partie III sur données authentiques, réécriture du résumé et de la conclusion au passé, second contrôle de conformité global.
+
+## 5. Traçabilité de la révision
+
+Chaque correction est auditable : version originale convertie (`manuscrit/manuscrit-original-pipe.md`) et version corrigée (`manuscrit/manuscrit-corrige.md`) sous Git ; scripts de réapplication avec comptage unitaire des 84 remplacements de fond et 65 mises en conformité de citations (aucun remplacement en échec) ; registre des corrections (`01`, v1.5) ; vérifications bibliographiques archivées (`verification-biblio-memoire/`). Aucune donnée, résultat, verbatim, référence ou autorisation n'a été inventé.

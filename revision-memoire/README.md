@@ -23,6 +23,8 @@
 | `11-proposition-problematique-objectifs.md` | Proposition de reformulation du chapitre 1 : question centrale (2 variantes), OG/OS1–OS5, échelle d'états d'usage E0–E5, population, périmètre IA, territoire, conversion des formulations causales (décisions DEC‑01 à DEC‑08) |
 | `12-plan-echantillonnage-previsionnel.md` | Plan d'échantillonnage opérationnalisé : critères obligatoires vs cibles souhaitables, cible prévisionnelle 14 étiquetée, saturation, cadre plan/réalisé (DEC‑09 à DEC‑12) |
 | `13-outils-transversaux.md` | Lexique FR/EN, liste d'abréviations (squelette), grille d'extraction de lecture, versionnage du guide, notes de source APA 7, règles typographiques |
+| `14-diagnostic-v2-sur-pieces.md` | Revérification des anomalies de l'audit sur le fichier source fourni + anomalies nouvelles (N07–N10) + journal des premières corrections appliquées |
+| `manuscrit/` | Espace de correction : source déposée archivée, conversion originale intacte, copie de travail corrigée (`manuscrit-corrige.md`), figures extraites |
 | `Diagnostic_initial_GEMBA_EL-HASSOUNY_v1.docx` | Instantané Word du diagnostic (v1.0 du 07/08/2026) pour lecture et partage |
 | `Preparation_a_blanc_GEMBA_EL-HASSOUNY_v1.docx` | Instantané Word des documents 03 à 07 (v1.0 du 07/08/2026) |
 

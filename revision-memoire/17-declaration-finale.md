@@ -1,6 +1,6 @@
 # Déclaration finale de conformité — révision du mémoire EL HASSOUNY
 
-**Version :** 1.0 — 8 août 2026 · Livrable n° 7. Cette déclaration distingue, sans ambiguïté, ce qui est conforme, ce qui reste conditionnel, ce qui empêche encore le dépôt et les vérifications humaines ou institutionnelles encore nécessaires.
+**Version :** 1.1 — 8 août 2026 · Livrable n° 7. Cette déclaration distingue, sans ambiguïté, ce qui est conforme, ce qui reste conditionnel, ce qui empêche encore le dépôt et les vérifications humaines ou institutionnelles encore nécessaires.
 
 ## 1. Ce qui est conforme dans la version corrigée
 
@@ -11,6 +11,7 @@
 5. **Revue de littérature et lacunes.** Affirmations d'absence d'études reformulées au périmètre des bases consultées et adossées à la nouvelle **Annexe F** (stratégie documentaire reproductible : recensement initial, protocole d'actualisation à sept axes, journal des vingt-quatre requêtes exécutées le 7 août 2026, trente-neuf références candidates vérifiées).
 6. **APA 7 et références.** Citations à trois auteurs et plus passées à « et al. » dès la première occurrence (65 mises en conformité) ; 51 DOI de la bibliographie tous vérifiés via Crossref sans écart ; réconciliation citations ↔ bibliographie faite dans les deux sens (0 orpheline, 0 citation sans notice) ; notes de source normalisées ajoutées sous les figures 3 et 4.
 7. **Forme et accessibilité.** Reconstruction en Word avec métadonnées correctes (titre, auteur Mohamed EL HASSOUNY, sujet, mots-clés, langue fr-FR), lignes de tableaux insécables et en-têtes répétés sur chaque page, textes alternatifs sur les huit figures, liste des abréviations complétée par les familles de codes ; PDF de contrôle généré et vérifié visuellement par échantillonnage de pages.
+8. **Amplitude et mise en page GEMBA.** Consignes de mise en page appliquées intégralement : police à empattements de corps 12 (Times New Roman ou équivalent métrique), interligne 1,5, marges de 2,5 cm sur les quatre côtés, alignement justifié, format A4. Le corps du mémoire est ramené à **80 pages hors annexes** (fourchette exigée : 60 à 80), pour un volume total de 125 pages (6 pages liminaires, 80 pages de corps, 8 pages de bibliographie, 31 pages d'annexes et table des matières détaillée en fin de volume). La réduction procède d'une condensation rédactionnelle scriptée et vérifiée, sans suppression d'arguments, de citations ou de garanties méthodologiques : les Tableaux 1 à 5 de la revue de littérature sont regroupés en Annexe G avec renvois explicites, chaque chapitre conserve ses quatre à cinq sections, et la réconciliation citations ↔ bibliographie a été refaite après condensation (64 notices, 0 orpheline, 0 citation sans notice). Les tirets de liste et séparateurs typographiques proscrits ont été éliminés du corps du texte.
 
 ## 2. Ce qui reste conditionnel
 
@@ -37,4 +38,4 @@
 
 ## 5. Traçabilité de la révision
 
-Chaque correction est auditable : version originale convertie (`manuscrit/manuscrit-original-pipe.md`) et version corrigée (`manuscrit/manuscrit-corrige.md`) sous Git ; scripts de réapplication avec comptage unitaire des 84 remplacements de fond et 65 mises en conformité de citations (aucun remplacement en échec) ; registre des corrections (`01`, v1.5) ; vérifications bibliographiques archivées (`verification-biblio-memoire/`). Aucune donnée, résultat, verbatim, référence ou autorisation n'a été inventé.
+Chaque correction est auditable : version originale convertie (`manuscrit/manuscrit-original-pipe.md`) et version corrigée (`manuscrit/manuscrit-corrige.md`) sous Git ; scripts de réapplication avec comptage unitaire des 84 remplacements de fond et 65 mises en conformité de citations, puis passe de condensation scriptée en seize étapes également à comptage unitaire (aucun remplacement en échec) ; registre des corrections (`01`, v1.6) ; vérifications bibliographiques archivées (`verification-biblio-memoire/`), réconciliation refaite après condensation. La mention antérieure de trois occurrences synchronisées de la question principale devient : énoncé intégral en deux endroits (introduction générale et Annexe A), rappel paraphrasé fidèle au chapitre 3, la formulation associative étant strictement conservée. Aucune donnée, résultat, verbatim, référence ou autorisation n'a été inventé.

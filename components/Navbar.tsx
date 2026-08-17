@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Menu, X, Code2, Mail } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
+import LinkedInConnect from './LinkedInConnect';
 
 const Navbar: React.FC = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -50,13 +51,16 @@ const Navbar: React.FC = () => {
               <span className="absolute -bottom-1 left-0 w-0 h-0.5 bg-indigo-500 transition-all group-hover:w-full" />
             </a>
           ))}
-          <a
-            href="mailto:contact@acode.tech"
-            className="px-6 py-2.5 bg-white text-[#030014] font-semibold rounded-full hover:bg-indigo-50 transition-colors text-sm flex items-center gap-2"
-          >
-            <Mail className="w-4 h-4" />
-            contact@acode.tech
-          </a>
+          <div className="flex items-center gap-3">
+            <LinkedInConnect />
+            <a
+              href="mailto:contact@acode.tech"
+              className="px-6 py-2.5 bg-white text-[#030014] font-semibold rounded-full hover:bg-indigo-50 transition-colors text-sm flex items-center gap-2"
+            >
+              <Mail className="w-4 h-4" />
+              contact@acode.tech
+            </a>
+          </div>
         </div>
 
         {/* Mobile Toggle */}
@@ -88,6 +92,7 @@ const Navbar: React.FC = () => {
                   {link.name}
                 </a>
               ))}
+              <LinkedInConnect variant="mobile" onAction={() => setIsOpen(false)} />
               <a
                 href="mailto:contact@acode.tech"
                 className="w-full text-center py-3 bg-indigo-600 text-white font-semibold rounded-lg hover:bg-indigo-700 transition-colors flex items-center justify-center gap-2"

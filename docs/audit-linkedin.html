@@ -1,0 +1,461 @@
+<title>Audit LinkedIn Anass Mouakkid</title>
+<style>
+  :root{
+    --ground:#EFF2F1; --surface:#FFFFFF; --surface-2:#F6F8F7;
+    --ink:#131D1B; --ink-2:#3D4B48; --muted:#6B7A76;
+    --rule:#D3DAD8; --rule-strong:#B4BFBC;
+    --accent:#0D5457; --accent-soft:#E2ECEB;
+    --crit:#9E3320; --crit-soft:#F6E5E1;
+    --warn:#9B5D10; --warn-soft:#F7EDDE;
+    --ok:#3B6438; --ok-soft:#E4EDE2;
+    --idle:#5F6D6A; --idle-soft:#E9EDEC;
+    --shadow:0 1px 2px rgba(19,29,27,.05), 0 8px 24px -16px rgba(19,29,27,.28);
+    --f-sans:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    --f-mono:ui-monospace,"SF Mono",SFMono-Regular,"Cascadia Mono","Segoe UI Mono","Roboto Mono",Menlo,Consolas,monospace;
+  }
+  @media (prefers-color-scheme:dark){
+    :root:not([data-theme="light"]){
+      --ground:#0E1413; --surface:#161E1C; --surface-2:#1B2523;
+      --ink:#E7ECEA; --ink-2:#BAC6C3; --muted:#8C9B97;
+      --rule:#2A3634; --rule-strong:#3B4A47;
+      --accent:#57B5AF; --accent-soft:#16302F;
+      --crit:#E2795F; --crit-soft:#33201B;
+      --warn:#D9A248; --warn-soft:#302518;
+      --ok:#82B173; --ok-soft:#1D2A1D;
+      --idle:#93A29E; --idle-soft:#212B29;
+      --shadow:0 1px 2px rgba(0,0,0,.4), 0 8px 24px -16px rgba(0,0,0,.7);
+    }
+  }
+  :root[data-theme="dark"]{
+    --ground:#0E1413; --surface:#161E1C; --surface-2:#1B2523;
+    --ink:#E7ECEA; --ink-2:#BAC6C3; --muted:#8C9B97;
+    --rule:#2A3634; --rule-strong:#3B4A47;
+    --accent:#57B5AF; --accent-soft:#16302F;
+    --crit:#E2795F; --crit-soft:#33201B;
+    --warn:#D9A248; --warn-soft:#302518;
+    --ok:#82B173; --ok-soft:#1D2A1D;
+    --idle:#93A29E; --idle-soft:#212B29;
+    --shadow:0 1px 2px rgba(0,0,0,.4), 0 8px 24px -16px rgba(0,0,0,.7);
+  }
+
+  *{box-sizing:border-box}
+  body{
+    margin:0; background:var(--ground); color:var(--ink);
+    font-family:var(--f-sans); font-size:16.5px; line-height:1.62;
+    -webkit-font-smoothing:antialiased;
+  }
+  .wrap{max-width:1060px; margin:0 auto; padding:0 28px 96px}
+  .prose{max-width:68ch}
+  p{margin:0 0 1em}
+  a{color:var(--accent); text-underline-offset:3px; text-decoration-thickness:1px}
+  a:focus-visible,button:focus-visible{outline:2px solid var(--accent); outline-offset:3px; border-radius:2px}
+  strong{font-weight:650; color:var(--ink)}
+  code{font-family:var(--f-mono); font-size:.88em; background:var(--surface-2); border:1px solid var(--rule); padding:.1em .38em; border-radius:3px}
+
+  .eyebrow{
+    font-family:var(--f-mono); font-size:11px; letter-spacing:.14em;
+    text-transform:uppercase; color:var(--muted); margin:0;
+  }
+  h1{font-size:clamp(30px,4.6vw,46px); line-height:1.06; letter-spacing:-.032em; font-weight:800; margin:.32em 0 .3em; text-wrap:balance}
+  h2{font-size:clamp(22px,2.7vw,29px); line-height:1.16; letter-spacing:-.024em; font-weight:750; margin:0 0 .45em; text-wrap:balance}
+  h3{font-size:18.5px; line-height:1.3; letter-spacing:-.014em; font-weight:700; margin:0 0 .4em; text-wrap:balance}
+
+  /* ---- inspection header ---- */
+  header.banner{border-bottom:2px solid var(--ink); padding:38px 0 0; margin-bottom:0}
+  .stamp{display:flex; align-items:baseline; gap:12px; flex-wrap:wrap}
+  .stamp .doc{font-family:var(--f-mono); font-size:11px; letter-spacing:.14em; text-transform:uppercase; color:var(--accent); font-weight:600}
+  .lede{font-size:19px; line-height:1.55; color:var(--ink-2); max-width:64ch; margin:0 0 26px}
+  .meta{
+    display:grid; grid-template-columns:repeat(auto-fit,minmax(168px,1fr));
+    gap:0; border-top:1px solid var(--rule); margin-bottom:0;
+  }
+  .meta div{padding:14px 16px 16px; border-right:1px solid var(--rule)}
+  .meta div:last-child{border-right:0}
+  .meta dt{font-family:var(--f-mono); font-size:10.5px; letter-spacing:.13em; text-transform:uppercase; color:var(--muted); margin:0 0 5px}
+  .meta dd{margin:0; font-size:14.5px; font-weight:600; line-height:1.35; word-break:break-word}
+
+  /* ---- readout ---- */
+  .readout{
+    display:grid; grid-template-columns:repeat(auto-fit,minmax(150px,1fr)); gap:1px;
+    background:var(--rule); border:1px solid var(--rule); margin:32px 0 0;
+  }
+  .rd{background:var(--surface); padding:20px 18px}
+  .rd .n{font-family:var(--f-mono); font-variant-numeric:tabular-nums; font-size:38px; line-height:1; font-weight:600; letter-spacing:-.03em}
+  .rd .l{font-family:var(--f-mono); font-size:10.5px; letter-spacing:.12em; text-transform:uppercase; color:var(--muted); margin-top:9px}
+  .rd.c .n{color:var(--crit)} .rd.w .n{color:var(--warn)} .rd.o .n{color:var(--ok)} .rd.i .n{color:var(--idle)}
+
+  section{margin-top:64px}
+  .sec-head{display:flex; align-items:baseline; gap:14px; border-bottom:1px solid var(--rule-strong); padding-bottom:11px; margin-bottom:28px}
+  .sec-head .num{font-family:var(--f-mono); font-size:12px; color:var(--accent); font-weight:600; letter-spacing:.08em; flex:none}
+  .sec-head h2{margin:0}
+
+  /* ---- note / limits ---- */
+  .note{
+    background:var(--surface-2); border:1px solid var(--rule);
+    border-left:3px solid var(--accent); padding:20px 22px; margin:0 0 8px;
+  }
+  .note p:last-child{margin-bottom:0}
+  .note h3{font-size:15px; letter-spacing:.02em}
+
+  /* ---- table ---- */
+  .tbl-scroll{overflow-x:auto; border:1px solid var(--rule); background:var(--surface)}
+  table{border-collapse:collapse; width:100%; min-width:720px; font-size:14.5px}
+  th,td{text-align:left; padding:13px 16px; border-bottom:1px solid var(--rule); vertical-align:top}
+  thead th{
+    font-family:var(--f-mono); font-size:10.5px; letter-spacing:.12em; text-transform:uppercase;
+    color:var(--muted); font-weight:600; background:var(--surface-2); border-bottom:1px solid var(--rule-strong);
+    position:sticky; top:0;
+  }
+  tbody tr:last-child td{border-bottom:0}
+  td.point{font-weight:650; white-space:nowrap}
+  .chip{
+    display:inline-block; font-family:var(--f-mono); font-size:10px; letter-spacing:.1em;
+    text-transform:uppercase; font-weight:600; padding:3px 8px; border-radius:2px; white-space:nowrap;
+  }
+  .chip.c{background:var(--crit-soft); color:var(--crit)}
+  .chip.w{background:var(--warn-soft); color:var(--warn)}
+  .chip.o{background:var(--ok-soft); color:var(--ok)}
+  .chip.i{background:var(--idle-soft); color:var(--idle)}
+  .chip.a{background:var(--accent-soft); color:var(--accent)}
+
+  /* ---- findings ---- */
+  .finding{border:1px solid var(--rule); background:var(--surface); box-shadow:var(--shadow); margin-bottom:20px}
+  .finding > .fh{display:flex; gap:13px; align-items:center; padding:14px 20px; border-bottom:1px solid var(--rule); background:var(--surface-2); flex-wrap:wrap}
+  .finding > .fh .id{font-family:var(--f-mono); font-size:11.5px; color:var(--muted); font-weight:600; letter-spacing:.07em}
+  .finding > .fb{padding:22px 24px}
+  .finding > .fb > :last-child{margin-bottom:0}
+  .finding h3{margin-bottom:.5em}
+
+  .vs{display:grid; grid-template-columns:1fr 1fr; gap:1px; background:var(--rule); border:1px solid var(--rule); margin:18px 0}
+  .vs > div{background:var(--surface); padding:15px 17px}
+  .vs dt{font-family:var(--f-mono); font-size:10px; letter-spacing:.12em; text-transform:uppercase; color:var(--muted); margin-bottom:7px}
+  .vs dd{margin:0; font-size:14.5px; line-height:1.5}
+  @media (max-width:620px){ .vs{grid-template-columns:1fr} }
+
+  /* ---- paste plates ---- */
+  .plate{border:1px solid var(--rule-strong); background:var(--surface); margin:0 0 18px}
+  .plate-h{
+    display:flex; justify-content:space-between; align-items:center; gap:12px;
+    padding:10px 14px; background:var(--ink); color:var(--ground); flex-wrap:wrap;
+  }
+  :root[data-theme="dark"] .plate-h, :root:not([data-theme="light"]) .plate-h{}
+  .plate-h .t{font-family:var(--f-mono); font-size:10.5px; letter-spacing:.13em; text-transform:uppercase; font-weight:600}
+  .plate-h .t .rec{color:var(--ok); background:var(--ground); padding:2px 7px; border-radius:2px; margin-left:8px}
+  .copy{
+    font-family:var(--f-mono); font-size:10px; letter-spacing:.1em; text-transform:uppercase;
+    background:transparent; color:var(--ground); border:1px solid rgba(255,255,255,.35);
+    padding:4px 10px; border-radius:2px; cursor:pointer;
+  }
+  .copy:hover{background:rgba(255,255,255,.14)}
+  .plate-b{padding:18px 20px; font-size:15px; line-height:1.66; white-space:pre-wrap; word-wrap:break-word}
+  .plate-b.mono{font-family:var(--f-mono); font-size:13.5px; line-height:1.6}
+  .plate-n{padding:11px 20px 14px; border-top:1px solid var(--rule); background:var(--surface-2); font-size:13px; color:var(--muted); line-height:1.55}
+  .plate-n .len{font-family:var(--f-mono); font-variant-numeric:tabular-nums; color:var(--ink-2); font-weight:600}
+  mark{background:var(--warn-soft); color:var(--warn); padding:.05em .3em; border-radius:2px; font-weight:600}
+
+  ul.tight{margin:0 0 1em; padding-left:1.15em}
+  ul.tight li{margin-bottom:.42em}
+  ul.tight li::marker{color:var(--accent)}
+
+  /* ---- plan ---- */
+  .phase{display:grid; grid-template-columns:118px 1fr; gap:0; border:1px solid var(--rule); background:var(--surface); margin-bottom:-1px}
+  .phase .when{
+    background:var(--surface-2); border-right:1px solid var(--rule); padding:18px 16px;
+    font-family:var(--f-mono); font-size:11.5px; letter-spacing:.09em; text-transform:uppercase; color:var(--accent); font-weight:600; line-height:1.5;
+  }
+  .phase .what{padding:18px 22px}
+  .phase .what > :last-child{margin-bottom:0}
+  @media (max-width:620px){ .phase{grid-template-columns:1fr} .phase .when{border-right:0; border-bottom:1px solid var(--rule)} }
+
+  .kw{display:flex; flex-wrap:wrap; gap:7px; margin:0 0 18px}
+  .kw span{font-family:var(--f-mono); font-size:12px; background:var(--surface); border:1px solid var(--rule); padding:5px 10px; border-radius:2px}
+  .kw span.hi{background:var(--accent-soft); border-color:var(--accent); color:var(--accent); font-weight:600}
+
+  footer{margin-top:72px; padding-top:24px; border-top:2px solid var(--ink); font-size:13.5px; color:var(--muted)}
+  @media (prefers-reduced-motion:reduce){*{animation:none!important; transition:none!important}}
+</style>
+
+<div class="wrap">
+
+<header class="banner">
+  <div class="stamp"><span class="doc">Relevé d'inspection · Profil LinkedIn</span></div>
+  <h1>Ton profil vend le tiers le moins rare de toi.</h1>
+  <p class="lede">Tu es l'une des rares personnes au Maroc à cumuler douze ans d'atelier FMCG, un MBA avec recherche primaire sur l'IA en supply chain, et la capacité d'écrire le code. Ton titre LinkedIn n'en montre qu'un seul morceau — et c'est le plus interchangeable des trois.</p>
+  <dl class="meta">
+    <div><dt>Sujet</dt><dd>Anass Mouakkid</dd></div>
+    <div><dt>Profil</dt><dd><a href="https://www.linkedin.com/in/anassmouakkid/">/in/anassmouakkid</a></dd></div>
+    <div><dt>Poste relevé</dt><dd>Plastic Molding Manager · Varun Beverages Morocco (PepsiCo)</dd></div>
+    <div><dt>Date de relevé</dt><dd>17 août 2026</dd></div>
+  </dl>
+</header>
+
+<div class="readout">
+  <div class="rd c"><div class="n">2</div><div class="l">Non conformes</div></div>
+  <div class="rd o"><div class="n">2</div><div class="l">Conformes</div></div>
+  <div class="rd i"><div class="n">6</div><div class="l">Non vérifiables</div></div>
+  <div class="rd w"><div class="n">74<span style="font-size:22px">%</span></div><div class="l">Du titre inutilisé</div></div>
+</div>
+
+<section>
+  <div class="sec-head"><span class="num">00</span><h2>Comment ce relevé a été fait</h2></div>
+  <div class="note prose">
+    <h3>Ce que j'ai vérifié, et ce que je n'ai pas pu</h3>
+    <p>Je n'ai pas pu me connecter à ton compte. LinkedIn renvoie <code>HTTP 429</code> sur les pages profil depuis cette infrastructure, navigateur intégré compris — c'est leur protection anti-robot contre les IP de datacenter, pas un choix de ma part. Et je ne te demanderai pas ton mot de passe : une connexion depuis une IP inhabituelle est le déclencheur classique d'un verrouillage de compte.</p>
+    <p><strong>Sources réellement exploitées :</strong> l'index public de ton profil (titre, poste, missions, signaux de recommandations), ton mémoire MBA présent sur ce poste de travail, ton Google Drive, ton CV Indeed, et le code source du site ACode.tech.</p>
+    <p>Six postes de contrôle restent invisibles sans accès direct : photo, bannière, section Infos, Sélection, compétences, activité. Ils sont marqués <span class="chip i">Non vérifié</span> — je préfère te dire ce que je ne sais pas plutôt que de noter à l'aveugle. <strong>Colle-moi ton profil (ou son export PDF) et je complète ces six lignes.</strong></p>
+  </div>
+</section>
+
+<section>
+  <div class="sec-head"><span class="num">01</span><h2>Le diagnostic central</h2></div>
+  <div class="prose">
+    <p>Ton titre actuel est <code>PLASTIC MOLDING MANAGER - VARUN BEVERAGES MOROCCO (PepsiCo)</code>.</p>
+    <p>Il est exact. C'est son seul mérite. Il décrit une fonction que des milliers de gens exercent, avec une expression — « plastic molding manager » — que quasiment personne ne tape dans une barre de recherche. Pendant ce temps, trois actifs réellement rares n'apparaissent nulle part :</p>
+    <ul class="tight">
+      <li><strong>Le terrain lourd.</strong> Démarrage et montée en cadence de lignes Husky et Sacmi (injection et injection-compression), 70+ personnes en équipes. Ce n'est pas de la gestion de production générique, c'est de la mise en route d'outil industriel — une compétence qui se paie cher et qui se raconte.</li>
+      <li><strong>La recherche primaire.</strong> Ton mémoire GEMBA TBS repose sur dix entretiens semi-directifs avec des directeurs supply chain marocains, six hypothèses dont deux contre-intuitives, et des résultats chiffrés. Sur le marché marocain, presque personne ne publie de données originales sur l'IA en supply chain FMCG. Tu en as. Elles dorment dans un PDF.</li>
+      <li><strong>Le code.</strong> Tu ne te contentes pas de commander de la digitalisation, tu la construis. C'est ce qui sépare un manager qui « pilote un projet IA » d'un opérationnel qui sait pourquoi le modèle dérive.</li>
+    </ul>
+    <p>Chacun de ces trois pris isolément est trouvable. <strong>L'intersection des trois, au Maroc, dans le FMCG, est presque introuvable</strong> — et c'est exactement ce que ton profil n'exprime pas. La visibilité LinkedIn ne récompense pas l'exhaustivité du CV : elle récompense un angle net, répété. Ton angle existe déjà, il n'est simplement pas écrit.</p>
+  </div>
+</section>
+
+<section>
+  <div class="sec-head"><span class="num">02</span><h2>Postes de contrôle</h2></div>
+  <div class="tbl-scroll">
+    <table>
+      <thead><tr><th>Poste de contrôle</th><th>État observé</th><th>Cible</th><th>Verdict</th></tr></thead>
+      <tbody>
+        <tr><td class="point">Titre (headline)</td><td>58 caractères sur 220 · tout en capitales · aucun mot-clé stratégique</td><td>180–220 car., 3 à 5 mots-clés recherchés</td><td><span class="chip c">Critique</span></td></tr>
+        <tr><td class="point">Description du poste</td><td>Liste de tâches (« developing », « establishing », « managing ») · aucun résultat chiffré</td><td>4 à 6 lignes de résultats, avec chiffres</td><td><span class="chip c">Majeur</span></td></tr>
+        <tr><td class="point">URL personnalisée</td><td><code>/in/anassmouakkid</code> — propre, sans suffixe numérique</td><td>Prénom + nom, sans chiffres</td><td><span class="chip o">Conforme</span></td></tr>
+        <tr><td class="point">Recommandations</td><td>Présentes — des collègues citent tes compétences techniques et managériales</td><td>5+, réparties sur plusieurs employeurs</td><td><span class="chip o">Conforme</span></td></tr>
+        <tr><td class="point">Photo de profil</td><td>Non accessible · tu as généré des briefs de portrait pro en septembre 2025</td><td>Portrait net, cadrage épaules, fond neutre</td><td><span class="chip i">Non vérifié</span></td></tr>
+        <tr><td class="point">Bannière</td><td>Non accessible</td><td>1584 × 396 px, porteuse de message</td><td><span class="chip i">Non vérifié</span></td></tr>
+        <tr><td class="point">Section « Infos »</td><td>Non accessible</td><td>1 800–2 600 car., accroche dans les 2 premières lignes</td><td><span class="chip i">Non vérifié</span></td></tr>
+        <tr><td class="point">Sélection (Featured)</td><td>Non accessible</td><td>3 éléments, dont le résumé du mémoire</td><td><span class="chip i">Non vérifié</span></td></tr>
+        <tr><td class="point">Compétences</td><td>Non accessible</td><td>25 compétences, top 3 épinglées</td><td><span class="chip i">Non vérifié</span></td></tr>
+        <tr><td class="point">Activité / publications</td><td>Non accessible</td><td>2 publications par semaine</td><td><span class="chip i">Non vérifié</span></td></tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section>
+  <div class="sec-head"><span class="num">03</span><h2>Constats détaillés</h2></div>
+
+  <article class="finding">
+    <div class="fh"><span class="id">C-01</span><span class="chip c">Critique</span><span class="chip a">Impact visibilité maximal</span></div>
+    <div class="fb prose">
+      <h3>Le titre gaspille 74 % du champ le plus indexé de LinkedIn</h3>
+      <p>Le titre est, avec le nom, le champ que le moteur de LinkedIn pèse le plus lourd. C'est aussi le seul texte qui te suit partout : résultats de recherche, sous chaque commentaire que tu laisses, dans chaque invitation, dans les notifications. C'est l'essentiel de ta surface d'exposition.</p>
+      <div class="vs">
+        <div><dt>Observé</dt><dd>58 caractères. En capitales. Le nom de l'employeur y est répété alors qu'il s'affiche déjà juste en dessous, dans l'expérience.</dd></div>
+        <div><dt>Cible</dt><dd>180 à 220 caractères, en casse normale, portant les requêtes que ton audience tape réellement.</dd></div>
+      </div>
+      <p>Les capitales n'apportent aucun poids au référencement — LinkedIn est insensible à la casse. En revanche, elles se lisent comme un cri, et c'est le tout premier signal que reçoit quelqu'un qui découvre ton nom. Quant au choix des mots : recruteurs, directeurs industriels et prospects marocains cherchent « responsable production », « supply chain », « excellence opérationnelle », « industrie 4.0 ». Pas « plastic molding ».</p>
+    </div>
+  </article>
+
+  <article class="finding">
+    <div class="fh"><span class="id">C-02</span><span class="chip c">Majeur</span></div>
+    <div class="fb prose">
+      <h3>Ton actif le plus rare est enfermé dans un PDF</h3>
+      <p>Ton mémoire n'est pas un exercice scolaire, c'est un jeu de données. Dix directeurs supply chain interrogés en entretien semi-directif entre janvier et mars 2026, en variation maximale — multinationales, ETI, PME. Des résultats nets : la maturité des données ressort comme la variable modératrice dominante ; les filiales de multinationales gagnent 15 à 18 points de MAPE quand une grande partie du tissu national pilote encore sous Excel et à l'intuition commerciale ; et l'hypothèse que la sur-automatisation <em>dégrade</em> la résilience est confirmée.</p>
+      <p>Ce dernier point est de l'or, précisément parce qu'il contredit le discours ambiant. <strong>Il y a là douze mois de publications à angle fort, sur un sujet où le marché marocain n'a quasiment aucune donnée originale.</strong> Aujourd'hui, ça ne circule pas.</p>
+    </div>
+  </article>
+
+  <article class="finding">
+    <div class="fh"><span class="id">C-03</span><span class="chip w">À corriger</span></div>
+    <div class="fb prose">
+      <h3>Tes profils se contredisent d'une plateforme à l'autre</h3>
+      <p>Ton CV Indeed indique encore <strong>INGELEC — poste en cours</strong>, quand LinkedIn te situe chez Varun Beverages depuis janvier 2024. Ton CV Drive le plus récent date de juin 2023. Un recruteur qui croise les sources — c'est la norme — lit une incohérence, et l'incohérence coûte de la crédibilité avant même l'entretien. Alignement à faire sur les trois supports.</p>
+    </div>
+  </article>
+
+  <article class="finding">
+    <div class="fh"><span class="id">C-04</span><span class="chip w">À corriger</span></div>
+    <div class="fb prose">
+      <h3>La description de ton poste raconte la fiche de poste, pas tes résultats</h3>
+      <p>« Élaborer les SOP », « mettre en place des tableaux de bord », « coordonner les activités » : ce sont des missions, et elles seraient identiques pour n'importe qui à ce poste. Or démarrer une Husky et une Sacmi de zéro jusqu'à la cadence nominale, c'est un fait remarquable — pas une ligne de fiche de poste. Ce qui manque, ce sont les chiffres : TRS atteint, taux de rebut, délai de montée en cadence, temps de changement de moule. Tu es la seule personne à les avoir.</p>
+    </div>
+  </article>
+
+  <article class="finding">
+    <div class="fh"><span class="id">C-05</span><span class="chip w">Fenêtre en train de se refermer</span></div>
+    <div class="fb prose">
+      <h3>Cinq mois d'attention perdus depuis la clôture du mémoire</h3>
+      <p>Clôture analytique le 14 mars 2026. Nous sommes le 17 août. Le pic naturel d'attention — soutenance, diplôme, félicitations — est passé, et il ne reviendra pas. Il reste toutefois un angle meilleur que l'annonce elle-même : <em>« cinq mois après ma soutenance, voici ce que le terrain a confirmé — et ce qu'il a démenti. »</em> Le recul vaut mieux que la nouveauté, à condition de partir maintenant.</p>
+    </div>
+  </article>
+</section>
+
+<section>
+  <div class="sec-head"><span class="num">04</span><h2>Titre — à coller</h2></div>
+  <p class="prose">Trois versions, selon ce que tu cherches à déclencher. Elles ne mènent pas au même endroit : choisis-en une et tiens-la, plutôt que de mélanger.</p>
+
+  <div class="plate">
+    <div class="plate-h"><span class="t">Version A · Convergence<span class="rec">Recommandée</span></span><button class="copy" data-c="A">Copier</button></div>
+    <div class="plate-b" id="pA">Production Manager chez Varun Beverages (PepsiCo) | Injection PET & Industrie 4.0 | IA appliquée à la Supply Chain FMCG | MBA Management Stratégique TBS</div>
+    <div class="plate-n"><span class="len">152 / 220 caractères</span> — Porte les trois actifs à la fois. C'est celle qui exprime l'intersection rare, sans t'enfermer dans une seule trajectoire.</div>
+  </div>
+
+  <div class="plate">
+    <div class="plate-h"><span class="t">Version B · Trajectoire direction industrielle</span><button class="copy" data-c="B">Copier</button></div>
+    <div class="plate-b" id="pB">Responsable Production &amp; Supply Chain FMCG | Excellence opérationnelle, Lean &amp; Industrie 4.0 | Prévision de la demande par IA | MBA TBS Casablanca</div>
+    <div class="plate-n"><span class="len">148 / 220 caractères</span> — À prendre si l'objectif est un poste de direction industrielle ou supply chain. Densité maximale de mots-clés recruteurs, ACode.tech laissé de côté.</div>
+  </div>
+
+  <div class="plate">
+    <div class="plate-h"><span class="t">Version C · Autorité &amp; acquisition</span><button class="copy" data-c="C">Copier</button></div>
+    <div class="plate-b" id="pC">J'aide l'industrie FMCG marocaine à passer du pilotage Excel au demand-driven prédictif | Production Manager (PepsiCo) | MBA TBS | Fondateur ACode.tech</div>
+    <div class="plate-n"><span class="len">150 / 220 caractères</span> — À prendre si tu veux attirer des clients et te construire une voix. Ouvre sur un bénéfice plutôt qu'un statut. <mark>Vérifie l'intitulé « Fondateur » avant publication</mark> — je l'ai déduit du dépôt ACode.tech, tu es seul à savoir comment tu veux l'afficher.</div>
+  </div>
+</section>
+
+<section>
+  <div class="sec-head"><span class="num">05</span><h2>Section « Infos » — à coller</h2></div>
+  <p class="prose">Les deux premières lignes sont les seules visibles avant « …voir plus » sur mobile. Elles doivent accrocher seules. Le reste est écrit pour être lu par un directeur industriel, pas par un algorithme.</p>
+  <div class="plate">
+    <div class="plate-h"><span class="t">Section Infos · version longue</span><button class="copy" data-c="ABOUT">Copier</button></div>
+    <div class="plate-b" id="pABOUT">Une ligne d'injection qui démarre à trois heures du matin ne ment jamais. Soit le process tient, soit il ne tient pas.
+
+J'ai passé douze ans de ce côté-là du mur. Aujourd'hui je pilote l'injection PET chez Varun Beverages Morocco (PepsiCo) à Casablanca : démarrage et montée en cadence des lignes Husky et Sacmi, construction du socle standard (SOP, instructions de travail, standards de changement de moule), pilotage par KPI, et l'organisation de plus de 70 personnes en équipes.
+
+En parallèle, j'ai consacré deux ans à une question que le terrain m'imposait : l'intelligence artificielle rend-elle vraiment une supply chain FMCG plus résiliente — ou fabrique-t-elle surtout de nouvelles fragilités ?
+
+C'est le sujet de mon mémoire de MBA Management Stratégique (TBS Casablanca, GEMBA P23), construit sur dix entretiens avec des directeurs supply chain marocains. Trois résultats en sont sortis :
+
+→ La maturité des données pèse plus lourd que l'algorithme. C'est elle qui explique l'essentiel des écarts de performance, pas le choix du modèle.
+
+→ Les filiales de multinationales gagnent 15 à 18 points de MAPE sur leurs prévisions. Une large part du tissu national pilote encore sous Excel et à l'intuition commerciale.
+
+→ La sur-automatisation dégrade la résilience. Sortir l'humain de la boucle a un coût, et il se paie exactement au moment de la perturbation.
+
+Ce qui m'intéresse, c'est la jonction : faire descendre ces modèles dans un atelier marocain réel, avec ses contraintes réelles — saisonnalité Ramadan et Aïd, volatilité de la demande, coexistence du formel et de l'informel, équipes à former.
+
+Je construis aussi les outils. ACode.tech, à Casablanca, développe ce qui manque entre l'ERP et le terrain : applications métier, tableaux de bord, mise en production de modèles.
+
+Écrivez-moi si vous travaillez sur la prévision de la demande, le DDMRP, un démarrage de ligne, l'excellence opérationnelle FMCG ou la digitalisation d'atelier.
+
+contact@acode.tech</div>
+    <div class="plate-n"><span class="len">≈ 1 950 caractères / 2 600 maximum</span> — <mark>Les chiffres du mémoire viennent de ton propre travail</mark>, ils sont donc défendables publiquement. Ajuste la mention ACode.tech selon la façon dont tu veux l'assumer vis-à-vis de ton employeur.</div>
+  </div>
+</section>
+
+<section>
+  <div class="sec-head"><span class="num">06</span><h2>Expérience — à coller</h2></div>
+  <p class="prose">Structure inchangée, angle inversé : on passe de la mission au résultat. Les crochets sont les chiffres que je n'ai pas — remplis-les, ce sont eux qui font toute la différence.</p>
+  <div class="plate">
+    <div class="plate-h"><span class="t">Varun Beverages Morocco (PepsiCo) · depuis janv. 2024</span><button class="copy" data-c="EXP">Copier</button></div>
+    <div class="plate-b" id="pEXP">Pilotage de l'unité d'injection PET (Injection Molding &amp; Injection Compression Molding) sur le site de Casablanca.
+
+• Démarrage et qualification des lignes Husky et Sacmi, de la réception machine jusqu'à la cadence nominale atteinte en [X] semaines.
+• Direction de plus de 70 opérateurs et techniciens en équipes postées : matrice de polyvalence, plan de montée en compétence, organisation des relèves.
+• Construction du référentiel opératoire depuis zéro — SOP, instructions de travail, standards de changement de moule — ramenant le temps de changement de [X] à [X] minutes.
+• Mise en place du système de pilotage : tableaux de bord TRS, rebut et temps de cycle, avec reporting hebdomadaire à la direction. TRS porté à [X] %, taux de rebut ramené à [X] %.
+• [Un fait marquant : un incident résolu, une économie obtenue, un audit passé.]
+
+Compétences : Injection plastique · Démarrage d'installations · Management d'équipes postées · TRS/OEE · Amélioration continue · FMCG</div>
+    <div class="plate-n">Un rappel utile : LinkedIn indexe aussi le texte des expériences. Chaque terme métier qui y figure est une porte d'entrée supplémentaire vers ton profil.</div>
+  </div>
+</section>
+
+<section>
+  <div class="sec-head"><span class="num">07</span><h2>Compétences &amp; mots-clés</h2></div>
+  <p class="prose">Les trois compétences épinglées en tête pèsent lourd dans le classement des recherches, et ce sont les seules que voient les visiteurs pressés. Épingle celles-ci :</p>
+  <div class="kw">
+    <span class="hi">Supply Chain Management</span><span class="hi">Gestion de production</span><span class="hi">Industrie 4.0</span>
+  </div>
+  <p class="prose">Puis complète jusqu'à 25 — LinkedIn autorise 50, mais au-delà de 25 le signal se dilue :</p>
+  <div class="kw">
+    <span>Injection plastique</span><span>Injection Molding</span><span>Démarrage d'installations</span><span>Lean Manufacturing</span><span>Amélioration continue</span><span>TRS / OEE</span><span>Prévision de la demande</span><span>DDMRP</span><span>Demand Planning</span><span>S&amp;OP</span><span>FMCG</span><span>Management d'équipe</span><span>Excellence opérationnelle</span><span>Gestion de projet industriel</span><span>Intelligence artificielle</span><span>Machine Learning</span><span>Analyse de données</span><span>Power BI</span><span>SAP</span><span>Résolution de problèmes</span><span>Sécurité industrielle</span><span>Maintenance</span>
+  </div>
+  <div class="note prose">
+    <h3>Deux réglages qui coûtent cinq minutes</h3>
+    <p><strong>Bannière.</strong> 1584 × 396 px. Le format le plus efficace pour ton cas : ta phrase de positionnement en gros, la mention TBS et le contact en petit, sur une photo de ligne d'injection. C'est l'espace le plus visible du profil, et il est presque toujours laissé vide.</p>
+    <p><strong>Sélection.</strong> Trois éléments : le résumé exécutif de ton mémoire (le PDF existe déjà dans ton Drive), le lien ACode.tech, et ton meilleur post une fois que tu auras commencé à publier.</p>
+  </div>
+</section>
+
+<section>
+  <div class="sec-head"><span class="num">08</span><h2>Plan 90 jours</h2></div>
+  <p class="prose">Un profil parfait sans activité reste invisible : LinkedIn distribue à l'engagement, pas à la complétude. Le profil est le point d'atterrissage — la publication est ce qui amène les gens dessus. L'ordre compte.</p>
+
+  <div class="phase">
+    <div class="when">Jours 1–2<br>Socle</div>
+    <div class="what">
+      <p>Titre (version A), section Infos, description du poste avec tes chiffres, 25 compétences dont 3 épinglées, bannière, Sélection. Aligner Indeed sur LinkedIn. Activer le mode créateur.</p>
+      <p><strong>Fais tout en une seule séance</strong>, puis désactive « informer le réseau » le temps des retouches — sinon chaque correction déclenche une notification et brûle ton audience à vide.</p>
+    </div>
+  </div>
+  <div class="phase">
+    <div class="when">Semaines 1–2<br>Amorçage</div>
+    <div class="what">
+      <p>Publication d'ouverture : <em>« Cinq mois après ma soutenance, voici les trois résultats que le terrain a confirmés. »</em> Elle légitime tout ce qui suivra.</p>
+      <p>Puis, quotidiennement : cinq commentaires de fond sous des publications de directeurs supply chain et industriels marocains. Pas « super post » — un désaccord argumenté ou un cas vécu. C'est le levier de portée le plus sous-estimé de LinkedIn : tu empruntes l'audience d'un autre, et ton titre est affiché sous chaque commentaire.</p>
+    </div>
+  </div>
+  <div class="phase">
+    <div class="when">Semaines 3–8<br>Rythme</div>
+    <div class="what">
+      <p>Deux publications par semaine, en alternant quatre registres :</p>
+      <ul class="tight">
+        <li><strong>Atelier</strong> — ce qu'un démarrage de ligne enseigne et qu'aucun manuel ne dit.</li>
+        <li><strong>Recherche</strong> — ton mémoire découpé en épisodes : une hypothèse, un résultat, une implication.</li>
+        <li><strong>Secteur</strong> — lecture du FMCG marocain : saisonnalité Ramadan, informel, volatilité.</li>
+        <li><strong>Construction</strong> — ce que tu bâtis chez ACode.tech, en montrant le raisonnement.</li>
+      </ul>
+      <p>Objectif de connexions : 15 à 20 par semaine, ciblées (supply chain, industrie, FMCG, Maroc), toujours avec une note personnalisée.</p>
+    </div>
+  </div>
+  <div class="phase">
+    <div class="when">Semaines 9–12<br>Consolidation</div>
+    <div class="what">
+      <p>Demander trois recommandations précises — un pair de Varun, un ancien d'INGELEC, un intervenant du MBA — en suggérant à chacun l'angle à évoquer. Une recommandation vague ne sert à rien.</p>
+      <p>Publier la synthèse longue du mémoire en article natif LinkedIn plutôt qu'en PDF : le texte natif est indexé, le PDF ne l'est pas. Puis relire les statistiques d'audience et doubler la mise sur le registre qui a réellement pris.</p>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="sec-head"><span class="num">09</span><h2>Ce qu'il me manque</h2></div>
+  <div class="prose">
+    <p>Six postes de contrôle restent ouverts, et deux décisions t'appartiennent :</p>
+    <ul class="tight">
+      <li><strong>Ton objectif réel.</strong> Un poste de direction industrielle, des clients pour ACode.tech, ou une voix d'expert ? J'ai recommandé la version A parce qu'elle ne ferme aucune porte — mais si tu tranches, le titre, les Infos et le plan de contenu se resserrent nettement.</li>
+      <li><strong>Ce que ton employeur sait d'ACode.tech.</strong> Cela conditionne la place que l'agence peut occuper sur le profil. Tu es seul à pouvoir en juger.</li>
+      <li><strong>Tes chiffres de production</strong> — TRS, rebut, délai de montée en cadence, temps de changement de moule.</li>
+      <li><strong>Ton profil actuel</strong>, collé ici ou exporté en PDF, pour que je complète les six lignes non vérifiées.</li>
+    </ul>
+  </div>
+</section>
+
+<footer>
+  Relevé établi le 17 août 2026 à partir de sources publiques et de documents présents sur ce poste de travail. Aucune connexion au compte LinkedIn n'a eu lieu.
+</footer>
+
+</div>
+
+<script>
+  document.querySelectorAll('.copy').forEach(function(btn){
+    btn.addEventListener('click', function(){
+      var el = document.getElementById('p' + btn.dataset.c);
+      if(!el) return;
+      var txt = el.innerText;
+      var done = function(){ var o = btn.textContent; btn.textContent = 'Copié'; setTimeout(function(){ btn.textContent = o; }, 1600); };
+      if(navigator.clipboard && navigator.clipboard.writeText){
+        navigator.clipboard.writeText(txt).then(done, function(){ fallback(txt, done); });
+      } else { fallback(txt, done); }
+    });
+  });
+  function fallback(txt, done){
+    var ta = document.createElement('textarea');
+    ta.value = txt; ta.setAttribute('readonly','');
+    ta.style.cssText = 'position:absolute;left:-9999px';
+    document.body.appendChild(ta); ta.select();
+    try { document.execCommand('copy'); done(); } catch(e){}
+    document.body.removeChild(ta);
+  }
+</script>

@@ -1,0 +1,408 @@
+<title>Capital Préservé</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+<style>
+:root{
+  --paper:#f7f8f9; --raise:#ffffff; --ink:#14181d; --body:#2b333b;
+  --muted:#5f6b76; --rule:#d8dde2; --rule-soft:#e6eaed;
+  --accent:#1f5f5b; --accent-soft:#e4efed; --flag:#9a3b2f; --flag-soft:#f4e7e4;
+  --shadow:0 1px 2px rgba(20,24,29,.05), 0 8px 24px -12px rgba(20,24,29,.14);
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --paper:#101418; --raise:#171c21; --ink:#eef1f4; --body:#c3ccd4;
+    --muted:#8b97a3; --rule:#2a323a; --rule-soft:#212930;
+    --accent:#6fb5ac; --accent-soft:#16302e; --flag:#d08573; --flag-soft:#2e1e1a;
+    --shadow:0 1px 2px rgba(0,0,0,.4), 0 8px 24px -12px rgba(0,0,0,.6);
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#101418; --raise:#171c21; --ink:#eef1f4; --body:#c3ccd4;
+  --muted:#8b97a3; --rule:#2a323a; --rule-soft:#212930;
+  --accent:#6fb5ac; --accent-soft:#16302e; --flag:#d08573; --flag-soft:#2e1e1a;
+  --shadow:0 1px 2px rgba(0,0,0,.4), 0 8px 24px -12px rgba(0,0,0,.6);
+}
+*{box-sizing:border-box}
+body{
+  margin:0; background:var(--paper); color:var(--body);
+  font-family:"IBM Plex Sans",system-ui,-apple-system,sans-serif;
+  font-size:16px; line-height:1.65; -webkit-font-smoothing:antialiased;
+}
+.wrap{max-width:53rem; margin:0 auto; padding:clamp(2rem,5vw,4.5rem) clamp(1.1rem,4vw,2rem) 5rem;}
+h1,h2,h3{font-family:Newsreader,Georgia,serif; color:var(--ink); text-wrap:balance; margin:0;}
+h1{font-size:clamp(2.1rem,5.2vw,3.15rem); font-weight:500; line-height:1.12; letter-spacing:-.015em;}
+h2{font-size:clamp(1.45rem,3vw,1.85rem); font-weight:500; line-height:1.2; letter-spacing:-.01em;}
+h3{font-size:1.12rem; font-weight:600; line-height:1.3;}
+p{margin:0; max-width:68ch;}
+a{color:var(--accent); text-underline-offset:.18em; text-decoration-thickness:.06em;}
+a:focus-visible,summary:focus-visible{outline:2px solid var(--accent); outline-offset:3px; border-radius:2px;}
+.eyebrow{
+  font-family:"IBM Plex Mono",monospace; font-size:.7rem; font-weight:500;
+  letter-spacing:.16em; text-transform:uppercase; color:var(--muted);
+}
+.stack{display:flex; flex-direction:column;}
+.g-3{gap:.75rem} .g-5{gap:1.25rem} .g-7{gap:1.75rem} .g-10{gap:2.5rem}
+section{display:flex; flex-direction:column; gap:1.25rem; scroll-margin-top:2rem;}
+.sections{display:flex; flex-direction:column; gap:3.5rem; margin-top:3.5rem;}
+.sec-head{display:flex; flex-direction:column; gap:.4rem; padding-bottom:.7rem; border-bottom:1px solid var(--rule);}
+.sec-n{font-family:"IBM Plex Mono",monospace; font-size:.72rem; color:var(--accent); letter-spacing:.1em;}
+
+/* ---- masthead ---- */
+header{display:flex; flex-direction:column; gap:1.5rem;}
+.rule-top{height:3px; background:var(--ink); width:100%;}
+.meta-row{
+  display:flex; flex-wrap:wrap; gap:.5rem 1.4rem; font-family:"IBM Plex Mono",monospace;
+  font-size:.74rem; color:var(--muted); padding-top:.9rem;
+}
+/* ---- verdict ---- */
+.verdict{
+  background:var(--raise); border:1px solid var(--rule); border-left:3px solid var(--flag);
+  border-radius:3px; padding:clamp(1.4rem,3.5vw,2.1rem); box-shadow:var(--shadow);
+  display:flex; flex-direction:column; gap:1.1rem;
+}
+.verdict-q{
+  font-family:Newsreader,Georgia,serif; font-size:clamp(1.25rem,3vw,1.6rem);
+  font-weight:500; font-style:italic; color:var(--ink); line-height:1.35; max-width:34ch;
+}
+.figs{
+  display:grid; grid-template-columns:repeat(auto-fit,minmax(8.5rem,1fr));
+  gap:1px; background:var(--rule); border:1px solid var(--rule); border-radius:3px; overflow:hidden;
+}
+.fig{background:var(--raise); padding:.95rem 1.05rem; display:flex; flex-direction:column; gap:.2rem;}
+.fig b{
+  font-family:"IBM Plex Mono",monospace; font-size:1.45rem; font-weight:600;
+  color:var(--ink); font-variant-numeric:tabular-nums; line-height:1.1;
+}
+.fig.neg b{color:var(--flag)}
+.fig span{font-size:.72rem; color:var(--muted); line-height:1.35;}
+
+/* ---- tables ---- */
+.scroll{overflow-x:auto; border:1px solid var(--rule); border-radius:3px; background:var(--raise);}
+table{border-collapse:collapse; width:100%; font-size:.87rem; min-width:32rem;}
+th,td{padding:.6rem .8rem; text-align:left; border-bottom:1px solid var(--rule-soft); vertical-align:top;}
+thead th{
+  font-family:"IBM Plex Mono",monospace; font-size:.68rem; letter-spacing:.09em;
+  text-transform:uppercase; color:var(--muted); font-weight:500;
+  background:var(--paper); border-bottom:1px solid var(--rule); white-space:nowrap;
+}
+tbody tr:last-child td{border-bottom:none;}
+.num{text-align:right; font-family:"IBM Plex Mono",monospace; font-variant-numeric:tabular-nums; white-space:nowrap;}
+.dom{font-family:"IBM Plex Mono",monospace; font-size:.84rem; color:var(--ink); font-weight:500; white-space:nowrap;}
+tfoot td{font-weight:600; color:var(--ink); border-top:1px solid var(--rule); background:var(--paper);}
+
+/* ---- scorecard ---- */
+.card{background:var(--raise); border:1px solid var(--rule); border-radius:3px; padding:clamp(1.2rem,3vw,1.7rem); box-shadow:var(--shadow); display:flex; flex-direction:column; gap:1.2rem;}
+.card-top{display:flex; flex-wrap:wrap; align-items:baseline; gap:.6rem 1rem; justify-content:space-between;}
+.score-big{font-family:"IBM Plex Mono",monospace; font-size:2.1rem; font-weight:600; color:var(--flag); font-variant-numeric:tabular-nums; line-height:1;}
+.bars{display:flex; flex-direction:column; gap:.6rem;}
+.bar-row{display:grid; grid-template-columns:minmax(0,1fr) 3.6rem; gap:.9rem; align-items:center;}
+.bar-lab{font-size:.8rem; color:var(--body); display:flex; flex-direction:column; gap:.28rem;}
+.track{height:5px; background:var(--rule-soft); border-radius:3px; overflow:hidden;}
+.fill{height:100%; background:var(--accent); border-radius:3px;}
+.fill.low{background:var(--flag);}
+.bar-num{font-family:"IBM Plex Mono",monospace; font-size:.78rem; color:var(--muted); text-align:right; font-variant-numeric:tabular-nums;}
+.threshold{
+  display:flex; flex-wrap:wrap; gap:.5rem 1rem; align-items:baseline;
+  padding-top:1rem; border-top:1px solid var(--rule); font-size:.85rem;
+}
+
+/* ---- chips ---- */
+.chip{
+  display:inline-block; font-family:"IBM Plex Mono",monospace; font-size:.66rem;
+  letter-spacing:.06em; text-transform:uppercase; padding:.16rem .45rem;
+  border-radius:2px; white-space:nowrap; font-weight:500;
+}
+.chip.ok{background:var(--accent-soft); color:var(--accent);}
+.chip.no{background:var(--flag-soft); color:var(--flag);}
+.chip.est{background:var(--rule-soft); color:var(--muted);}
+
+.note{
+  border-left:2px solid var(--rule); padding:.15rem 0 .15rem 1.1rem;
+  color:var(--muted); font-size:.88rem; max-width:66ch;
+}
+.callout{
+  background:var(--accent-soft); border-radius:3px; padding:1.1rem 1.3rem;
+  display:flex; flex-direction:column; gap:.5rem; border:1px solid transparent;
+}
+.callout p{color:var(--body)}
+ol,ul{margin:0; padding-left:1.2rem; display:flex; flex-direction:column; gap:.6rem; max-width:66ch;}
+li::marker{color:var(--muted)}
+code{font-family:"IBM Plex Mono",monospace; font-size:.86em; background:var(--rule-soft); padding:.08em .32em; border-radius:2px; color:var(--ink);}
+footer{margin-top:4rem; padding-top:1.3rem; border-top:1px solid var(--rule); color:var(--muted); font-size:.8rem; display:flex; flex-direction:column; gap:.4rem;}
+@media (prefers-reduced-motion:reduce){*{animation:none!important; transition:none!important}}
+</style>
+
+<div class="wrap">
+<header>
+  <div class="rule-top"></div>
+  <div class="meta-row">
+    <span>SCAN CLOS 2026-08-27 10:36:47 UTC</span>
+    <span>REGISTRE RDAP VERISIGN</span>
+    <span>0 ERREUR · 0 THROTTLING</span>
+  </div>
+  <h1>Aucune opportunité rare n'a franchi le seuil.</h1>
+  <p style="font-size:1.05rem; max-width:60ch;">
+    52 446 domaines <code>.com</code> criblés contre le registre autoritatif Verisign, en trois
+    passes indépendantes. Zéro recommandation. Le capital est préservé — et c'est le bon résultat.
+  </p>
+</header>
+
+<div class="stack g-7" style="margin-top:2.5rem;">
+  <div class="verdict">
+    <span class="eyebrow">Conclusion d'investissement</span>
+    <p class="verdict-q">« Aucune opportunité rare authentique n'a franchi le seuil d'investissement aujourd'hui. »</p>
+    <div class="figs">
+      <div class="fig"><b>52 446</b><span>domaines criblés</span></div>
+      <div class="fig"><b>27 665</b><span>disponibles confirmés</span></div>
+      <div class="fig"><b>1 137</b><span>examinés à l'œil</span></div>
+      <div class="fig neg"><b>0</b><span>recommandés</span></div>
+      <div class="fig neg"><b>65<span style="font-size:.9rem">/100</span></b><span>meilleur score · seuil 82</span></div>
+    </div>
+    <p style="font-size:.92rem;">
+      <strong style="color:var(--ink)">Investirais-je mon propre argent aujourd'hui ? Non.</strong>
+      L'écart au seuil n'est pas marginal, il est structurel : aucun ajustement honnête du barème
+      ne rapproche ces noms de 82.
+    </p>
+  </div>
+</div>
+
+<div class="sections">
+
+<section>
+  <div class="sec-head">
+    <span class="sec-n">01</span>
+    <h2>La mesure qui tranche</h2>
+  </div>
+  <p>Le scan a produit une mesure directe de l'efficience du marché. Le test décisif : 336 noms
+  premium rédigés à la main — exactement ceux qu'un investisseur veut posséder
+  (<span class="dom">TrustAnchor</span>, <span class="dom">PolicyVault</span>,
+  <span class="dom">ContextRail</span>, <span class="dom">SettleLedger</span>).</p>
+
+  <div class="figs">
+    <div class="fig neg"><b>96,7 %</b><span>des noms premium écrits à la main étaient déjà pris</span></div>
+    <div class="fig"><b>19,2 %</b><span>disponibilité · suffixe <em>premium</em></span></div>
+    <div class="fig"><b>28,7 %</b><span>disponibilité · suffixe <em>faible</em></span></div>
+  </div>
+
+  <p>Les combinaisons <em>nom de secteur + suffixe premium</em> (vault, forge, grid, rail, ledger,
+  core, layer, stack) sont nettement moins disponibles que celles à suffixe faible.
+  <strong style="color:var(--ink)">Le marché a absorbé précisément les bonnes combinaisons.</strong></p>
+
+  <p class="note">Ce qui reste libre est libre pour une raison. Les disponibilités se concentrent
+  sur des radicaux faibles — <span class="dom">broll</span>, <span class="dom">lading</span>,
+  <span class="dom">cutlist</span>, <span class="dom">dosing</span>, <span class="dom">haulage</span>,
+  <span class="dom">erasure</span> — et des suffixes faibles : yard, room, lane, mesh, folio, docket.</p>
+
+  <div class="scroll">
+    <table>
+      <thead><tr><th>Passe</th><th>Méthode</th><th class="num">Criblés</th><th class="num">Disponibles</th></tr></thead>
+      <tbody>
+        <tr><td class="num">1</td><td>Génération combinatoire sectorielle + brandables</td><td class="num">46 879</td><td class="num">26 152</td></tr>
+        <tr><td class="num">2</td><td>Noms « conteneurs » (secteur × substantif générique)</td><td class="num">5 231</td><td class="num">1 502</td></tr>
+        <tr><td class="num">3</td><td><strong>Liste premium écrite à la main — test décisif</strong></td><td class="num">336</td><td class="num">11</td></tr>
+      </tbody>
+      <tfoot><tr><td colspan="2">Total</td><td class="num">52 446</td><td class="num">27 665</td></tr></tfoot>
+    </table>
+  </div>
+</section>
+
+<section>
+  <div class="sec-head">
+    <span class="sec-n">02</span>
+    <h2>Liste courte</h2>
+  </div>
+  <div class="card" style="border-left:3px solid var(--flag);">
+    <p style="font-family:Newsreader,Georgia,serif; font-size:1.15rem; color:var(--ink);">
+      Liste vide. Aucun candidat n'a atteint 82/100.</p>
+    <p style="font-size:.9rem;">Conformément au mandat, aucun nom moyen n'a été substitué pour
+    remplir le tableau.</p>
+  </div>
+</section>
+
+<section>
+  <div class="sec-head">
+    <span class="sec-n">03</span>
+    <h2>Le meilleur candidat, noté honnêtement</h2>
+  </div>
+  <p>Aucun domaine n'étant recommandé, voici la notation du candidat qui s'est le plus approché
+  du seuil — pour démontrer où exactement le dossier se brise.</p>
+
+  <div class="card">
+    <div class="card-top">
+      <div class="stack g-3">
+        <span class="dom" style="font-size:1.15rem;">CustomsGrid.com</span>
+        <span class="chip no">Rejet</span>
+      </div>
+      <div style="text-align:right;">
+        <div class="score-big">65</div>
+        <div class="bar-num">sur 100</div>
+      </div>
+    </div>
+
+    <div class="bars">
+      <div class="bar-row"><div class="bar-lab">Force de marque et mémorabilité<div class="track"><div class="fill" style="width:65%"></div></div></div><span class="bar-num">13/20</span></div>
+      <div class="bar-row"><div class="bar-lab">Demande end-user et profondeur d'acheteurs<div class="track"><div class="fill low" style="width:55%"></div></div></div><span class="bar-num">11/20</span></div>
+      <div class="bar-row"><div class="bar-lab">Pertinence commerciale et tendances<div class="track"><div class="fill" style="width:80%"></div></div></div><span class="bar-num">12/15</span></div>
+      <div class="bar-row"><div class="bar-lab">Liquidité et ventes comparables<div class="track"><div class="fill low" style="width:33%"></div></div></div><span class="bar-num">5/15</span></div>
+      <div class="bar-row"><div class="bar-lab">Asymétrie du prix d'acquisition<div class="track"><div class="fill" style="width:80%"></div></div></div><span class="bar-num">8/10</span></div>
+      <div class="bar-row"><div class="bar-lab">Qualité linguistique<div class="track"><div class="fill" style="width:80%"></div></div></div><span class="bar-num">8/10</span></div>
+      <div class="bar-row"><div class="bar-lab">Historique propre et autorité légitime<div class="track"><div class="fill low" style="width:60%"></div></div></div><span class="bar-num">3/5</span></div>
+      <div class="bar-row"><div class="bar-lab">Sécurité juridique et marques<div class="track"><div class="fill" style="width:100%"></div></div></div><span class="bar-num">5/5</span></div>
+    </div>
+
+    <div class="threshold">
+      <span class="chip no">17 points sous le seuil</span>
+      <span style="color:var(--muted)">Seuil de recommandation : <strong style="color:var(--ink)">82</strong> · « strong buy » : <strong style="color:var(--ink)">88</strong></span>
+    </div>
+  </div>
+
+  <p>Le point de rupture est la <strong style="color:var(--ink)">liquidité, à 5/15</strong>. Aucun
+  acheteur final crédible et nommable n'a pu être identifié. Les éditeurs en place — CargoWise, MIC,
+  3rdwave, VComply — sont installés sous leurs propres marques et n'ont aucune raison de racheter un
+  composé descriptif.</p>
+  <p class="note">« Une valorisation théorique élevée n'a aucun sens s'il n'existe pas d'acheteurs
+  identifiables. » — le mandat lui-même.</p>
+</section>
+
+<section>
+  <div class="sec-head">
+    <span class="sec-n">04</span>
+    <h2>L'arithmétique de portage</h2>
+  </div>
+  <div class="scroll">
+    <table>
+      <thead><tr><th>Poste</th><th class="num">Montant</th></tr></thead>
+      <tbody>
+        <tr><td>Acquisition (enregistrement standard)</td><td class="num">≈ 11–14 USD</td></tr>
+        <tr><td>Renouvellement annuel</td><td class="num">≈ 11–22 USD/an</td></tr>
+        <tr><td>Taux de vente annuel (STR) réaliste</td><td class="num">1 – 1,5 %</td></tr>
+        <tr><td>Prix de vente moyen, marché 2024</td><td class="num">1 281 USD</td></tr>
+        <tr><td><strong style="color:var(--ink)">Espérance de revenu annuel / domaine</strong></td><td class="num"><strong style="color:var(--ink)">≈ 15 USD</strong></td></tr>
+        <tr><td><strong style="color:var(--ink)">Coût annuel de portage</strong></td><td class="num"><strong style="color:var(--ink)">≈ 12–22 USD</strong></td></tr>
+      </tbody>
+    </table>
+  </div>
+  <div class="callout">
+    <p><strong style="color:var(--ink)">L'espérance mathématique est nulle à légèrement négative.</strong>
+    Ces noms se situent <em>sous</em> la médiane d'un portefeuille curé : le STR réel serait inférieur
+    à 1 %. On ne parle donc pas d'un rendement modeste, mais d'une destruction lente de capital par
+    les renouvellements.</p>
+  </div>
+</section>
+
+<section>
+  <div class="sec-head">
+    <span class="sec-n">05</span>
+    <h2>Les dix finalistes rejetés</h2>
+  </div>
+  <div class="scroll">
+    <table>
+      <thead><tr><th class="num">#</th><th>Domaine</th><th class="num">Score</th><th>Motif de rejet précis</th></tr></thead>
+      <tbody>
+        <tr><td class="num">1</td><td class="dom">CustomsGrid.com</td><td class="num">65</td><td>Liquidité 5/15 ; aucun comparable ; éditeurs en place déjà marqués</td></tr>
+        <tr><td class="num">2</td><td class="dom">MetricRail.com</td><td class="num">62</td><td>Observabilité saturée ; suffixe <code>-rail</code> galvaudé ; aucun acheteur nommable</td></tr>
+        <tr><td class="num">3</td><td class="dom">ThreatRail.com</td><td class="num">60</td><td>Descriptif générique ; ne résout aucun problème de nommage</td></tr>
+        <tr><td class="num">4</td><td class="dom">RedactGrid.com</td><td class="num">59</td><td>Le caviardage est une <em>fonctionnalité</em>, pas une catégorie d'entreprise</td></tr>
+        <tr><td class="num">5</td><td class="dom">RolloutGrid.com</td><td class="num">57</td><td>Adjacence avec <strong>Rollout.io</strong> (CloudBees) ; confusion inutile</td></tr>
+        <tr><td class="num">6</td><td class="dom">ErasureDesk.com</td><td class="num">56</td><td>Créneau DSAR/RGPD unique → <strong>une seule catégorie d'acheteurs (−20)</strong></td></tr>
+        <tr><td class="num">7</td><td class="dom">DatasetDesk.com</td><td class="num">55</td><td>Distinctivité quasi nulle ; terme d'infrastructure banalisé</td></tr>
+        <tr><td class="num">8</td><td class="dom">WeightsGrid.com</td><td class="num">48</td><td><strong>Adjacence de marque avec Weights&nbsp;&amp;&nbsp;Biases</strong> → rejet automatique</td></tr>
+        <tr><td class="num">9</td><td class="dom">HaulageDesk.com</td><td class="num">47</td><td><code>Haulage</code> est un britannisme → limitation géographique non compensée</td></tr>
+        <tr><td class="num">10</td><td class="dom">BrollDesk.com</td><td class="num">44</td><td><strong>Échec du test radio</strong> : <code>broll</code> est inépelable, se lit « brawl »</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <h3 style="margin-top:.6rem;">Ce que le scoring automatique a produit — et pourquoi il a été jeté</h3>
+  <p>Mon premier classement, piloté par la structure (longueur, phonétique, familiarité lexicale),
+  a placé en tête : <span class="dom">sealarc</span>, <span class="dom">haularc</span>,
+  <span class="dom">probekeep</span>, <span class="dom">keenkiln</span>,
+  <span class="dom">moorloom</span>.</p>
+  <p><strong style="color:var(--ink)">Tous rejetés en bloc.</strong> Phonétique correcte, sens nul.
+  C'est exactement le piège annoncé par le mandat — <em>ne pas confondre une formulation séduisante
+  avec une valeur commerciale</em> — et la raison pour laquelle un filtre sémantique humain a
+  remplacé le classement automatique.</p>
+  <p class="note">De même, les 237 marques inventées de 5–6 lettres disponibles se sont révélées être
+  de la soupe syllabique — <span class="dom">cokvu</span>, <span class="dom">ndamak</span>,
+  <span class="dom">rkefor</span>. La génération aléatoire ne produit pas de qualité Vanta ou Cribl ;
+  les brandables courts réellement bons sont enregistrés depuis une décennie.</p>
+</section>
+
+<section>
+  <div class="sec-head">
+    <span class="sec-n">06</span>
+    <h2>Preuves</h2>
+  </div>
+  <div class="scroll">
+    <table>
+      <thead><tr><th>Statut</th><th>Élément</th><th>Source</th></tr></thead>
+      <tbody>
+        <tr><td><span class="chip ok">Vérifié</span></td><td>Disponibilité registre — HTTP 404 = aucun enregistrement</td><td>RDAP Verisign · scan clos 2026-08-27 10:36:47 UTC</td></tr>
+        <tr><td><span class="chip ok">Vérifié</span></td><td>52 446 requêtes, 0 erreur, 0 throttling, ~157–210 req/s</td><td>Journal d'exécution versionné</td></tr>
+        <tr><td><span class="chip ok">Vérifié</span></td><td>6 finalistes : <code>available</code>, <code>isExactMatch</code>, aucun type Premium ni Auction</td><td>GoDaddy · 2026-08-27 11:03:51 UTC</td></tr>
+        <tr><td><span class="chip ok">Vérifié</span></td><td>Tarif de gros <code>.com</code> : 10,26 → <strong>10,97 USD</strong> au 1ᵉʳ nov. 2026</td><td><a href="https://domainnamewire.com/2026/04/23/breaking-verisign-raising-wholesale-com-prices/">Domain Name Wire</a></td></tr>
+        <tr><td><span class="chip ok">Vérifié</span></td><td>Marché 2024 : 185 M USD / 144 700 ventes → moyenne <strong>1 281 USD</strong></td><td><a href="https://domaindetails.com/kb/domain-investing/domain-name-valuation-guide">DomainDetails</a></td></tr>
+        <tr><td><span class="chip ok">Vérifié</span></td><td>STR sectoriel 1–1,5 %/an (portefeuille bien tarifé)</td><td><a href="https://www.namecheap.com/blog/domain-name-sell-through-rate/">Namecheap</a></td></tr>
+        <tr><td><span class="chip ok">Vérifié</span></td><td><strong>Zéro vente <code>.com</code> de deux mots sous 60 000 USD</strong> sur 243 ventes classées</td><td><a href="https://www.dnjournal.com/ytd-sales-charts.htm">DNJournal</a></td></tr>
+        <tr><td><span class="chip est">Inférence</span></td><td>Prix d'enregistrement standard ≈ 11–22 USD au détail</td><td>Absence de drapeau Premium au panier + tarif de gros uniforme</td></tr>
+        <tr><td><span class="chip est">Estimation</span></td><td>Espérance ≈ 15 USD/an/domaine (STR 1 % × 1 500 USD)</td><td>Dérivée ; le STR réel serait <em>inférieur</em></td></tr>
+        <tr><td><span class="chip no">Indisponible</span></td><td><strong>NameBio</strong> — comparables bas de gamme</td><td>Redirection anti-bot ; aucun comparable &lt; 8 000 USD vérifiable</td></tr>
+        <tr><td><span class="chip no">Indisponible</span></td><td><strong>ExpiredDomains.net</strong> — domaines supprimés</td><td>Authentification requise ; lacune la plus coûteuse du scan</td></tr>
+        <tr><td><span class="chip no">Partiel</span></td><td>Historique Archive.org des finalistes</td><td>Throttling CDX ; sur 17 contrôlés, 3 avec 1–2 captures (pages parkées)</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <p class="note"><strong style="color:var(--ink)">L'absence de comparables renforce le rejet</strong>
+  plutôt qu'elle ne l'affaiblit : je ne dispose d'aucune preuve de liquidité pour cette classe d'actif.
+  Trust Flow, diversité IP et ancres sont sans objet — les survivants n'ayant jamais été enregistrés,
+  ils n'ont ni backlinks, ni autorité, ni historique à auditer.</p>
+
+  <p class="note">Le criblage de marques est <strong style="color:var(--ink)">préliminaire</strong> et
+  repose sur des sources ouvertes. Il ne constitue pas un avis juridique et ne remplace ni une
+  recherche d'antériorité formelle USPTO/EUIPO/WIPO, ni l'avis d'un conseil en propriété industrielle.</p>
+</section>
+
+<section>
+  <div class="sec-head">
+    <span class="sec-n">07</span>
+    <h2>Recommandation</h2>
+  </div>
+  <div class="verdict" style="border-left-color:var(--accent);">
+    <p style="font-family:Newsreader,Georgia,serif; font-size:1.3rem; color:var(--ink); line-height:1.35;">
+      Ne rien acheter aujourd'hui. Conserver les 50 USD.</p>
+    <p style="font-size:.94rem;">Le budget n'est pas un objectif à consommer. Le marché du
+    <code>.com</code> de deux mots enregistrable à la main est, en août 2026, efficient au point d'en
+    être stérile : 96,7 % des noms premium que j'ai su formuler étaient déjà pris, et les 3,3 %
+    restants l'étaient pour cause de faiblesse intrinsèque.</p>
+  </div>
+
+  <h3>Comparaison avec FrostyData.com</h3>
+  <p>Aucun candidat de ce scan ne bat le repère. <span class="dom">Frosty</span> est un adjectif
+  <strong style="color:var(--ink)">distinctif et évocateur</strong> : il confère une identité de
+  marque protégeable. Mes meilleurs candidats sont des composés <em>purement descriptifs</em> — plus
+  faibles en distinctivité, plus faibles en défendabilité juridique, et faciles à contourner par un
+  fondateur qui inventera gratuitement un équivalent. Ils sont <strong style="color:var(--ink)">en
+  dessous</strong> du repère, pas au-dessus.</p>
+
+  <h3>Les trois pistes qui valent mieux que l'enregistrement à la main</h3>
+  <ol>
+    <li><strong style="color:var(--ink)">Les domaines expirés à historique propre</strong> — non
+    explorable ici faute d'accès à ExpiredDomains. C'est la lacune la plus coûteuse de ce scan.</li>
+    <li><strong style="color:var(--ink)">L'investissement prédictif</strong> — enregistrer le
+    vocabulaire d'une catégorie <em>avant</em> qu'elle ne se nomme. Cela exige une veille continue,
+    pas un scan ponctuel.</li>
+    <li><strong style="color:var(--ink)">Le rachat en aftermarket sous 500 USD</strong> — accepter un
+    coût d'entrée supérieur pour une qualité que l'enregistrement à la main ne fournit plus. Hors
+    mandat actuel, mais c'est là qu'est la valeur.</li>
+  </ol>
+</section>
+
+</div>
+
+<footer>
+  <span><strong style="color:var(--ink)">Aucun achat n'a été effectué. Aucun domaine n'a été réservé.</strong></span>
+  <span>Chaîne d'outils reproductible et résultats RDAP bruts versionnés dans <code>tools/domain-scan/</code> — chaque affirmation de ce rapport peut être rejouée et contredite.</span>
+</footer>
+</div>

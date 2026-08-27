@@ -182,3 +182,60 @@ Trois pistes ont une espérance supérieure à celle de l'enregistrement à la m
 3. **Le rachat en aftermarket sous 500 USD** — accepter un coût d'entrée supérieur pour obtenir une qualité que l'enregistrement à la main ne peut plus fournir. Hors mandat actuel (plafond 50 USD), mais c'est là que se trouve la valeur réelle.
 
 *Aucun achat n'a été effectué. Aucun domaine n'a été réservé.*
+
+---
+
+# Addendum — seconde passe (27 août 2026)
+
+**Retour utilisateur : « la liste proposée n'est pas très intéressante. » Retour fondé.**
+
+La faute revient à ma méthode autant qu'au marché : j'avais généré mon vocabulaire à partir de
+**jargon B2B** (`customs`, `lading`, `dosing`, `broll`) — des mots que personne n'a jamais voulu
+acheter. Ce qui restait libre était donc mécaniquement sans intérêt. Et je n'avais **jamais testé le
+dictionnaire anglais**, alors que le brief place les domaines d'un seul mot en tête des priorités.
+
+## Ce que la seconde passe a ajouté
+
+| Passe | Méthode | Criblés | Disponibles |
+|---|---|---:|---:|
+| 4 | **Tous les mots anglais courants** (4–11 lettres) | 24 980 | **0** |
+| 5 | Mots anglais rares, prononçables (5–9 lettres) | 124 001 | 29 178 |
+| 6 | Paires évocatrices (matières, lumière, nature, structure) | 3 831 | 1 064 |
+| | **Cumul général avec la première passe** | **205 258** | **57 907** |
+
+### Résultat décisif sur le mot unique
+
+**24 980 mots anglais courants criblés → zéro disponible.** Sans exception. Et les 29 178 mots rares
+encore libres sont des entrées taxonomiques ou dialectales illisibles (`asmear`, `boyaus`, `dhourra`,
+`khahoon`), sans aucune valeur de marque. **L'espace du domaine d'un seul mot est épuisé.**
+
+### Ce qui a réellement mieux fonctionné
+
+Le vocabulaire *évocateur* — et non le jargon — a produit des noms nettement supérieurs. Les paires
+« modificateur fort + tête forte » ne sont disponibles qu'à **11,5 %**, confirmant une fois de plus
+l'efficience du marché, mais les survivants sont cette fois de vrais noms de marque.
+
+| Domaine | Score | Verdict | Thèse |
+|---|---:|---|---|
+| **BrookVault.com** | **73** | WATCH | Gestion de patrimoine, family office, custody, coffre documentaire |
+| QuartzFoundry.com | 69 | WATCH | Venture studio, hardware, agence de design ; *quartz* parle aussi à la pierre |
+| LaurelTower.com | 69 | WATCH | Immobilier, cabinets d'avocats, conseil, hôtellerie |
+| BrookSummit.com | 68 | WATCH | Conseil, capital-investissement, événementiel |
+| CometCompass.com | 66 | REJET | **Compass Inc** domine l'espace du mot |
+| GlimmerPress.com | 64 | REJET | Édition : marché en contraction |
+
+Disponibilité vérifiée chez GoDaddy le **2026-08-27** : les six en correspondance exacte,
+`available: true`, sans indicateur Premium ni Auction. Aucune collision de marque détectée sur
+BrookVault ni QuartzFoundry.
+
+## Conclusion révisée
+
+Le meilleur candidat passe de **65 à 73/100**. C'est un gain réel et il valide la critique. Mais
+73 reste **neuf points sous le seuil de 82**, et je n'ajusterai pas le barème pour l'y faire entrer.
+
+**Verdict maintenu : aucune recommandation d'achat.**
+
+Si vous souhaitez néanmoins engager 11 USD, **BrookVault.com** est le seul nom des 205 258 que je
+porterais : profondeur d'acheteurs réelle (cinq catégories crédibles), phonétique propre, test radio
+réussi, aucun risque juridique repéré. Ce n'est pas le trésor rare recherché — c'est un billet de
+loterie à faible coût, et il faut l'appeler ainsi.

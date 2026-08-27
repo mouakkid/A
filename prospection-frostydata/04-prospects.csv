@@ -1,0 +1,10 @@
+rang,entreprise,contact_email,source_adresse,pays,segment,probabilite,prix_annonce_usd,statut,date_envoi,relance_1,relance_2
+1,Frosty AI,brittany@gofrosty.ai,PyPI metadata paquet frosty-ai,US,Marque Frosty + analytics LLM,4/5,1950,brouillon,,,
+2,Snowplow,media@snowplow.io,snowplow.io/contact-us,UK,Data pipeline / branding neige,2/5,1950,brouillon,,,
+3,Submer,contact@submer.com,submer.com/contact,ES,Immersion cooling datacenter,2/5,1950,brouillon,,,
+4,ZutaCore,info@zutacore.com,zutacore.com/contact,IL,Direct-on-chip cooling,2/5,1950,brouillon,,,
+5,Chilldyne,info@chilldyne.com,chilldyne.com/contact,US,Liquid cooling,2/5,1950,brouillon,,,
+6,Cryoport,info@cryoport.com,cryoport.com/contact,US,Cold chain + data,2/5,1950,brouillon,,,
+7,ELPRO,usa@elpro.com,elpro.com/en/contact,CH,Data loggers temperature,2/5,1950,brouillon,,,
+8,Tive,support@tive.com,tive.com,US,Cold chain temps reel,1/5,1950,brouillon,,,
+9,Grit Brokerage,michael@gritbrokerage.com,gritbrokerage.com/contact,US,Courtage / wholesale,3/5,350-600 wholesale,brouillon,,,

@@ -36,22 +36,31 @@ Ce sont les résultats contre-intuitifs qui font la valeur de partage.
 
 ## Post 2 — Le paradoxe de la disponibilité des données
 
-> Le meilleur argument contre « il nous faut plus de données » m'a été donné par un Plant Manager d'une société d'emballage :
->
-> *« Notre client FMCG a cinq fois plus de données que nous sur la demande de ses produits. Pourtant nos prévisions de besoins en emballage sont plus précises que les siennes sur ses ventes finales. La raison est simple : nos données sont structurées, cohérentes, historiquement fiables. Les siennes sont volumineuses, mais hétérogènes. »*
->
-> C'est le résultat le plus fortement confirmé de ma recherche : sur 10 entretiens, **les 10 répondants** citent la qualité des données comme le facteur le plus déterminant. Avant l'algorithme. Sans exception.
->
-> Le discours technologique dominant présente le choix du modèle comme la variable clé. Le terrain révèle une **hiérarchie inversée** :
->
-> *« Nous avons passé plus de temps à nettoyer et standardiser nos données qu'à affiner les modèles. Et franchement, c'est ce travail "ennuyeux" qui fait la vraie différence. »*
->
-> Plus de données ne produit pas mécaniquement de meilleures prévisions.
-> Mieux structurées, oui.
->
-> #DataGovernance #SupplyChain #IA #Prevision
+*(version longue, ton personnel — recommandée)*
 
----
+> Pendant mon Global Executive MBA à TBS Casablanca, j'ai consacré mon mémoire de fin d'études à une question que je me pose depuis longtemps sur le terrain : pourquoi deux entreprises qui déploient les mêmes outils d'IA en supply chain n'obtiennent pas du tout les mêmes résultats.
+>
+> Pour y répondre, j'ai mené dix entretiens entre janvier et mars 2026 auprès de responsables supply chain au Maroc. FMCG, pharmaceutique, emballage, logistique.
+>
+> Je m'attendais à ce qu'on me parle de modèles et d'algorithmes. On m'a parlé de données, presque uniquement.
+>
+> L'échange qui m'a le plus marqué vient d'un Plant Manager dans l'emballage. Il m'a raconté, sans y voir quoi que ce soit d'extraordinaire, qu'un de ses clients FMCG disposait de cinq fois plus de données que lui sur la demande de ses propres produits. Et que ses prévisions à lui, sur les besoins en emballage, étaient pourtant plus précises que celles de son client sur ses ventes finales.
+>
+> Son explication tenait en une phrase : « Nos données sont structurées, cohérentes et historiquement fiables. Les leurs sont volumineuses, mais hétérogènes. »
+>
+> Sur les dix personnes interrogées, les dix ont cité la qualité des données comme le facteur le plus déterminant de leur trajectoire, avant la sophistication des outils. Sans exception. C'est le point sur lequel mon terrain a été le plus unanime, et de loin.
+>
+> Un directeur de planification me disait : « Nous avons passé plus de temps à nettoyer et standardiser nos données qu'à affiner les modèles. Et franchement, c'est ce travail ennuyeux qui fait la vraie différence. »
+>
+> Ça ne fait pas une belle slide en comité d'investissement. Mais après dix entretiens, c'est la seule chose sur laquelle tout le monde était d'accord.
+>
+> #SupplyChain #MBA #TBSCasablanca #IA #Donnees
+
+**Notes de rédaction**
+- Le premier verbatim a été passé au discours indirect, sauf sa dernière phrase. Deux raisons : ça se lit
+  comme une conversation racontée plutôt que comme une citation collée, et ça retire le « notre client FMCG »
+  qui, dans un secteur restreint, aurait pu rendre l'entreprise identifiable.
+- Aucun chiffre ni fonction n'a été ajouté par rapport au mémoire.
 
 ## Post 3 — Le « pride of craft » : ce sont vos meilleurs qui résistent
 

@@ -88,6 +88,38 @@ Ce sont les résultats contre-intuitifs qui font la valeur de partage.
 - Le genre des répondants n'apparaît pas dans le mémoire : les formulations restent neutres.
 - Les deux derniers verbatims relèvent de H3 (leadership intermédiaire comme médiateur), section 3.2.3.
 
+**Visuel — prompt de génération (à garder en anglais)**
+
+Concept : les mains d'un planificateur posées sur un tirage papier annoté, l'écran du dashboard flou derrière.
+L'expertise accumulée au premier plan, l'outil au second. Aucun cliché d'IA (robot, cerveau lumineux, circuits).
+
+```
+Close-up documentary photograph of an experienced planner's hands resting flat on a printed
+demand-planning sheet covered in handwritten pen annotations, crossed-out figures and circled
+numbers. The paper is slightly worn and curled at the edge, a simple ballpoint pen held loosely
+between two fingers. Behind, out of focus, the cold blue glow of a dashboard monitor showing
+faint charts. Warm desk-lamp light falls on the paper, cool screen light rims the background,
+creating a quiet tension between the two. Plain industrial office, early morning. Shot on a
+50mm lens at f/2.0, shallow depth of field, natural light, muted desaturated palette, restrained
+editorial photography, no visible face, no legible text. Aspect ratio 4:5.
+```
+
+Negative prompt :
+```
+robot, robotic hand, humanoid, glowing brain, neural network graphic, circuit board, hologram,
+floating UI, neon blue HUD, futuristic overlay, sci-fi, stock-photo smile, corporate handshake,
+logos, brand names, legible text, watermark, oversaturated colours, lens flare
+```
+
+- Midjourney : ajouter `--ar 4:5 --style raw --s 50`
+- Format : 4:5 (1080×1350) pour occuper le maximum de hauteur dans le fil. 1.91:1 (1200×627) si vous préférez le bandeau classique.
+- Variante si vous voulez une présence humaine : `Environmental portrait, wide shot, of a supply
+  chain planner standing in front of a wall of printed planning charts in a plant office, seen from
+  behind, shoulders relaxed, looking at the charts. Backlit by a window. Documentary style, muted
+  palette, 35mm, f/4.` — de dos, ce qui évite d'incarner un répondant identifiable.
+- Le post cite des répondants anonymisés : le visuel ne doit pas se lire comme leur photo. Visage hors champ
+  ou de dos, et mention « image générée » si votre usage habituel le prévoit.
+
 ## Post 4 — Vos modèles de prévision ne connaissent pas le Ramadan
 
 > Un angle mort que peu d'éditeurs assument.

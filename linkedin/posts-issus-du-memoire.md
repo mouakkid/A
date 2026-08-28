@@ -64,22 +64,29 @@ Ce sont les résultats contre-intuitifs qui font la valeur de partage.
 
 ## Post 3 — Le « pride of craft » : ce sont vos meilleurs qui résistent
 
-> Une idée reçue que mon terrain a démentie : la résistance à l'IA viendrait des profils les moins qualifiés.
->
-> C'est l'inverse.
->
-> *« Mes meilleurs planificateurs — ceux qui maîtrisent parfaitement les méthodes statistiques après dix ans de pratique — sont aussi ceux qui résistent le plus. Ils ne voient pas les outils d'IA comme des amplificateurs de leur expertise, mais comme des substituts qui remettent en cause la valeur de leur savoir-faire accumulé. »*
-> — Responsable planification, PME agroalimentaire
->
-> Un dirigeant l'a formulé plus crûment : *« La résistance n'est pas une question d'incompétence. C'est un problème psychologique qu'aucun projet de change management traditionnel ne résout vraiment. »*
->
-> J'ai nommé ce phénomène le **pride of craft**. Il est peu documenté en Supply Chain Management, et les modèles classiques d'acceptation technologique (TAM) ne le captent pas : ils supposent que l'utilité perçue emporte l'adhésion. Ici, plus l'expertise est solide, plus la menace identitaire est forte.
->
-> Conséquence pratique : on ne conduit pas le changement de la même manière auprès d'un expert que d'un débutant. Le premier n'a pas besoin d'être formé. Il a besoin que son expertise reste visible dans le nouveau dispositif.
->
-> #Leadership #SupplyChain #IA #ConduiteDuChangement
+*(version longue, ton personnel — recommandée)*
 
----
+> Quand j'ai lancé les entretiens de mon mémoire de Global Executive MBA à TBS Casablanca, j'avais une idée assez arrêtée de ce que j'allais trouver sur la résistance aux outils d'IA. Je me trompais.
+>
+> Je pensais que les réticences viendraient des profils les moins à l'aise avec le chiffre et les outils. Ce sont les plus solides qui résistent le plus, et on me l'a décrit dans plusieurs entreprises, avec presque les mêmes mots.
+>
+> Dans une PME agroalimentaire, la personne en charge de la planification me l'a formulé ainsi : « Mes meilleurs planificateurs, ceux qui maîtrisent parfaitement les méthodes statistiques après dix ans de pratique, sont aussi ceux qui résistent le plus aux outils d'IA. Ils ne les perçoivent pas comme des amplificateurs de leur expertise, mais comme des substituts qui remettent en cause la valeur de leur savoir-faire. »
+>
+> Et plus loin dans le même entretien : « La résistance n'est pas une question d'incompétence. C'est un problème psychologique qu'aucun projet de change management traditionnel ne résout vraiment. »
+>
+> J'ai appelé ce phénomène le pride of craft. Il est peu documenté dans la littérature en supply chain, et les modèles classiques d'acceptation technologique ne le voient pas venir : ils partent du principe qu'un outil utile finit par être adopté. Ici, plus l'expertise est solide, plus elle a quelque chose à perdre.
+>
+> Le terrain m'a aussi donné un début de réponse, et elle ne passe pas par la formation. Un directeur général m'a parlé du champion fonctionnel : « Sans quelqu'un qui maîtrise à la fois le supply chain et un peu d'analytique pour faire le pont avec les data scientists, les projets meurent. » Et chez un logisticien qui accompagne des dizaines de clients FMCG marocains, on m'a dit que l'obstacle principal n'était ni technique ni financier mais humain, et que cette résistance est gérée ou ne l'est pas selon la qualité du leadership intermédiaire.
+>
+> J'en retiens une chose pour ma propre pratique. Un expert n'a pas besoin qu'on le forme à l'outil. Il a besoin de voir où son expertise reste indispensable dans le nouveau dispositif. Tant que ce n'est pas clair, il a raison de résister.
+>
+> #SupplyChain #MBA #TBSCasablanca #Leadership #IA
+
+**Notes de rédaction**
+- Les deux premiers verbatims viennent du même entretien (INT-02, responsable planification). La version
+  précédente attribuait le second à « un dirigeant », ce qui était faux.
+- Le genre des répondants n'apparaît pas dans le mémoire : les formulations restent neutres.
+- Les deux derniers verbatims relèvent de H3 (leadership intermédiaire comme médiateur), section 3.2.3.
 
 ## Post 4 — Vos modèles de prévision ne connaissent pas le Ramadan
 

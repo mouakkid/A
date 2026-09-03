@@ -82,7 +82,7 @@ const Services: React.FC = () => {
               <div className="bg-[#0b0c15]/90 h-full p-8 rounded-[22px] relative z-10 hover:bg-[#0b0c15]/50 transition-colors">
                 <div className={`w-14 h-14 rounded-2xl bg-gradient-to-br ${service.gradient} p-0.5 mb-6`}>
                    <div className="w-full h-full bg-[#0b0c15] rounded-[14px] flex items-center justify-center">
-                      <service.icon className="w-7 h-7 text-white" />
+                      <service.icon className="w-7 h-7 text-white" aria-hidden="true" />
                    </div>
                 </div>
                 

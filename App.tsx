@@ -12,7 +12,7 @@ const App: React.FC = () => {
     <div className="min-h-screen bg-[#030014] overflow-hidden selection:bg-indigo-500/30">
       <div className="fixed inset-0 bg-grid pointer-events-none z-0" />
       <Navbar />
-      <main className="relative z-10">
+      <main id="main-content" className="relative z-10">
         <Hero />
         <Services />
         <Industries />

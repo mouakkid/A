@@ -36,7 +36,7 @@ const About: React.FC = () => {
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-10">
               {benefits.map((item, index) => (
                 <div key={index} className="flex items-center gap-3">
-                  <CheckCircle2 className="w-5 h-5 text-indigo-500 flex-shrink-0" />
+                  <CheckCircle2 className="w-5 h-5 text-indigo-500 flex-shrink-0" aria-hidden="true" />
                   <span className="text-gray-300 font-medium">{item}</span>
                 </div>
               ))}
@@ -46,7 +46,7 @@ const About: React.FC = () => {
               href="mailto:contact@acode.tech"
               className="inline-flex items-center gap-2 px-8 py-3 bg-white/5 border border-white/10 rounded-full text-white font-medium hover:bg-white/10 transition-colors"
             >
-              <Mail className="w-5 h-5" />
+              <Mail className="w-5 h-5" aria-hidden="true" />
               Envoyer un email directement
             </a>
           </motion.div>
@@ -60,9 +60,11 @@ const About: React.FC = () => {
              {/* Image Container with Style */}
             <div className="relative rounded-2xl overflow-hidden border border-white/10 shadow-2xl">
                 <div className="absolute inset-0 bg-indigo-600/20 mix-blend-overlay z-10"></div>
-                <img 
-                    src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&q=80&w=2070" 
-                    alt="Equipe ACode Tech" 
+                <img
+                    src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&q=80&w=2070"
+                    alt="L'équipe ACode.tech au travail"
+                    loading="lazy"
+                    decoding="async"
                     className="w-full h-auto object-cover"
                 />
                 

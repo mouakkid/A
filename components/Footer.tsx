@@ -9,7 +9,7 @@ const Footer: React.FC = () => {
           {/* Brand */}
           <div className="col-span-1">
             <a href="#" className="flex items-center gap-2 mb-6 group w-fit">
-              <Code2 className="w-6 h-6 text-indigo-500 group-hover:text-indigo-400 transition-colors" />
+              <Code2 className="w-6 h-6 text-indigo-500 group-hover:text-indigo-400 transition-colors" aria-hidden="true" />
               <span className="font-display font-bold text-2xl tracking-tighter text-white">
                 ACode<span className="text-indigo-500">.tech</span>
               </span>
@@ -18,9 +18,20 @@ const Footer: React.FC = () => {
               Expertise digitale à Casablanca. Développement Mobile, Web & Cybersécurité pour propulser votre entreprise vers de nouveaux sommets.
             </p>
             <div className="flex gap-4">
-              {[Twitter, Linkedin, Github].map((Icon, i) => (
-                <a key={i} href="#" className="p-2 bg-white/5 rounded-full hover:bg-indigo-500 hover:text-white transition-all text-gray-400">
-                  <Icon className="w-5 h-5" />
+              {[
+                { Icon: Twitter, label: 'Twitter', href: 'https://twitter.com/acode_tech' },
+                { Icon: Linkedin, label: 'LinkedIn', href: 'https://www.linkedin.com/company/acode-tech' },
+                { Icon: Github, label: 'GitHub', href: 'https://github.com/' },
+              ].map(({ Icon, label, href }) => (
+                <a
+                  key={label}
+                  href={href}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label={`ACode.tech sur ${label}`}
+                  className="p-2 bg-white/5 rounded-full hover:bg-indigo-500 hover:text-white transition-all text-gray-400"
+                >
+                  <Icon className="w-5 h-5" aria-hidden="true" />
                 </a>
               ))}
             </div>
@@ -42,11 +53,11 @@ const Footer: React.FC = () => {
             <h4 className="text-white font-bold mb-6">Contact</h4>
             <ul className="space-y-4 text-gray-400">
               <li className="flex items-center gap-3">
-                 <Mail className="w-5 h-5 text-indigo-500 shrink-0" />
+                 <Mail className="w-5 h-5 text-indigo-500 shrink-0" aria-hidden="true" />
                  <a href="mailto:contact@acode.tech" className="hover:text-white transition-colors break-all">contact@acode.tech</a>
               </li>
               <li className="flex items-center gap-3">
-                 <MapPin className="w-5 h-5 text-indigo-500 shrink-0" />
+                 <MapPin className="w-5 h-5 text-indigo-500 shrink-0" aria-hidden="true" />
                  <span>Casablanca, Maroc</span>
               </li>
             </ul>

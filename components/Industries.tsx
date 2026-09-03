@@ -81,9 +81,11 @@ const Industries: React.FC = () => {
                 >
                     {/* Background Image */}
                     <div className="absolute inset-0">
-                        <img 
-                            src={item.image} 
-                            alt={item.title} 
+                        <img
+                            src={item.image}
+                            alt={item.title}
+                            loading="lazy"
+                            decoding="async"
                             className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110 grayscale group-hover:grayscale-0"
                         />
                         <div className="absolute inset-0 bg-gradient-to-t from-[#02020a] via-[#02020a]/80 to-transparent opacity-90 group-hover:opacity-60 transition-opacity" />

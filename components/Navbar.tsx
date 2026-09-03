@@ -23,15 +23,16 @@ const Navbar: React.FC = () => {
 
   return (
     <nav
+      aria-label="Navigation principale"
       className={`fixed w-full z-50 transition-all duration-300 ${
         scrolled ? 'bg-[#030014]/80 backdrop-blur-md border-b border-white/5 py-4' : 'bg-transparent py-6'
       }`}
     >
       <div className="container mx-auto px-6 flex justify-between items-center">
         {/* Logo */}
-        <a href="#" className="flex items-center gap-2 group">
+        <a href="#" aria-label="ACode.tech — Accueil" className="flex items-center gap-2 group">
           <div className="p-2 bg-indigo-600/20 rounded-lg group-hover:bg-indigo-600/30 transition-colors">
-            <Code2 className="w-6 h-6 text-indigo-400" />
+            <Code2 className="w-6 h-6 text-indigo-400" aria-hidden="true" />
           </div>
           <span className="font-display font-bold text-2xl tracking-tighter">
             ACode<span className="text-indigo-500">.tech</span>
@@ -47,24 +48,31 @@ const Navbar: React.FC = () => {
               className="text-sm font-medium text-gray-300 hover:text-white transition-colors relative group"
             >
               {link.name}
-              <span className="absolute -bottom-1 left-0 w-0 h-0.5 bg-indigo-500 transition-all group-hover:w-full" />
+              <span
+                aria-hidden="true"
+                className="absolute -bottom-1 left-0 w-0 h-0.5 bg-indigo-500 transition-all group-hover:w-full"
+              />
             </a>
           ))}
           <a
             href="mailto:contact@acode.tech"
             className="px-6 py-2.5 bg-white text-[#030014] font-semibold rounded-full hover:bg-indigo-50 transition-colors text-sm flex items-center gap-2"
           >
-            <Mail className="w-4 h-4" />
+            <Mail className="w-4 h-4" aria-hidden="true" />
             contact@acode.tech
           </a>
         </div>
 
         {/* Mobile Toggle */}
         <button
+          type="button"
           onClick={() => setIsOpen(!isOpen)}
+          aria-label={isOpen ? 'Fermer le menu' : 'Ouvrir le menu'}
+          aria-expanded={isOpen}
+          aria-controls="mobile-menu"
           className="md:hidden text-gray-300 hover:text-white"
         >
-          {isOpen ? <X /> : <Menu />}
+          {isOpen ? <X aria-hidden="true" /> : <Menu aria-hidden="true" />}
         </button>
       </div>
 
@@ -72,6 +80,7 @@ const Navbar: React.FC = () => {
       <AnimatePresence>
         {isOpen && (
           <motion.div
+            id="mobile-menu"
             initial={{ opacity: 0, height: 0 }}
             animate={{ opacity: 1, height: 'auto' }}
             exit={{ opacity: 0, height: 0 }}

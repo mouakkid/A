@@ -41,7 +41,7 @@ test.describe("parcours critiques", () => {
 
   test("outil allure : calcul et passages", async ({ page }) => {
     await page.goto("/outils/allure-vitesse-temps?mode=pace&allure=5:00&d=10k");
-    await expect(page.getByText("50:00")).toBeVisible();
+    await expect(page.getByRole("definition").filter({ hasText: "50:00" }).first()).toBeVisible();
     await expect(page.getByRole("heading", { name: "Tableau de passages" })).toBeVisible();
   });
 
@@ -53,7 +53,7 @@ test.describe("parcours critiques", () => {
     await expect(page.getByText("Fréquence cardiaque", { exact: true })).toBeVisible();
     await page.getByRole("button", { name: "Analyser un autre fichier" }).click();
     await input.setInputFiles({ name: "xxe.gpx", mimeType: "application/gpx+xml", buffer: readFileSync("tests/fixtures/malicious-xxe.gpx") });
-    await expect(page.getByText(/DOCTYPE|refusé/)).toBeVisible();
+    await expect(page.getByText(/déclaration DOCTYPE/)).toBeVisible();
   });
 
   test("inscription → sujet de forum → réponse persistée", async ({ page }) => {

@@ -12,7 +12,12 @@ export function MegaMenu({ items }: { items: NavItem[] }) {
   const pathname = usePathname();
   const closeTimer = useRef<number | null>(null);
 
-  useEffect(() => setOpen(null), [pathname]);
+  // Fermer le menu lors d'un changement de route (dérivé pendant le rendu, sans effet).
+  const [prevPath, setPrevPath] = useState(pathname);
+  if (prevPath !== pathname) {
+    setPrevPath(pathname);
+    setOpen(null);
+  }
 
   useEffect(() => {
     function onKey(e: KeyboardEvent) {

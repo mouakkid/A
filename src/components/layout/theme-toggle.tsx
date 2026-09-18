@@ -1,5 +1,5 @@
 "use client";
-import { useEffect, useState } from "react";
+import { useSyncExternalStore } from "react";
 import { Moon, Sun, MonitorSmartphone } from "lucide-react";
 
 type Mode = "system" | "light" | "dark";
@@ -11,22 +11,31 @@ export function applyTheme(mode: Mode) {
   root.setAttribute("data-theme", dark ? "dark" : "light");
 }
 
+const listeners = new Set<() => void>();
+function readMode(): Mode {
+  try {
+    const v = localStorage.getItem(KEY);
+    if (v === "light" || v === "dark" || v === "system") return v;
+  } catch {}
+  return "system";
+}
+function subscribe(cb: () => void) {
+  listeners.add(cb);
+  window.addEventListener("storage", cb);
+  return () => {
+    listeners.delete(cb);
+    window.removeEventListener("storage", cb);
+  };
+}
+
 export function ThemeToggle() {
-  const [mode, setMode] = useState<Mode>("system");
-  useEffect(() => {
-    let stored: Mode = "system";
-    try {
-      const v = localStorage.getItem(KEY);
-      if (v === "light" || v === "dark" || v === "system") stored = v;
-    } catch {}
-    setMode(stored);
-  }, []);
+  const mode = useSyncExternalStore(subscribe, readMode, () => "system" as Mode);
   function change(next: Mode) {
-    setMode(next);
     try {
       localStorage.setItem(KEY, next);
     } catch {}
     applyTheme(next);
+    listeners.forEach((l) => l());
   }
   const options: { value: Mode; label: string; icon: typeof Sun }[] = [
     { value: "system", label: "Automatique", icon: MonitorSmartphone },

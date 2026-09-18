@@ -10,7 +10,7 @@ export function parseFrontmatter(raw: string): { data: Record<string, unknown>; 
     const kv = line.match(/^([A-Za-z0-9_]+):\s*(.*)$/);
     if (!kv) { i++; continue; }
     const key = kv[1];
-    let val = kv[2].trim();
+    const val = kv[2].trim();
     if (val === "" && lines[i + 1]?.match(/^\s+-\s+/)) {
       const arr: unknown[] = [];
       i++;

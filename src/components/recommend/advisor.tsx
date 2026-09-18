@@ -1,5 +1,5 @@
 "use client";
-import { useEffect, useMemo, useState } from "react";
+import { useMemo, useState } from "react";
 import Link from "next/link";
 import { useRouter, useSearchParams } from "next/navigation";
 import { ArrowLeft, ArrowRight, RotateCcw, Link2 } from "lucide-react";
@@ -104,9 +104,16 @@ export function Advisor({ devices }: { devices: Device[] }) {
   const [touched, setTouched] = useState<Set<string>>(new Set(initial ? steps.map((s) => s.key) : []));
   const done = step >= steps.length;
 
-  useEffect(() => {
-    if (initial) { setAnswers(initial.answers); setStep(steps.length); }
-  }, [initial]);
+  // Synchronisation avec l'URL (partage de résultat) dérivée pendant le rendu.
+  const [prevInitial, setPrevInitial] = useState(initial);
+  if (initial !== prevInitial) {
+    setPrevInitial(initial);
+    if (initial) {
+      setAnswers(initial.answers);
+      setStep(steps.length);
+      setTouched(new Set(steps.map((s) => s.key)));
+    }
+  }
 
   const result = useMemo(() => (done ? recommend(devices, answers) : null), [done, devices, answers]);
   const current = steps[step];

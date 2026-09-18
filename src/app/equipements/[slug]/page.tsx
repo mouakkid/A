@@ -6,7 +6,6 @@ import { getDeviceBySlug, getDevicesBySlugs, listPublishedDevices } from "@/lib/
 import { listArticlesForDevice, articlePath } from "@/lib/content/queries";
 import { deviceDisplayName, categoryLabels, sportLabels } from "@/lib/catalog/types";
 import { buildComparison } from "@/lib/catalog/compare";
-import { specGroups } from "@/lib/catalog/labels";
 import { Breadcrumbs } from "@/components/ui/breadcrumbs";
 import { Badge, ProvenanceBadge } from "@/components/ui/badge";
 import { SpecValue } from "@/components/catalog/spec-value";

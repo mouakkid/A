@@ -25,7 +25,7 @@ export function RevealObserver() {
     );
     nodes.forEach((n) => io.observe(n));
     // Sécurité : tout ce qui n'a pas été vu après 2,5 s devient visible (éviter un contenu masqué).
-    const t = window.setTimeout(() => nodes.forEach((n) => n.classList.add("is-visible")), 2500);
+    const t = window.setTimeout(() => nodes.forEach((n) => n.classList.add("is-visible")), 1500);
     return () => {
       io.disconnect();
       window.clearTimeout(t);

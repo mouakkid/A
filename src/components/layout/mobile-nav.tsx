@@ -15,7 +15,11 @@ export function MobileNav({ items, user }: { items: NavItem[]; user: { username:
   const panelRef = useRef<HTMLDivElement>(null);
   const firstFocus = useRef<HTMLButtonElement>(null);
 
-  useEffect(() => setOpen(false), [pathname]);
+  const [prevPath, setPrevPath] = useState(pathname);
+  if (prevPath !== pathname) {
+    setPrevPath(pathname);
+    setOpen(false);
+  }
   useEffect(() => {
     if (!open) return;
     const prev = document.body.style.overflow;

@@ -1,0 +1,183 @@
+{
+  "slug": "venu-x1",
+  "model": "Venu X1",
+  "variant": null,
+  "family": "Venu",
+  "category": "bien-etre-fitness",
+  "status": "published",
+  "officialUrl": "https://www.garmin.com/fr-FR/p/1510465",
+  "lastVerifiedAt": "2026-09-18",
+  "spec": {
+    "price": {
+      "amount": 699.99,
+      "currency": "EUR",
+      "market": "FR",
+      "note": "prix catalogue affiché sur garmin.com fr-FR ; prix promotionnel affiché : 599,99€ (économie 100,00€)"
+    },
+    "dimensionsMm": "41 x 46 x 7.9",
+    "weightG": 34,
+    "display": {
+      "type": "AMOLED",
+      "sizeIn": 2,
+      "resolution": "448 x 486",
+      "touchscreen": true
+    },
+    "battery": [
+      {
+        "mode": "Mode montre connectée",
+        "claim": "Jusqu'à 8 jours"
+      },
+      {
+        "mode": "Mode montre connectée",
+        "claim": "jusqu'à 8 jours (2 jours avec l'écran activé en permanence)"
+      },
+      {
+        "mode": "Mode montre connectée en économie d'énergie",
+        "claim": "jusqu'à 11 jours"
+      },
+      {
+        "mode": "Mode GNSS, GPS seul",
+        "claim": "jusqu'à 16 heures"
+      },
+      {
+        "mode": "Mode GNSS, tous les systèmes",
+        "claim": "jusqu'à 14 heures"
+      },
+      {
+        "mode": "Mode GNSS, tous les systèmes de localisation avec musique",
+        "claim": "jusqu'à 7 heures"
+      }
+    ],
+    "gnss": {
+      "systems": [
+        "GPS",
+        "GLONASS",
+        "Galileo",
+        "QZSS",
+        "BeiDou"
+      ],
+      "multiband": null,
+      "satiq": null
+    },
+    "maps": {
+      "preloadedMaps": true,
+      "turnByTurnRouting": null,
+      "courses": true
+    },
+    "sensors": [
+      "Moniteur de fréquence cardiaque au poignet Garmin Elevate™",
+      "Oxymètre de pouls pour l'acclimatation",
+      "Altimètre barométrique",
+      "Compas",
+      "Gyroscope",
+      "Accéléromètre",
+      "Thermomètre",
+      "Capteur de luminosité ambiante"
+    ],
+    "features": {
+      "musicStorage": true,
+      "garminPay": true,
+      "ecg": null,
+      "flashlight": true,
+      "solar": null,
+      "wifi": true,
+      "trainingReadiness": true,
+      "hrvStatus": true,
+      "bodyBattery": true,
+      "morningReport": true,
+      "speakerMic": true
+    },
+    "waterRating": "5 ATM",
+    "connectivity": [
+      "Bluetooth",
+      "ANT+",
+      "Wi-Fi"
+    ],
+    "materials": {
+      "bezel": null,
+      "lens": "Sapphire",
+      "case": "Polymère renforcé avec fond de boîtier en titane"
+    },
+    "sportProfilesHighlight": [
+      "Triathlon",
+      "Natation/Course à pied",
+      "Course sur tapis",
+      "Course sur piste en intérieur",
+      "Course virtuelle",
+      "Course à pied",
+      "Course sur piste en extérieur",
+      "Trail Running",
+      "Ultrafond",
+      "Course d'obstacles",
+      "Course d'aventure",
+      "Randonnée",
+      "Escalade en salle",
+      "Escalade sur bloc",
+      "Montagne",
+      "Chasse",
+      "Rucking",
+      "Alpinisme",
+      "Expédition",
+      "Équitation",
+      "Golf",
+      "Disc Golf",
+      "Tir à l'arc",
+      "Velo",
+      "Vélo de route",
+      "VTT",
+      "Vélo gravel",
+      "Trajets quotidiens à vélo",
+      "Cyclotourisme",
+      "Vélo électrique",
+      "VTT électrique",
+      "Vélo en Intérieur",
+      "Cyclocross",
+      "BMX",
+      "Natation en piscine",
+      "Natation en eau libre"
+    ],
+    "rawNotes": "Nom officiel sur la fiche : Venu® X1 | availabilityDate (code du site) : 1-3_days | Prêt à être expédié dans 1 à 3 jours ouvrables. | SKU par défaut analysé : 010-02980-02 (Noir avec fond de boîtier en titane Gray et bracelet en nylon ComfortFit noir) | Poids (verbatim) : 34 g (40 g avec bracelet ComfortFit) | Type d'affichage (verbatim) : AMOLED (mode activé en permanence en option) | Format d'affichage (verbatim) : 51,2 mm (2″) de diagonale ; surface d'affichage de 1304 mm2 | Résistance à l'eau (verbatim) : 5 ATM, natation | Mémoire (verbatim) : 32 Go"
+  },
+  "editorial": {
+    "positioning": "Montre ultra-fine (7,9 mm) à grand écran AMOLED 2\" avec cartographie : le design d'abord, l'autonomie ensuite.",
+    "sports": [
+      "fitness",
+      "marche",
+      "running",
+      "randonnee"
+    ],
+    "profiles": [
+      "Usage quotidien premium",
+      "Marche et randonnée légère"
+    ],
+    "strengths": [
+      "Cartes préchargées, lampe, haut-parleur, musique, paiement listés.",
+      "34 g et 7,9 mm d'épaisseur.",
+      "Écran 2\" très lisible."
+    ],
+    "limits": [
+      "Autonomie annoncée la plus courte du catalogue (jusqu'à 8 jours en mode montre, 16 h en GPS).",
+      "Multi-bande et ECG non mentionnés.",
+      "Prix de référence 699,99 € ; 5 ATM."
+    ],
+    "alternatives": [
+      "venu-4-45mm",
+      "forerunner-970",
+      "fenix-e-47mm"
+    ],
+    "guides": [],
+    "observations": [],
+    "decision": {
+      "tier": "haut",
+      "sizeClass": "standard",
+      "batteryClass": "courte"
+    }
+  },
+  "sources": [
+    {
+      "label": "Fiche produit Garmin (fr-FR)",
+      "url": "https://www.garmin.com/fr-FR/p/1510465",
+      "accessedAt": "2026-09-18"
+    }
+  ]
+}

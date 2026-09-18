@@ -1,0 +1,191 @@
+{
+  "slug": "fenix-9-47mm",
+  "model": "fēnix 9",
+  "variant": "47 mm",
+  "family": "fēnix",
+  "category": "montre-multisport",
+  "status": "published",
+  "officialUrl": "https://www.garmin.com/fr-FR/p/2021193",
+  "lastVerifiedAt": "2026-09-18",
+  "spec": {
+    "price": {
+      "amount": 999.99,
+      "currency": "EUR",
+      "market": "FR",
+      "note": "prix catalogue affiché sur garmin.com fr-FR ; autres versions du même produit affichées à : 1049,99€"
+    },
+    "dimensionsMm": "47 x 47 x 13.8",
+    "weightG": 75,
+    "display": {
+      "type": "AMOLED",
+      "sizeIn": 1.4,
+      "resolution": "454 x 454",
+      "touchscreen": true
+    },
+    "battery": [
+      {
+        "mode": "Mode montre connectée",
+        "claim": "Jusqu'à 16 jours"
+      },
+      {
+        "mode": "Mode économie d'énergie",
+        "claim": "jusqu'à 24 jours"
+      },
+      {
+        "mode": "Mode activité (normal)",
+        "claim": "jusqu'à 30 heures"
+      },
+      {
+        "mode": "Mode activité + musique (normal)",
+        "claim": "jusqu'à 12 heures"
+      },
+      {
+        "mode": "Mode activité (autonomie max.)",
+        "claim": "jusqu'à 81 heures"
+      },
+      {
+        "mode": "Mode activité (batterie longue durée)",
+        "claim": "jusqu'à 37 heures"
+      },
+      {
+        "mode": "Mode activité (précision max.)",
+        "claim": "jusqu'à 25 heures"
+      },
+      {
+        "mode": "Mode expédition",
+        "claim": "jusqu'à 18 jours"
+      }
+    ],
+    "gnss": {
+      "systems": [
+        "GPS",
+        "GLONASS",
+        "Galileo",
+        "QZSS",
+        "BeiDou"
+      ],
+      "multiband": true,
+      "satiq": true
+    },
+    "maps": {
+      "preloadedMaps": true,
+      "turnByTurnRouting": null,
+      "courses": true
+    },
+    "sensors": [
+      "Moniteur de fréquence cardiaque au poignet Garmin Elevate™",
+      "Oxymètre de pouls pour l'acclimatation",
+      "Altimètre barométrique",
+      "Compas",
+      "Gyroscope",
+      "Accéléromètre",
+      "Thermomètre",
+      "Capteur de luminosité ambiante",
+      "Capteur de profondeur : Oui (jusqu'à 40 m)"
+    ],
+    "features": {
+      "musicStorage": true,
+      "garminPay": true,
+      "ecg": true,
+      "flashlight": true,
+      "solar": null,
+      "wifi": true,
+      "trainingReadiness": true,
+      "hrvStatus": true,
+      "bodyBattery": true,
+      "morningReport": true,
+      "speakerMic": true
+    },
+    "waterRating": "10 ATM",
+    "connectivity": [
+      "Bluetooth",
+      "ANT+",
+      "Wi-Fi"
+    ],
+    "materials": {
+      "bezel": "Titane",
+      "lens": "Sapphire",
+      "case": "Polymère renforcé de fibres avec fond de boitier en titane"
+    },
+    "sportProfilesHighlight": [
+      "Natation/Course à pied",
+      "Triathlon",
+      "Course sur tapis",
+      "Course sur piste en intérieur",
+      "Course virtuelle",
+      "Course à pied",
+      "Course sur piste en extérieur",
+      "Trail Running",
+      "Ultrafond",
+      "Course d'obstacles",
+      "Randonnée",
+      "Rucking",
+      "Escalade en salle",
+      "Escalade sur bloc",
+      "Alpinisme",
+      "Chasse",
+      "Équitation",
+      "Golf",
+      "Disc Golf",
+      "ArcheryX",
+      "Vélo",
+      "Vélo de route",
+      "VTT",
+      "Vélo gravel",
+      "Trajets quotidiens à vélo",
+      "Cyclotourisme",
+      "Vélo électrique",
+      "VTT électrique",
+      "Vélo en Intérieur",
+      "Cyclocross",
+      "BMX",
+      "Natation en piscine",
+      "Natation en eau libre"
+    ],
+    "rawNotes": "Nom officiel sur la fiche : fēnix® 9 – 47mm | availabilityDate (code du site) : 1-3_days | Prêt à être expédié dans 1 à 3 jours ouvrables. | SKU par défaut analysé : 010-04762-01 (Titanium avec bracelet en silicone gris galet/gris cendré) | Taille/poignet : 47 x 47 x 13,8 mm / Bracelets adaptés aux poignets de tailles suivantes : / Bracelet en silicone : 125-208 mm / Bracelet Ultrafit : 125-215 mm / Bracelet en cuir : 132-210 mm / ComfortFit Court : 132-202 mm / ComfortFit Long : 152-227 mm | Poids (verbatim) : 75 g (boîtier uniquement : 53 g) | Format d'affichage (verbatim) : Diamètre de 35,56 mm (1,4″) | Mémoire (verbatim) : 64 GB"
+  },
+  "editorial": {
+    "positioning": "Nouvelle génération fēnix en 47 mm AMOLED : la référence multisport, allégée par rapport à la fēnix 8.",
+    "sports": [
+      "trail",
+      "randonnee",
+      "running",
+      "triathlon",
+      "natation",
+      "cyclisme"
+    ],
+    "profiles": [
+      "Sportifs polyvalents exigeants",
+      "Traileurs"
+    ],
+    "strengths": [
+      "Cartes préchargées, multi-bande, 10 ATM, lampe, ECG, haut-parleur listés.",
+      "75 g, plus légère que la fēnix 8 47 mm (80 g).",
+      "Autonomie annoncée jusqu'à 16 jours en mode montre."
+    ],
+    "limits": [
+      "Prix de référence 999,99 €.",
+      "Nouveauté : peu de retours d'usage et pas de test par la rédaction.",
+      "Pour l'autonomie maximale, préférer une version solaire ou Enduro."
+    ],
+    "alternatives": [
+      "fenix-9-pro-47mm",
+      "fenix-8-amoled-47mm",
+      "forerunner-970"
+    ],
+    "guides": [],
+    "observations": [],
+    "decision": {
+      "tier": "expert",
+      "sizeClass": "standard",
+      "batteryClass": "longue"
+    }
+  },
+  "sources": [
+    {
+      "label": "Fiche produit Garmin (fr-FR)",
+      "url": "https://www.garmin.com/fr-FR/p/2021193",
+      "accessedAt": "2026-09-18"
+    }
+  ]
+}

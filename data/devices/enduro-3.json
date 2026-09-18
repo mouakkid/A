@@ -1,0 +1,196 @@
+{
+  "slug": "enduro-3",
+  "model": "Enduro 3",
+  "variant": null,
+  "family": "Enduro",
+  "category": "montre-multisport",
+  "status": "published",
+  "officialUrl": "https://www.garmin.com/fr-FR/p/851039",
+  "lastVerifiedAt": "2026-09-18",
+  "spec": {
+    "price": {
+      "amount": 799.99,
+      "currency": "EUR",
+      "market": "FR",
+      "note": "prix catalogue affiché sur garmin.com fr-FR"
+    },
+    "dimensionsMm": "51 x 51 x 15.7",
+    "weightG": 63,
+    "display": {
+      "type": "MIP",
+      "sizeIn": 1.4,
+      "resolution": "280 x 280",
+      "touchscreen": true
+    },
+    "battery": [
+      {
+        "mode": "Mode montre connectée",
+        "claim": "Jusqu'à 36 jours (90 jours grâce au verre solaire)"
+      },
+      {
+        "mode": "Mode montre connectée",
+        "claim": "jusqu'à 36 jours/90 jours grâce au verre solaire*"
+      },
+      {
+        "mode": "Mode montre économie d'énergie",
+        "claim": "jusqu'à 92 jours/illimité grâce au verre solaire*"
+      },
+      {
+        "mode": "GPS seul",
+        "claim": "jusqu'à 120 heures/320 heures grâce au verre solaire**"
+      },
+      {
+        "mode": "Tous les systèmes satellites",
+        "claim": "jusqu'à 80 heures/144 heures grâce au verre solaire*"
+      },
+      {
+        "mode": "Tous les systèmes satellites et multibandes",
+        "claim": "jusqu'à 60 heures/90 heures grâce au verre solaire***"
+      },
+      {
+        "mode": "Tous les systèmes satellites et la musique",
+        "claim": "jusqu'à 22 heures"
+      },
+      {
+        "mode": "Mode GPS batterie maximum",
+        "claim": "jusqu'à 210 heures/illimité grâce au verre solaire**"
+      },
+      {
+        "mode": "GPS expédition",
+        "claim": "jusqu'à 77 jours/illimité grâce au verre solaire*"
+      },
+      {
+        "mode": "Autonomie de la batterie",
+        "claim": "/ *Captation solaire, avec une utilisation quotidienne, 3 heures par jour en extérieur, en plein soleil (50 000 lux)"
+      }
+    ],
+    "gnss": {
+      "systems": [
+        "GPS",
+        "GLONASS",
+        "Galileo",
+        "QZSS",
+        "BeiDou"
+      ],
+      "multiband": true,
+      "satiq": true
+    },
+    "maps": {
+      "preloadedMaps": true,
+      "turnByTurnRouting": null,
+      "courses": true
+    },
+    "sensors": [
+      "Moniteur de fréquence cardiaque au poignet Garmin Elevate™",
+      "Oxymètre de pouls pour l'acclimatation",
+      "Altimètre barométrique",
+      "Compas",
+      "Gyroscope",
+      "Accéléromètre",
+      "Thermomètre",
+      "Capteur de luminosité ambiante"
+    ],
+    "features": {
+      "musicStorage": true,
+      "garminPay": true,
+      "ecg": true,
+      "flashlight": true,
+      "solar": true,
+      "wifi": true,
+      "trainingReadiness": true,
+      "hrvStatus": true,
+      "bodyBattery": true,
+      "morningReport": true,
+      "speakerMic": null
+    },
+    "waterRating": "10 ATM",
+    "connectivity": [
+      "Bluetooth",
+      "ANT+",
+      "Wi-Fi"
+    ],
+    "materials": {
+      "bezel": "Titane",
+      "lens": "Power Sapphire™",
+      "case": "Polymère renforcé de fibres"
+    },
+    "sportProfilesHighlight": [
+      "Natation/Course à pied",
+      "Triathlon",
+      "Course sur tapis",
+      "Course sur piste en intérieur",
+      "Course virtuelle",
+      "Course à pied",
+      "Course sur piste en extérieur",
+      "Trail Running",
+      "Ultrafond",
+      "course d'obstacles",
+      "Randonnée",
+      "Rucking",
+      "Escalade en salle",
+      "Escalade sur bloc",
+      "Alpinisme",
+      "Chasse",
+      "Équitation",
+      "Golf",
+      "Disc Golf",
+      "Tir à l'arc",
+      "Velo",
+      "Vélo de route",
+      "VTT",
+      "Vélo gravel",
+      "Trajets quotidiens à vélo",
+      "Cyclotourisme",
+      "Vélo électrique",
+      "VTT électrique",
+      "Vélo en Intérieur",
+      "Cyclocross",
+      "BMX",
+      "Natation en piscine",
+      "Natation en eau libre"
+    ],
+    "rawNotes": "Nom officiel sur la fiche : Enduro™ 3 | availabilityDate (code du site) : 1-3_days | Prêt à être expédié dans 1 à 3 jours ouvrables. | SKU par défaut analysé : 010-02751-01 (Titane avec traitement Carbon Gray DLC et bracelet UltraFit en nylon noir) | Taille/poignet : 51 x 51 x 15,7 mm / Bracelets adaptés aux poignets de tailles suivantes : / Bracelet en silicone : de 127 à 210 mm / Bracelet UltraFit : 127-225 mm / Bracelet en cuir : de 135 à 213 mm / Bracelet en métal : de 135 à 225 mm | Poids (verbatim) : 63 g (boîtier uniquement : 57 g) | Type d'affichage (verbatim) : Antireflet, MIP transflectif | Format d'affichage (verbatim) : 35,56 mm (1,4″) de diamètre | Note batterie : **Captation solaire, avec une utilisation en plein soleil à 50 000 lux | Note batterie : **Recharge solaire, avec une utilisation en plein soleil à 50 000 lux ; en cas d'utilisation normale avec la technologie SatIQ | Mémoire (verbatim) : 32 Go"
+  },
+  "editorial": {
+    "positioning": "La montre d'ultra-endurance : MIP solaire 51 mm, autonomie annoncée jusqu'à 120 h en GPS, cartographie, 63 g seulement.",
+    "sports": [
+      "trail",
+      "randonnee",
+      "running",
+      "cyclisme"
+    ],
+    "profiles": [
+      "Ultra-traileurs",
+      "Multi-jours et raids"
+    ],
+    "strengths": [
+      "Autonomie annoncée jusqu'à 36 jours en mode montre (90 avec solaire) et 120 h en GPS (320 h avec solaire).",
+      "Cartes préchargées, multi-bande, lampe LED, ECG, 10 ATM.",
+      "Plus légère que la fēnix 8 51 mm (63 g contre 95 g)."
+    ],
+    "limits": [
+      "Écran MIP moins contrasté en intérieur.",
+      "Boîtier 51 mm imposant sur un petit poignet.",
+      "Haut-parleur et micro non mentionnés sur la fiche."
+    ],
+    "alternatives": [
+      "fenix-8-solar-51mm",
+      "instinct-3-solar-45mm",
+      "fenix-9-pro-47mm"
+    ],
+    "guides": [],
+    "observations": [],
+    "decision": {
+      "tier": "expert",
+      "sizeClass": "large",
+      "batteryClass": "tres-longue"
+    }
+  },
+  "sources": [
+    {
+      "label": "Fiche produit Garmin (fr-FR)",
+      "url": "https://www.garmin.com/fr-FR/p/851039",
+      "accessedAt": "2026-09-18"
+    }
+  ]
+}

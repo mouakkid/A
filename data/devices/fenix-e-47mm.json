@@ -1,0 +1,189 @@
+{
+  "slug": "fenix-e-47mm",
+  "model": "fēnix E",
+  "variant": "47 mm, AMOLED",
+  "family": "fēnix",
+  "category": "montre-multisport",
+  "status": "published",
+  "officialUrl": "https://www.garmin.com/fr-FR/p/1652337",
+  "lastVerifiedAt": "2026-09-18",
+  "spec": {
+    "price": {
+      "amount": 599.99,
+      "currency": "EUR",
+      "market": "FR",
+      "note": "prix catalogue affiché sur garmin.com fr-FR ; prix promotionnel affiché : 479,99€ (économie 120,00€)"
+    },
+    "dimensionsMm": "47 x 47 x 14.5",
+    "weightG": 76,
+    "display": {
+      "type": "AMOLED",
+      "sizeIn": 1.3,
+      "resolution": "416 x 416",
+      "touchscreen": true
+    },
+    "battery": [
+      {
+        "mode": "Mode montre connectée",
+        "claim": "Jusqu'à 16 jours (6 jours avec l'écran activé en permanence)"
+      },
+      {
+        "mode": "Montre connectée",
+        "claim": "jusqu'à 16 jours (6 jours écran toujours allumé)"
+      },
+      {
+        "mode": "Mode économie d'énergie",
+        "claim": "jusqu'à 21 jours"
+      },
+      {
+        "mode": "GPS uniquement",
+        "claim": "jusqu'à 42 heures (30 heures écran toujours allumé)"
+      },
+      {
+        "mode": "Tous les systèmes satellitaires",
+        "claim": "jusqu'à 32 heures (24 heures écran toujours allumé)"
+      },
+      {
+        "mode": "Tous les systèmes satellites + musique",
+        "claim": "jusqu'à 10 heures"
+      },
+      {
+        "mode": "GPS batterie maximum",
+        "claim": "jusqu'à 75 heures"
+      },
+      {
+        "mode": "GPS expédition",
+        "claim": "jusqu'à 14 jours"
+      }
+    ],
+    "gnss": {
+      "systems": [
+        "GPS",
+        "GLONASS",
+        "Galileo",
+        "QZSS",
+        "BeiDou"
+      ],
+      "multiband": null,
+      "satiq": null
+    },
+    "maps": {
+      "preloadedMaps": true,
+      "turnByTurnRouting": null,
+      "courses": true
+    },
+    "sensors": [
+      "Moniteur de fréquence cardiaque au poignet Garmin Elevate™",
+      "Oxymètre de pouls pour l'acclimatation",
+      "Altimètre barométrique",
+      "Compas",
+      "Gyroscope",
+      "Accéléromètre",
+      "Thermomètre",
+      "Capteur de luminosité ambiante"
+    ],
+    "features": {
+      "musicStorage": true,
+      "garminPay": true,
+      "ecg": null,
+      "flashlight": null,
+      "solar": null,
+      "wifi": true,
+      "trainingReadiness": true,
+      "hrvStatus": true,
+      "bodyBattery": true,
+      "morningReport": true,
+      "speakerMic": null
+    },
+    "waterRating": "10 ATM",
+    "connectivity": [
+      "Bluetooth",
+      "ANT+",
+      "Wi-Fi"
+    ],
+    "materials": {
+      "bezel": "Acier inoxydable",
+      "lens": "Verre Corning® Gorilla®",
+      "case": "Polymère renforcé de fibres avec fond de boîtier en métal"
+    },
+    "sportProfilesHighlight": [
+      "Natation/Course à pied",
+      "Triathlon",
+      "Course sur tapis",
+      "Course sur piste en intérieur",
+      "Course virtuelle",
+      "Course à pied",
+      "Course sur piste en extérieur",
+      "Trail Running",
+      "Ultrafond",
+      "course d'obstacles",
+      "Randonnée",
+      "Rucking",
+      "Escalade en salle",
+      "Escalade sur bloc",
+      "Alpinisme",
+      "Chasse",
+      "Équitation",
+      "Golf",
+      "Disc Golf",
+      "Tir à l'arc",
+      "Velo",
+      "Vélo de route",
+      "VTT",
+      "Vélo gravel",
+      "Trajets quotidiens à vélo",
+      "Cyclotourisme",
+      "Vélo électrique",
+      "VTT électrique",
+      "Vélo en Intérieur",
+      "Cyclocross",
+      "BMX",
+      "Natation en piscine",
+      "Natation en eau libre"
+    ],
+    "rawNotes": "Nom officiel sur la fiche : fēnix® E – 47 mm, AMOLED | availabilityDate (code du site) : 1-3_days | Prêt à être expédié dans 1 à 3 jours ouvrables. | SKU par défaut analysé : 010-03025-00 (Acier Silver avec bracelet en silicone graphite) | Taille/poignet : 47 x 47 x 14,5 mm / Bracelets adaptés aux poignets de tailles suivantes : / Bracelet en silicone : 125-208 mm / Bracelet Ultrafit : 125-215 mm / Bracelet en cuir : 132-210 mm / Bracelet en métal : 132-215 mm | Poids (verbatim) : 76 g (boîtier uniquement : 53 g) | Format d'affichage (verbatim) : 33 mm (1,3 po) de diamètre | Cartes préchargées (verbatim) : Oui (téléchargeable) | Mémoire (verbatim) : 16 Go"
+  },
+  "editorial": {
+    "positioning": "L'entrée dans l'univers fēnix : AMOLED 47 mm, 10 ATM, cartes téléchargeables, sans plusieurs options des fēnix 8 et 9.",
+    "sports": [
+      "trail",
+      "randonnee",
+      "running",
+      "triathlon",
+      "cyclisme"
+    ],
+    "profiles": [
+      "Sportifs polyvalents à budget intermédiaire",
+      "Randonneurs"
+    ],
+    "strengths": [
+      "Cartes préchargées listées « téléchargeable » sur la fiche.",
+      "10 ATM, musique, paiement, préparation à l'entraînement.",
+      "Prix de référence nettement inférieur aux fēnix 8/9 (599,99 €)."
+    ],
+    "limits": [
+      "Multi-bande, lampe LED, ECG et haut-parleur non mentionnés sur la fiche (non vérifié).",
+      "76 g et 14,5 mm d'épaisseur.",
+      "Autonomie AMOLED réduite avec affichage permanent (6 jours annoncés)."
+    ],
+    "alternatives": [
+      "forerunner-970",
+      "fenix-8-amoled-47mm",
+      "instinct-3-amoled-45mm"
+    ],
+    "guides": [],
+    "observations": [],
+    "decision": {
+      "tier": "haut",
+      "sizeClass": "standard",
+      "batteryClass": "longue"
+    }
+  },
+  "sources": [
+    {
+      "label": "Fiche produit Garmin (fr-FR)",
+      "url": "https://www.garmin.com/fr-FR/p/1652337",
+      "accessedAt": "2026-09-18"
+    }
+  ]
+}

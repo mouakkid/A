@@ -101,7 +101,6 @@ export function Advisor({ devices }: { devices: Device[] }) {
   const initial = useMemo(() => fromParams(new URLSearchParams(sp.toString())), [sp]);
   const [answers, setAnswers] = useState<Answers>(initial?.answers ?? defaults);
   const [step, setStep] = useState(initial ? steps.length : 0);
-  const [touched, setTouched] = useState<Set<string>>(new Set(initial ? steps.map((s) => s.key) : []));
   const done = step >= steps.length;
 
   // Synchronisation avec l'URL (partage de résultat) dérivée pendant le rendu.
@@ -111,7 +110,6 @@ export function Advisor({ devices }: { devices: Device[] }) {
     if (initial) {
       setAnswers(initial.answers);
       setStep(steps.length);
-      setTouched(new Set(steps.map((s) => s.key)));
     }
   }
 
@@ -119,7 +117,6 @@ export function Advisor({ devices }: { devices: Device[] }) {
   const current = steps[step];
 
   function set(key: keyof Answers, value: string) {
-    setTouched((t) => new Set(t).add(key));
     setAnswers((a) => {
       const s = steps.find((x) => x.key === key)!;
       if (s.multi) {
@@ -135,7 +132,6 @@ export function Advisor({ devices }: { devices: Device[] }) {
   }
   function reset() {
     setAnswers(defaults);
-    setTouched(new Set());
     setStep(0);
     router.replace("/quel-garmin-choisir", { scroll: false });
   }
@@ -146,7 +142,7 @@ export function Advisor({ devices }: { devices: Device[] }) {
 
   if (!done) {
     const value = answers[current.key];
-    const canContinue = current.multi || touched.has(current.key);
+    const canContinue = true; // chaque question a une valeur par défaut valide
     return (
       <div className="mx-auto max-w-2xl">
         <ol className="flex gap-1.5" aria-label="Progression">

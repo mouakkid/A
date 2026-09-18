@@ -1,0 +1,180 @@
+{
+  "slug": "instinct-3-amoled-45mm",
+  "model": "Instinct 3",
+  "variant": "45 mm, AMOLED",
+  "family": "Instinct",
+  "category": "outdoor",
+  "status": "published",
+  "officialUrl": "https://www.garmin.com/fr-FR/p/1316397",
+  "lastVerifiedAt": "2026-09-18",
+  "spec": {
+    "price": {
+      "amount": 349.99,
+      "currency": "EUR",
+      "market": "FR",
+      "note": "prix catalogue affiché sur garmin.com fr-FR ; prix promotionnel affiché : 299,99€ (économie 50,00€)"
+    },
+    "dimensionsMm": "45 x 45 x 14.9",
+    "weightG": 53,
+    "display": {
+      "type": "AMOLED",
+      "sizeIn": 1.2,
+      "resolution": "390 x 390",
+      "touchscreen": null
+    },
+    "battery": [
+      {
+        "mode": "Mode montre connectée",
+        "claim": "Jusqu'à 18 jours (7 jours avec l'écran activé en permanence)"
+      },
+      {
+        "mode": "Mode économie d'énergie",
+        "claim": "jusqu'à 24 jours"
+      },
+      {
+        "mode": "Mode GPS seul",
+        "claim": "jusqu'à 32 heures"
+      },
+      {
+        "mode": "Tous les systèmes satellites",
+        "claim": "jusqu'à 25 heures"
+      },
+      {
+        "mode": "Tous les systèmes satellites et multi-bandes",
+        "claim": "jusqu'à 23 heures*"
+      },
+      {
+        "mode": "GPS batterie maximum",
+        "claim": "jusqu'à 68 heures"
+      },
+      {
+        "mode": "GPS expédition",
+        "claim": "jusqu'à 16 jours"
+      }
+    ],
+    "gnss": {
+      "systems": [
+        "GPS",
+        "GLONASS",
+        "Galileo",
+        "QZSS",
+        "BeiDou"
+      ],
+      "multiband": true,
+      "satiq": true
+    },
+    "maps": {
+      "preloadedMaps": null,
+      "turnByTurnRouting": null,
+      "courses": true
+    },
+    "sensors": [
+      "Moniteur de fréquence cardiaque au poignet Garmin Elevate™",
+      "Oxymètre de pouls pour l'acclimatation",
+      "Altimètre barométrique",
+      "Compas",
+      "Gyroscope",
+      "Accéléromètre",
+      "Thermomètre"
+    ],
+    "features": {
+      "musicStorage": null,
+      "garminPay": true,
+      "ecg": null,
+      "flashlight": true,
+      "solar": null,
+      "wifi": false,
+      "trainingReadiness": true,
+      "hrvStatus": true,
+      "bodyBattery": true,
+      "morningReport": true,
+      "speakerMic": null
+    },
+    "waterRating": "10 ATM",
+    "connectivity": [
+      "Bluetooth",
+      "ANT+"
+    ],
+    "materials": {
+      "bezel": "Polymère renforcé de fibres/aluminium",
+      "lens": "Verre chimiquement renforcé",
+      "case": "Polymère renforcé de fibres"
+    },
+    "sportProfilesHighlight": [
+      "Triathlon",
+      "Swimrun",
+      "Course sur tapis",
+      "Course sur piste en intérieur",
+      "Course virtuelle",
+      "Course à pied",
+      "Course sur piste en extérieur",
+      "Trail Running",
+      "course d'obstacles",
+      "Randonnée",
+      "Escalade en salle",
+      "Escalade sur bloc",
+      "Montagne",
+      "Chasse",
+      "Équitation",
+      "Golf",
+      "Disc Golf",
+      "Tir à l'arc",
+      "Velo",
+      "Vélo de route",
+      "VTT",
+      "Vélo gravel",
+      "Trajets quotidiens à vélo",
+      "Cyclotourisme",
+      "Vélo électrique",
+      "VTT électrique",
+      "Vélo en Intérieur",
+      "Cyclocross",
+      "BMX",
+      "Natation en piscine",
+      "Natation en eau libre"
+    ],
+    "rawNotes": "Nom officiel sur la fiche : Instinct® 3 – 45 mm, AMOLED | availabilityDate (code du site) : 1-3_days | Prêt à être expédié dans 1 à 3 jours ouvrables. | SKU par défaut analysé : 010-02936-00 (Noire avec bracelet noir) | Taille/poignet : 45 x 45 x 14,9 mm / Convient aux poignets d'une circonférence de 137-204 mm | Type d'affichage (verbatim) : AMOLED (toujours allumé) | Format d'affichage (verbatim) : 30 mm (1,2″) de diamètre | Note batterie : *En cas d'utilisation normale avec la technologie SatIQ | Mémoire (verbatim) : 4 GB"
+  },
+  "editorial": {
+    "positioning": "Outdoor robuste et accessible en version AMOLED : lampe, multi-bande, 10 ATM, sans cartographie mentionnée.",
+    "sports": [
+      "trail",
+      "randonnee",
+      "running",
+      "cyclisme"
+    ],
+    "profiles": [
+      "Randonneurs",
+      "Sportifs outdoor à budget maîtrisé"
+    ],
+    "strengths": [
+      "Multi-bande, lampe LED, paiement, préparation à l'entraînement listés.",
+      "10 ATM, 53 g.",
+      "Autonomie annoncée jusqu'à 18 jours en mode montre et 32 h en GPS."
+    ],
+    "limits": [
+      "Cartes préchargées non mentionnées sur la fiche.",
+      "Musique non mentionnée ; sans Wi-Fi.",
+      "Écran 1,2\" plus petit que les fēnix."
+    ],
+    "alternatives": [
+      "instinct-3-solar-45mm",
+      "fenix-e-47mm",
+      "forerunner-265"
+    ],
+    "guides": [],
+    "observations": [],
+    "decision": {
+      "tier": "milieu",
+      "sizeClass": "standard",
+      "batteryClass": "longue"
+    }
+  },
+  "sources": [
+    {
+      "label": "Fiche produit Garmin (fr-FR)",
+      "url": "https://www.garmin.com/fr-FR/p/1316397",
+      "accessedAt": "2026-09-18"
+    }
+  ]
+}

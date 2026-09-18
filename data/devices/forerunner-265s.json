@@ -1,0 +1,168 @@
+{
+  "slug": "forerunner-265s",
+  "model": "Forerunner 265S",
+  "variant": "42 mm",
+  "family": "Forerunner",
+  "category": "montre-running",
+  "status": "published",
+  "officialUrl": "https://www.garmin.com/fr-FR/p/886689",
+  "lastVerifiedAt": "2026-09-18",
+  "spec": {
+    "price": {
+      "amount": 419.99,
+      "currency": "EUR",
+      "market": "FR",
+      "note": "prix catalogue affiché sur garmin.com fr-FR ; prix promotionnel affiché : 349,99€ (économie 70,00€)"
+    },
+    "dimensionsMm": "41.7 x 41.7 x 12.9",
+    "weightG": 39,
+    "display": {
+      "type": "AMOLED",
+      "sizeIn": 1.1,
+      "resolution": "360 x 360",
+      "touchscreen": true
+    },
+    "battery": [
+      {
+        "mode": "Mode montre connectée",
+        "claim": "Jusqu'à 15 jours"
+      },
+      {
+        "mode": "Mode GNSS, GPS seul",
+        "claim": "jusqu'à 24 heures"
+      },
+      {
+        "mode": "Mode GNSS SatIQ (AutoSelect)",
+        "claim": "jusqu'à 18 heures"
+      },
+      {
+        "mode": "Mode GNSS + multibande, tous les systèmes",
+        "claim": "jusqu'à 15 heures"
+      },
+      {
+        "mode": "Mode GNSS, GPS seul avec musique",
+        "claim": "jusqu'à 7,5 heures"
+      },
+      {
+        "mode": "Mode GNSS SatIQ (AutoSelect) avec musique",
+        "claim": "jusqu'à 7 heures"
+      },
+      {
+        "mode": "Mode GNSS + multibande, tous les systèmes, avec musique",
+        "claim": "jusqu'à 6 heures"
+      }
+    ],
+    "gnss": {
+      "systems": [
+        "GPS",
+        "GLONASS",
+        "Galileo",
+        "QZSS",
+        "BeiDou"
+      ],
+      "multiband": true,
+      "satiq": true
+    },
+    "maps": {
+      "preloadedMaps": null,
+      "turnByTurnRouting": null,
+      "courses": true
+    },
+    "sensors": [
+      "Moniteur de fréquence cardiaque au poignet Garmin Elevate™",
+      "Oxymètre de pouls pour l'acclimatation",
+      "Altimètre barométrique",
+      "Compas",
+      "Gyroscope",
+      "Accéléromètre",
+      "Thermomètre",
+      "Capteur de luminosité ambiante"
+    ],
+    "features": {
+      "musicStorage": true,
+      "garminPay": true,
+      "ecg": null,
+      "flashlight": null,
+      "solar": null,
+      "wifi": true,
+      "trainingReadiness": true,
+      "hrvStatus": true,
+      "bodyBattery": true,
+      "morningReport": true,
+      "speakerMic": null
+    },
+    "waterRating": "5 ATM",
+    "connectivity": [
+      "Bluetooth",
+      "ANT+",
+      "Wi-Fi"
+    ],
+    "materials": {
+      "bezel": "Polymère renforcé de fibres",
+      "lens": "Verre Corning® Gorilla® 3",
+      "case": null
+    },
+    "sportProfilesHighlight": [
+      "Triathlon",
+      "Course sur tapis",
+      "Course sur piste en intérieur",
+      "Course virtuelle",
+      "Course à pied",
+      "Course sur piste en extérieur Trail Running",
+      "Ultrafond",
+      "Randonnée",
+      "Tir à l'arc",
+      "Escalade sur bloc",
+      "Velo",
+      "VTT",
+      "Vélo électrique",
+      "VTT électrique",
+      "Vélo en Intérieur",
+      "Natation en piscine",
+      "Natation en eau libre"
+    ],
+    "rawNotes": "Nom officiel sur la fiche : Forerunner® 265S | availabilityDate (code du site) : 1-3_days | Prêt à être expédié dans 1 à 3 jours ouvrables. | SKU par défaut analysé : 010-02810-13 (noire avec bracelet en silicone noir/jaune) | Taille/poignet : 41,7 x 41,7 x 12,9 (mm) / Convient aux poignets d'une circonférence de 115 à 178 mm | Type d'affichage (verbatim) : AMOLED ; mode activé en permanence en option | Format d'affichage (verbatim) : 28,1 mm (1,1\") de diamètre | Résistance à l'eau (verbatim) : Nager, 5 ATM | Mémoire (verbatim) : 8 GB"
+  },
+  "editorial": {
+    "positioning": "La Forerunner 265 en boîtier 41,7 mm : mêmes fonctions, format compact et autonomie annoncée légèrement supérieure.",
+    "sports": [
+      "running",
+      "trail",
+      "triathlon",
+      "cyclisme"
+    ],
+    "profiles": [
+      "Petits poignets",
+      "Coureurs réguliers"
+    ],
+    "strengths": [
+      "Format compact et 39 g seulement.",
+      "Autonomie annoncée jusqu'à 15 jours en mode montre et 24 h en GPS seul.",
+      "Multi-bande, musique et paiement comme la 265."
+    ],
+    "limits": [
+      "Écran plus petit (1,1\").",
+      "Cartes préchargées non mentionnées sur la fiche.",
+      "Étanchéité 5 ATM."
+    ],
+    "alternatives": [
+      "forerunner-265",
+      "forerunner-570-42mm",
+      "forerunner-170"
+    ],
+    "guides": [],
+    "observations": [],
+    "decision": {
+      "tier": "milieu",
+      "sizeClass": "compact",
+      "batteryClass": "moyenne"
+    }
+  },
+  "sources": [
+    {
+      "label": "Fiche produit Garmin (fr-FR)",
+      "url": "https://www.garmin.com/fr-FR/p/886689",
+      "accessedAt": "2026-09-18"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "slug": "edge-550",
+  "model": "Edge 550",
+  "variant": null,
+  "family": "Edge",
+  "category": "compteur-velo",
+  "status": "published",
+  "officialUrl": "https://www.garmin.com/fr-FR/p/1630737",
+  "lastVerifiedAt": "2026-09-18",
+  "spec": {
+    "price": {
+      "amount": 449.99,
+      "currency": "EUR",
+      "market": "FR",
+      "note": "prix catalogue affiché sur garmin.com fr-FR ; prix promotionnel affiché : 399,99€ (économie 50,00€)"
+    },
+    "dimensionsMm": "54.6 x 92.2 x 16.8",
+    "weightG": 110,
+    "display": {
+      "type": "LCD",
+      "sizeIn": 2.7,
+      "resolution": "420 x 600",
+      "touchscreen": false
+    },
+    "battery": [
+      {
+        "mode": "Autonomie de la batterie",
+        "claim": "Jusqu'à 12 heures (en utilisation exigeante)"
+      },
+      {
+        "mode": "Autonomie de la batterie",
+        "claim": "Jusqu'à 36 heures (mode économie d'énergie)"
+      }
+    ],
+    "gnss": {
+      "systems": [
+        "GPS",
+        "GLONASS",
+        "Galileo"
+      ],
+      "multiband": true,
+      "satiq": null
+    },
+    "maps": {
+      "preloadedMaps": true,
+      "turnByTurnRouting": null,
+      "courses": true
+    },
+    "sensors": [
+      "Altimètre barométrique",
+      "Gyroscope",
+      "Accéléromètre",
+      "Capteur de luminosité ambiante",
+      "Magnétomètre"
+    ],
+    "features": {
+      "musicStorage": null,
+      "garminPay": null,
+      "ecg": null,
+      "flashlight": null,
+      "solar": null,
+      "wifi": true,
+      "trainingReadiness": null,
+      "hrvStatus": null,
+      "bodyBattery": null,
+      "morningReport": null,
+      "speakerMic": null
+    },
+    "waterRating": "IPX7",
+    "connectivity": [
+      "Bluetooth",
+      "ANT+",
+      "Wi-Fi"
+    ],
+    "materials": null,
+    "sportProfilesHighlight": null,
+    "rawNotes": "Nom officiel sur la fiche : Edge® 550 | availabilityDate (code du site) : 1-3_days | Prêt à être expédié dans 1 à 3 jours ouvrables. | SKU par défaut analysé : 010-03022-01 (Édition Standard) | Type d'affichage (verbatim) : Cristaux liquides (LCD) | Format d'affichage (verbatim) : 2,7″ de diagonale | Option « écran tactile » du sélecteur de version : non | Itinéraires (verbatim) : 100 parcours | Mémoire (verbatim) : 32 Go (mémoire interne uniquement)"
+  },
+  "editorial": {
+    "positioning": "Compteur vélo 2,7\" avec carte de base et multi-bande, sans écran tactile : le cœur de la gamme Edge.",
+    "sports": [
+      "cyclisme"
+    ],
+    "profiles": [
+      "Cyclistes route et gravel",
+      "Ceux qui préfèrent les boutons"
+    ],
+    "strengths": [
+      "Carte de base et parcours listés, multi-bande.",
+      "110 g, 2,7\".",
+      "Prix de référence inférieur au 850."
+    ],
+    "limits": [
+      "Pas d'écran tactile (mentionné sur la fiche).",
+      "Autonomie annoncée jusqu'à 12 h en utilisation exigeante.",
+      "Paiement sans contact non mentionné."
+    ],
+    "alternatives": [
+      "edge-850",
+      "edge-1050"
+    ],
+    "guides": [],
+    "observations": [],
+    "decision": {
+      "tier": "milieu",
+      "sizeClass": "standard",
+      "batteryClass": "moyenne"
+    }
+  },
+  "sources": [
+    {
+      "label": "Fiche produit Garmin (fr-FR)",
+      "url": "https://www.garmin.com/fr-FR/p/1630737",
+      "accessedAt": "2026-09-18"
+    }
+  ]
+}

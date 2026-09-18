@@ -1,0 +1,191 @@
+{
+  "slug": "forerunner-570-42mm",
+  "model": "Forerunner 570",
+  "variant": "42 mm",
+  "family": "Forerunner",
+  "category": "montre-running",
+  "status": "published",
+  "officialUrl": "https://www.garmin.com/fr-FR/p/1463821",
+  "lastVerifiedAt": "2026-09-18",
+  "spec": {
+    "price": {
+      "amount": 499.99,
+      "currency": "EUR",
+      "market": "FR",
+      "note": "prix catalogue affiché sur garmin.com fr-FR ; prix promotionnel affiché : 469,99€ (économie 30,00€)"
+    },
+    "dimensionsMm": "42.4 x 42.4 x 12.9",
+    "weightG": 42,
+    "display": {
+      "type": "AMOLED",
+      "sizeIn": 1.2,
+      "resolution": "390 x 390",
+      "touchscreen": true
+    },
+    "battery": [
+      {
+        "mode": "Mode montre connectée",
+        "claim": "Jusqu'à 10 jours"
+      },
+      {
+        "mode": "Mode GNSS, GPS seul",
+        "claim": "jusqu'à 18 heures"
+      },
+      {
+        "mode": "Mode GNSS SatIQ (AutoSelect)",
+        "claim": "jusqu'à 14 heures"
+      },
+      {
+        "mode": "Mode GNSS + multi-bandes, tous les systèmes",
+        "claim": "jusqu'à 13 heures"
+      },
+      {
+        "mode": "Mode GNSS SatIQ (AutoSelect) avec musique",
+        "claim": "jusqu'à 9 heures"
+      },
+      {
+        "mode": "Mode GNSS, GPS seul avec musique",
+        "claim": "jusqu'à 8 heures"
+      },
+      {
+        "mode": "Mode GNSS + multi-bandes, tous les systèmes, avec musique",
+        "claim": "jusqu'à 8 heures"
+      },
+      {
+        "mode": "Autonomie de la batterie",
+        "claim": "Voir les détails"
+      }
+    ],
+    "gnss": {
+      "systems": [
+        "GPS",
+        "GLONASS",
+        "Galileo",
+        "QZSS",
+        "BeiDou"
+      ],
+      "multiband": true,
+      "satiq": true
+    },
+    "maps": {
+      "preloadedMaps": null,
+      "turnByTurnRouting": null,
+      "courses": true
+    },
+    "sensors": [
+      "Moniteur de fréquence cardiaque au poignet Garmin Elevate™",
+      "Oxymètre de pouls pour l'acclimatation",
+      "Altimètre barométrique",
+      "Compas",
+      "Gyroscope",
+      "Accéléromètre",
+      "Thermomètre",
+      "Capteur de luminosité ambiante"
+    ],
+    "features": {
+      "musicStorage": true,
+      "garminPay": true,
+      "ecg": null,
+      "flashlight": null,
+      "solar": null,
+      "wifi": true,
+      "trainingReadiness": true,
+      "hrvStatus": true,
+      "bodyBattery": true,
+      "morningReport": true,
+      "speakerMic": true
+    },
+    "waterRating": "5 ATM",
+    "connectivity": [
+      "Bluetooth",
+      "ANT+",
+      "Wi-Fi"
+    ],
+    "materials": {
+      "bezel": "Aluminium",
+      "lens": "Verre Corning® Gorilla® 3",
+      "case": null
+    },
+    "sportProfilesHighlight": [
+      "Triathlon",
+      "Biathlon",
+      "Enchaînement",
+      "Triathlon en piscine",
+      "Natation/Course à pied",
+      "Course sur tapis",
+      "Course sur piste en intérieur",
+      "Course virtuelle",
+      "Course à pied",
+      "Course sur piste en extérieur",
+      "Trail Running",
+      "Ultrafond",
+      "Course d'obstacles",
+      "Randonnée",
+      "Alpinisme",
+      "Escalade en salle",
+      "Escalade sur bloc",
+      "Chasse",
+      "Équitation",
+      "Golf",
+      "Disc Golf",
+      "Tir à l'arc",
+      "Rucking",
+      "Velo",
+      "Vélo de route",
+      "VTT",
+      "Vélo gravel",
+      "Trajets quotidiens à vélo",
+      "Cyclotourisme",
+      "Vélo électrique",
+      "VTT électrique",
+      "Vélo en Intérieur",
+      "Cyclocross",
+      "BMX",
+      "Natation en piscine",
+      "Natation en eau libre"
+    ],
+    "rawNotes": "Nom officiel sur la fiche : Forerunner® 570 - 42mm | availabilityDate (code du site) : 1-3_days | Prêt à être expédié dans 1 à 3 jours ouvrables. | SKU par défaut analysé : 010-02970-02 (Aluminium rose avec bracelet ivoire translucide/orange) | Taille/poignet : 42,4 x 42,4 x 12,9 (mm) / Convient aux poignets d'une circonférence de 115-178 mm | Type d'affichage (verbatim) : AMOLED (mode activé en permanence en option) | Format d'affichage (verbatim) : 30,4 mm (1,2\") de diamètre | Résistance à l'eau (verbatim) : Nager, 5 ATM | Mémoire (verbatim) : 8 GB"
+  },
+  "editorial": {
+    "positioning": "Milieu de gamme running récent en 42 mm : AMOLED, multi-bande, haut-parleur et micro, sans cartographie.",
+    "sports": [
+      "running",
+      "trail",
+      "triathlon",
+      "cyclisme"
+    ],
+    "profiles": [
+      "Coureurs réguliers",
+      "Petits poignets"
+    ],
+    "strengths": [
+      "Haut-parleur et micro listés (appels via le téléphone).",
+      "GPS multi-bande, musique, paiement, Wi-Fi.",
+      "Compacte (42,4 mm, 42 g)."
+    ],
+    "limits": [
+      "Cartes préchargées non mentionnées : vérifier si vous voulez la cartographie (voir 970).",
+      "Autonomie GPS annoncée jusqu'à 18 h, inférieure à la 265S.",
+      "Prix de référence supérieur à la 265."
+    ],
+    "alternatives": [
+      "forerunner-570-47mm",
+      "forerunner-265s",
+      "forerunner-970"
+    ],
+    "guides": [],
+    "observations": [],
+    "decision": {
+      "tier": "milieu",
+      "sizeClass": "compact",
+      "batteryClass": "moyenne"
+    }
+  },
+  "sources": [
+    {
+      "label": "Fiche produit Garmin (fr-FR)",
+      "url": "https://www.garmin.com/fr-FR/p/1463821",
+      "accessedAt": "2026-09-18"
+    }
+  ]
+}

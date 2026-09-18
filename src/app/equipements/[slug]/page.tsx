@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { ExternalLink } from "lucide-react";
-import { getDeviceBySlug, getDevicesBySlugs, listPublishedDevices } from "@/lib/catalog/queries";
+import { getDeviceBySlug, getDevicesBySlugs } from "@/lib/catalog/queries";
 import { listArticlesForDevice, articlePath } from "@/lib/content/queries";
 import { deviceDisplayName, categoryLabels, sportLabels } from "@/lib/catalog/types";
 import { buildComparison } from "@/lib/catalog/compare";
@@ -14,15 +14,6 @@ import { PlaceholderVisual } from "@/components/ui/placeholder-visual";
 import { DeviceCard } from "@/components/catalog/device-card";
 import { formatDate } from "@/lib/utils/format";
 import { ButtonLink } from "@/components/ui/button";
-
-export async function generateStaticParams() {
-  try {
-    const list = await listPublishedDevices();
-    return list.map((d) => ({ slug: d.slug }));
-  } catch {
-    return [];
-  }
-}
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const { slug } = await params;
@@ -145,7 +136,12 @@ export default async function DevicePage({ params }: { params: Promise<{ slug: s
                 </div>
               ))}
             </div>
-            {d.spec.rawNotes && <p className="mt-4 text-sm text-fg-muted">Note : {d.spec.rawNotes}</p>}
+            {d.spec.rawNotes && (
+              <details className="mt-4 rounded-xl border border-border p-4 text-sm text-fg-muted">
+                <summary className="cursor-pointer font-medium text-fg">Notes de collecte (texte brut de la fiche officielle)</summary>
+                <p className="mt-2 whitespace-pre-line">{d.spec.rawNotes}</p>
+              </details>
+            )}
           </section>
 
           {alternatives.length > 0 && (

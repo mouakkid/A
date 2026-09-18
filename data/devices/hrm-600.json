@@ -1,0 +1,121 @@
+{
+  "slug": "hrm-600",
+  "model": "HRM 600",
+  "variant": null,
+  "family": "HRM",
+  "category": "capteur-accessoire",
+  "status": "published",
+  "officialUrl": "https://www.garmin.com/fr-FR/p/1473393",
+  "lastVerifiedAt": "2026-09-18",
+  "spec": {
+    "price": {
+      "amount": 169.99,
+      "currency": "EUR",
+      "market": "FR",
+      "note": "prix catalogue affiché sur garmin.com fr-FR ; prix promotionnel affiché : 139,99€ (économie 30,00€)"
+    },
+    "dimensionsMm": "68 x 31.6 x 10",
+    "weightG": 61,
+    "display": {
+      "type": null,
+      "sizeIn": null,
+      "resolution": null,
+      "touchscreen": null
+    },
+    "battery": [
+      {
+        "mode": "Autonomie de la batterie",
+        "claim": "Jusqu'à 2 mois (utilisation 1 heure par jour)"
+      }
+    ],
+    "gnss": {
+      "systems": null,
+      "multiband": null,
+      "satiq": null
+    },
+    "maps": {
+      "preloadedMaps": null,
+      "turnByTurnRouting": null,
+      "courses": null
+    },
+    "sensors": null,
+    "features": {
+      "musicStorage": null,
+      "garminPay": null,
+      "ecg": null,
+      "flashlight": null,
+      "solar": null,
+      "wifi": null,
+      "trainingReadiness": null,
+      "hrvStatus": null,
+      "bodyBattery": null,
+      "morningReport": null,
+      "speakerMic": null
+    },
+    "waterRating": "5 ATM",
+    "connectivity": [
+      "ANT",
+      "BLE"
+    ],
+    "materials": null,
+    "sportProfilesHighlight": [
+      "Cardio",
+      "Course à pied",
+      "Vélo",
+      "Natation",
+      "Basket-ball",
+      "Volley-ball",
+      "Hockey sur gazon",
+      "Hockey sur glace",
+      "Football",
+      "Football américain",
+      "Lacrosse",
+      "Rugby",
+      "Ultimate Disc",
+      "Cricket",
+      "Softball",
+      "Baseball",
+      "Arts martiaux mixtes",
+      "Boxe"
+    ],
+    "rawNotes": "Nom officiel sur la fiche : HRM 600 | availabilityDate (code du site) : 1-3_days | Prêt à être expédié dans 1 à 3 jours ouvrables. | AVIS : Certaines juridictions réglementent ou interdisent l'utilisation de cet appareil. Il est de votre responsabilité de connaître et de respecter les lois et les droits relatifs à la confidentialité en vigueur dans les juridictions où vous comptez utiliser cet appareil. | SKU par défaut analysé : 010-13383-01 (Taille : XS-S) | Poids (verbatim) : Avec sangle M-XL : 61 g (2,2 oz) / Module uniquement : 18 g (0,65 oz) | Résistance à l'eau (verbatim) : Nager, 5 ATM | Profils : d'après « Enregistrement d'activité (contrôlé à partir de l'application Garmin Connect Mobile) »"
+  },
+  "editorial": {
+    "positioning": "Ceinture cardio haut de gamme : fréquence cardiaque précise et métriques de course, complément d'une montre.",
+    "sports": [
+      "running",
+      "cyclisme",
+      "triathlon",
+      "trail"
+    ],
+    "profiles": [
+      "Sportifs qui veulent une FC fiable en fractionné",
+      "Utilisateurs de puissance de course"
+    ],
+    "strengths": [
+      "Autonomie annoncée jusqu'à 2 mois à raison d'une heure par jour.",
+      "Enregistrement d'activité listé sur la fiche.",
+      "5 ATM."
+    ],
+    "limits": [
+      "Accessoire : nécessite un appareil compatible (vérifiez sur la fiche officielle).",
+      "Prix de référence 169,99 €.",
+      "Confort d'une ceinture sur de longues sorties : subjectif."
+    ],
+    "alternatives": [],
+    "guides": [],
+    "observations": [],
+    "decision": {
+      "tier": null,
+      "sizeClass": null,
+      "batteryClass": null
+    }
+  },
+  "sources": [
+    {
+      "label": "Fiche produit Garmin (fr-FR)",
+      "url": "https://www.garmin.com/fr-FR/p/1473393",
+      "accessedAt": "2026-09-18"
+    }
+  ]
+}

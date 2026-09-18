@@ -1,0 +1,111 @@
+{
+  "slug": "varia-rtl515",
+  "model": "Varia RTL515",
+  "variant": null,
+  "family": "Varia",
+  "category": "capteur-accessoire",
+  "status": "published",
+  "officialUrl": "https://www.garmin.com/fr-FR/p/698001",
+  "lastVerifiedAt": "2026-09-18",
+  "spec": {
+    "price": {
+      "amount": 199.99,
+      "currency": "EUR",
+      "market": "FR",
+      "note": "prix catalogue affiché sur garmin.com fr-FR ; prix promotionnel affiché : 149,99€ (économie 50,00€)"
+    },
+    "dimensionsMm": "98.6 x 19.7 x 39.6",
+    "weightG": 71,
+    "display": {
+      "type": null,
+      "sizeIn": null,
+      "resolution": null,
+      "touchscreen": null
+    },
+    "battery": [
+      {
+        "mode": "Autonomie de la batterie",
+        "claim": "6 heures en mode continu"
+      },
+      {
+        "mode": "Autonomie de la batterie",
+        "claim": "8 heures en mode peloton"
+      },
+      {
+        "mode": "Autonomie de la batterie",
+        "claim": "6 heures en mode flash de nuit"
+      },
+      {
+        "mode": "Autonomie de la batterie",
+        "claim": "16 heures en mode flash de jour"
+      }
+    ],
+    "gnss": {
+      "systems": null,
+      "multiband": null,
+      "satiq": null
+    },
+    "maps": {
+      "preloadedMaps": null,
+      "turnByTurnRouting": null,
+      "courses": null
+    },
+    "sensors": null,
+    "features": {
+      "musicStorage": null,
+      "garminPay": null,
+      "ecg": null,
+      "flashlight": null,
+      "solar": null,
+      "wifi": null,
+      "trainingReadiness": null,
+      "hrvStatus": null,
+      "bodyBattery": null,
+      "morningReport": null,
+      "speakerMic": null
+    },
+    "waterRating": "IPX7",
+    "connectivity": [
+      "ANT+",
+      "BLE"
+    ],
+    "materials": null,
+    "sportProfilesHighlight": null,
+    "rawNotes": "Nom officiel sur la fiche : Varia™ RTL515 | availabilityDate (code du site) : 1-3_days | Prêt à être expédié dans 1 à 3 jours ouvrables. | SKU par défaut analysé : 010-02377-01 (Radar avec feu arrière) | Poids (verbatim) : 71,0 g (2,5 oz) | ANT+® (verbatim) : Oui (radar, feux de vélo) | BLE (verbatim) : Oui (radar)"
+  },
+  "editorial": {
+    "positioning": "Radar arrière avec feu : détecte les véhicules qui approchent et les affiche sur un Edge ou une montre compatible.",
+    "sports": [
+      "cyclisme"
+    ],
+    "profiles": [
+      "Cyclistes sur route ouverte",
+      "Sorties en solo"
+    ],
+    "strengths": [
+      "Autonomie annoncée de 6 h en mode continu.",
+      "71 g, IPX7.",
+      "Utile sur les routes marocaines à trafic rapide."
+    ],
+    "limits": [
+      "Nécessite un appareil compatible (à vérifier sur la fiche officielle).",
+      "Prix de référence 199,99 €.",
+      "Ne remplace ni la vigilance ni un rétroviseur."
+    ],
+    "alternatives": [],
+    "guides": [],
+    "observations": [],
+    "decision": {
+      "tier": null,
+      "sizeClass": null,
+      "batteryClass": null
+    }
+  },
+  "sources": [
+    {
+      "label": "Fiche produit Garmin (fr-FR)",
+      "url": "https://www.garmin.com/fr-FR/p/698001",
+      "accessedAt": "2026-09-18"
+    }
+  ]
+}

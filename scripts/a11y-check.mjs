@@ -10,7 +10,7 @@ import { createRequire } from "node:module";
 const require = createRequire(import.meta.url);
 const axeSource = readFileSync(require.resolve("axe-core/axe.min.js"), "utf8");
 const base = process.env.BASE || "http://127.0.0.1:3100";
-const pages = (process.argv[2] || "/,/equipements,/comparer,/quel-garmin-choisir,/guides,/guides/bien-debuter-avec-une-montre-garmin,/outils,/outils/allure-vitesse-temps,/outils/inspecteur-gpx-tcx,/communaute,/connexion,/inscription,/a-propos").split(",");
+const pages = (process.argv[2] || "/,/equipements,/comparer,/quel-garmin-choisir,/guides,/guides/bien-debuter-avec-une-montre-garmin,/outils,/outils/allure-vitesse-temps,/outils/inspecteur-gpx-tcx,/communaute,/connexion,/inscription,/a-propos").split(process.argv[2] ? ";" : ",");
 const browser = await chromium.launch({ executablePath: process.env.PW_CHROMIUM || undefined });
 let total = 0;
 for (const viewport of [{ width: 1440, height: 900 }, { width: 390, height: 844 }]) {

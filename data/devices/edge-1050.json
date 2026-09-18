@@ -1,0 +1,117 @@
+{
+  "slug": "edge-1050",
+  "model": "Edge 1050",
+  "variant": null,
+  "family": "Edge",
+  "category": "compteur-velo",
+  "status": "published",
+  "officialUrl": "https://www.garmin.com/fr-FR/p/1196129",
+  "lastVerifiedAt": "2026-09-18",
+  "spec": {
+    "price": {
+      "amount": 699.99,
+      "currency": "EUR",
+      "market": "FR",
+      "note": "prix catalogue affiché sur garmin.com fr-FR ; prix promotionnel affiché : 639,99€ (économie 60,00€) ; autres versions du même produit affichées à : 799,99€"
+    },
+    "dimensionsMm": "60.2 x 118.5 x 16.3",
+    "weightG": 161,
+    "display": {
+      "type": "LCD",
+      "sizeIn": 3.5,
+      "resolution": "480 x 800",
+      "touchscreen": true
+    },
+    "battery": [
+      {
+        "mode": "Autonomie de la batterie",
+        "claim": "Jusqu'à 20 heures, en utilisation intensive"
+      },
+      {
+        "mode": "Autonomie de la batterie",
+        "claim": "Jusqu'à 60 heures, en mode économie d'énergie"
+      }
+    ],
+    "gnss": {
+      "systems": [
+        "GPS",
+        "GLONASS",
+        "Galileo"
+      ],
+      "multiband": true,
+      "satiq": null
+    },
+    "maps": {
+      "preloadedMaps": true,
+      "turnByTurnRouting": null,
+      "courses": true
+    },
+    "sensors": [
+      "Altimètre barométrique",
+      "Gyroscope",
+      "Accéléromètre",
+      "Capteur de luminosité ambiante",
+      "Magnétomètre"
+    ],
+    "features": {
+      "musicStorage": null,
+      "garminPay": true,
+      "ecg": null,
+      "flashlight": null,
+      "solar": null,
+      "wifi": true,
+      "trainingReadiness": null,
+      "hrvStatus": null,
+      "bodyBattery": null,
+      "morningReport": null,
+      "speakerMic": null
+    },
+    "waterRating": "IPX7",
+    "connectivity": [
+      "Bluetooth",
+      "ANT+",
+      "Wi-Fi"
+    ],
+    "materials": null,
+    "sportProfilesHighlight": null,
+    "rawNotes": "Nom officiel sur la fiche : Edge® 1050 | availabilityDate (code du site) : 1-3_days | Prêt à être expédié dans 1 à 3 jours ouvrables. | SKU par défaut analysé : 010-02890-01 (Standard) | Poids (verbatim) : 161 g (5.7 oz) | Type d'affichage (verbatim) : Cristaux liquides (LCD) | Format d'affichage (verbatim) : 88,9 mm (3,5″) de diagonale | Itinéraires (verbatim) : 100 parcours | Haut-parleur intégré : Oui (aucune mention de microphone dans la fiche) | Mémoire (verbatim) : Mémoire interne de 64 Go uniquement"
+  },
+  "editorial": {
+    "positioning": "Le compteur haut de gamme à grand écran 3,5\" : cartographie, paiement, autonomie annoncée jusqu'à 20 h.",
+    "sports": [
+      "cyclisme"
+    ],
+    "profiles": [
+      "Cyclistes exigeants",
+      "Longues distances et navigation"
+    ],
+    "strengths": [
+      "Écran 3,5\" LCD, carte de base et parcours, multi-bande.",
+      "Autonomie annoncée jusqu'à 20 h en utilisation intensive.",
+      "Paiement sans contact listé."
+    ],
+    "limits": [
+      "161 g : le plus lourd de la gamme.",
+      "Prix de référence 699,99 €.",
+      "Encombrant sur un cintre étroit."
+    ],
+    "alternatives": [
+      "edge-850",
+      "edge-550"
+    ],
+    "guides": [],
+    "observations": [],
+    "decision": {
+      "tier": "expert",
+      "sizeClass": "large",
+      "batteryClass": "longue"
+    }
+  },
+  "sources": [
+    {
+      "label": "Fiche produit Garmin (fr-FR)",
+      "url": "https://www.garmin.com/fr-FR/p/1196129",
+      "accessedAt": "2026-09-18"
+    }
+  ]
+}

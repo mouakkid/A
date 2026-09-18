@@ -23,15 +23,6 @@ export async function articleMetadata(type: ArticleType, slug: string): Promise<
   };
 }
 
-export async function articleStaticParams(type: ArticleType) {
-  try {
-    const list = await listPublishedArticles(type, 500);
-    return list.map((a) => ({ slug: a.slug }));
-  } catch {
-    return [];
-  }
-}
-
 export async function ArticlePage({ type, slug }: { type: ArticleType; slug: string }) {
   const a = await getPublishedArticle(type, slug);
   if (!a) notFound();

@@ -1,0 +1,165 @@
+{
+  "slug": "forerunner-170",
+  "model": "Forerunner 170",
+  "variant": null,
+  "family": "Forerunner",
+  "category": "montre-running",
+  "status": "published",
+  "officialUrl": "https://www.garmin.com/fr-FR/p/1915560",
+  "lastVerifiedAt": "2026-09-18",
+  "spec": {
+    "price": {
+      "amount": 299.99,
+      "currency": "EUR",
+      "market": "FR",
+      "note": "prix catalogue affiché sur garmin.com fr-FR"
+    },
+    "dimensionsMm": "42.6 x 42.6 x 11.9",
+    "weightG": 41,
+    "display": {
+      "type": "AMOLED",
+      "sizeIn": 1.2,
+      "resolution": "390 x 390",
+      "touchscreen": true
+    },
+    "battery": [
+      {
+        "mode": "Mode montre connectée",
+        "claim": "Jusqu'à 10 jours"
+      },
+      {
+        "mode": "Mode montre connectée",
+        "claim": "jusqu'à 10 jours (4 jours avec l'écran activé en permanence)"
+      },
+      {
+        "mode": "Mode montre connectée en économie d'énergie",
+        "claim": "jusqu'à 19 jours"
+      },
+      {
+        "mode": "Mode GNSS, GPS seul",
+        "claim": "jusqu'à 20 heures"
+      },
+      {
+        "mode": "Mode GNSS, tous les systèmes",
+        "claim": "jusqu'à 14 heures"
+      }
+    ],
+    "gnss": {
+      "systems": [
+        "GPS",
+        "GLONASS",
+        "Galileo"
+      ],
+      "multiband": null,
+      "satiq": null
+    },
+    "maps": {
+      "preloadedMaps": null,
+      "turnByTurnRouting": null,
+      "courses": true
+    },
+    "sensors": [
+      "Moniteur de fréquence cardiaque au poignet Garmin Elevate™",
+      "Oxymètre de pouls pour l'acclimatation",
+      "Altimètre barométrique",
+      "Compas",
+      "Gyroscope",
+      "Accéléromètre",
+      "Thermomètre",
+      "Capteur de luminosité ambiante"
+    ],
+    "features": {
+      "musicStorage": null,
+      "garminPay": true,
+      "ecg": null,
+      "flashlight": null,
+      "solar": null,
+      "wifi": false,
+      "trainingReadiness": true,
+      "hrvStatus": true,
+      "bodyBattery": true,
+      "morningReport": true,
+      "speakerMic": null
+    },
+    "waterRating": "5 ATM",
+    "connectivity": [
+      "Bluetooth",
+      "ANT+"
+    ],
+    "materials": {
+      "bezel": "Polymère renforcé de fibres",
+      "lens": "Verre chimiquement renforcé",
+      "case": null
+    },
+    "sportProfilesHighlight": [
+      "Course sur tapis",
+      "Course sur piste en intérieur",
+      "Course virtuelle",
+      "Course à pied",
+      "Course sur piste en extérieur",
+      "Trail Running",
+      "Ultrafond",
+      "Course d'obstacles",
+      "Randonnée",
+      "Rucking",
+      "Alpinisme",
+      "Équitation",
+      "Disc Golf",
+      "Tir à l'arc",
+      "Vélo",
+      "Vélo de route",
+      "VTT",
+      "Vélo gravel",
+      "Trajets quotidiens à vélo",
+      "Cyclotourisme",
+      "Vélo électrique",
+      "VTT électrique",
+      "Vélo en Intérieur",
+      "Cyclocross",
+      "Natation en piscine",
+      "Natation en eau libre"
+    ],
+    "rawNotes": "Nom officiel sur la fiche : Forerunner® 170 | availabilityDate (code du site) : 1-3_days | Prêt à être expédié dans 1 à 3 jours ouvrables. | SKU par défaut analysé : 010-03920-00 (Noir avec bracelet noir/jaune) | Taille/poignet : 42,6 x 42,6 x 11,9 mm / Convient aux poignets d'une circonférence de 126-203 mm | Type d'affichage (verbatim) : AMOLED (mode activé en permanence en option) | Format d'affichage (verbatim) : Diamètre de 30,4 mm (1,2″) | Résistance à l'eau (verbatim) : Nager, 5 ATM | Mémoire (verbatim) : 4 GB"
+  },
+  "editorial": {
+    "positioning": "Running d'entrée de gamme enrichi : AMOLED, préparation à l'entraînement et paiement sans contact.",
+    "sports": [
+      "running",
+      "marche",
+      "fitness"
+    ],
+    "profiles": [
+      "Coureurs réguliers",
+      "Débutants qui veulent progresser"
+    ],
+    "strengths": [
+      "Paiement sans contact et préparation à l'entraînement listés.",
+      "Compacte (42,6 mm) et légère (41 g).",
+      "Autonomie annoncée jusqu'à 20 h en GPS seul."
+    ],
+    "limits": [
+      "Musique non mentionnée sur cette fiche (une variante Music existe).",
+      "Pas de multi-bande listé.",
+      "Sans Wi-Fi."
+    ],
+    "alternatives": [
+      "forerunner-70",
+      "forerunner-265s",
+      "forerunner-165"
+    ],
+    "guides": [],
+    "observations": [],
+    "decision": {
+      "tier": "entree",
+      "sizeClass": "compact",
+      "batteryClass": "moyenne"
+    }
+  },
+  "sources": [
+    {
+      "label": "Fiche produit Garmin (fr-FR)",
+      "url": "https://www.garmin.com/fr-FR/p/1915560",
+      "accessedAt": "2026-09-18"
+    }
+  ]
+}

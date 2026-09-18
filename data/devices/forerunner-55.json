@@ -1,0 +1,122 @@
+{
+  "slug": "forerunner-55",
+  "model": "Forerunner 55",
+  "variant": null,
+  "family": "Forerunner",
+  "category": "montre-running",
+  "status": "published",
+  "officialUrl": "https://www.garmin.com/fr-FR/p/741137",
+  "lastVerifiedAt": "2026-09-18",
+  "spec": {
+    "price": null,
+    "dimensionsMm": "42 x 42 x 11.6",
+    "weightG": 37,
+    "display": {
+      "type": "MIP",
+      "sizeIn": 1.04,
+      "resolution": "208 x 208",
+      "touchscreen": null
+    },
+    "battery": [
+      {
+        "mode": "Mode montre connectée",
+        "claim": "Jusqu'à 2 semaines"
+      },
+      {
+        "mode": "Mode GPS",
+        "claim": "jusqu'à 20 heures"
+      }
+    ],
+    "gnss": {
+      "systems": [
+        "GPS",
+        "GLONASS",
+        "Galileo"
+      ],
+      "multiband": null,
+      "satiq": null
+    },
+    "maps": {
+      "preloadedMaps": null,
+      "turnByTurnRouting": null,
+      "courses": null
+    },
+    "sensors": [
+      "Moniteur de fréquence cardiaque au poignet Garmin Elevate™",
+      "Accéléromètre"
+    ],
+    "features": {
+      "musicStorage": null,
+      "garminPay": null,
+      "ecg": null,
+      "flashlight": null,
+      "solar": null,
+      "wifi": false,
+      "trainingReadiness": null,
+      "hrvStatus": null,
+      "bodyBattery": true,
+      "morningReport": null,
+      "speakerMic": null
+    },
+    "waterRating": "5 ATM",
+    "connectivity": [
+      "Bluetooth",
+      "ANT+"
+    ],
+    "materials": {
+      "bezel": null,
+      "lens": "Verre chimiquement renforcé",
+      "case": null
+    },
+    "sportProfilesHighlight": [
+      "Course sur tapis",
+      "Course sur piste en intérieur",
+      "Course à pied",
+      "Course sur piste en extérieur",
+      "Velo",
+      "Vélo en Intérieur",
+      "Natation en piscine"
+    ],
+    "rawNotes": "Nom officiel sur la fiche : Forerunner® 55 | Listé sous « Modèles précédents » sur garmin.com fr-FR | Prix non affiché sur la fiche (showPrice=false, isSellable=False) | availabilityDate (code du site) : 5-8_weeks | inStock=false sur la fiche (SKU par défaut) | SKU par défaut analysé : 010-02562-13 (Grise Monterra) | Taille/poignet : 42 × 42 × 11,6 mm / Convient aux poignets d'une circonférence de 126 à 203 mm | Type d'affichage (verbatim) : Antireflet, MIP transflectif | Format d'affichage (verbatim) : 26,3 mm (1,04″) de diamètre | Résistance à l'eau (verbatim) : Nager, 5 ATM | Mémoire (verbatim) : 32 MB"
+  },
+  "editorial": {
+    "positioning": "Montre running d'entrée de gamme à écran MIP : l'essentiel pour courir, sans fonctions avancées, avec une longue autonomie annoncée.",
+    "sports": [
+      "running",
+      "marche",
+      "fitness"
+    ],
+    "profiles": [
+      "Débutants",
+      "Coureurs occasionnels"
+    ],
+    "strengths": [
+      "Format compact et léger (37 g) pour les petits poignets.",
+      "Autonomie annoncée jusqu'à deux semaines en mode montre.",
+      "Écran MIP très lisible en plein soleil, courant au Maroc."
+    ],
+    "limits": [
+      "Fiche « Modèles précédents » : prix non affiché par le constructeur, disponibilité à vérifier.",
+      "Pas de multi-bande, de musique ni de paiement mentionnés sur la fiche.",
+      "Écran monochrome peu contrasté en intérieur."
+    ],
+    "alternatives": [
+      "forerunner-165",
+      "forerunner-70"
+    ],
+    "guides": [],
+    "observations": [],
+    "decision": {
+      "tier": "entree",
+      "sizeClass": "compact",
+      "batteryClass": "moyenne"
+    }
+  },
+  "sources": [
+    {
+      "label": "Fiche produit Garmin (fr-FR)",
+      "url": "https://www.garmin.com/fr-FR/p/741137",
+      "accessedAt": "2026-09-18"
+    }
+  ]
+}

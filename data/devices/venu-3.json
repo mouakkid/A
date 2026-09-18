@@ -1,0 +1,155 @@
+{
+  "slug": "venu-3",
+  "model": "Venu 3",
+  "variant": "45 mm",
+  "family": "Venu",
+  "category": "bien-etre-fitness",
+  "status": "published",
+  "officialUrl": "https://www.garmin.com/fr-FR/p/873008",
+  "lastVerifiedAt": "2026-09-18",
+  "spec": {
+    "price": {
+      "amount": 429.99,
+      "currency": "EUR",
+      "market": "FR",
+      "note": "prix catalogue affiché sur garmin.com fr-FR ; prix promotionnel affiché : 349,99€ (économie 80,00€) ; autres versions du même produit affichées à : 479,99€"
+    },
+    "dimensionsMm": "45 x 45 x 12",
+    "weightG": 46,
+    "display": {
+      "type": "AMOLED",
+      "sizeIn": 1.4,
+      "resolution": "454 x 454",
+      "touchscreen": true
+    },
+    "battery": [
+      {
+        "mode": "Mode montre connectée",
+        "claim": "jusqu'à 14 jours"
+      },
+      {
+        "mode": "Mode montre connectée en économie d'énergie",
+        "claim": "jusqu'à 26 jours"
+      },
+      {
+        "mode": "Mode GNSS, GPS seul",
+        "claim": "jusqu'à 26 heures"
+      },
+      {
+        "mode": "Mode GNSS, tous les systèmes",
+        "claim": "jusqu'à 20 heures"
+      },
+      {
+        "mode": "Mode GNSS, tous les systèmes avec musique",
+        "claim": "jusqu'à 11 heures"
+      }
+    ],
+    "gnss": {
+      "systems": [
+        "GPS",
+        "GLONASS",
+        "Galileo"
+      ],
+      "multiband": null,
+      "satiq": null
+    },
+    "maps": {
+      "preloadedMaps": null,
+      "turnByTurnRouting": null,
+      "courses": null
+    },
+    "sensors": [
+      "Moniteur de fréquence cardiaque au poignet Garmin Elevate™",
+      "Oxymètre de pouls pour l'acclimatation",
+      "Altimètre barométrique",
+      "Compas",
+      "Gyroscope",
+      "Accéléromètre",
+      "Thermomètre : Oui (capteur tempe™ requis)",
+      "Capteur de luminosité ambiante"
+    ],
+    "features": {
+      "musicStorage": true,
+      "garminPay": true,
+      "ecg": true,
+      "flashlight": null,
+      "solar": null,
+      "wifi": true,
+      "trainingReadiness": null,
+      "hrvStatus": true,
+      "bodyBattery": true,
+      "morningReport": true,
+      "speakerMic": true
+    },
+    "waterRating": "5 ATM",
+    "connectivity": [
+      "Bluetooth",
+      "ANT+",
+      "Wi-Fi"
+    ],
+    "materials": {
+      "bezel": "Acier inoxydable",
+      "lens": "Verre Corning® Gorilla® 3",
+      "case": "Polymère renforcé de fibres"
+    },
+    "sportProfilesHighlight": [
+      "Course sur tapis",
+      "Course sur piste en intérieur",
+      "Course à pied",
+      "Randonnée",
+      "Escalade en salle",
+      "Escalade sur bloc",
+      "Disc Golf",
+      "Velo",
+      "Vélo en Intérieur",
+      "Cyclisme à main",
+      "Cyclisme à main d'intérieur",
+      "Vélo électrique",
+      "Natation en piscine",
+      "Natation en eau libre"
+    ],
+    "rawNotes": "Nom officiel sur la fiche : Venu® 3 | Listé sous « Modèles précédents » sur garmin.com fr-FR | availabilityDate (code du site) : 1-3_days | Prêt à être expédié dans 1 à 3 jours ouvrables. | SKU par défaut analysé : 010-02784-01 (Lunette Gray en acier inoxydable avec boîtier noir et bracelet en silicone noir) | Taille/poignet : 45 x 45 x 12 mm / Convient aux poignets d'une circonférence de 135-200 mm | Poids (verbatim) : Silicone : 46 g avec bracelet inclus / Cuir : 42 g avec bracelet inclus | Type d'affichage (verbatim) : Mode AMOLED activé en permanence en option | Format d'affichage (verbatim) : 35,4 mm (1,4″) de diamètre | Résistance à l'eau (verbatim) : 5 ATM, natation | Mémoire (verbatim) : 8 GB"
+  },
+  "editorial": {
+    "positioning": "Montre bien-être et fitness AMOLED 1,4\" avec ECG, musique, haut-parleur : l'usage quotidien avant la performance.",
+    "sports": [
+      "fitness",
+      "marche",
+      "running",
+      "natation"
+    ],
+    "profiles": [
+      "Suivi santé et quotidien",
+      "Sportifs occasionnels"
+    ],
+    "strengths": [
+      "ECG, musique, paiement, haut-parleur et micro listés.",
+      "Grand écran AMOLED 1,4\" pour 46 g.",
+      "Autonomie annoncée jusqu'à 14 jours en mode montre."
+    ],
+    "limits": [
+      "Fiche « Modèles précédents » : vérifier la disponibilité.",
+      "Multi-bande et préparation à l'entraînement non mentionnés.",
+      "Cartographie non mentionnée."
+    ],
+    "alternatives": [
+      "venu-4-45mm",
+      "vivoactive-6",
+      "forerunner-265"
+    ],
+    "guides": [],
+    "observations": [],
+    "decision": {
+      "tier": "milieu",
+      "sizeClass": "standard",
+      "batteryClass": "moyenne"
+    }
+  },
+  "sources": [
+    {
+      "label": "Fiche produit Garmin (fr-FR)",
+      "url": "https://www.garmin.com/fr-FR/p/873008",
+      "accessedAt": "2026-09-18"
+    }
+  ]
+}

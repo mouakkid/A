@@ -1,0 +1,165 @@
+{
+  "slug": "vivoactive-6",
+  "model": "vívoactive 6",
+  "variant": null,
+  "family": "vívoactive",
+  "category": "bien-etre-fitness",
+  "status": "published",
+  "officialUrl": "https://www.garmin.com/fr-FR/p/1555457",
+  "lastVerifiedAt": "2026-09-18",
+  "spec": {
+    "price": {
+      "amount": 299.99,
+      "currency": "EUR",
+      "market": "FR",
+      "note": "prix catalogue affiché sur garmin.com fr-FR ; prix promotionnel affiché : 249,99€ (économie 50,00€)"
+    },
+    "dimensionsMm": "42.2 x 42.2 x 10.9",
+    "weightG": 23,
+    "display": {
+      "type": "AMOLED",
+      "sizeIn": 1.2,
+      "resolution": "390 x 390",
+      "touchscreen": true
+    },
+    "battery": [
+      {
+        "mode": "Mode montre connectée",
+        "claim": "jusqu'à 11 jours (5 jours avec l'écran activé en permanence)"
+      },
+      {
+        "mode": "Mode montre connectée en économie d'énergie",
+        "claim": "jusqu'à 21 jours"
+      },
+      {
+        "mode": "Mode GNSS, GPS seul",
+        "claim": "jusqu'à 21 heures"
+      },
+      {
+        "mode": "Mode GNSS, tous les systèmes",
+        "claim": "jusqu'à 17 heures"
+      },
+      {
+        "mode": "Mode GNSS, tous les systèmes avec musique",
+        "claim": "jusqu'à 8 heures"
+      }
+    ],
+    "gnss": {
+      "systems": [
+        "GPS",
+        "GLONASS",
+        "Galileo",
+        "QZSS",
+        "BeiDou"
+      ],
+      "multiband": null,
+      "satiq": null
+    },
+    "maps": {
+      "preloadedMaps": null,
+      "turnByTurnRouting": null,
+      "courses": null
+    },
+    "sensors": [
+      "Moniteur de fréquence cardiaque au poignet Garmin Elevate™",
+      "Oxymètre de pouls pour l'acclimatation",
+      "Compas",
+      "Gyroscope",
+      "Accéléromètre",
+      "Thermomètre : Oui (capteur tempe™ requis)",
+      "Capteur de luminosité ambiante"
+    ],
+    "features": {
+      "musicStorage": true,
+      "garminPay": true,
+      "ecg": null,
+      "flashlight": null,
+      "solar": null,
+      "wifi": true,
+      "trainingReadiness": null,
+      "hrvStatus": true,
+      "bodyBattery": true,
+      "morningReport": true,
+      "speakerMic": null
+    },
+    "waterRating": "5 ATM",
+    "connectivity": [
+      "Bluetooth",
+      "ANT+",
+      "Wi-Fi"
+    ],
+    "materials": {
+      "bezel": "Aluminium anodisé",
+      "lens": "Verre Corning® Gorilla® 3",
+      "case": "Polymère renforcé de fibres"
+    },
+    "sportProfilesHighlight": [
+      "Course sur tapis",
+      "Course sur piste en intérieur",
+      "Course à pied",
+      "Course sur piste en extérieur",
+      "Trail Running",
+      "Course d'obstacles",
+      "Randonnée",
+      "Équitation",
+      "Golf",
+      "Alpinisme",
+      "Disc Golf",
+      "Tir à l'arc",
+      "Velo",
+      "Vélo de route",
+      "Vélo gravel",
+      "Cyclotourisme",
+      "Vélo électrique",
+      "Cyclisme à main",
+      "Cyclisme à main d'intérieur",
+      "Vélo en Intérieur",
+      "Cyclocross",
+      "Natation en piscine",
+      "Natation en eau libre"
+    ],
+    "rawNotes": "Nom officiel sur la fiche : vívoactive® 6 | availabilityDate (code du site) : 1-3_days | Prêt à être expédié dans 1 à 3 jours ouvrables. | SKU par défaut analysé : 010-02985-01 (Lunar Gold avec bracelet ivoire) | Taille/poignet : 42,2 x 42,2 x10,9 mm / Convient aux poignets d'une circonférence de 125-190 mm | Poids (verbatim) : 23 g (36 g avec le bracelet inclus) | Type d'affichage (verbatim) : AMOLED (mode activé en permanence en option) | Format d'affichage (verbatim) : 30,4 mm (1,2″) de diamètre | Résistance à l'eau (verbatim) : 5 ATM, natation | Mémoire (verbatim) : 8 GB"
+  },
+  "editorial": {
+    "positioning": "La plus légère du catalogue (23 g) : bien-être, fitness et musique à prix contenu.",
+    "sports": [
+      "fitness",
+      "marche",
+      "running",
+      "natation"
+    ],
+    "profiles": [
+      "Débutants en activité physique",
+      "Suivi quotidien discret"
+    ],
+    "strengths": [
+      "23 g et 10,9 mm : on l'oublie au poignet.",
+      "Musique et paiement listés.",
+      "Autonomie annoncée jusqu'à 11 jours (5 jours écran permanent)."
+    ],
+    "limits": [
+      "Multi-bande, ECG, préparation à l'entraînement et lampe non mentionnés.",
+      "Cartographie non mentionnée.",
+      "Peu orientée compétition."
+    ],
+    "alternatives": [
+      "forerunner-70",
+      "venu-3",
+      "forerunner-165"
+    ],
+    "guides": [],
+    "observations": [],
+    "decision": {
+      "tier": "entree",
+      "sizeClass": "compact",
+      "batteryClass": "moyenne"
+    }
+  },
+  "sources": [
+    {
+      "label": "Fiche produit Garmin (fr-FR)",
+      "url": "https://www.garmin.com/fr-FR/p/1555457",
+      "accessedAt": "2026-09-18"
+    }
+  ]
+}

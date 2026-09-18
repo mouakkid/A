@@ -3,6 +3,7 @@ import { defineConfig, devices } from "@playwright/test";
 const port = 3100;
 export default defineConfig({
   testDir: "tests/e2e",
+  globalSetup: "./tests/e2e/global-setup.ts",
   timeout: 60_000,
   retries: 0,
   use: {

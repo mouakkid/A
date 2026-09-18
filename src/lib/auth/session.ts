@@ -1,6 +1,7 @@
 import "server-only";
 import { cache } from "react";
 import { cookies, headers } from "next/headers";
+import { unstable_rethrow } from "next/navigation";
 import { createHash, randomBytes } from "node:crypto";
 import { eq, and, gt } from "drizzle-orm";
 import { db, isDatabaseConfigured } from "@/lib/db/client";
@@ -70,7 +71,8 @@ export const getCurrentUser = cache(async (): Promise<CurrentUser | null> => {
       .where(and(eq(sessions.id, hashToken(token)), gt(sessions.expiresAt, new Date())))
       .limit(1);
     return rows[0] ?? null;
-  } catch {
+  } catch (e) {
+    unstable_rethrow(e); // ne jamais avaler les erreurs internes de Next (bailout dynamique, redirections)
     return null;
   }
 });

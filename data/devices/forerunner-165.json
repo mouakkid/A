@@ -1,0 +1,146 @@
+{
+  "slug": "forerunner-165",
+  "model": "Forerunner 165",
+  "variant": null,
+  "family": "Forerunner",
+  "category": "montre-running",
+  "status": "published",
+  "officialUrl": "https://www.garmin.com/fr-FR/p/1055469",
+  "lastVerifiedAt": "2026-09-18",
+  "spec": {
+    "price": {
+      "amount": 229.99,
+      "currency": "EUR",
+      "market": "FR",
+      "note": "prix catalogue affiché sur garmin.com fr-FR ; prix promotionnel affiché : 199,99€ (économie 30,00€)"
+    },
+    "dimensionsMm": "43 x 43 x 11.6",
+    "weightG": 39,
+    "display": {
+      "type": "AMOLED",
+      "sizeIn": 1.2,
+      "resolution": "390 x 390",
+      "touchscreen": true
+    },
+    "battery": [
+      {
+        "mode": "Mode montre connectée",
+        "claim": "Jusqu'à 11 jours"
+      },
+      {
+        "mode": "Mode montre connectée en économie d'énergie",
+        "claim": "jusqu'à 20 jours"
+      },
+      {
+        "mode": "Mode GNSS, GPS seul",
+        "claim": "jusqu'à 19 heures"
+      },
+      {
+        "mode": "Mode GNSS, tous les systèmes",
+        "claim": "jusqu'à 17 heures"
+      }
+    ],
+    "gnss": {
+      "systems": [
+        "GPS",
+        "GLONASS",
+        "Galileo"
+      ],
+      "multiband": null,
+      "satiq": null
+    },
+    "maps": {
+      "preloadedMaps": null,
+      "turnByTurnRouting": null,
+      "courses": true
+    },
+    "sensors": [
+      "Moniteur de fréquence cardiaque au poignet Garmin Elevate™",
+      "Oxymètre de pouls pour l'acclimatation",
+      "Altimètre barométrique",
+      "Compas",
+      "Accéléromètre",
+      "Thermomètre",
+      "Capteur de luminosité ambiante"
+    ],
+    "features": {
+      "musicStorage": null,
+      "garminPay": true,
+      "ecg": null,
+      "flashlight": null,
+      "solar": null,
+      "wifi": false,
+      "trainingReadiness": null,
+      "hrvStatus": true,
+      "bodyBattery": true,
+      "morningReport": true,
+      "speakerMic": null
+    },
+    "waterRating": "5 ATM",
+    "connectivity": [
+      "Bluetooth",
+      "ANT+"
+    ],
+    "materials": {
+      "bezel": "Polymère renforcé de fibres",
+      "lens": "Verre chimiquement renforcé",
+      "case": null
+    },
+    "sportProfilesHighlight": [
+      "Course sur tapis",
+      "Course sur piste en intérieur",
+      "Course virtuelle",
+      "Course à pied",
+      "Course sur piste en extérieur",
+      "Trail Running",
+      "Ultrafond",
+      "Randonnée",
+      "Velo",
+      "Vélo en Intérieur",
+      "Natation en piscine",
+      "Natation en eau libre"
+    ],
+    "rawNotes": "Nom officiel sur la fiche : Forerunner® 165 | Listé sous « Modèles précédents » sur garmin.com fr-FR | availabilityDate (code du site) : 5-8_weeks | Prêt à être expédié dans 5 à 8 semaines. | SKU par défaut analysé : 010-02863-21 (Blanc/Gris clair) | Taille/poignet : 43 x 43 x 11,6 mm / Convient aux poignets d'une circonférence de 126 à 203 mm | Type d'affichage (verbatim) : AMOLED (mode activé en permanence en option) | Format d'affichage (verbatim) : 30,4 mm (1,2″) de diamètre | Résistance à l'eau (verbatim) : Nager, 5 ATM | Mémoire (verbatim) : 4 GB"
+  },
+  "editorial": {
+    "positioning": "Montre running accessible avec écran AMOLED : le premier pas vers les métriques d'entraînement, à un prix contenu.",
+    "sports": [
+      "running",
+      "marche",
+      "fitness"
+    ],
+    "profiles": [
+      "Débutants",
+      "Coureurs réguliers à budget maîtrisé"
+    ],
+    "strengths": [
+      "Écran AMOLED 1,2\" lisible et coloré pour moins de 250 € de référence.",
+      "Légère (39 g) et compacte (43 mm).",
+      "Paiement sans contact listé sur la fiche."
+    ],
+    "limits": [
+      "Fiche « Modèles précédents » : vérifier la disponibilité.",
+      "Cartographie et GPS multi-bande non mentionnés sur la fiche (non vérifié).",
+      "Version Music non couverte par cette fiche."
+    ],
+    "alternatives": [
+      "forerunner-70",
+      "forerunner-170",
+      "forerunner-55"
+    ],
+    "guides": [],
+    "observations": [],
+    "decision": {
+      "tier": "entree",
+      "sizeClass": "compact",
+      "batteryClass": "moyenne"
+    }
+  },
+  "sources": [
+    {
+      "label": "Fiche produit Garmin (fr-FR)",
+      "url": "https://www.garmin.com/fr-FR/p/1055469",
+      "accessedAt": "2026-09-18"
+    }
+  ]
+}

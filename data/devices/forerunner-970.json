@@ -1,0 +1,188 @@
+{
+  "slug": "forerunner-970",
+  "model": "Forerunner 970",
+  "variant": null,
+  "family": "Forerunner",
+  "category": "montre-running",
+  "status": "published",
+  "officialUrl": "https://www.garmin.com/fr-FR/p/1462801",
+  "lastVerifiedAt": "2026-09-18",
+  "spec": {
+    "price": {
+      "amount": 749.99,
+      "currency": "EUR",
+      "market": "FR",
+      "note": "prix catalogue affiché sur garmin.com fr-FR ; prix promotionnel affiché : 649,99€ (économie 100,00€)"
+    },
+    "dimensionsMm": "47 x 47 x 12.9",
+    "weightG": 56,
+    "display": {
+      "type": "AMOLED",
+      "sizeIn": 1.4,
+      "resolution": "454 x 454",
+      "touchscreen": true
+    },
+    "battery": [
+      {
+        "mode": "Mode montre connectée",
+        "claim": "Jusqu'à 15 jours"
+      },
+      {
+        "mode": "Mode GNSS, GPS seul",
+        "claim": "jusqu'à 26 heures"
+      },
+      {
+        "mode": "Mode GNSS SatIQ (AutoSelect)",
+        "claim": "jusqu'à 23 heures"
+      },
+      {
+        "mode": "Mode GNSS + multi-bandes, tous les systèmes",
+        "claim": "jusqu'à 21 heures"
+      },
+      {
+        "mode": "Mode GNSS, GPS seul avec musique",
+        "claim": "jusqu'à 14 heures"
+      },
+      {
+        "mode": "Mode GNSS SatIQ (AutoSelect) avec musique",
+        "claim": "jusqu'à 13 heures"
+      },
+      {
+        "mode": "Mode GNSS + multi-bandes, tous les systèmes, avec musique",
+        "claim": "jusqu'à 12 heures"
+      }
+    ],
+    "gnss": {
+      "systems": [
+        "GPS",
+        "GLONASS",
+        "Galileo",
+        "QZSS",
+        "BeiDou"
+      ],
+      "multiband": true,
+      "satiq": true
+    },
+    "maps": {
+      "preloadedMaps": true,
+      "turnByTurnRouting": null,
+      "courses": true
+    },
+    "sensors": [
+      "Moniteur de fréquence cardiaque au poignet Garmin Elevate™",
+      "Oxymètre de pouls pour l'acclimatation",
+      "Altimètre barométrique",
+      "Compas",
+      "Gyroscope",
+      "Accéléromètre",
+      "Thermomètre",
+      "Capteur de luminosité ambiante"
+    ],
+    "features": {
+      "musicStorage": true,
+      "garminPay": true,
+      "ecg": true,
+      "flashlight": true,
+      "solar": null,
+      "wifi": true,
+      "trainingReadiness": true,
+      "hrvStatus": true,
+      "bodyBattery": true,
+      "morningReport": true,
+      "speakerMic": true
+    },
+    "waterRating": "5 ATM",
+    "connectivity": [
+      "Bluetooth",
+      "ANT+",
+      "Wi-Fi"
+    ],
+    "materials": {
+      "bezel": "Titane",
+      "lens": "Sapphire",
+      "case": null
+    },
+    "sportProfilesHighlight": [
+      "Triathlon",
+      "Biathlon",
+      "Enchaînement",
+      "Triathlon en piscine",
+      "Natation/Course à pied",
+      "Course sur tapis",
+      "Course sur piste en intérieur",
+      "Course virtuelle",
+      "Course à pied",
+      "Course sur piste en extérieur",
+      "Trail Running",
+      "Ultrafond",
+      "Course d'obstacles",
+      "Randonnée",
+      "Alpinisme",
+      "Escalade en salle",
+      "Escalade sur bloc",
+      "Chasse",
+      "Équitation",
+      "Golf",
+      "Disc Golf",
+      "Tir à l'arc",
+      "Rucking",
+      "Velo",
+      "Vélo de route",
+      "VTT",
+      "Vélo gravel",
+      "Trajets quotidiens à vélo",
+      "Cyclotourisme",
+      "Vélo électrique",
+      "VTT électrique",
+      "Vélo en Intérieur",
+      "Cyclocross",
+      "BMX",
+      "Natation en piscine",
+      "Natation en eau libre"
+    ],
+    "rawNotes": "Nom officiel sur la fiche : Forerunner® 970 | availabilityDate (code du site) : 1-3_days | Prêt à être expédié dans 1 à 3 jours ouvrables. | SKU par défaut analysé : 010-02969-10 (Titane Slate, boîtier noir et bracelet noir/blanc translucide) | Taille/poignet : 47 x 47 x 12,9 (mm) / Convient aux poignets d'une circonférence de 135-205 mm | Type d'affichage (verbatim) : AMOLED (mode activé en permanence en option) | Format d'affichage (verbatim) : 35,3 mm (1,4\") de diamètre | Résistance à l'eau (verbatim) : Nager, 5 ATM | Mémoire (verbatim) : 32 GB"
+  },
+  "editorial": {
+    "positioning": "Le haut de gamme running : cartographie intégrée, lampe LED, ECG, haut-parleur, dans un boîtier 47 mm.",
+    "sports": [
+      "running",
+      "trail",
+      "triathlon",
+      "cyclisme",
+      "natation"
+    ],
+    "profiles": [
+      "Coureurs et triathlètes confirmés",
+      "Traileurs qui veulent une montre légère avec cartes"
+    ],
+    "strengths": [
+      "Cartes préchargées listées, avec GPS multi-bande.",
+      "Lampe LED, ECG, haut-parleur et micro listés.",
+      "Autonomie annoncée jusqu'à 26 h en GPS seul et 15 jours en mode montre."
+    ],
+    "limits": [
+      "Prix de référence élevé (749,99 €).",
+      "Étanchéité 5 ATM (contre 10 ATM sur fēnix).",
+      "Verre et boîtier moins orientés outdoor que la gamme fēnix."
+    ],
+    "alternatives": [
+      "fenix-8-amoled-47mm",
+      "forerunner-570-47mm",
+      "fenix-e-47mm"
+    ],
+    "guides": [],
+    "observations": [],
+    "decision": {
+      "tier": "haut",
+      "sizeClass": "standard",
+      "batteryClass": "moyenne"
+    }
+  },
+  "sources": [
+    {
+      "label": "Fiche produit Garmin (fr-FR)",
+      "url": "https://www.garmin.com/fr-FR/p/1462801",
+      "accessedAt": "2026-09-18"
+    }
+  ]
+}

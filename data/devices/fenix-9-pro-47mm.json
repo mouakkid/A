@@ -1,0 +1,191 @@
+{
+  "slug": "fenix-9-pro-47mm",
+  "model": "fēnix 9 Pro",
+  "variant": "47 mm",
+  "family": "fēnix",
+  "category": "montre-multisport",
+  "status": "published",
+  "officialUrl": "https://www.garmin.com/fr-FR/p/1962732",
+  "lastVerifiedAt": "2026-09-18",
+  "spec": {
+    "price": {
+      "amount": 1099.99,
+      "currency": "EUR",
+      "market": "FR",
+      "note": "prix catalogue affiché sur garmin.com fr-FR ; autres versions du même produit affichées à : 1149,99€"
+    },
+    "dimensionsMm": "47 x 47 x 13.8",
+    "weightG": 78,
+    "display": {
+      "type": "AMOLED",
+      "sizeIn": 1.4,
+      "resolution": "454 x 454",
+      "touchscreen": true
+    },
+    "battery": [
+      {
+        "mode": "Mode montre connectée",
+        "claim": "Jusqu'à 18 jours"
+      },
+      {
+        "mode": "Mode économie d'énergie",
+        "claim": "jusqu'à 24 jours"
+      },
+      {
+        "mode": "Mode activité (normal)",
+        "claim": "jusqu'à 32 heures"
+      },
+      {
+        "mode": "Mode activité + musique (normal)",
+        "claim": "jusqu'à 13 heures"
+      },
+      {
+        "mode": "Mode activité (autonomie max.)",
+        "claim": "jusqu'à 87 heures"
+      },
+      {
+        "mode": "Mode activité (batterie longue durée)",
+        "claim": "jusqu'à 37 heures"
+      },
+      {
+        "mode": "Mode activité (précision max.)",
+        "claim": "jusqu'à 26 heures"
+      },
+      {
+        "mode": "Mode expédition",
+        "claim": "jusqu'à 18 jours"
+      }
+    ],
+    "gnss": {
+      "systems": [
+        "GPS",
+        "GLONASS",
+        "Galileo",
+        "QZSS",
+        "BeiDou"
+      ],
+      "multiband": true,
+      "satiq": true
+    },
+    "maps": {
+      "preloadedMaps": true,
+      "turnByTurnRouting": null,
+      "courses": true
+    },
+    "sensors": [
+      "Moniteur de fréquence cardiaque au poignet Garmin Elevate™",
+      "Oxymètre de pouls pour l'acclimatation",
+      "Altimètre barométrique",
+      "Compas",
+      "Gyroscope",
+      "Accéléromètre",
+      "Thermomètre",
+      "Capteur de luminosité ambiante",
+      "Capteur de profondeur : Oui (jusqu'à 40 m)"
+    ],
+    "features": {
+      "musicStorage": true,
+      "garminPay": true,
+      "ecg": true,
+      "flashlight": true,
+      "solar": null,
+      "wifi": true,
+      "trainingReadiness": true,
+      "hrvStatus": true,
+      "bodyBattery": true,
+      "morningReport": true,
+      "speakerMic": true
+    },
+    "waterRating": "10 ATM",
+    "connectivity": [
+      "Bluetooth",
+      "ANT+",
+      "Wi-Fi"
+    ],
+    "materials": {
+      "bezel": "Titane",
+      "lens": "Sapphire",
+      "case": "Titanium"
+    },
+    "sportProfilesHighlight": [
+      "Natation/Course à pied",
+      "Triathlon",
+      "Course sur tapis",
+      "Course sur piste en intérieur",
+      "Course virtuelle",
+      "Course à pied",
+      "Course sur piste en extérieur",
+      "Trail Running",
+      "Ultrafond",
+      "Course d'obstacles",
+      "Randonnée",
+      "Rucking",
+      "Escalade en salle",
+      "Escalade sur bloc",
+      "Alpinisme",
+      "Chasse",
+      "Équitation",
+      "Golf",
+      "Disc Golf",
+      "ArcheryX",
+      "Vélo",
+      "Vélo de route",
+      "VTT",
+      "Vélo gravel",
+      "Trajets quotidiens à vélo",
+      "Cyclotourisme",
+      "Vélo électrique",
+      "VTT électrique",
+      "Vélo en Intérieur",
+      "Cyclocross",
+      "BMX",
+      "Natation en piscine",
+      "Natation en eau libre"
+    ],
+    "rawNotes": "Nom officiel sur la fiche : fēnix® 9 Pro – 47mm | availabilityDate (code du site) : 1-3_days | Prêt à être expédié dans 1 à 3 jours ouvrables. | SKU par défaut analysé : 010-04336-06 (Titanium avec bracelet en silicone ocre/orange) | Taille/poignet : 47 x 47 x 13,8 mm / Bracelets adaptés aux poignets de tailles suivantes : / Bracelet en silicone : 125-208 mm / Bracelet Ultrafit : 125-215 mm / Bracelet en cuir : 132-210 mm | Poids (verbatim) : 78 g (boîtier uniquement : 56 g) | Type d'affichage (verbatim) : AMOLED (jusqu'à 3 000 nits) | Format d'affichage (verbatim) : Diamètre de 35,6 mm (1,4″) | Mémoire (verbatim) : 64 GB"
+  },
+  "editorial": {
+    "positioning": "Version Pro de la fēnix 9 en 47 mm : mêmes bases, autonomie annoncée un peu supérieure ; voir la fiche officielle pour les différences précises.",
+    "sports": [
+      "trail",
+      "randonnee",
+      "running",
+      "triathlon",
+      "natation",
+      "cyclisme"
+    ],
+    "profiles": [
+      "Sportifs polyvalents exigeants",
+      "Aventure et expéditions"
+    ],
+    "strengths": [
+      "Autonomie annoncée jusqu'à 18 jours en mode montre.",
+      "Cartes préchargées, multi-bande, 10 ATM, lampe, ECG, haut-parleur.",
+      "78 g."
+    ],
+    "limits": [
+      "Prix de référence le plus élevé du catalogue (1 099,99 €).",
+      "Les fonctions propres à la version Pro ne sont pas toutes reprises dans nos champs : consultez la fiche officielle.",
+      "Pas de test par la rédaction."
+    ],
+    "alternatives": [
+      "fenix-9-47mm",
+      "fenix-8-solar-51mm",
+      "enduro-3"
+    ],
+    "guides": [],
+    "observations": [],
+    "decision": {
+      "tier": "expert",
+      "sizeClass": "standard",
+      "batteryClass": "longue"
+    }
+  },
+  "sources": [
+    {
+      "label": "Fiche produit Garmin (fr-FR)",
+      "url": "https://www.garmin.com/fr-FR/p/1962732",
+      "accessedAt": "2026-09-18"
+    }
+  ]
+}

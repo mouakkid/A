@@ -1,0 +1,177 @@
+{
+  "slug": "instinct-3-solar-45mm",
+  "model": "Instinct 3",
+  "variant": "45 mm, Solar",
+  "family": "Instinct",
+  "category": "outdoor",
+  "status": "published",
+  "officialUrl": "https://www.garmin.com/fr-FR/p/1315317",
+  "lastVerifiedAt": "2026-09-18",
+  "spec": {
+    "price": {
+      "amount": 349.99,
+      "currency": "EUR",
+      "market": "FR",
+      "note": "prix catalogue affiché sur garmin.com fr-FR ; prix promotionnel affiché : 299,99€ (économie 50,00€)"
+    },
+    "dimensionsMm": "45 x 45 x 14.9",
+    "weightG": 52,
+    "display": {
+      "type": "MIP",
+      "sizeIn": 0.9,
+      "resolution": "176 x 176",
+      "touchscreen": null
+    },
+    "battery": [
+      {
+        "mode": "Mode montre connectée",
+        "claim": "Jusqu'à 28 jours / Illimité grâce au verre solaire"
+      },
+      {
+        "mode": "Mode montre économie d'énergie",
+        "claim": "jusqu'à 65 jours/illimité grâce au verre solaire*"
+      },
+      {
+        "mode": "Mode GPS seul",
+        "claim": "jusqu'à 40 heures/130 heures avec captation solaire**"
+      },
+      {
+        "mode": "Tous les systèmes satellites",
+        "claim": "jusqu'à 28 heures/50 heures grâce au verre solaire**"
+      },
+      {
+        "mode": "Tous les systèmes satellites et multi-bandes",
+        "claim": "jusqu'à 24 heures/40 heures grâce au verre solaire**"
+      },
+      {
+        "mode": "Mode GPS batterie maximum",
+        "claim": "jusqu'à 100 heures/illimité grâce au verre solaire**"
+      },
+      {
+        "mode": "GPS expédition",
+        "claim": "jusqu'à 36 jours/illimité grâce au verre solaire*"
+      }
+    ],
+    "gnss": {
+      "systems": [
+        "GPS",
+        "GLONASS",
+        "Galileo"
+      ],
+      "multiband": true,
+      "satiq": true
+    },
+    "maps": {
+      "preloadedMaps": null,
+      "turnByTurnRouting": null,
+      "courses": true
+    },
+    "sensors": [
+      "Moniteur de fréquence cardiaque au poignet Garmin Elevate™",
+      "Oxymètre de pouls pour l'acclimatation",
+      "Altimètre barométrique",
+      "Compas",
+      "Gyroscope",
+      "Accéléromètre",
+      "Thermomètre"
+    ],
+    "features": {
+      "musicStorage": null,
+      "garminPay": true,
+      "ecg": null,
+      "flashlight": true,
+      "solar": true,
+      "wifi": false,
+      "trainingReadiness": true,
+      "hrvStatus": true,
+      "bodyBattery": true,
+      "morningReport": true,
+      "speakerMic": null
+    },
+    "waterRating": "10 ATM",
+    "connectivity": [
+      "Bluetooth",
+      "ANT+"
+    ],
+    "materials": {
+      "bezel": "Polymère renforcé de fibres/aluminium",
+      "lens": "Power Glass™",
+      "case": "Polymère renforcé de fibres"
+    },
+    "sportProfilesHighlight": [
+      "Triathlon",
+      "Course sur tapis",
+      "Course sur piste en intérieur",
+      "Course virtuelle",
+      "Course à pied",
+      "Course sur piste en extérieur",
+      "Trail Running",
+      "course d'obstacles",
+      "Randonnée",
+      "Escalade en salle",
+      "Escalade sur bloc",
+      "Montagne",
+      "Chasse",
+      "Équitation",
+      "Golf",
+      "Disc Golf",
+      "Tir à l'arc",
+      "Velo",
+      "Vélo de route",
+      "VTT",
+      "Vélo gravel",
+      "Trajets quotidiens à vélo",
+      "Cyclotourisme",
+      "Vélo électrique",
+      "VTT électrique",
+      "Vélo en Intérieur",
+      "Cyclocross",
+      "BMX",
+      "Natation en piscine",
+      "Natation en eau libre"
+    ],
+    "rawNotes": "Nom officiel sur la fiche : Instinct® 3 – 45 mm, Solar | availabilityDate (code du site) : 5-8_weeks | Prêt à être expédié dans 5 à 8 semaines. | SKU par défaut analysé : 010-02934-00 (Noire avec bracelet noir) | Taille/poignet : 45 x 45 x 14,9 mm / Convient aux poignets d'une circonférence de 137-204 mm | Type d'affichage (verbatim) : Monochrome, antireflet, MIP (memory-in-pixel) transflectif | Format d'affichage (verbatim) : Affichage double-fenêtre personnalisable ; 23 x 23 mm (0,9″ x 0,9″) | Note batterie : *Captation de l'énergie solaire, avec une utilisation quotidienne, 3 heures par jour à l'extérieur, en plein soleil (50 000 lux) | Note batterie : **Captation de l'énergie solaire, avec une utilisation en plein soleil à 50 000 lux | Note batterie : ***Captation de l'énergie solaire, avec une utilisation en plein soleil à 50 000 lux ; en cas d'utilisation normale avec la technologie SatIQ | Mémoire (verbatim) : 128 MB"
+  },
+  "editorial": {
+    "positioning": "L'Instinct 3 en version solaire MIP : autonomie annoncée « illimitée » en mode montre avec captation solaire, au même prix de référence.",
+    "sports": [
+      "trail",
+      "randonnee",
+      "running",
+      "cyclisme"
+    ],
+    "profiles": [
+      "Randonneurs et traileurs longue distance",
+      "Sportifs qui rechargent rarement"
+    ],
+    "strengths": [
+      "Autonomie annoncée jusqu'à 28 jours en mode montre (illimitée avec solaire) et 40 h en GPS (130 h avec solaire).",
+      "Multi-bande, lampe LED, paiement, 10 ATM.",
+      "52 g."
+    ],
+    "limits": [
+      "Écran MIP 0,9\" monochrome, peu adapté à la lecture de cartes (non mentionnées de toute façon).",
+      "Musique non mentionnée ; sans Wi-Fi.",
+      "Les gains solaires annoncés supposent une forte exposition."
+    ],
+    "alternatives": [
+      "instinct-3-amoled-45mm",
+      "enduro-3",
+      "fenix-8-solar-51mm"
+    ],
+    "guides": [],
+    "observations": [],
+    "decision": {
+      "tier": "milieu",
+      "sizeClass": "standard",
+      "batteryClass": "tres-longue"
+    }
+  },
+  "sources": [
+    {
+      "label": "Fiche produit Garmin (fr-FR)",
+      "url": "https://www.garmin.com/fr-FR/p/1315317",
+      "accessedAt": "2026-09-18"
+    }
+  ]
+}

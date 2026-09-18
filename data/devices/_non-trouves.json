@@ -1,0 +1,22 @@
+[
+  {
+    "requested": "Edge 540",
+    "reason": "Absent des listings fr-FR (catégorie Cycle courante et clés « Modèles précédents » sondées 10600-10720 via /c/api/getProducts) ; les ids devinés renvoient 404. Remplacé dans le catalogue par Edge 550 (fiche 1630737, incluse).",
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "requested": "Edge 840",
+    "reason": "Absent des listings fr-FR (catégorie Cycle courante et clés « Modèles précédents » sondées) ; ids devinés 404. Remplacé dans le catalogue par Edge 850 (fiche 1630197, incluse).",
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "requested": "HRM-Pro Plus",
+    "reason": "Non listé dans les catégories fr-FR consultées (Running / accessoires : seuls HRM 600, HRM 200, HRM-Fit, HRM-Dual apparaissent). HRM 600 (fiche 1473393) inclus à la place, comme autorisé par la consigne.",
+    "checkedAt": "2026-09-18"
+  },
+  {
+    "requested": "Venu 3S",
+    "reason": "Fiche 873214 existe (listée sous « Modèles précédents ») mais non extraite : la variante Venu 3 45 mm (873008) suffit pour couvrir la famille Venu 3 ; à ajouter si besoin.",
+    "checkedAt": "2026-09-18"
+  }
+]

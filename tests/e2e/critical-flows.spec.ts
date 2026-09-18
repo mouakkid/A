@@ -5,18 +5,18 @@ test.describe("parcours critiques", () => {
   test("accueil : titre, indépendance, CTA", async ({ page }) => {
     await page.goto("/");
     await expect(page.getByRole("heading", { level: 1 })).toContainText("Tout l'univers Garmin");
-    await expect(page.getByText("Communauté indépendante — Non affiliée à Garmin").first()).toBeVisible();
+    await expect(page.locator("main").getByText("Communauté indépendante — Non affiliée à Garmin").first()).toBeVisible();
     await expect(page.getByRole("link", { name: /Trouver mon Garmin/ })).toBeVisible();
   });
 
   test("catalogue → fiche → comparateur", async ({ page }) => {
     await page.goto("/equipements");
-    const first = page.locator("article h3 a").first();
+    const first = page.locator("article h2 a").first();
     await expect(first).toBeVisible();
     const name = (await first.textContent())?.trim();
     await first.click();
     await expect(page.getByRole("heading", { level: 1 })).toContainText(name ?? "");
-    await expect(page.getByText("Caractéristiques")).toBeVisible();
+    await expect(page.getByRole("heading", { name: "Caractéristiques", exact: true })).toBeVisible();
     await page.goto("/equipements");
     const toggles = page.getByRole("button", { name: /Comparer —/ });
     await toggles.nth(0).click();

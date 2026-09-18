@@ -1,0 +1,191 @@
+{
+  "slug": "fenix-8-amoled-47mm",
+  "model": "fēnix 8",
+  "variant": "47 mm, AMOLED",
+  "family": "fēnix",
+  "category": "montre-multisport",
+  "status": "published",
+  "officialUrl": "https://www.garmin.com/fr-FR/p/1228429",
+  "lastVerifiedAt": "2026-09-18",
+  "spec": {
+    "price": {
+      "amount": 799.99,
+      "currency": "EUR",
+      "market": "FR",
+      "note": "prix catalogue affiché sur garmin.com fr-FR ; prix promotionnel affiché : 699,99€ (économie 100,00€) ; autres versions du même produit affichées à : 899,99€, 1099,99€"
+    },
+    "dimensionsMm": "47 x 47 x 13.8",
+    "weightG": 80,
+    "display": {
+      "type": "AMOLED",
+      "sizeIn": 1.4,
+      "resolution": "454 x 454",
+      "touchscreen": true
+    },
+    "battery": [
+      {
+        "mode": "Mode montre connectée",
+        "claim": "Jusqu'à 16 jours (7 jours avec l'écran activé en permanence)"
+      },
+      {
+        "mode": "Mode économie d'énergie",
+        "claim": "jusqu'à 23 jours"
+      },
+      {
+        "mode": "GPS uniquement",
+        "claim": "jusqu'à 47 heures (37 heures avec l'écran activé en permanence)"
+      },
+      {
+        "mode": "Tous les systèmes satellitaires",
+        "claim": "jusqu'à 38 heures (30 heures avec l'écran activé en permanence)"
+      },
+      {
+        "mode": "Tous les systèmes satellites + multi-bandes",
+        "claim": "jusqu'à 35 heures (28 heures avec l'écran activé en permanence)*"
+      },
+      {
+        "mode": "Tous les systèmes satellites + musique",
+        "claim": "jusqu'à 10 heures"
+      },
+      {
+        "mode": "GPS batterie maximum",
+        "claim": "jusqu'à 81 heures"
+      },
+      {
+        "mode": "GPS expédition",
+        "claim": "jusqu'à 17 jours"
+      }
+    ],
+    "gnss": {
+      "systems": [
+        "GPS",
+        "GLONASS",
+        "Galileo",
+        "QZSS",
+        "BeiDou"
+      ],
+      "multiband": true,
+      "satiq": true
+    },
+    "maps": {
+      "preloadedMaps": true,
+      "turnByTurnRouting": null,
+      "courses": true
+    },
+    "sensors": [
+      "Moniteur de fréquence cardiaque au poignet Garmin Elevate™",
+      "Oxymètre de pouls pour l'acclimatation",
+      "Altimètre barométrique",
+      "Compas",
+      "Gyroscope",
+      "Accéléromètre",
+      "Thermomètre",
+      "Capteur de luminosité ambiante",
+      "Capteur de profondeur : Oui (jusqu'à 40 m)"
+    ],
+    "features": {
+      "musicStorage": true,
+      "garminPay": true,
+      "ecg": true,
+      "flashlight": true,
+      "solar": null,
+      "wifi": true,
+      "trainingReadiness": true,
+      "hrvStatus": true,
+      "bodyBattery": true,
+      "morningReport": true,
+      "speakerMic": true
+    },
+    "waterRating": "10 ATM",
+    "connectivity": [
+      "Bluetooth",
+      "ANT+",
+      "Wi-Fi"
+    ],
+    "materials": {
+      "bezel": "Acier inoxydable ou titane",
+      "lens": "Verre classique renforcé Corning® Gorilla® 3 ou cristal de saphir",
+      "case": "Polymère renforcé de fibres avec fond de boîtier en métal"
+    },
+    "sportProfilesHighlight": [
+      "Natation/Course à pied",
+      "Triathlon",
+      "Course sur tapis",
+      "Course sur piste en intérieur",
+      "Course virtuelle",
+      "Course à pied",
+      "Course sur piste en extérieur",
+      "Trail Running",
+      "Ultrafond",
+      "course d'obstacles",
+      "Randonnée",
+      "Rucking",
+      "Escalade en salle",
+      "Escalade sur bloc",
+      "Alpinisme",
+      "Chasse",
+      "Équitation",
+      "Golf",
+      "Disc Golf",
+      "Tir à l'arc",
+      "Velo",
+      "Vélo de route",
+      "VTT",
+      "Vélo gravel",
+      "Trajets quotidiens à vélo",
+      "Cyclotourisme",
+      "Vélo électrique",
+      "VTT électrique",
+      "Vélo en Intérieur",
+      "Cyclocross",
+      "BMX",
+      "Natation en piscine",
+      "Natation en eau libre"
+    ],
+    "rawNotes": "Nom officiel sur la fiche : fēnix® 8 – 47 mm, AMOLED | availabilityDate (code du site) : 4-7_days | Prêt à être expédié dans 4 à 7 jours ouvrables. | SKU par défaut analysé : 010-02904-00 (Acier Gray avec bracelet en silicone noir) | Taille/poignet : 47 x 47 x 13,8 mm / Bracelets adaptés aux poignets de tailles suivantes : / Bracelet en silicone : 125-208 mm / Bracelet Ultrafit : 125-215 mm / Bracelet en cuir : 132-210 mm / Bracelet en métal : 132-210 mm | Poids (verbatim) : Acier inoxydable : 80 g (boîtier uniquement : 59 g) / Titane : 73 g (boîtier uniquement : 52 g) | Type d'affichage (verbatim) : AMOLED | Format d'affichage (verbatim) : 35,56 mm (1,4 po) de diamètre | Note batterie : *En cas d'utilisation normale avec la technologie SatIQ | Cartes préchargées (verbatim) : Oui (Éditions Sapphire uniquement) | Mémoire (verbatim) : 32 Go"
+  },
+  "editorial": {
+    "positioning": "Multisport haut de gamme AMOLED 47 mm : cartographie, 10 ATM, lampe, haut-parleur, avec cartes préchargées selon l'édition.",
+    "sports": [
+      "trail",
+      "randonnee",
+      "running",
+      "triathlon",
+      "natation",
+      "cyclisme"
+    ],
+    "profiles": [
+      "Traileurs et randonneurs",
+      "Sportifs polyvalents"
+    ],
+    "strengths": [
+      "Cartes préchargées listées (éditions Sapphire uniquement, selon la fiche).",
+      "Étanchéité 10 ATM, lampe LED, ECG, haut-parleur et micro.",
+      "Autonomie annoncée jusqu'à 16 jours en mode montre."
+    ],
+    "limits": [
+      "80 g : montre lourde et épaisse (13,8 mm).",
+      "Prix de référence 799,99 €, et plus pour les éditions Sapphire/titane.",
+      "Écran AMOLED : autonomie réduite avec affichage permanent (7 jours annoncés)."
+    ],
+    "alternatives": [
+      "fenix-9-47mm",
+      "fenix-e-47mm",
+      "forerunner-970"
+    ],
+    "guides": [],
+    "observations": [],
+    "decision": {
+      "tier": "expert",
+      "sizeClass": "standard",
+      "batteryClass": "longue"
+    }
+  },
+  "sources": [
+    {
+      "label": "Fiche produit Garmin (fr-FR)",
+      "url": "https://www.garmin.com/fr-FR/p/1228429",
+      "accessedAt": "2026-09-18"
+    }
+  ]
+}

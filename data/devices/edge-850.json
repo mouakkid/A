@@ -1,0 +1,117 @@
+{
+  "slug": "edge-850",
+  "model": "Edge 850",
+  "variant": "Édition écran tactile",
+  "family": "Edge",
+  "category": "compteur-velo",
+  "status": "published",
+  "officialUrl": "https://www.garmin.com/fr-FR/p/1630197",
+  "lastVerifiedAt": "2026-09-18",
+  "spec": {
+    "price": {
+      "amount": 549.99,
+      "currency": "EUR",
+      "market": "FR",
+      "note": "prix catalogue affiché sur garmin.com fr-FR ; prix promotionnel affiché : 469,99€ (économie 80,00€)"
+    },
+    "dimensionsMm": "54.6 x 92.2 x 16.8",
+    "weightG": 113,
+    "display": {
+      "type": "LCD",
+      "sizeIn": 2.7,
+      "resolution": "420 x 600",
+      "touchscreen": true
+    },
+    "battery": [
+      {
+        "mode": "Autonomie de la batterie",
+        "claim": "Jusqu'à 12 heures (en utilisation exigeante)"
+      },
+      {
+        "mode": "Autonomie de la batterie",
+        "claim": "Jusqu'à 36 heures (mode économie d'énergie)"
+      }
+    ],
+    "gnss": {
+      "systems": [
+        "GPS",
+        "GLONASS",
+        "Galileo"
+      ],
+      "multiband": true,
+      "satiq": null
+    },
+    "maps": {
+      "preloadedMaps": true,
+      "turnByTurnRouting": null,
+      "courses": true
+    },
+    "sensors": [
+      "Altimètre barométrique",
+      "Gyroscope",
+      "Accéléromètre",
+      "Capteur de luminosité ambiante",
+      "Magnétomètre"
+    ],
+    "features": {
+      "musicStorage": null,
+      "garminPay": true,
+      "ecg": null,
+      "flashlight": null,
+      "solar": null,
+      "wifi": true,
+      "trainingReadiness": null,
+      "hrvStatus": null,
+      "bodyBattery": null,
+      "morningReport": null,
+      "speakerMic": null
+    },
+    "waterRating": "IPX7",
+    "connectivity": [
+      "Bluetooth",
+      "ANT+",
+      "Wi-Fi"
+    ],
+    "materials": null,
+    "sportProfilesHighlight": null,
+    "rawNotes": "Nom officiel sur la fiche : Edge® 850 | availabilityDate (code du site) : 1-3_days | Prêt à être expédié dans 1 à 3 jours ouvrables. | SKU par défaut analysé : 010-03023-01 (Édition écran tactile) | Type d'affichage (verbatim) : Cristaux liquides (LCD) | Format d'affichage (verbatim) : 2,7″ de diagonale | Itinéraires (verbatim) : 100 parcours | Haut-parleur intégré : Oui (aucune mention de microphone dans la fiche) | Mémoire (verbatim) : 64 Go (mémoire interne uniquement)"
+  },
+  "editorial": {
+    "positioning": "Le Edge 550 avec écran tactile et paiement sans contact : même format, plus de confort d'usage.",
+    "sports": [
+      "cyclisme"
+    ],
+    "profiles": [
+      "Cyclistes route, gravel et VTT",
+      "Voyageurs à vélo"
+    ],
+    "strengths": [
+      "Carte de base, parcours, multi-bande, paiement sans contact listés.",
+      "Écran tactile 2,7\".",
+      "113 g."
+    ],
+    "limits": [
+      "Autonomie annoncée jusqu'à 12 h en utilisation exigeante.",
+      "Prix de référence 549,99 €.",
+      "Écran plus petit que le 1050."
+    ],
+    "alternatives": [
+      "edge-550",
+      "edge-1050"
+    ],
+    "guides": [],
+    "observations": [],
+    "decision": {
+      "tier": "haut",
+      "sizeClass": "standard",
+      "batteryClass": "moyenne"
+    }
+  },
+  "sources": [
+    {
+      "label": "Fiche produit Garmin (fr-FR)",
+      "url": "https://www.garmin.com/fr-FR/p/1630197",
+      "accessedAt": "2026-09-18"
+    }
+  ]
+}

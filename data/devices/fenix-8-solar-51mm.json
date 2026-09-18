@@ -1,0 +1,195 @@
+{
+  "slug": "fenix-8-solar-51mm",
+  "model": "fēnix 8",
+  "variant": "51 mm, Solar, Sapphire",
+  "family": "fēnix",
+  "category": "montre-multisport",
+  "status": "published",
+  "officialUrl": "https://www.garmin.com/fr-FR/p/1390829",
+  "lastVerifiedAt": "2026-09-18",
+  "spec": {
+    "price": {
+      "amount": 999.99,
+      "currency": "EUR",
+      "market": "FR",
+      "note": "prix catalogue affiché sur garmin.com fr-FR"
+    },
+    "dimensionsMm": "51 x 51 x 15.4",
+    "weightG": 95,
+    "display": {
+      "type": "MIP",
+      "sizeIn": 1.4,
+      "resolution": "280 x 280",
+      "touchscreen": true
+    },
+    "battery": [
+      {
+        "mode": "Mode montre connectée",
+        "claim": "Jusqu'à 30 jours (48 jours avec captation solaire)"
+      },
+      {
+        "mode": "Montre connectée",
+        "claim": "jusqu'à 30 jours/48 jours avec captation solaire*"
+      },
+      {
+        "mode": "Mode montre économie d'énergie",
+        "claim": "jusqu'à 48 jours/107 jours avec captation solaire*"
+      },
+      {
+        "mode": "Mode GPS seul",
+        "claim": "jusqu'à 95 heures/149 heures avec captation solaire**"
+      },
+      {
+        "mode": "Tous les systèmes satellites",
+        "claim": "jusqu'à 68 heures/92 heures avec captation solaire*"
+      },
+      {
+        "mode": "Tous les systèmes satellites et multi-bandes",
+        "claim": "jusqu'à 52 heures/65 heures avec captation solaire***"
+      },
+      {
+        "mode": "Tous les systèmes satellites + musique",
+        "claim": "jusqu'à 18 heures"
+      },
+      {
+        "mode": "GPS batterie maximum (UltraTrac)",
+        "claim": "jusqu'à 186 heures/653 heures grâce au verre solaire**"
+      },
+      {
+        "mode": "GPS expédition",
+        "claim": "jusqu'à 50 jours/118 jours grâce au verre solaire*"
+      }
+    ],
+    "gnss": {
+      "systems": [
+        "GPS",
+        "GLONASS",
+        "Galileo",
+        "QZSS",
+        "BeiDou"
+      ],
+      "multiband": true,
+      "satiq": true
+    },
+    "maps": {
+      "preloadedMaps": true,
+      "turnByTurnRouting": null,
+      "courses": true
+    },
+    "sensors": [
+      "Moniteur de fréquence cardiaque au poignet Garmin Elevate™",
+      "Oxymètre de pouls pour l'acclimatation",
+      "Altimètre barométrique",
+      "Compas",
+      "Gyroscope",
+      "Accéléromètre",
+      "Thermomètre",
+      "Capteur de luminosité ambiante",
+      "Capteur de profondeur : Oui (jusqu'à 40 m)"
+    ],
+    "features": {
+      "musicStorage": true,
+      "garminPay": true,
+      "ecg": true,
+      "flashlight": true,
+      "solar": true,
+      "wifi": true,
+      "trainingReadiness": true,
+      "hrvStatus": true,
+      "bodyBattery": true,
+      "morningReport": true,
+      "speakerMic": true
+    },
+    "waterRating": "10 ATM",
+    "connectivity": [
+      "Bluetooth",
+      "ANT+",
+      "Wi-Fi"
+    ],
+    "materials": {
+      "bezel": "Titane",
+      "lens": "Power Sapphire™",
+      "case": "Polymère renforcé de fibres avec fond de boîtier en métal"
+    },
+    "sportProfilesHighlight": [
+      "Natation/Course à pied",
+      "Triathlon",
+      "Course sur tapis",
+      "Course sur piste en intérieur",
+      "Course virtuelle",
+      "Course à pied",
+      "Course sur piste en extérieur",
+      "Trail Running",
+      "Ultrafond",
+      "course d'obstacles",
+      "Randonnée",
+      "Rucking",
+      "Escalade en salle",
+      "Escalade sur bloc",
+      "Alpinisme",
+      "Chasse",
+      "Équitation",
+      "Golf",
+      "Disc Golf",
+      "Tir à l'arc",
+      "Velo",
+      "Vélo de route",
+      "VTT",
+      "Vélo gravel",
+      "Trajets quotidiens à vélo",
+      "Cyclotourisme",
+      "Vélo électrique",
+      "VTT électrique",
+      "Vélo en Intérieur",
+      "Cyclocross",
+      "BMX",
+      "Natation en piscine",
+      "Natation en eau libre"
+    ],
+    "rawNotes": "Nom officiel sur la fiche : fēnix® 8 – 51 mm, Solar, Sapphire | availabilityDate (code du site) : 1-3_days | Prêt à être expédié dans 1 à 3 jours ouvrables. | SKU par défaut analysé : 010-02907-21 (Sapphire, Titanium avec bracelet en silicone jaune/graphite) | Taille/poignet : 51 x 51 x 15,4 mm / Bracelets adaptés aux poignets de tailles suivantes : / Bracelet en silicone : 127-210 mm / Bracelet Ultrafit : 127-225 mm / Bracelet en cuir : 135-213 mm / Bracelet en métal : 135-225 mm | Poids (verbatim) : 95 g (boîtier uniquement : 67 g) | Type d'affichage (verbatim) : Antireflet, MIP transflectif | Format d'affichage (verbatim) : 35,56 mm (1,4 po) de diamètre | Note batterie : *Captation de l'énergie solaire, avec une utilisation quotidienne, 3 heures par jour à l'extérieur, en plein soleil (50 000 lux) | Note batterie : **Captation de l'énergie solaire, avec une utilisation en plein soleil à 50 000 lux | Note batterie : ***Captation de l'énergie solaire, avec une utilisation en plein soleil à 50 000 lux ; en cas d'utilisation normale avec la technologie SatIQ | Mémoire (verbatim) : 32 Go"
+  },
+  "editorial": {
+    "positioning": "La fēnix 8 en 51 mm avec écran MIP et recharge solaire : l'autonomie avant tout.",
+    "sports": [
+      "trail",
+      "randonnee",
+      "running",
+      "triathlon",
+      "cyclisme"
+    ],
+    "profiles": [
+      "Ultra-traileurs",
+      "Randonneurs itinérants",
+      "Grands poignets"
+    ],
+    "strengths": [
+      "Autonomie annoncée jusqu'à 30 jours en mode montre (48 avec solaire) et 95 h en GPS (149 h avec solaire).",
+      "Écran MIP lisible en plein soleil, cartes préchargées, multi-bande.",
+      "10 ATM, lampe LED, ECG, haut-parleur."
+    ],
+    "limits": [
+      "95 g et 51 mm : imposante.",
+      "Prix de référence 999,99 €.",
+      "Écran MIP moins contrasté en intérieur qu'un AMOLED."
+    ],
+    "alternatives": [
+      "enduro-3",
+      "fenix-9-47mm",
+      "instinct-3-solar-45mm"
+    ],
+    "guides": [],
+    "observations": [],
+    "decision": {
+      "tier": "expert",
+      "sizeClass": "large",
+      "batteryClass": "tres-longue"
+    }
+  },
+  "sources": [
+    {
+      "label": "Fiche produit Garmin (fr-FR)",
+      "url": "https://www.garmin.com/fr-FR/p/1390829",
+      "accessedAt": "2026-09-18"
+    }
+  ]
+}

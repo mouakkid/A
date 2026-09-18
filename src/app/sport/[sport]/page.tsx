@@ -20,10 +20,6 @@ const sportIntro: Record<SportKey, string> = {
   marche: "Marche active et suivi quotidien avec un équipement simple.",
 };
 
-export function generateStaticParams() {
-  return sportKeys.map((sport) => ({ sport }));
-}
-
 export async function generateMetadata({ params }: { params: Promise<{ sport: string }> }): Promise<Metadata> {
   const { sport } = await params;
   if (!sportKeys.includes(sport as SportKey)) return { title: "Sport introuvable" };

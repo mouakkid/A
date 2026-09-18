@@ -34,14 +34,15 @@ export function BrandBlock({
       <span className={cn("font-display font-black uppercase", sizes.word)} style={{ fontStretch: "110%" }}>
         Garmin
       </span>
-      <span className={cn("font-display font-semibold uppercase text-accent", sizes.sub)}>Communauté Maroc</span>
+      <span className={cn("font-display font-semibold uppercase", variant === "dark" ? "text-accent-bright" : "text-accent-strong dark:text-accent-bright", sizes.sub)}>Communauté Maroc</span>
     </span>
   );
 
   if (!withLink) return content;
   return (
-    <Link href="/" aria-label="Garmin.ma — Communauté Maroc, retour à l'accueil" className="inline-flex items-center rounded-md">
+    <Link href="/" className="inline-flex items-center rounded-md">
       {content}
+      <span className="sr-only">, retour à l'accueil</span>
     </Link>
   );
 }

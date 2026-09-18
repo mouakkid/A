@@ -29,7 +29,7 @@ export function Section({
         {(title || eyebrow) && (
           <div className="mb-10 flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between">
             <div className="max-w-2xl reveal">
-              {eyebrow && <p className={cn("mb-2 text-xs font-semibold uppercase tracking-[0.22em]", tone === "dark" ? "text-accent" : "text-accent-strong dark:text-accent")}>{eyebrow}</p>}
+              {eyebrow && <p className={cn("mb-2 text-xs font-semibold uppercase tracking-[0.22em]", tone === "dark" ? "text-accent-bright" : "text-accent-strong dark:text-accent-bright")}>{eyebrow}</p>}
               {title && <h2 className="text-3xl font-bold leading-tight sm:text-4xl">{title}</h2>}
               {intro && <p className={cn("mt-3 text-base sm:text-lg", tone === "dark" ? "text-white/70" : "text-fg-muted")}>{intro}</p>}
             </div>

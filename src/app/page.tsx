@@ -53,14 +53,14 @@ export default async function HomePage() {
               <ShieldCheck className="size-3.5 text-accent" aria-hidden />
               {site.independence.short}
             </p>
-            <h1 className="mt-6 text-4xl font-black leading-[1.05] tracking-tight sm:text-5xl lg:text-6xl animate-reveal">
+            <h1 className="mt-6 text-4xl font-black leading-[1.05] tracking-tight sm:text-5xl lg:text-6xl animate-rise">
               Tout l'univers Garmin.<br />
               <span className="text-accent">Une communauté au Maroc.</span>
             </h1>
-            <p className="mt-6 max-w-xl text-lg text-white/75 animate-reveal" style={{ animationDelay: "120ms" }}>
+            <p className="mt-6 max-w-xl text-lg text-white/75 animate-rise" style={{ animationDelay: "80ms" }}>
               Choisissez votre équipement, comprenez ses fonctionnalités et profitez d'outils utiles pour aller plus loin dans votre pratique.
             </p>
-            <div className="mt-8 flex flex-wrap gap-3 animate-reveal" style={{ animationDelay: "220ms" }}>
+            <div className="mt-8 flex flex-wrap gap-3 animate-rise" style={{ animationDelay: "160ms" }}>
               <ButtonLink href="/quel-garmin-choisir" size="lg">Trouver mon Garmin<ArrowRight className="size-4" aria-hidden /></ButtonLink>
               <ButtonLink href="/outils" size="lg" variant="inverse">Découvrir les outils</ButtonLink>
             </div>

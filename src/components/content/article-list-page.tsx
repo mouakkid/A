@@ -19,7 +19,7 @@ export async function ArticleListPage({ type, title, intro, emptyText }: { type:
           <ul className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
             {list.map((a, i) => (
               <li key={a.id} className={cn("reveal", i % 3 === 1 && "reveal-delay-1", i % 3 === 2 && "reveal-delay-2")}>
-                <ArticleCard article={a} className="h-full" />
+                <ArticleCard article={a} className="h-full" headingLevel="h2" />
               </li>
             ))}
           </ul>

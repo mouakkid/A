@@ -41,7 +41,7 @@ export function ConverterTool() {
       {state.status === "done" && file && (
         <div className="space-y-8 animate-fade" aria-live="polite">
           <div className="rounded-2xl bg-graphite-900 p-6 text-white bg-topo">
-            <p className="text-xs font-semibold uppercase tracking-[0.2em] text-accent">Résultat</p>
+            <p className="text-xs font-semibold uppercase tracking-[0.2em] text-accent-bright">Résultat</p>
             <h2 className="mt-1 text-xl font-bold">{state.res.from.toUpperCase()} → {state.res.from === "gpx" ? "TCX" : "GPX"} · {kindLabels[state.res.kind] ?? state.res.kind}</h2>
             <p className="mt-2 text-sm text-white/70">La conversion n'est pas sans perte : lisez le rapport ci-dessous avant d'utiliser le fichier.</p>
             <Button type="button" variant="inverse" className="mt-4" onClick={() => downloadText(outName, state.res.xml)}>Télécharger {outName}</Button>

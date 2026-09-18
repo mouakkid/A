@@ -5,7 +5,8 @@ import { formatDate } from "@/lib/utils/format";
 import { Badge } from "@/components/ui/badge";
 import { PlaceholderVisual } from "@/components/ui/placeholder-visual";
 
-export function ArticleCard({ article, showVisual = true, className }: { article: Article; showVisual?: boolean; className?: string }) {
+export function ArticleCard({ article, showVisual = true, className, headingLevel = "h3" }: { article: Article; showVisual?: boolean; className?: string; headingLevel?: "h2" | "h3" }) {
+  const Heading = headingLevel;
   const meta = typeMeta[article.type as ArticleType];
   const themes = ["atlas", "littoral", "route", "piste"] as const;
   const theme = themes[article.id % themes.length];
@@ -18,9 +19,9 @@ export function ArticleCard({ article, showVisual = true, className }: { article
           {article.newsStatus && <Badge tone={article.newsStatus === "rumeur" ? "warning" : "neutral"}>{newsStatusLabels[article.newsStatus]}</Badge>}
           {article.testedByUs && <Badge tone="success">Testé par la rédaction</Badge>}
         </div>
-        <h3 className="text-lg font-bold leading-snug">
+        <Heading className="text-lg font-bold leading-snug">
           <Link href={articlePath(article)} className="after:absolute after:inset-0 after:content-['']">{article.title}</Link>
-        </h3>
+        </Heading>
         <p className="line-clamp-3 text-sm text-fg-muted">{article.excerpt}</p>
         <p className="mt-auto pt-2 text-xs text-fg-subtle">
           {article.byline} · {formatDate(article.publishedAt)}

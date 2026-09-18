@@ -7,7 +7,8 @@ import { Badge } from "@/components/ui/badge";
 
 const themeByCategory = { "montre-running": "littoral", "montre-multisport": "atlas", outdoor: "piste", "bien-etre-fitness": "route", "compteur-velo": "route", "capteur-accessoire": "graphite" } as const;
 
-export function DeviceCard({ device, className }: { device: Device; className?: string }) {
+export function DeviceCard({ device, className, headingLevel = "h3" }: { device: Device; className?: string; headingLevel?: "h2" | "h3" }) {
+  const Heading = headingLevel;
   const name = deviceDisplayName(device);
   const s = device.spec;
   const facts: string[] = [];
@@ -26,9 +27,9 @@ export function DeviceCard({ device, className }: { device: Device; className?: 
         <div className="flex items-start justify-between gap-3">
           <div>
             <p className="text-[11px] font-semibold uppercase tracking-[0.18em] text-fg-subtle">{categoryLabels[device.category]}</p>
-            <h3 className="mt-1 text-lg font-bold leading-tight">
+            <Heading className="mt-1 text-lg font-bold leading-tight">
               <Link href={`/equipements/${device.slug}`} className="after:absolute after:inset-0 after:content-['']">{name}</Link>
-            </h3>
+            </Heading>
           </div>
         </div>
         {device.editorial.positioning && <p className="line-clamp-2 text-sm text-fg-muted">{device.editorial.positioning}</p>}

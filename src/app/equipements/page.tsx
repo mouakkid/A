@@ -44,7 +44,7 @@ export default async function DevicesPage({ searchParams }: { searchParams: Prom
           <ul className="mt-8 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
             {list.map((d, i) => (
               <li key={d.slug} className={cn("reveal", i % 3 === 1 && "reveal-delay-1", i % 3 === 2 && "reveal-delay-2")}>
-                <DeviceCard device={d} className="h-full" />
+                <DeviceCard device={d} className="h-full" headingLevel="h2" />
               </li>
             ))}
           </ul>

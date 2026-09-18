@@ -10,24 +10,36 @@ import { OrganizationJsonLd, WebSiteJsonLd } from "@/components/seo/json-ld";
 import { getCurrentUser } from "@/lib/auth/session";
 import { ThemeScript } from "@/components/layout/theme-script";
 
+// Sous-ensembles latin (préchargés) ; Latin étendu (ē, œ…) chargé à la demande via unicode-range.
 const inter = localFont({
-  src: [
-    { path: "../fonts/Inter-latin.woff2", style: "normal" },
-    { path: "../fonts/Inter-latin-ext.woff2", style: "normal" },
-  ],
+  src: "../fonts/Inter-fr.woff2",
   variable: "--font-inter",
+  display: "optional",
+  weight: "100 900",
+  declarations: [{ prop: "unicode-range", value: "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2190-2199, U+2212, U+2215, U+2264-2265, U+FEFF, U+FFFD" }],
+});
+const interExt = localFont({
+  src: "../fonts/Inter-fr-ext.woff2",
+  variable: "--font-inter-ext",
   display: "swap",
   weight: "100 900",
+  preload: false,
+  declarations: [{ prop: "unicode-range", value: "U+0100-017F, U+0218-021B, U+1E9E" }],
 });
-
 const archivo = localFont({
-  src: [
-    { path: "../fonts/Archivo-latin.woff2", style: "normal" },
-    { path: "../fonts/Archivo-latin-ext.woff2", style: "normal" },
-  ],
+  src: "../fonts/Archivo-fr.woff2",
   variable: "--font-archivo",
   display: "swap",
   weight: "100 900",
+  declarations: [{ prop: "unicode-range", value: "U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2190-2199, U+2212, U+2215, U+2264-2265, U+FEFF, U+FFFD" }],
+});
+const archivoExt = localFont({
+  src: "../fonts/Archivo-fr-ext.woff2",
+  variable: "--font-archivo-ext",
+  display: "swap",
+  weight: "100 900",
+  preload: false,
+  declarations: [{ prop: "unicode-range", value: "U+0100-017F, U+0218-021B, U+1E9E" }],
 });
 
 export const metadata: Metadata = {
@@ -75,7 +87,7 @@ export const viewport: Viewport = {
 export default async function RootLayout({ children }: { children: React.ReactNode }) {
   const user = await getCurrentUser();
   return (
-    <html lang={site.language} dir={site.direction} className={`${inter.variable} ${archivo.variable} h-full antialiased`}>
+    <html lang={site.language} dir={site.direction} className={`${inter.variable} ${interExt.variable} ${archivo.variable} ${archivoExt.variable} h-full antialiased`}>
       <head>
         <ThemeScript />
       </head>

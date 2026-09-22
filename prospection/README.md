@@ -48,7 +48,7 @@ Notes : foodpark.org (Sedo « for sale ») et foodpark.ch (domain-portfolio.ch) 
 | # | Entreprise | Pourquoi | Contact confirmé | Vérif. |
 |---|---|---|---|---|
 | 1 | **Snaptrip Group** (London) — snaptripgroup.com — marques LateRooms, Last Minute Cottages, Independent Cottages, Hot Tub Hideaways, The Hotel Guru, Staycato… | Groupe spécialisé « last minute » ; déjà propriétaire de LateRooms ; PE-backed (Bestport, Molten) donc budget M&A/marques ; CEO Matthew Fox | hello@snaptrip.com · Unit LG.03 Cargo Works, 1-2 Hatfields, London SE1 9PG | Site |
-| 2 | **Last Minute Cottages Ltd** (filiale Snaptrip, Companies House 07603578) — lastminute-cottages.co.uk | Marque « last minute » ; second point d'entrée dans le groupe | support@lastminute-cottages.co.uk · +44 20 3637 0812 | Site |
+| 2 | **Last Minute Cottages Ltd** (filiale Snaptrip, Companies House 07603578) — lastminute-cottages.co.uk | Marque « last minute » ; second point d'entrée dans le groupe | support@lastminute-cottages.co.uk · marketing@lastminute-cottages.co.uk · +44 20 3637 0812 | Site |
 | 3 | **lastminute.com group** (Chiasso, CH / London) | Marque mondiale « lastminute » ; achat défensif ou nouvelle verticale locations | Communications_Team@lastminute.com · corporatepr@lastminute.com (presse) · Corso San Gottardo 30, 6830 Chiasso · Clerks Court, 18-20 Farringdon Lane, London EC1R 3AH | Web |
 
 ### Priorité 2 — portails « late availability » et gestionnaires de short lets
